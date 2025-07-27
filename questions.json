@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "भारत ने 2036 ओलंपिक की मेजबानी पर ध्यान केंद्रित करते हुए किस कार्यक्रम के तहत एंटी‑डोपिंग पहल शुरू की? / Which initiative was launched as an anti‑doping effort to support India's 2036 Olympic bid?",
+    "options": {
+      "A": "India Olympic Unity Drive / भारत ओलंपिक एकता अभियान",
+      "B": "Athlete Education & Testing Program / एथलीट शिक्षा और परीक्षण कार्यक्रम",
+      "C": "Doping Awareness Campaign / डोपिंग जागरूकता अभियान",
+      "D": "Sustainable Sports Mission / सतत खेल मिशन"
+    },
+    "answer": ["B","C"]
+  },
+  {
+    "id": 2,
+    "question": "DoPT ने IAS अधिकारियों की नियुक्ति में किस प्रकार की पुष्टि जांच आदेश दी है? / What kind of verification did DoPT order in IAS appointments?",
+    "options": {
+      "A": "Certificate irregularities probe / प्रमाण-पत्र अनियमितता जांच",
+      "B": "Performance audit of training institutes / प्रशिक्षण संस्थानों का प्रदर्शन ऑडिट",
+      "C": "Real-time reservation database audit / रियल-टाइम आरक्षण डेटाबेस ऑडिट",
+      "D": "Foreign language proficiency test / विदेशी भाषा दक्षता परीक्षा"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 3,
+    "question": "मध्य प्रदेश में IAS अफसरों के अचानक तबादले के पीछे मुख्य विवाद क्या था? / What was the main controversy behind sudden transfer of IAS officers in MP?",
+    "options": {
+      "A": "SIA office lock issue / SIA कार्यालय लॉक विवाद",
+      "B": "Mining mafia collusion allegations / खनन माफिया के संग मिलावट आरोप",
+      "C": "Political pressure from opposition / विपक्षी राजनीतिक दबाव",
+      "D": "Administrative restructuring plan / प्रशासनिक पुनर्गठन योजना"
+    },
+    "answer": ["A","B"]
+  },
+  {
+    "id": 4,
+    "question": "UP में मुख्य सचिव पद को लेकर सरकार ने क्या निर्णय लिया? / What decision did UP government take regarding Chief Secretary post?",
+    "options": {
+      "A": "Retirement on 31 July / 31 जुलाई को सेवानिवृत्ति",
+      "B": "Suspension pending inquiry / जांच के दौरान निलंबन",
+      "C": "Immediate replacement discussions / तत्काल प्रतिस्थापन चर्चाएं",
+      "D": "Leave of absence extended / अवकाश अवधि बढ़ा दी"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 5,
+    "question": "भारत‑चीन सीमा विवाद संदर्भ में UPSC के वर्तमान मामलों में किस घटना का विश्लेषण शामिल था? / Which issue was analyzed in UPSC current affairs related to India‑China border dispute?",
+    "options": {
+      "A": "Lacwasser pipeline project dispute / लैक्सवाटर पाइपलाइन विवाद",
+      "B": "Doklam standoff background / डोकलाम गतिरोध पृष्ठभूमि",
+      "C": "Strategic convergence high alert / रणनीतिक सतर्कता उच्च सूचना",
+      "D": "Border infrastructure boost plan / सीमा अवसंरचना योजना"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 6,
+    "question": "India ने Shanghai Cooperation Organisation (SCO) ड्राफ्ट स्टेटमेंट पर क्यों हस्ताक्षर करने से मना किया था? / Why did India refuse to sign the SCO draft statement?",
+    "options": {
+      "A": "Absence of India-specific terror concerns / भारत‑विशिष्ट आतंक चिंताओं की अनुपस्थिति",
+      "B": "Territorial dispute over SCO secretariat / SCO सचिवालय पर क्षेत्रीय विवाद",
+      "C": "Economic sanctions clause objection / आर्थिक प्रतिबंध धारणा पर आपत्ति",
+      "D": "Leadership appointment disagreements / नेतृत्व नियुक्ति असहमति"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 7,
+    "question": "Global Gender Gap Report 2025 में भारत की रैंक क्या थी? / What was India’s ranking in Global Gender Gap Report 2025?",
+    "options": {
+      "A": "131 out of 148 / 148 में से 131",
+      "B": "100 out of 130 / 130 में से 100",
+      "C": "140 out of 160 / 160 में से 140",
+      "D": "120 out of 145 / 145 में से 120"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 8,
+    "question": "UNFPA की State of the World Population 2025 रिपोर्ट के अनुसार, भारत की TFR कितनी थी? / What was India’s TFR as per UNFPA’s 2025 report?",
+    "options": {
+      "A": "1.9",
+      "B": "2.1",
+      "C": "2.4",
+      "D": "1.7"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 9,
+    "question": "Punjab और Chandigarh प्रशासन के बीच मुख्य मुद्दा क्या था IAS अधिकारियों की deputation में? / What was the key issue between Punjab and Chandigarh administration regarding IAS deputation?",
+    "options": {
+      "A": "60:40 deputation ratio demand / 60:40 नियुक्ति अनुपात की मांग",
+      "B": "Merit-based postings only / केवल मेरिट आधारित पोस्टिंग्स",
+      "C": "Quota exclusion for AGUM cadre / AGMUT कैडर के लिए कोटा बहिष्कार",
+      "D": "Cadre inter-transfer ban / कैडर अंतः-स्थानांतरण प्रतिबंध"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 10,
+    "question": "India ने GDP growth target 2024‑25 में क्या लक्ष्य रखा था? / What was India’s GDP growth target for fiscal 2024‑25?",
+    "options": {
+      "A": "6.5‑7%",
+      "B": "7‑8%",
+      "C": "5‑6%",
+      "D": "4‑5%"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 11,
+    "question": "Sports Governance Bill, 2025 में किस संस्था को अधिक नियंत्रण देने का प्रस्ताव है? / Which body is proposed to get more oversight under the Sports Governance Bill 2025?",
+    "options": {
+      "A": "BCCI",
+      "B": "AIFF",
+      "C": "IOA",
+      "D": "Ministry of Youth Affairs"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 12,
+    "question": "Delhi High Court ने किस मामले में digital records preserve करने को कहा? / In which case did Delhi HC direct digital records preservation?",
+    "options": {
+      "A": "IAS officer harassment case / IAS अधिकारी उत्पीड़न मामला",
+      "B": "Land acquisition dispute / भूमि अधिग्रहण विवाद",
+      "C": "Cyber fraud against govt / सरकार के खिलाफ साइबर धोखाधड़ी",
+      "D": "Election rigging allegation / चुनाव छापेमारी आरोप"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 13,
+    "question": "Punjab में CPI centenary से पहले Bathinda seminar में किस मुद्दे पर चर्चा की गई? / Which issue was discussed at CPI seminar in Bathinda before its centenary?",
+    "options": {
+      "A": "Agrarian crisis / कृषि संकट",
+      "B": "Unemployment / बेरोजगारी",
+      "C": "Corruption / भ्रष्टाचार",
+      "D": "All of the above"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 14,
+    "question": "Delimitation debate में किस राज्य ने seat redistribution पर विरोध जताया था? / Which state opposed seat redistribution in the delimitation debate?",
+    "options": {
+      "A": "Tamil Nadu",
+      "B": "West Bengal",
+      "C": "Punjab",
+      "D": "Gujarat"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "India ने UPSC Syllabus AIl Topics में recent लघुपरिवहन नीति (Digital Commerce) किस initiative के तहत शुरू की? / Which initiative launched India’s digital commerce policy under UPSC syllabus topics?",
+    "options": {
+      "A": "ONDC",
+      "B": "PLI Scheme",
+      "C": "Mission Vatsalya",
+      "D": "Green Bonds"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "Western Ghats conservation पहल में किस व्यक्ति ने समुदाय‑केंद्रित संरक्षण मॉडल सुझाया? / Who proposed community‑centric conservation model for Western Ghats?",
+    "options": {
+      "A": "Madhav Gadgil",
+      "B": "E. Lavasa",
+      "C": "V. Vivekanandan",
+      "D": "S. Varma"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 17,
+    "question": "India ने Global Gender Gap में parity closing में कौनसे dimension में सुधार किया था? / In which dimension did India improve its parity in Global Gender Gap?",
+    "options": {
+      "A": "Educational Attainment",
+      "B": "Economic Participation",
+      "C": "Health & Survival",
+      "D": "Political Empowerment"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 18,
+    "question": "Which RBI‑related topic featured in UPSC current affairs? / UPSC करंट अफेयर्स में RBI से जुड़ा कौनसा विषय शामिल था?",
+    "options": {
+      "A": "D‑SIBs classification",
+      "B": "Financial Inclusion Index launch",
+      "C": "Vostro account policy",
+      "D": "Foreign currency reserves audit"
+    },
+    "answer": ["A","B","C"]
+  },
+  {
+    "id": 19,
+    "question": "India ने SCO में किस विषय को वरीयता दी थी? / Which issue did India prioritise at SCO?",
+    "options": {
+      "A": "Terror threat articulation",
+      "B": "Trade liberalisation",
+      "C": "Water sharing talks",
+      "D": "Digital infrastructure integration"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "Punjab ने Chandigarh UT में IAS deputation विवाद में किस निकाय से next meeting की मांग की? / Which body did Punjab ask for next meeting in Chandigarh deputation dispute?",
+    "options": {
+      "A": "North Zonal Council",
+      "B": "MHA central committee",
+      "C": "Punjab Legislative Assembly",
+      "D": "Chandigarh Admin Tribunal"
+    },
+    "answer": ["A"]
+  }
+]
