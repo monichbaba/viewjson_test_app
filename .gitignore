@@ -1,0 +1,8 @@
+.venv/ 
+.git/ 
+viewjson.json 
+__pycache__/ 
+*.pyc 
+templates/viewjson.json 
+.venv/ 
+.git/ 
