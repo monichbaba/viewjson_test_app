@@ -1,122 +1,14 @@
 [
   {
     "id": 1,
-    "question": "G-20 का स्थायी सचिवालय कहाँ स्थित है? (Where is the permanent G-20 Secretariat located?)",
-    "options": ["Geneva", "New Delhi", "There is no permanent secretariat", "Brussels"],
-    "answer": "There is no permanent secretariat"
+    "question": "भारत का पहला राष्ट्रपति कौन था?",
+    "options": ["राजेन्द्र प्रसाद", "जवाहरलाल नेहरू", "सरदार पटेल", "डॉ. अम्बेडकर"],
+    "answer": "राजेन्द्र प्रसाद"
   },
   {
     "id": 2,
-    "question": "हाल ही में G-20 में अफ़्रीकी संघ को क्या दर्जा दिया गया है? (What status has the African Union recently received in the G-20?)",
-    "options": ["Observer", "Member", "Partner Country", "Guest Invitee"],
-    "answer": "Member"
-  },
-  {
-    "id": 3,
-    "question": "BRICS समूह के विस्तार में निम्न में से कौन शामिल नहीं हुआ? (Which of the following countries was NOT part of the recent BRICS expansion?)",
-    "options": ["Egypt", "Argentina", "Ethiopia", "Saudi Arabia"],
-    "answer": "Argentina"
-  },
-  {
-    "id": 4,
-    "question": "2024 में जारी WHO की रिपोर्ट में किस बीमारी को अगली संभावित महामारी बताया गया? (Which disease has WHO indicated as the next potential pandemic?)",
-    "options": ["Nipah Virus", "Disease X", "Zika", "H5N1 Flu"],
-    "answer": "Disease X"
-  },
-  {
-    "id": 5,
-    "question": "United Nations में  veto power reform पर भारत का क्या रुख है? (What is Indias position on veto reform in the UN?)",
-    "options": ["Remove veto power entirely", "Retain veto only for P5", "Expand veto to new members", "No comment"],
-    "answer": "Expand veto to new members"
-  },
-  {
-    "id": 6,
-    "question": "हाल ही में किस देश ने 'AI Safety Summit 2024' की मेजबानी की? (Which country recently hosted the AI Safety Summit 2024?)",
-    "options": ["UK", "USA", "Germany", "Japan"],
-    "answer": "UK"
-  },
-  {
-    "id": 7,
-    "question": "G-20 की स्थापना का मुख्य उद्देश्य क्या था? (What was the primary purpose behind the formation of G-20?)",
-    "options": ["Climate governance", "Global health coordination", "International trade regulation", "Financial stability"],
-    "answer": "Financial stability"
-  },
-  {
-    "id": 8,
-    "question": "कौन सा G-20 समूह का स्थायी सदस्य नहीं है? (Which of the following is NOT a permanent member of G-20?)",
-    "options": ["Spain", "Russia", "Japan", "Mexico"],
-    "answer": "Spain"
-  },
-  {
-    "id": 9,
-    "question": "UNFCCC COP-29 की मेजबानी किस देश को मिली? (Which country is hosting UNFCCC COP-29?)",
-    "options": ["Brazil", "UAE", "Azerbaijan", "India"],
-    "answer": "Azerbaijan"
-  },
-  {
-    "id": 10,
-    "question": "भारत की G-20 Presidency में कौन-सा document प्रमुख था? (Which document was key during India's G-20 Presidency?)",
-    "options": ["Green Deal Charter", "Delhi Declaration", "Digital Finance Act", "Bharat Innovation Pact"],
-    "answer": "Delhi Declaration"
-  },
-  {
-    "id": 11,
-    "question": "Israel-Gaza संघर्ष में 2024 में पहली बार किसने मध्यस्थता की कोशिश की? (Who attempted mediation in the 2024 Israel-Gaza conflict for the first time?)",
-    "options": ["France", "China", "India", "South Africa"],
-    "answer": "China"
-  },
-  {
-    "id": 12,
-    "question": "कौन-सा संगठन 'One Future' थीम से जुड़ा है? (Which organization was linked with the 'One Future' theme?)",
-    "options": ["G-7", "G-20", "UNESCO", "SAARC"],
-    "answer": "G-20"
-  },
-  {
-    "id": 13,
-    "question": "किस देश ने हाल ही में 'AI Bill of Rights' जारी किया है? (Which country recently released the 'AI Bill of Rights'?)",
-    "options": ["USA", "India", "EU", "Canada"],
-    "answer": "USA"
-  },
-  {
-    "id": 14,
-    "question": "G-20 के अंतर्गत  Startup20 initiative का नेतृत्व किसने किया? (Who led the Startup20 initiative under G-20?)",
-    "options": ["France", "India", "Australia", "Germany"],
-    "answer": "India"
-  },
-  {
-    "id": 15,
-    "question": "कौन-सी संस्था जलवायु वित्त  Climate Finance पर निगरानी रखती है? (Which body oversees climate finance globally?)",
-    "options": ["IPCC", "Green Climate Fund", "UNESCO", "OECD"],
-    "answer": "Green Climate Fund"
-  },
-  {
-    "id": 16,
-    "question": "हाल ही में किस देश ने NATO छोड़ने की घोषणा की थी? (Which country recently announced intention to exit NATO?)",
-    "options": ["Turkey", "Hungary", "France", "None of the above"],
-    "answer": "None of the above"
-  },
-  {
-    "id": 17,
-    "question": "भारत किस global cybersecurity pact का हिस्सा है? (India is a part of which global cybersecurity agreement?)",
-    "options": ["Budapest Convention", "Paris Call", "Tallinn Manual", "Geneva Protocol"],
-    "answer": "Paris Call"
-  },
-  {
-    "id": 18,
-    "question": "Climate Loss and Damage Fund की स्थापना कब हुई? (When was the Climate Loss and Damage Fund established?)",
-    "options": ["COP-26", "COP-27", "COP-28", "COP-29"],
-    "answer": "COP-27"
-  },
-  {
-    "id": 19,
-    "question": "भारत की G-20 Presidency किस सिद्धांत पर आधारित थी? (India's G-20 Presidency was based on which principle?)",
-    "options": ["Collective Growth", "Vasudhaiva Kutumbakam", "Inclusive Finance", "One World, One Bank"],
-    "answer": "Vasudhaiva Kutumbakam"
-  },
-  {
-    "id": 20,
-    "question": "EU AI Act किस प्रकार की तकनीक को सबसे अधिक regulate करता है? (The EU AI Act primarily regulates which type of AI?)",
-    "options": ["Low-risk AI", "Social Media Filters", "High-risk AI", "Chatbots"],
-    "answer": "High-risk AI"
+    "question": "भारत का संविधान कब लागू हुआ था?",
+    "options": ["15 अगस्त 1947", "26 जनवरी 1950", "2 अक्टूबर 1949", "26 नवंबर 1949"],
+    "answer": "26 जनवरी 1950"
   }
 ]
