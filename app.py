@@ -14,7 +14,7 @@ QUESTIONS_PATH = os.path.join(BASE_DIR, 'mcqs', 'questions.json')
 def login():
     error = None
     if request.method == "POST":
-        if request.form.get("password") == "ias123":  # 🔑 Password here
+        if request.form.get("password") == "jaishreeram":  # 🔑 Password here
             session['authenticated'] = True
             return redirect(url_for("test"))
         else:
