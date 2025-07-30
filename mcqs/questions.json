@@ -1,167 +1,122 @@
 [
   {
     "id": 1,
-    "question": "2024 में लॉन्च की गई 'गगनयान' मानव अंतरिक्ष मिशन की सबसे बड़ी तकनीकी चुनौती क्या मानी जाती है? (What is considered the biggest technical challenge in the Gaganyaan Human Space Mission launched in 2024?)",
-    "options": {
-      "A": "निजी अंतरिक्ष एजेंसियों से प्रतिस्पर्धा (Competition from private space agencies)",
-      "B": "मानव जीवन को अंतरिक्ष में सुरक्षित रखना (Ensuring human life safety in space)",
-      "C": "रॉकेट का कम लागत पर निर्माण (Low-cost rocket manufacturing)",
-      "D": "समुद्री लॉन्च प्लेटफॉर्म का विकास (Development of sea-based launch platforms)"
-    },
-    "answer": "B"
+    "question": "G-20 का स्थायी सचिवालय कहाँ स्थित है? (Where is the permanent G-20 Secretariat located?)",
+    "options": ["Geneva", "New Delhi", "There is no permanent secretariat", "Brussels"],
+    "answer": "There is no permanent secretariat"
   },
   {
     "id": 2,
-    "question": "‘Digital Personal Data Protection Act, 2023’ के अंतर्गत कौन-सा अधिकार नागरिकों को स्पष्ट रूप से प्राप्त होता है? (Which right is explicitly granted to citizens under the Digital Personal Data Protection Act, 2023?)",
-    "options": {
-      "A": "डेटा स्टोरेज का पूर्ण नियंत्रण (Complete control over data storage)",
-      "B": "अपने डेटा को सुधारने और हटाने का अधिकार (Right to correct and erase their data)",
-      "C": "सरकारी निगरानी से छूट (Exemption from government surveillance)",
-      "D": "केवल भारतीय कंपनियों को डेटा देने का अधिकार (Right to share data only with Indian companies)"
-    },
-    "answer": "B"
+    "question": "हाल ही में G-20 में अफ़्रीकी संघ को क्या दर्जा दिया गया है? (What status has the African Union recently received in the G-20?)",
+    "options": ["Observer", "Member", "Partner Country", "Guest Invitee"],
+    "answer": "Member"
   },
   {
     "id": 3,
-    "question": "भारत के 'Lifestyle for Environment (LiFE)' मिशन का प्रमुख उद्देश्य क्या है? (What is the key objective of India’s 'LiFE' mission?)",
-    "options": {
-      "A": "कार्बन टैक्स को लागू करना (Implement carbon tax)",
-      "B": "व्यक्तिगत व्यवहार में सततता को बढ़ावा देना (Promote sustainability in individual behaviour)",
-      "C": "बड़े उद्योगों पर प्रतिबंध लगाना (Ban large industries)",
-      "D": "केवल ग्रामीण क्षेत्रों को प्रभावित करना (Impact only rural areas)"
-    },
-    "answer": "B"
+    "question": "BRICS समूह के विस्तार में निम्न में से कौन शामिल नहीं हुआ? (Which of the following countries was NOT part of the recent BRICS expansion?)",
+    "options": ["Egypt", "Argentina", "Ethiopia", "Saudi Arabia"],
+    "answer": "Argentina"
   },
   {
     "id": 4,
-    "question": "‘Global South’ टर्म के सन्दर्भ में भारत की हाल की भूमिका कैसी रही है? (How has India’s role evolved recently in the context of the ‘Global South’?)",
-    "options": {
-      "A": "नेतृत्वकारी भूमिका के रूप में उभरा (Emerging as a leading voice)",
-      "B": "अलग-थलग रहा है (Been isolated)",
-      "C": "केवल द्विपक्षीय व्यापार पर केंद्रित (Focused only on bilateral trade)",
-      "D": "सुरक्षा मुद्दों पर सीमित रहा (Limited to security issues)"
-    },
-    "answer": "A"
+    "question": "2024 में जारी WHO की रिपोर्ट में किस बीमारी को अगली संभावित महामारी बताया गया? (Which disease has WHO indicated as the next potential pandemic?)",
+    "options": ["Nipah Virus", "Disease X", "Zika", "H5N1 Flu"],
+    "answer": "Disease X"
   },
   {
     "id": 5,
-    "question": "2025 में लागू ‘National Quantum Mission’ का प्राथमिक उपयोग क्षेत्र क्या माना गया है? (What is considered the primary application area of the National Quantum Mission launched in 2025?)",
-    "options": {
-      "A": "ऑनलाइन शिक्षा (Online education)",
-      "B": "साइबर सुरक्षा और कंप्यूटिंग (Cybersecurity and computing)",
-      "C": "खाद्यान्न उत्पादन (Food grain production)",
-      "D": "मौसम पूर्वानुमान (Weather forecasting)"
-    },
-    "answer": "B"
+    "question": "United Nations में  veto power reform पर भारत का क्या रुख है? (What is Indias position on veto reform in the UN?)",
+    "options": ["Remove veto power entirely", "Retain veto only for P5", "Expand veto to new members", "No comment"],
+    "answer": "Expand veto to new members"
   },
   {
     "id": 6,
-    "question": "भारत के 2024 बजट में ‘Green Credit Program’ की भूमिका क्या है? (What is the role of the Green Credit Program in India’s 2024 Budget?)",
-    "options": {
-      "A": "हरित बांड्स को अवैध घोषित करना (Declare green bonds illegal)",
-      "B": "पर्यावरणीय कार्यों के लिए प्रोत्साहन देना (Incentivize environmental actions)",
-      "C": "सीमेंट कंपनियों पर टैक्स लगाना (Impose tax on cement companies)",
-      "D": "केवल शहरी क्षेत्रों में लागू करना (Apply only in urban areas)"
-    },
-    "answer": "B"
+    "question": "हाल ही में किस देश ने 'AI Safety Summit 2024' की मेजबानी की? (Which country recently hosted the AI Safety Summit 2024?)",
+    "options": ["UK", "USA", "Germany", "Japan"],
+    "answer": "UK"
   },
   {
     "id": 7,
-    "question": "भारत में ‘One Nation, One Election’ योजना का प्रमुख संवैधानिक प्रभाव क्या हो सकता है? (What could be the major constitutional impact of the ‘One Nation, One Election’ proposal in India?)",
-    "options": {
-      "A": "संविधान संशोधन की आवश्यकता नहीं होगी (No need for constitutional amendment)",
-      "B": "राज्यों की स्वायत्तता प्रभावित होगी (Affect the autonomy of states)",
-      "C": "लोकतंत्र को मजबूत करेगा (Strengthen democracy)",
-      "D": "केवल लोकसभा पर लागू होगा (Apply only to Lok Sabha)"
-    },
-    "answer": "B"
+    "question": "G-20 की स्थापना का मुख्य उद्देश्य क्या था? (What was the primary purpose behind the formation of G-20?)",
+    "options": ["Climate governance", "Global health coordination", "International trade regulation", "Financial stability"],
+    "answer": "Financial stability"
   },
   {
     "id": 8,
-    "question": "‘Indo-Pacific Oceans Initiative (IPOI)’ भारत के किस प्रमुख दृष्टिकोण से जुड़ा है? (The Indo-Pacific Oceans Initiative is aligned with which key Indian outlook?)",
-    "options": {
-      "A": "सिर्फ व्यापार सहयोग (Only trade cooperation)",
-      "B": "मुक्त और समावेशी क्षेत्रीय व्यवस्था (Free and inclusive regional order)",
-      "C": "नाटो जैसी सैन्य साझेदारी (NATO-style military alliance)",
-      "D": "आंतरिक जल प्रबंधन (Inland water management)"
-    },
-    "answer": "B"
+    "question": "कौन सा G-20 समूह का स्थायी सदस्य नहीं है? (Which of the following is NOT a permanent member of G-20?)",
+    "options": ["Spain", "Russia", "Japan", "Mexico"],
+    "answer": "Spain"
   },
   {
     "id": 9,
-    "question": "2024 में शुरू हुई 'PM-SURAJ' योजना का उद्देश्य क्या है? (What is the objective of the PM-SURAJ Scheme launched in 2024?)",
-    "options": {
-      "A": "जागरूकता फैलाना (Spread awareness)",
-      "B": "गरीब और दलित उद्यमियों को सस्ते ऋण देना (Provide affordable credit to poor and Dalit entrepreneurs)",
-      "C": "सिर्फ ग्रामीण क्षेत्रों में स्किल ट्रेनिंग (Only skill training in rural areas)",
-      "D": "खाद्यान्न वितरण (Food distribution)"
-    },
-    "answer": "B"
+    "question": "UNFCCC COP-29 की मेजबानी किस देश को मिली? (Which country is hosting UNFCCC COP-29?)",
+    "options": ["Brazil", "UAE", "Azerbaijan", "India"],
+    "answer": "Azerbaijan"
   },
   {
     "id": 10,
-    "question": "‘AI in Governance’ पर भारत में प्रमुख चिंता क्या है? (What is the key concern with AI in Governance in India?)",
-    "options": {
-      "A": "AI का उपयोग केवल ग्रामीण क्षेत्रों में है (AI is used only in rural areas)",
-      "B": "डेटा की गोपनीयता और पूर्वाग्रह (Data privacy and algorithmic bias)",
-      "C": "कंप्यूटर की कमी (Lack of computers)",
-      "D": "मशीनों की धीमी गति (Slow machines)"
-    },
-    "answer": "B"
+    "question": "भारत की G-20 Presidency में कौन-सा document प्रमुख था? (Which document was key during India's G-20 Presidency?)",
+    "options": ["Green Deal Charter", "Delhi Declaration", "Digital Finance Act", "Bharat Innovation Pact"],
+    "answer": "Delhi Declaration"
   },
   {
     "id": 11,
-    "question": "‘Blue Economy’ को बढ़ावा देने के लिए भारत ने किस क्षेत्र पर मुख्य ध्यान दिया है? (Which sector has India primarily focused on to promote the Blue Economy?)",
-    "options": {
-      "A": "ऊर्जा आयात (Energy imports)",
-      "B": "सागर आधारित टिकाऊ मछली पालन (Sustainable ocean-based fisheries)",
-      "C": "डिजिटल भुगतान (Digital payments)",
-      "D": "भूमि सुधार (Land reforms)"
-    },
-    "answer": "B"
+    "question": "Israel-Gaza संघर्ष में 2024 में पहली बार किसने मध्यस्थता की कोशिश की? (Who attempted mediation in the 2024 Israel-Gaza conflict for the first time?)",
+    "options": ["France", "China", "India", "South Africa"],
+    "answer": "China"
   },
   {
     "id": 12,
-    "question": "भारत द्वारा 2024 में शुरू की गई 'National Turmeric Board' की भूमिका क्या है? (What is the role of the National Turmeric Board launched by India in 2024?)",
-    "options": {
-      "A": "केवल हल्दी के मूल्य निर्धारण को नियंत्रित करना (Only regulate turmeric pricing)",
-      "B": "हल्दी उत्पादों का निर्यात और गुणवत्ता बढ़ाना (Boost export and quality of turmeric products)",
-      "C": "औषधि अनुसंधान को रोकना (Halt medicinal research)",
-      "D": "हल्दी आयात को बढ़ावा देना (Promote turmeric imports)"
-    },
-    "answer": "B"
+    "question": "कौन-सा संगठन 'One Future' थीम से जुड़ा है? (Which organization was linked with the 'One Future' theme?)",
+    "options": ["G-7", "G-20", "UNESCO", "SAARC"],
+    "answer": "G-20"
   },
   {
     "id": 13,
-    "question": "हाल में ‘Global Biofuel Alliance’ की भारत में क्या रणनीतिक महत्ता है? (What is the strategic importance of the Global Biofuel Alliance for India?)",
-    "options": {
-      "A": "भारत को आयात पर निर्भर बनाना (Make India import-dependent)",
-      "B": "ऊर्जा में आत्मनिर्भरता को बढ़ाना (Increase energy self-reliance)",
-      "C": "केवल अमेरिकी निवेश को आकर्षित करना (Attract only US investments)",
-      "D": "कोयला उत्पादन को बढ़ाना (Boost coal production)"
-    },
-    "answer": "B"
+    "question": "किस देश ने हाल ही में 'AI Bill of Rights' जारी किया है? (Which country recently released the 'AI Bill of Rights'?)",
+    "options": ["USA", "India", "EU", "Canada"],
+    "answer": "USA"
   },
   {
     "id": 14,
-    "question": "‘eCourts Phase III’ का लक्ष्य क्या है? (What is the goal of eCourts Phase III?)",
-    "options": {
-      "A": "अदालतों की संख्या कम करना (Reduce number of courts)",
-      "B": "न्यायिक प्रक्रियाओं का डिजिटलीकरण (Digitization of judicial processes)",
-      "C": "केवल वकीलों को सशक्त बनाना (Empower only lawyers)",
-      "D": "कोर्ट फीस बढ़ाना (Increase court fees)"
-    },
-    "answer": "B"
+    "question": "G-20 के अंतर्गत  Startup20 initiative का नेतृत्व किसने किया? (Who led the Startup20 initiative under G-20?)",
+    "options": ["France", "India", "Australia", "Germany"],
+    "answer": "India"
   },
   {
     "id": 15,
-    "question": "2025 के बजट में घोषित ‘Amrit Kaal Infrastructure Mission’ का लक्ष्य क्या है? (What is the aim of Amrit Kaal Infrastructure Mission announced in 2025 Budget?)",
-    "options": {
-      "A": "बड़े शहरों को बंद करना (Shut down big cities)",
-      "B": "2030 तक विश्वस्तरीय अवसंरचना तैयार करना (Build world-class infrastructure by 2030)",
-      "C": "केवल रेलवे में निवेश (Invest only in railways)",
-      "D": "योजना को निजी कंपनियों को सौंपना (Hand over to private companies)"
-    },
-    "answer": "B"
+    "question": "कौन-सी संस्था जलवायु वित्त  Climate Finance पर निगरानी रखती है? (Which body oversees climate finance globally?)",
+    "options": ["IPCC", "Green Climate Fund", "UNESCO", "OECD"],
+    "answer": "Green Climate Fund"
+  },
+  {
+    "id": 16,
+    "question": "हाल ही में किस देश ने NATO छोड़ने की घोषणा की थी? (Which country recently announced intention to exit NATO?)",
+    "options": ["Turkey", "Hungary", "France", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "id": 17,
+    "question": "भारत किस global cybersecurity pact का हिस्सा है? (India is a part of which global cybersecurity agreement?)",
+    "options": ["Budapest Convention", "Paris Call", "Tallinn Manual", "Geneva Protocol"],
+    "answer": "Paris Call"
+  },
+  {
+    "id": 18,
+    "question": "Climate Loss and Damage Fund की स्थापना कब हुई? (When was the Climate Loss and Damage Fund established?)",
+    "options": ["COP-26", "COP-27", "COP-28", "COP-29"],
+    "answer": "COP-27"
+  },
+  {
+    "id": 19,
+    "question": "भारत की G-20 Presidency किस सिद्धांत पर आधारित थी? (India's G-20 Presidency was based on which principle?)",
+    "options": ["Collective Growth", "Vasudhaiva Kutumbakam", "Inclusive Finance", "One World, One Bank"],
+    "answer": "Vasudhaiva Kutumbakam"
+  },
+  {
+    "id": 20,
+    "question": "EU AI Act किस प्रकार की तकनीक को सबसे अधिक regulate करता है? (The EU AI Act primarily regulates which type of AI?)",
+    "options": ["Low-risk AI", "Social Media Filters", "High-risk AI", "Chatbots"],
+    "answer": "High-risk AI"
   }
 ]
