@@ -1,63 +1,71 @@
-from flask import Flask, render_template, request, redirect, url_for, session
+from flask import Flask, render_template, request, redirect, session
 import json
 import os
 
 app = Flask(__name__)
-app.secret_key = 'secret123'  # Needed for session management
+app.secret_key = 'supersecretkey'  # Required for session
 
-# ✅ Path to questions.json
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-QUESTIONS_PATH = os.path.join(BASE_DIR, 'mcqs', 'questions.json')
+# Load MCQs from JSON file
+QUESTIONS_FILE = os.path.join('mcqs', 'questions.json')
+with open(QUESTIONS_FILE, encoding='utf-8') as f:
+    questions = json.load(f)
 
-# 🔐 Password login route
-@app.route("/", methods=["GET", "POST"])
-def login():
-    error = None
-    if request.method == "POST":
-        if request.form.get("password") == "jaishreeram":  # 🔑 Password here
+@app.route('/')
+def home():
+    return redirect('/password')
+
+@app.route('/password', methods=['GET', 'POST'])
+def password():
+    if request.method == 'POST':
+        entered_password = request.form.get('password')
+        if entered_password == 'test123':  # ✅ Set your own password here
             session['authenticated'] = True
-            return redirect(url_for("test"))
+            return redirect('/test')
         else:
-            error = "❌ Incorrect password"
-    return render_template("password.html", error=error)
+            return render_template('password.html', error="❌ Incorrect password")
+    return render_template('password.html')
 
-# 📋 Test page
-@app.route("/test", methods=["GET"])
+@app.route('/test', methods=['GET'])
 def test():
     if not session.get('authenticated'):
-        return redirect('/')
-    with open(QUESTIONS_PATH, 'r', encoding='utf-8') as f:
-        questions = json.load(f)
-    return render_template("test.html", questions=questions)
+        return redirect('/password')
+    return render_template('test.html', questions=questions)
 
-# ✅ Submit + Result page
-@app.route("/submit", methods=["POST"])
+@app.route('/submit', methods=['POST'])
 def submit():
     if not session.get('authenticated'):
-        return redirect('/')
-    with open(QUESTIONS_PATH, 'r', encoding='utf-8') as f:
-        questions = json.load(f)
+        return redirect('/password')
 
-    score = 0
+    user_answers = {}
+    for q in questions:
+        qid = str(q["id"])
+        selected_options = request.form.getlist(f'q{qid}')
+        user_answers[qid] = selected_options
+
     results = []
     for q in questions:
         qid = str(q["id"])
-        correct_ans = q["answer"]
-        selected_ans = request.form.get(qid)
+        correct = q["answer"]
+        if isinstance(correct, str):
+            correct = [correct]  # Ensure it's a list
+        user = user_answers.get(qid, [])
 
-        is_correct = (selected_ans == correct_ans)
-        if is_correct:
-            score += 1
+        # Compare sets after stripping
+        is_correct = set(map(str.strip, correct)) == set(map(str.strip, user))
 
         results.append({
             "question": q["question"],
-            "correct": correct_ans,
-            "selected": selected_ans,
-            "status": "✅" if is_correct else "❌"
+            "correct": correct,
+            "user": user,
+            "is_correct": is_correct
         })
 
-    return render_template("result.html", results=results, score=score, total=len(questions))
+    return render_template("result.html", results=results)
 
-# 🚀 Run server
+@app.route('/logout')
+def logout():
+    session.clear()
+    return redirect('/password')
+
 if __name__ == '__main__':
     app.run(debug=True)

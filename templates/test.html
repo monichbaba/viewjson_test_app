@@ -10,11 +10,8 @@
       border-radius: 10px;
       padding: 10px;
       margin: 5px 0;
+      background-color: #f8f9fa;
     }
-    .A { background-color: #e0f7fa; }
-    .B { background-color: #e8f5e9; }
-    .C { background-color: #fff3e0; }
-    .D { background-color: #fce4ec; }
 
     .logo-bar {
       position: absolute;
@@ -50,18 +47,18 @@
 
   <!-- Test Form -->
   <div class="container mt-4">
-        <form method="post" action="/submit">
+    <form method="post" action="/submit">
       {% for q in questions %}
         <div class="card mb-4 shadow">
           <div class="card-header fw-bold">
             Q{{ q.id }}. {{ q.question }}
           </div>
           <div class="card-body">
-            {% for key, value in q.options.items() %}
-              <div class="form-check option-box {{ key }}">
-                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ key }}" id="{{ q.id }}{{ key }}">
-                <label class="form-check-label" for="{{ q.id }}{{ key }}">
-                  <strong>{{ key }}:</strong> {{ value }}
+            {% for option in q.options %}
+              <div class="form-check option-box">
+                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ option }}" id="{{ q.id }}{{ loop.index }}">
+                <label class="form-check-label" for="{{ q.id }}{{ loop.index }}">
+                  {{ option }}
                 </label>
               </div>
             {% endfor %}

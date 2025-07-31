@@ -1,14 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत का पहला राष्ट्रपति कौन था?",
-    "options": ["राजेन्द्र प्रसाद", "जवाहरलाल नेहरू", "सरदार पटेल", "डॉ. अम्बेडकर"],
-    "answer": "राजेन्द्र प्रसाद"
+    "question": "2024 में आयोजित G7 शिखर सम्मेलन का मुख्य विषय क्या था?",
+    "options": [
+      "Artificial Intelligence Ethics",
+      "Global Taxation on MNCs",
+      "Ukraine Crisis & Sanctions",
+      "Climate-Resilient Infrastructure"
+    ],
+    "answer": ["Artificial Intelligence Ethics"]
   },
   {
     "id": 2,
-    "question": "भारत का संविधान कब लागू हुआ था?",
-    "options": ["15 अगस्त 1947", "26 जनवरी 1950", "2 अक्टूबर 1949", "26 नवंबर 1949"],
-    "answer": "26 जनवरी 1950"
+    "question": "कौन से देश BRICS समूह में 2024 में नए सदस्य बने?",
+    "options": [
+      "Saudi Arabia",
+      "Argentina",
+      "Indonesia",
+      "UAE"
+    ],
+    "answer": ["Saudi Arabia", "Argentina", "UAE"]
+  },
+  {
+    "id": 3,
+    "question": "UNEP Emissions Gap Report 2024 में कौन सी चेतावनी दी गई?",
+    "options": [
+      "Global temperatures will rise by 3°C by 2100",
+      "Methane is now a bigger threat than CO₂",
+      "Carbon neutrality won't stop glacier melt",
+      "Paris targets are still achievable with aggressive policy shifts"
+    ],
+    "answer": ["Global temperatures will rise by 3°C by 2100"]
+  },
+  {
+    "id": 4,
+    "question": "किस संस्था ने 2025 में 'AI Rights Charter' प्रस्तावित किया?",
+    "options": [
+      "World Economic Forum",
+      "UNESCO",
+      "ITU",
+      "OECD"
+    ],
+    "answer": ["UNESCO"]
+  },
+  {
+    "id": 5,
+    "question": "'Blue Pacific Pact' किन मुद्दों से संबंधित है?",
+    "options": [
+      "Marine biodiversity conservation",
+      "Anti-China strategic alignment",
+      "Small island economy protection",
+      "Submarine mining regulation"
+    ],
+    "answer": ["Marine biodiversity conservation", "Small island economy protection"]
+  },
+  {
+    "id": 6,
+    "question": "WHO की 'Disease X' टर्म किस बात को दर्शाती है?",
+    "options": [
+      "A newly discovered virus",
+      "Hypothetical future pandemic",
+      "Zoonotic virus from bats",
+      "AI-modeled disease threat"
+    ],
+    "answer": ["Hypothetical future pandemic"]
+  },
+  {
+    "id": 7,
+    "question": "SpaceX का कौन सा मिशन 2024 में चंद्रमा की परिक्रमा कर लौटा?",
+    "options": [
+      "Artemis II",
+      "LunarStar",
+      "Polaris Dawn",
+      "LunaX"
+    ],
+    "answer": ["LunarStar"]
+  },
+  {
+    "id": 8,
+    "question": "2024 की WTO Ministerial Conference में भारत ने किस नीति का विरोध किया?",
+    "options": [
+      "E-commerce tax waiver extension",
+      "Agricultural export ban restrictions",
+      "Green Subsidy Mandates",
+      "Special Safeguard Mechanism removal"
+    ],
+    "answer": ["E-commerce tax waiver extension", "Special Safeguard Mechanism removal"]
+  },
+  {
+    "id": 9,
+    "question": "किस देश ने 'Digital Currency with Carbon Score' 2025 में शुरू की?",
+    "options": [
+      "Sweden",
+      "South Korea",
+      "China",
+      "Brazil"
+    ],
+    "answer": ["China"]
+  },
+  {
+    "id": 10,
+    "question": "Global South की रणनीति में कौन सी प्राथमिकता नहीं है?",
+    "options": [
+      "Debt restructuring",
+      "AI military integration",
+      "Food security alliances",
+      "South-South technology transfer"
+    ],
+    "answer": ["AI military integration"]
   }
 ]
