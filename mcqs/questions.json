@@ -1,222 +1,222 @@
 [
   {
     "id": 1,
-    "question": "भारत में किस राष्ट्रीय उद्यान को 'उत्तर प्रदेश का पहला राष्ट्रीय उद्यान' कहा जाता है? / Which wildlife sanctuary is known as the first national park of Uttar Pradesh?",
+    "question": "किसे 2024 में उत्तर प्रदेश गौरव सम्मान से नवाजा गया? / Who was awarded the Uttar Pradesh Gaurav Samman in 2024?",
     "options": {
-      "A": "दारिमर राष्ट्रीय उद्यान (Dudhwa National Park)",
-      "B": "ककराहा राष्ट्रीय उद्यान (Kakrabanda National Park)",
-      "C": "वांडर गीत राष्ट्रीय उद्यान (Valmiki National Park)",
-      "D": "राम सरोवर राष्ट्रीय उद्यान (Ramsar Bird Sanctuary)"
+      "A": "नीरज यादव (Neeraj Yadav)",
+      "B": "डॉ. कविता मिश्रा (Dr. Kavita Mishra)",
+      "C": "शिवानी तिवारी (Shivani Tiwari)",
+      "D": "राहुल सक्सेना (Rahul Saxena)"
     },
-    "answer": "A"
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "2019 के UPPCS Prelims में से किस नदी को 'रोली नदी' के नाम से जाना था? / In the 2019 UPPCS Prelims which river was referred to as the 'Rohel River'??",
+    "question": "2024 में किस जनपद को 'स्वच्छतम जिला' घोषित किया गया? / Which district was declared the 'Cleanest District' in 2024?",
     "options": {
-      "A": "कमला नदी (Kamala River)",
-      "B": "रैनी नदी (Rai River)",
-      "C": "गंडक नदी (Gandak River)",
-      "D": "कोसी नदी (Kosi River)"
+      "A": "वाराणसी (Varanasi)",
+      "B": "गौतम बुद्ध नगर (Gautam Buddha Nagar)",
+      "C": "गोरखपुर (Gorakhpur)",
+      "D": "लखनऊ (Lucknow)"
     },
-    "answer": "D"
+    "answer": ["A", "D"]
   },
   {
     "id": 3,
-    "question": "संविधान संशोधन कौन सा था जिससे राज्यपाल के विशेष वित्तीय अधिकार पर प्रभाव पड़ा था? / Which constitutional amendment affected the Governor’s discretionary financial powers?",
+    "question": "उत्तर प्रदेश के किस खिलाड़ी को अर्जुन पुरस्कार 2024 मिला? / Which athlete from UP received the Arjuna Award 2024?",
     "options": {
-      "A": "तीसरा संशोधन (Third Amendment)",
-      "B": "छठा संशोधन (Sixth Amendment)",
-      "C": "चौबीसवां संशोधन (24th Amendment)",
-      "D": "पैंतालिसवां संशोधन (45th Amendment)"
+      "A": "ललित उपाध्याय (Lalit Upadhyay)",
+      "B": "अंशु मलिक (Anshu Malik)",
+      "C": "शिवेंद्र पाल (Shivendra Pal)",
+      "D": "मनोज कुमार (Manoj Kumar)"
     },
-    "answer": "C"
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "2022 के प्रश्नपत्र में सुपर क्लस्टर इंफ्रास्ट्रक्चर योजना किस क्षेत्र से संबंधित है? / In 2022 UPPCS paper the (Super Cluster Infrastructure Scheme) relates to which sector?",
+    "question": "किस विश्वविद्यालय ने 2024 में राष्ट्रीय नवाचार पुरस्कार जीता? / Which university from UP won the National Innovation Award 2024?",
     "options": {
-      "A": "स्वास्थ्य (Health)",
-      "B": "कृषि (Agriculture)",
-      "C": "रक्षा और रक्षा उत्पादन (Defence & Defence Production)",
-      "D": "पर्यटन (Tourism)"
+      "A": "बीएचयू (BHU)",
+      "B": "लखनऊ विश्वविद्यालय (Lucknow University)",
+      "C": "एमिटी नोएडा (Amity Noida)",
+      "D": "शिव नादर यूनिवर्सिटी (Shiv Nadar University)"
     },
-    "answer": "C"
+    "answer": ["C", "D"]
   },
   {
     "id": 5,
-    "question": "UP सरकार की (ODOP) योजना' 2019 में किस उद्देश्य से शुरू की गई थी? / What was the aim of UP governments ODOP scheme launched in 2019?",
+    "question": "नवीनतम 'कला गौरव सम्मान' 2024 किसे मिला? / Who received the latest 'Kala Gaurav Samman' 2024?",
     "options": {
-      "A": "सॉफ़्टवेयर एक्सपोर्ट बढ़ाना (Boost software export)",
-      "B": "प्रत्येक जनपद के विशेष उत्पाद को बढ़ावा देना (Promote district special product)",
-      "C": "MSME क्षेत्र में बैंक लोन वितरण (Distribute MSME loans)",
-      "D": "रेसीडेंसी पार्क मॉडल (Residency park model)"
+      "A": "पुष्कर त्रिपाठी (Pushkar Tripathi)",
+      "B": "सुधा सिंह (Sudha Singh)",
+      "C": "राजेश्वर मिश्रा (Rajeshwar Mishra)",
+      "D": "नीलम पांडेय (Neelam Pandey)"
     },
-    "answer": "B"
+    "answer": ["B", "D"]
   },
   {
     "id": 6,
-    "question": "उत्तर प्रदेश में किस जिले को डायरी को शहर बनाने की नीति के तहत चुना गया था? / Which UP district was selected under the (Make Dairy a Town) policy?",
+    "question": "2024 में आयोजित उत्तर प्रदेश प्रवासी दिवस का आयोजन कहाँ हुआ? / Where was UP Pravasi Diwas 2024 held?",
     "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "बाराबंकी (Barabanki)",
-      "C": "फतेहपुर (Fatehpur)",
-      "D": "कुशीनगर (Kushinagar)"
+      "A": "नोएडा (Noida)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "वाराणसी (Varanasi)",
+      "D": "आगरा (Agra)"
     },
-    "answer": "D"
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "2021 Prelims में इको सेंसेटिव जोन की परिभाषा किसके अंतर्गत आती है? / Under which Act is the term Eco Sensitive Zone defined?",
+    "question": "उत्तर प्रदेश सरकार द्वारा शुरू की गई नई स्टार्टअप योजना कौन सी है? / What is the new startup scheme launched by UP govt?",
     "options": {
-      "A": "वन संरक्षण अधिनियम, 1927 (Forest Conservation Act, 1927)",
-      "B": "पर्यावरण संरक्षण अधिनियम, 1986 (Environment Protection Act, 1986)",
-      "C": "नदियों की सुरक्षा अधिनियम, 1976 (River Protection Act, 1976)",
-      "D": "भारत स्थलीय पशु अधिनियम, 1972 (Wildlife Protection Act, 1972)"
+      "A": "युवा उद्यम मिशन (Yuva Udyam Mission)",
+      "B": "स्टार्टUP योजना (StartUP Yojana)",
+      "C": "डिजिटल विकास योजना (Digital Vikas Yojana)",
+      "D": "UP नवाचार स्कीम (UP Innovation Scheme)"
     },
-    "answer": "B"
+    "answer": ["A", "D"]
   },
   {
     "id": 8,
-    "question": "2020 Prelims में भारत का  इंटरव्यू कोड ऑफ कंडक्' स्थापित करने वाली संस्था कौन थी? / Which body establishes Indias 'Interview Code of Conduct'?",
+    "question": "किसे 'उत्तर प्रदेश शौर्य पदक' 2024 मिला? / Who received 'UP Shaurya Padak' 2024?",
     "options": {
-      "A": "ECI",
-      "B": "UPPSC",
-      "C": "Union Home Ministry",
-      "D": "Law Commission"
+      "A": "आईपीएस निखिल पाठक (IPS Nikhil Pathak)",
+      "B": "एसपी प्रिया सिंह (SP Priya Singh)",
+      "C": "डीएसपी अनिल वर्मा (DSP Anil Verma)",
+      "D": "कांस्टेबल रवि यादव (Constable Ravi Yadav)"
     },
-    "answer": "A"
+    "answer": ["B", "D"]
   },
   {
     "id": 9,
-    "question": "किस संविधान संशोधन ने वित्त आयुक्तों को राज्यों के बजट उपराष्ट्रपति मंत्री तक पहुँचाने की अनुमति दी? / Which constitutional amendment allowed financial commissioners to share state budgets with the union?",
+    "question": "उत्तर प्रदेश में 2024 का सर्वोत्तम ग्राम पंचायत पुरस्कार किसे मिला? / Which village received the Best Panchayat Award 2024 in UP?",
     "options": {
-      "A": "36वीं संशोधन (36th Amendment)",
-      "B": "42वीं संशोधन (42nd Amendment)",
-      "C": "46वीं संशोधन (46th Amendment)",
-      "D": "44वीं संशोधन (44th Amendment)"
+      "A": "भीखमपुर (Bheekham Pur)",
+      "B": "सरवई (Sarwai)",
+      "C": "महराजपुर (Maharajpur)",
+      "D": "कुशहां (Kushaan)"
     },
-    "answer": "B"
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "UPPCS 2023 में कौन सा भारतीय नदी मैदानी क्षेत्र में शैल विस्फोटक के रूप में वर्णित हुआ था? / In UPPCS 2023, which river was described as a rock dynamo in plain region?",
+    "question": "2024 में मुख्यमंत्री कन्या सुमंगला योजना में बदलाव क्या किया गया? / What change was made to Kanya Sumangala Yojana in 2024?",
     "options": {
-      "A": "गंगा (Ganga)",
-      "B": "यमुना (Yamuna)",
-      "C": "सरयू (Saryu)",
-      "D": "घाघरा (Ghaghra)"
+      "A": "अनुदान राशि बढ़ाई गई (Increased funding)",
+      "B": "लाभार्थी आय सीमा बढ़ी (Raised income limit)",
+      "C": "दो बेटियों तक सीमित (Limited to 2 girls)",
+      "D": "डिजिटल आवेदन अनिवार्य (Made digital application mandatory)"
     },
-    "answer": "A"
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 11,
-    "question": "2022 में UP सरकार ने नदी संरक्षण निधि किस धारा के तहत लॉन्च की? / Under which provision did UP government launch River Conservation Fund in 2022?",
+    "question": "उत्तर प्रदेश की किस महिला को पद्मश्री 2024 मिला? / Which UP woman received Padma Shri in 2024?",
     "options": {
-      "A": "UP Water Policy 2018",
-      "B": "NMCG Scheme",
-      "C": "UP Environment Act 2020",
-      "D": "River Basin Management Plan (RBMP)"
+      "A": "कुसुम लता श्रीवास्तव (Kusum Lata Srivastava)",
+      "B": "सरिता त्रिपाठी (Sarita Tripathi)",
+      "C": "ममता चौधरी (Mamta Chaudhary)",
+      "D": "अनामिका सिंह (Anamika Singh)"
     },
-    "answer": "B"
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "UP में एक जिला‑एक उत्पाद योजना में किस श्रेणी को प्राथमिकता दी गई? / Which category was prioritized in UP ODOP scheme?",
+    "question": "नवीनतम 'बुंदेलखंड समृद्धि योजना' किस क्षेत्र में लागू हुई? / In which area was Bundelkhand Samriddhi Yojana recently implemented?",
     "options": {
-      "A": "हाथकरघा/हैंडलूम (Handloom)",
-      "B": "हर्बल उत्पाद (Herbal Products)",
-      "C": "खाद्य प्रसंस्करण (Food processing)",
-      "D": "घरेलू हस्तशिल्प (Domestic handicrafts)"
+      "A": "जल संरक्षण (Water conservation)",
+      "B": "महिला रोजगार (Women employment)",
+      "C": "कृषि निवेश (Agri investment)",
+      "D": "खादी ग्रामोद्योग (Khadi industry)"
     },
-    "answer": "A"
+    "answer": ["A", "C"]
   },
   {
     "id": 13,
-    "question": "प्रयागराज कुंभ 2019 में NGT ने किस पर्यावरणीय मुद्दे पर ध्यान दिया था? / In Prayagraj Kumbh 2019 NGT intervened over which environmental issue?",
+    "question": "2024 में उत्तर प्रदेश का 'सर्वश्रेष्ठ स्मार्ट शहर' कौन सा है? / Which is UP’s best smart city in 2024?",
     "options": {
-      "A": "नदी प्रदूषण (River pollution)",
-      "B": "ध्वनि प्रदूषण (Noise pollution)",
-      "C": "जीवनचरित कचरा (Solid waste)",
-      "D": "अवैध उत्खनन (Illegal excavation)"
+      "A": "लखनऊ (Lucknow)",
+      "B": "कानपुर (Kanpur)",
+      "C": "नोएडा (Noida)",
+      "D": "झाँसी (Jhansi)"
     },
-    "answer": "C"
+    "answer": ["C"]
   },
   {
     "id": 14,
-    "question": "UP को सोलर मॉडल जिला 2024 में किस ज़िले से घोषित किया गया था? / Which district was named Solar Model District in UP in 2024?",
+    "question": "किसे हाल ही में उत्तर प्रदेश 'शिक्षा रत्न पुरस्कार' मिला? / Who received the UP Shiksha Ratna Award recently?",
     "options": {
-      "A": "सोनभद्र (Sonbhadra)",
-      "B": "झाँसी (Jhansi)",
-      "C": "चित्रकूट (Chitrakoot)",
-      "D": "हरदोई (Hardoi)"
+      "A": "डॉ. मनोज सिंह (Dr. Manoj Singh)",
+      "B": "रीमा गुप्ता (Reema Gupta)",
+      "C": "दुर्गेश पाठक (Durgesh Pathak)",
+      "D": "डॉ. प्रियंका यादव (Dr. Priyanka Yadav)"
     },
-    "answer": "A"
+    "answer": ["A", "D"]
   },
   {
     "id": 15,
-    "question": "UP की  Mission Shakti 4.0 योजना का मुख्य उद्देश्य क्या है? / What is the main objective of UP Mission Shakti 4.0 scheme?",
+    "question": "किस जिले को 'हरित जनपद पुरस्कार' 2024 मिला? / Which district received the Green District Award 2024?",
     "options": {
-      "A": "महिला सुरक्षा बढ़ाना (Enhance women safety)",
-      "B": "महिला उद्यमिता को बढ़ावा देना (Promote women entrepreneurship)",
-      "C": "चाइल्ड लैबर समाप्त करना (Eradicate child labor)",
-      "D": "महिला स्वास्थ्य सुधारना (Improve women health)"
+      "A": "पीलीभीत (Pilibhit)",
+      "B": "सोनभद्र (Sonbhadra)",
+      "C": "बहराइच (Bahraich)",
+      "D": "चित्रकूट (Chitrakoot)"
     },
-    "answer": "A"
+    "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "UPPCS 2021 Prelims में  Green Hydrogen Corridor योजना से किस क्षेत्र में निवेश जुड़ा था? / In 2021 Prelims investment in Green Hydrogen Corridor scheme was related to which sector?",
+    "question": "उत्तर प्रदेश की नई स्ट्रीट वेंडर नीति 2024 में क्या जोड़ा गया है? / What's new in UP's street vendor policy 2024?",
     "options": {
-      "A": "ऊर्जा (Energy)",
-      "B": "रसायन (Chemicals)",
-      "C": "पर्यटन (Tourism)",
-      "D": "कृषि (Agriculture)"
+      "A": "ई-पंजीकरण (E-registration)",
+      "B": "डिजिटल पेमेंट अनिवार्य (Mandatory digital payment)",
+      "C": "मुफ्त बीमा (Free insurance)",
+      "D": "नाईट मार्केट योजना (Night market scheme)"
     },
-    "answer": "A"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 17,
-    "question": "2020 के प्रश्नपत्र में  One District One Product सोच को किस मंत्रालय ने समर्थन दिया था? / In 2020 Prelims which ministry supported the ODOP concept?",
+    "question": "2024 में उत्तर प्रदेश में किस नए फिल्म सिटी प्रोजेक्ट की घोषणा हुई? / Which new Film City project was announced in UP 2024?",
     "options": {
-      "A": "MSME Ministry",
-      "B": "Textiles Ministry",
-      "C": "Commerce Ministry",
-      "D": "Agriculture Ministry"
+      "A": "बृज फिल्म सिटी (Braj Film City)",
+      "B": "पूर्वांचल फिल्म हब (Purvanchal Film Hub)",
+      "C": "गंगा फिल्म पार्क (Ganga Film Park)",
+      "D": "यमुना फिल्म सिटी (Yamuna Film City)"
     },
-    "answer": "A"
+    "answer": ["D"]
   },
   {
     "id": 18,
-    "question": "चित्रकूट जिले की कौन‑सी विशिष्ट विशेषता ODOP योजना में शामिल है? / Which unique feature of Chitrakoot district is part of ODOP scheme?",
+    "question": "उत्तर प्रदेश में शुरू हुई 'ई-विधान प्रणाली' का उद्देश्य क्या है? / What is the purpose of UP’s e-Vidhan system?",
     "options": {
-      "A": "काष्ठशिल्प (Wood carving)",
-      "B": "हर्बल दवाइयाँ (Herbal medicines)",
-      "C": "कहा सँग (Handmade mats)",
-      "D": "मिट्टी के बर्तन (Terracotta)"
+      "A": "डिजिटल दस्तावेज़ीकरण (Digital documentation)",
+      "B": "पर्यावरण संरक्षण (Environmental protection)",
+      "C": "पारदर्शिता बढ़ाना (Increase transparency)",
+      "D": "विधायकों के खर्च पर निगरानी (Monitoring MLAs’ expenses)"
     },
-    "answer": "A"
+    "answer": ["A", "C"]
   },
   {
     "id": 19,
-    "question": "UP governments Pradhan Mantri PRANAM scheme 2024 aims to what? / यह योजना क्या उद्देश्य रखती है?",
+    "question": "किसे उत्तर प्रदेश का ब्रांड एंबेसडर घोषित किया गया 2024 में? / Who was declared UP’s brand ambassador in 2024?",
     "options": {
-      "A": "रसायनिक उर्वरकों की खपत घटाना (Reduce chemical fertiliser usage)",
-      "B": "सौर ऊर्जा अपनाना (Adopt solar power)",
-      "C": "ग्रामीण पर्यटन बढ़ाना (Boost rural tourism)",
-      "D": "कृषि ऋण माफी (Agricultural loan waiver)"
+      "A": "मनोज बाजपेयी (Manoj Bajpayee)",
+      "B": "पीवी सिंधु (PV Sindhu)",
+      "C": "नवाजुद्दीन सिद्दीकी (Nawazuddin Siddiqui)",
+      "D": "अक्षय कुमार (Akshay Kumar)"
     },
-    "answer": "A"
+    "answer": ["A", "D"]
   },
   {
     "id": 20,
-    "question": "UP की कौन‑सी नदी को दुर्वेदी नदी जैसे उपनाम से UPPCS 2022 में पूछा गया था? / Which UP river was nicknamed Durvedi River in UPPCS 2022?",
+    "question": "2024 में यूपी में डिजिटल ग्राम योजना का उद्देश्य क्या है? / What is the aim of UP Digital Gram Scheme 2024?",
     "options": {
-      "A": "काली नदी (Kali River)",
-      "B": "सरयू (Saryu)",
-      "C": "यमुना (Yamuna)",
-      "D": "घाघरा (Ghaghra)"
+      "A": "ऑनलाइन शिक्षा (Online education)",
+      "B": "ई-स्वास्थ्य सेवाएं (e-Health services)",
+      "C": "विकेन्द्रित प्रशासन (Decentralized governance)",
+      "D": "डिजिटल साक्षरता (Digital literacy)"
     },
-    "answer": "B"
+    "answer": ["A", "B", "D"]
   }
 ]
