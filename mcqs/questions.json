@@ -1,112 +1,222 @@
 [
   {
     "id": 1,
-    "question": "2024 में आयोजित G7 शिखर सम्मेलन का मुख्य विषय क्या था?",
-    "options": [
-      "Artificial Intelligence Ethics",
-      "Global Taxation on MNCs",
-      "Ukraine Crisis & Sanctions",
-      "Climate-Resilient Infrastructure"
-    ],
-    "answer": ["Artificial Intelligence Ethics"]
+    "question": "भारत में किस राष्ट्रीय उद्यान को 'उत्तर प्रदेश का पहला राष्ट्रीय उद्यान' कहा जाता है? / Which wildlife sanctuary is known as the first national park of Uttar Pradesh?",
+    "options": {
+      "A": "दारिमर राष्ट्रीय उद्यान (Dudhwa National Park)",
+      "B": "ककराहा राष्ट्रीय उद्यान (Kakrabanda National Park)",
+      "C": "वांडर गीत राष्ट्रीय उद्यान (Valmiki National Park)",
+      "D": "राम सरोवर राष्ट्रीय उद्यान (Ramsar Bird Sanctuary)"
+    },
+    "answer": "A"
   },
   {
     "id": 2,
-    "question": "कौन से देश BRICS समूह में 2024 में नए सदस्य बने?",
-    "options": [
-      "Saudi Arabia",
-      "Argentina",
-      "Indonesia",
-      "UAE"
-    ],
-    "answer": ["Saudi Arabia", "Argentina", "UAE"]
+    "question": "2019 के UPPCS Prelims में से किस नदी को 'रोली नदी' के नाम से जाना था? / In the 2019 UPPCS Prelims which river was referred to as the 'Rohel River'??",
+    "options": {
+      "A": "कमला नदी (Kamala River)",
+      "B": "रैनी नदी (Rai River)",
+      "C": "गंडक नदी (Gandak River)",
+      "D": "कोसी नदी (Kosi River)"
+    },
+    "answer": "D"
   },
   {
     "id": 3,
-    "question": "UNEP Emissions Gap Report 2024 में कौन सी चेतावनी दी गई?",
-    "options": [
-      "Global temperatures will rise by 3°C by 2100",
-      "Methane is now a bigger threat than CO₂",
-      "Carbon neutrality won't stop glacier melt",
-      "Paris targets are still achievable with aggressive policy shifts"
-    ],
-    "answer": ["Global temperatures will rise by 3°C by 2100"]
+    "question": "संविधान संशोधन कौन सा था जिससे राज्यपाल के विशेष वित्तीय अधिकार पर प्रभाव पड़ा था? / Which constitutional amendment affected the Governor’s discretionary financial powers?",
+    "options": {
+      "A": "तीसरा संशोधन (Third Amendment)",
+      "B": "छठा संशोधन (Sixth Amendment)",
+      "C": "चौबीसवां संशोधन (24th Amendment)",
+      "D": "पैंतालिसवां संशोधन (45th Amendment)"
+    },
+    "answer": "C"
   },
   {
     "id": 4,
-    "question": "किस संस्था ने 2025 में 'AI Rights Charter' प्रस्तावित किया?",
-    "options": [
-      "World Economic Forum",
-      "UNESCO",
-      "ITU",
-      "OECD"
-    ],
-    "answer": ["UNESCO"]
+    "question": "2022 के प्रश्नपत्र में सुपर क्लस्टर इंफ्रास्ट्रक्चर योजना किस क्षेत्र से संबंधित है? / In 2022 UPPCS paper the (Super Cluster Infrastructure Scheme) relates to which sector?",
+    "options": {
+      "A": "स्वास्थ्य (Health)",
+      "B": "कृषि (Agriculture)",
+      "C": "रक्षा और रक्षा उत्पादन (Defence & Defence Production)",
+      "D": "पर्यटन (Tourism)"
+    },
+    "answer": "C"
   },
   {
     "id": 5,
-    "question": "'Blue Pacific Pact' किन मुद्दों से संबंधित है?",
-    "options": [
-      "Marine biodiversity conservation",
-      "Anti-China strategic alignment",
-      "Small island economy protection",
-      "Submarine mining regulation"
-    ],
-    "answer": ["Marine biodiversity conservation", "Small island economy protection"]
+    "question": "UP सरकार की (ODOP) योजना' 2019 में किस उद्देश्य से शुरू की गई थी? / What was the aim of UP governments ODOP scheme launched in 2019?",
+    "options": {
+      "A": "सॉफ़्टवेयर एक्सपोर्ट बढ़ाना (Boost software export)",
+      "B": "प्रत्येक जनपद के विशेष उत्पाद को बढ़ावा देना (Promote district special product)",
+      "C": "MSME क्षेत्र में बैंक लोन वितरण (Distribute MSME loans)",
+      "D": "रेसीडेंसी पार्क मॉडल (Residency park model)"
+    },
+    "answer": "B"
   },
   {
     "id": 6,
-    "question": "WHO की 'Disease X' टर्म किस बात को दर्शाती है?",
-    "options": [
-      "A newly discovered virus",
-      "Hypothetical future pandemic",
-      "Zoonotic virus from bats",
-      "AI-modeled disease threat"
-    ],
-    "answer": ["Hypothetical future pandemic"]
+    "question": "उत्तर प्रदेश में किस जिले को डायरी को शहर बनाने की नीति के तहत चुना गया था? / Which UP district was selected under the (Make Dairy a Town) policy?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "बाराबंकी (Barabanki)",
+      "C": "फतेहपुर (Fatehpur)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": "D"
   },
   {
     "id": 7,
-    "question": "SpaceX का कौन सा मिशन 2024 में चंद्रमा की परिक्रमा कर लौटा?",
-    "options": [
-      "Artemis II",
-      "LunarStar",
-      "Polaris Dawn",
-      "LunaX"
-    ],
-    "answer": ["LunarStar"]
+    "question": "2021 Prelims में इको सेंसेटिव जोन की परिभाषा किसके अंतर्गत आती है? / Under which Act is the term Eco Sensitive Zone defined?",
+    "options": {
+      "A": "वन संरक्षण अधिनियम, 1927 (Forest Conservation Act, 1927)",
+      "B": "पर्यावरण संरक्षण अधिनियम, 1986 (Environment Protection Act, 1986)",
+      "C": "नदियों की सुरक्षा अधिनियम, 1976 (River Protection Act, 1976)",
+      "D": "भारत स्थलीय पशु अधिनियम, 1972 (Wildlife Protection Act, 1972)"
+    },
+    "answer": "B"
   },
   {
     "id": 8,
-    "question": "2024 की WTO Ministerial Conference में भारत ने किस नीति का विरोध किया?",
-    "options": [
-      "E-commerce tax waiver extension",
-      "Agricultural export ban restrictions",
-      "Green Subsidy Mandates",
-      "Special Safeguard Mechanism removal"
-    ],
-    "answer": ["E-commerce tax waiver extension", "Special Safeguard Mechanism removal"]
+    "question": "2020 Prelims में भारत का  इंटरव्यू कोड ऑफ कंडक्' स्थापित करने वाली संस्था कौन थी? / Which body establishes Indias 'Interview Code of Conduct'?",
+    "options": {
+      "A": "ECI",
+      "B": "UPPSC",
+      "C": "Union Home Ministry",
+      "D": "Law Commission"
+    },
+    "answer": "A"
   },
   {
     "id": 9,
-    "question": "किस देश ने 'Digital Currency with Carbon Score' 2025 में शुरू की?",
-    "options": [
-      "Sweden",
-      "South Korea",
-      "China",
-      "Brazil"
-    ],
-    "answer": ["China"]
+    "question": "किस संविधान संशोधन ने वित्त आयुक्तों को राज्यों के बजट उपराष्ट्रपति मंत्री तक पहुँचाने की अनुमति दी? / Which constitutional amendment allowed financial commissioners to share state budgets with the union?",
+    "options": {
+      "A": "36वीं संशोधन (36th Amendment)",
+      "B": "42वीं संशोधन (42nd Amendment)",
+      "C": "46वीं संशोधन (46th Amendment)",
+      "D": "44वीं संशोधन (44th Amendment)"
+    },
+    "answer": "B"
   },
   {
     "id": 10,
-    "question": "Global South की रणनीति में कौन सी प्राथमिकता नहीं है?",
-    "options": [
-      "Debt restructuring",
-      "AI military integration",
-      "Food security alliances",
-      "South-South technology transfer"
-    ],
-    "answer": ["AI military integration"]
+    "question": "UPPCS 2023 में कौन सा भारतीय नदी मैदानी क्षेत्र में शैल विस्फोटक के रूप में वर्णित हुआ था? / In UPPCS 2023, which river was described as a rock dynamo in plain region?",
+    "options": {
+      "A": "गंगा (Ganga)",
+      "B": "यमुना (Yamuna)",
+      "C": "सरयू (Saryu)",
+      "D": "घाघरा (Ghaghra)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "2022 में UP सरकार ने नदी संरक्षण निधि किस धारा के तहत लॉन्च की? / Under which provision did UP government launch River Conservation Fund in 2022?",
+    "options": {
+      "A": "UP Water Policy 2018",
+      "B": "NMCG Scheme",
+      "C": "UP Environment Act 2020",
+      "D": "River Basin Management Plan (RBMP)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "UP में एक जिला‑एक उत्पाद योजना में किस श्रेणी को प्राथमिकता दी गई? / Which category was prioritized in UP ODOP scheme?",
+    "options": {
+      "A": "हाथकरघा/हैंडलूम (Handloom)",
+      "B": "हर्बल उत्पाद (Herbal Products)",
+      "C": "खाद्य प्रसंस्करण (Food processing)",
+      "D": "घरेलू हस्तशिल्प (Domestic handicrafts)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "प्रयागराज कुंभ 2019 में NGT ने किस पर्यावरणीय मुद्दे पर ध्यान दिया था? / In Prayagraj Kumbh 2019 NGT intervened over which environmental issue?",
+    "options": {
+      "A": "नदी प्रदूषण (River pollution)",
+      "B": "ध्वनि प्रदूषण (Noise pollution)",
+      "C": "जीवनचरित कचरा (Solid waste)",
+      "D": "अवैध उत्खनन (Illegal excavation)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "UP को सोलर मॉडल जिला 2024 में किस ज़िले से घोषित किया गया था? / Which district was named Solar Model District in UP in 2024?",
+    "options": {
+      "A": "सोनभद्र (Sonbhadra)",
+      "B": "झाँसी (Jhansi)",
+      "C": "चित्रकूट (Chitrakoot)",
+      "D": "हरदोई (Hardoi)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "UP की  Mission Shakti 4.0 योजना का मुख्य उद्देश्य क्या है? / What is the main objective of UP Mission Shakti 4.0 scheme?",
+    "options": {
+      "A": "महिला सुरक्षा बढ़ाना (Enhance women safety)",
+      "B": "महिला उद्यमिता को बढ़ावा देना (Promote women entrepreneurship)",
+      "C": "चाइल्ड लैबर समाप्त करना (Eradicate child labor)",
+      "D": "महिला स्वास्थ्य सुधारना (Improve women health)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "UPPCS 2021 Prelims में  Green Hydrogen Corridor योजना से किस क्षेत्र में निवेश जुड़ा था? / In 2021 Prelims investment in Green Hydrogen Corridor scheme was related to which sector?",
+    "options": {
+      "A": "ऊर्जा (Energy)",
+      "B": "रसायन (Chemicals)",
+      "C": "पर्यटन (Tourism)",
+      "D": "कृषि (Agriculture)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "2020 के प्रश्नपत्र में  One District One Product सोच को किस मंत्रालय ने समर्थन दिया था? / In 2020 Prelims which ministry supported the ODOP concept?",
+    "options": {
+      "A": "MSME Ministry",
+      "B": "Textiles Ministry",
+      "C": "Commerce Ministry",
+      "D": "Agriculture Ministry"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "चित्रकूट जिले की कौन‑सी विशिष्ट विशेषता ODOP योजना में शामिल है? / Which unique feature of Chitrakoot district is part of ODOP scheme?",
+    "options": {
+      "A": "काष्ठशिल्प (Wood carving)",
+      "B": "हर्बल दवाइयाँ (Herbal medicines)",
+      "C": "कहा सँग (Handmade mats)",
+      "D": "मिट्टी के बर्तन (Terracotta)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "UP governments Pradhan Mantri PRANAM scheme 2024 aims to what? / यह योजना क्या उद्देश्य रखती है?",
+    "options": {
+      "A": "रसायनिक उर्वरकों की खपत घटाना (Reduce chemical fertiliser usage)",
+      "B": "सौर ऊर्जा अपनाना (Adopt solar power)",
+      "C": "ग्रामीण पर्यटन बढ़ाना (Boost rural tourism)",
+      "D": "कृषि ऋण माफी (Agricultural loan waiver)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "UP की कौन‑सी नदी को दुर्वेदी नदी जैसे उपनाम से UPPCS 2022 में पूछा गया था? / Which UP river was nicknamed Durvedi River in UPPCS 2022?",
+    "options": {
+      "A": "काली नदी (Kali River)",
+      "B": "सरयू (Saryu)",
+      "C": "यमुना (Yamuna)",
+      "D": "घाघरा (Ghaghra)"
+    },
+    "answer": "B"
   }
 ]

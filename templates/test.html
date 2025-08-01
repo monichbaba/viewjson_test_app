@@ -1,16 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>MCQ Test</title>
-  <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+
+  <!-- ✅ Favicon -->
+  <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/png">
+
+  <!-- ✅ Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <style>
+    body {
+      background-color: #f8f9fa;
+    }
+
     .option-box {
       border-radius: 10px;
       padding: 10px;
       margin: 5px 0;
-      background-color: #f8f9fa;
+      background-color: #fff;
+      border: 1px solid #dee2e6;
+      transition: background-color 0.3s ease;
+    }
+
+    .option-box:hover {
+      background-color: #e2f0ff;
     }
 
     .logo-bar {
@@ -24,28 +39,33 @@
       border-radius: 8px;
       box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
     }
+
+    h1.title {
+      background: linear-gradient(to right, #ff6a00, #ee0979);
+      -webkit-background-clip: text;
+      color: transparent;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .card-header {
+      background-color: #f1f1f1;
+    }
   </style>
 </head>
 
-<body class="bg-light">
-  <!-- Logo Display -->
+<body>
+
+  <!-- Logo -->
   <div class="logo-bar">
     <img src="{{ url_for('static', filename='favicon.png') }}" alt="Logo">
   </div>
 
-  <!-- Page Title -->
-  <h1 style="
-    background: linear-gradient(to right, #ff6a00, #ee0979);
-    -webkit-background-clip: text;
-    color: transparent;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
-    text-align: center;
-    margin-top: 20px;
-  ">
-    Current Revision
-  </h1>
+  <!-- Title -->
+  <h1 class="title">Current Revision</h1>
 
-  <!-- Test Form -->
+  <!-- Main Container -->
   <div class="container mt-4">
     <form method="post" action="/submit">
       {% for q in questions %}
@@ -54,19 +74,23 @@
             Q{{ q.id }}. {{ q.question }}
           </div>
           <div class="card-body">
-            {% for option in q.options %}
+            {% for key, value in q.options.items() %}
               <div class="form-check option-box">
-                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ option }}" id="{{ q.id }}{{ loop.index }}">
-                <label class="form-check-label" for="{{ q.id }}{{ loop.index }}">
-                  {{ option }}
+                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ key }}" id="q{{ q.id }}_{{ key }}">
+                <label class="form-check-label" for="q{{ q.id }}_{{ key }}">
+                  {{ key }}. {{ value }}
                 </label>
               </div>
             {% endfor %}
           </div>
         </div>
       {% endfor %}
-      <button type="submit" class="btn btn-primary">Submit</button>
+
+      <div class="text-center mb-5">
+        <button type="submit" class="btn btn-primary px-4 py-2">Submit</button>
+      </div>
     </form>
   </div>
+
 </body>
 </html>
