@@ -1,222 +1,222 @@
 [
   {
     "id": 1,
-    "question": "किसे 2024 में उत्तर प्रदेश गौरव सम्मान से नवाजा गया? / Who was awarded the Uttar Pradesh Gaurav Samman in 2024?",
+    "question": "उत्तर प्रदेश में सबसे लंबा एक्सप्रेसवे कौन सा है? / Which is the longest expressway in Uttar Pradesh?",
     "options": {
-      "A": "नीरज यादव (Neeraj Yadav)",
-      "B": "डॉ. कविता मिश्रा (Dr. Kavita Mishra)",
-      "C": "शिवानी तिवारी (Shivani Tiwari)",
-      "D": "राहुल सक्सेना (Rahul Saxena)"
+      "A": "पूर्वांचल एक्सप्रेसवे / Purvanchal Expressway",
+      "B": "आगरा-लखनऊ एक्सप्रेसवे / Agra-Lucknow Expressway",
+      "C": "बुंदेलखंड एक्सप्रेसवे / Bundelkhand Expressway",
+      "D": "गंगा एक्सप्रेसवे / Ganga Expressway"
     },
-    "answer": ["B"]
+    "answer": ["D"]
   },
   {
     "id": 2,
-    "question": "2024 में किस जनपद को 'स्वच्छतम जिला' घोषित किया गया? / Which district was declared the 'Cleanest District' in 2024?",
+    "question": "किस जिले में जेवर अंतरराष्ट्रीय हवाई अड्डा बन रहा है? / In which district is the Jewar International Airport being constructed?",
     "options": {
-      "A": "वाराणसी (Varanasi)",
-      "B": "गौतम बुद्ध नगर (Gautam Buddha Nagar)",
-      "C": "गोरखपुर (Gorakhpur)",
-      "D": "लखनऊ (Lucknow)"
+      "A": "गौतम बुद्ध नगर / Gautam Buddha Nagar",
+      "B": "मेरठ / Meerut",
+      "C": "अलीगढ़ / Aligarh",
+      "D": "ग्रेटर नोएडा / Greater Noida"
     },
     "answer": ["A", "D"]
   },
   {
     "id": 3,
-    "question": "उत्तर प्रदेश के किस खिलाड़ी को अर्जुन पुरस्कार 2024 मिला? / Which athlete from UP received the Arjuna Award 2024?",
+    "question": "उत्तर प्रदेश में किन शहरों में मेट्रो परियोजना संचालित हो रही है? / In which cities of UP are metro projects operational?",
     "options": {
-      "A": "ललित उपाध्याय (Lalit Upadhyay)",
-      "B": "अंशु मलिक (Anshu Malik)",
-      "C": "शिवेंद्र पाल (Shivendra Pal)",
-      "D": "मनोज कुमार (Manoj Kumar)"
+      "A": "लखनऊ / Lucknow",
+      "B": "कानपुर / Kanpur",
+      "C": "मेरठ / Meerut",
+      "D": "गोरखपुर / Gorakhpur"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 4,
+    "question": "किस एक्सप्रेसवे को पूर्वांचल को पश्चिमी यूपी से जोड़ने के लिए विकसित किया जा रहा है? / Which expressway connects Eastern UP to Western UP?",
+    "options": {
+      "A": "गंगा एक्सप्रेसवे / Ganga Expressway",
+      "B": "दिल्ली-मेरठ एक्सप्रेसवे / Delhi-Meerut Expressway",
+      "C": "पूर्वांचल एक्सप्रेसवे / Purvanchal Expressway",
+      "D": "लखनऊ-कानपुर एक्सप्रेसवे / Lucknow-Kanpur Expressway"
     },
     "answer": ["A"]
   },
   {
-    "id": 4,
-    "question": "किस विश्वविद्यालय ने 2024 में राष्ट्रीय नवाचार पुरस्कार जीता? / Which university from UP won the National Innovation Award 2024?",
-    "options": {
-      "A": "बीएचयू (BHU)",
-      "B": "लखनऊ विश्वविद्यालय (Lucknow University)",
-      "C": "एमिटी नोएडा (Amity Noida)",
-      "D": "शिव नादर यूनिवर्सिटी (Shiv Nadar University)"
-    },
-    "answer": ["C", "D"]
-  },
-  {
     "id": 5,
-    "question": "नवीनतम 'कला गौरव सम्मान' 2024 किसे मिला? / Who received the latest 'Kala Gaurav Samman' 2024?",
+    "question": "उत्तर प्रदेश का कौन सा शहर डिफेंस कॉरिडोर परियोजना का हिस्सा है? / Which city is part of the UP Defence Corridor project?",
     "options": {
-      "A": "पुष्कर त्रिपाठी (Pushkar Tripathi)",
-      "B": "सुधा सिंह (Sudha Singh)",
-      "C": "राजेश्वर मिश्रा (Rajeshwar Mishra)",
-      "D": "नीलम पांडेय (Neelam Pandey)"
+      "A": "झांसी / Jhansi",
+      "B": "कानपुर / Kanpur",
+      "C": "लखनऊ / Lucknow",
+      "D": "अमरोहा / Amroha"
     },
-    "answer": ["B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "2024 में आयोजित उत्तर प्रदेश प्रवासी दिवस का आयोजन कहाँ हुआ? / Where was UP Pravasi Diwas 2024 held?",
+    "question": "उत्तर प्रदेश में कौन सा राज्य राजमार्ग 'गंगा एक्सप्रेसवे' से जुड़ेगा? / Which highway will connect to the Ganga Expressway?",
     "options": {
-      "A": "नोएडा (Noida)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "आगरा (Agra)"
+      "A": "NH-709 / NH-709",
+      "B": "NH-19 / NH-19",
+      "C": "NH-30 / NH-30",
+      "D": "NH-27 / NH-27"
     },
     "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "उत्तर प्रदेश सरकार द्वारा शुरू की गई नई स्टार्टअप योजना कौन सी है? / What is the new startup scheme launched by UP govt?",
+    "question": "उत्तर प्रदेश में ‘वन डिस्ट्रिक्ट वन मेडिकल कॉलेज’ योजना कब शुरू की गई थी? / When was 'One District One Medical College' scheme launched in UP?",
     "options": {
-      "A": "युवा उद्यम मिशन (Yuva Udyam Mission)",
-      "B": "स्टार्टUP योजना (StartUP Yojana)",
-      "C": "डिजिटल विकास योजना (Digital Vikas Yojana)",
-      "D": "UP नवाचार स्कीम (UP Innovation Scheme)"
+      "A": "2018",
+      "B": "2019",
+      "C": "2020",
+      "D": "2021"
     },
-    "answer": ["A", "D"]
+    "answer": ["B"]
   },
   {
     "id": 8,
-    "question": "किसे 'उत्तर प्रदेश शौर्य पदक' 2024 मिला? / Who received 'UP Shaurya Padak' 2024?",
+    "question": "उत्तर प्रदेश में किस परियोजना का उद्देश्य बिजली आपूर्ति को 24x7 बनाना है? / Which project aims to provide 24x7 electricity supply in UP?",
     "options": {
-      "A": "आईपीएस निखिल पाठक (IPS Nikhil Pathak)",
-      "B": "एसपी प्रिया सिंह (SP Priya Singh)",
-      "C": "डीएसपी अनिल वर्मा (DSP Anil Verma)",
-      "D": "कांस्टेबल रवि यादव (Constable Ravi Yadav)"
+      "A": "सौभाग्य योजना / Saubhagya Yojana",
+      "B": "उत्तर प्रदेश पावर फॉर ऑल / Power for All UP",
+      "C": "उदय योजना / UDAY Yojana",
+      "D": "डीडीयूजीजेवाई / DDUGJY"
     },
-    "answer": ["B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "उत्तर प्रदेश में 2024 का सर्वोत्तम ग्राम पंचायत पुरस्कार किसे मिला? / Which village received the Best Panchayat Award 2024 in UP?",
+    "question": "उत्तर प्रदेश में किस योजना के तहत ग्रामीण सड़कों का निर्माण हो रहा है? / Under which scheme are rural roads built in UP?",
     "options": {
-      "A": "भीखमपुर (Bheekham Pur)",
-      "B": "सरवई (Sarwai)",
-      "C": "महराजपुर (Maharajpur)",
-      "D": "कुशहां (Kushaan)"
+      "A": "प्रधानमंत्री ग्राम सड़क योजना / PMGSY",
+      "B": "मुख्यमंत्री ग्राम सड़क योजना / Mukhya Mantri Gramin Sadak Yojana",
+      "C": "भारत निर्माण / Bharat Nirman",
+      "D": "सड़क सुरक्षा योजना / Road Safety Yojana"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 10,
-    "question": "2024 में मुख्यमंत्री कन्या सुमंगला योजना में बदलाव क्या किया गया? / What change was made to Kanya Sumangala Yojana in 2024?",
+    "question": "‘काशी विश्वनाथ कॉरिडोर’ परियोजना किस शहर में स्थित है? / Kashi Vishwanath Corridor is located in which city?",
     "options": {
-      "A": "अनुदान राशि बढ़ाई गई (Increased funding)",
-      "B": "लाभार्थी आय सीमा बढ़ी (Raised income limit)",
-      "C": "दो बेटियों तक सीमित (Limited to 2 girls)",
-      "D": "डिजिटल आवेदन अनिवार्य (Made digital application mandatory)"
+      "A": "वाराणसी / Varanasi",
+      "B": "प्रयागराज / Prayagraj",
+      "C": "गोरखपुर / Gorakhpur",
+      "D": "लखनऊ / Lucknow"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "उत्तर प्रदेश की किस महिला को पद्मश्री 2024 मिला? / Which UP woman received Padma Shri in 2024?",
+    "question": "बुंदेलखंड एक्सप्रेसवे किन जिलों से होकर गुजरता है? / Bundelkhand Expressway passes through which districts?",
     "options": {
-      "A": "कुसुम लता श्रीवास्तव (Kusum Lata Srivastava)",
-      "B": "सरिता त्रिपाठी (Sarita Tripathi)",
-      "C": "ममता चौधरी (Mamta Chaudhary)",
-      "D": "अनामिका सिंह (Anamika Singh)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 12,
-    "question": "नवीनतम 'बुंदेलखंड समृद्धि योजना' किस क्षेत्र में लागू हुई? / In which area was Bundelkhand Samriddhi Yojana recently implemented?",
-    "options": {
-      "A": "जल संरक्षण (Water conservation)",
-      "B": "महिला रोजगार (Women employment)",
-      "C": "कृषि निवेश (Agri investment)",
-      "D": "खादी ग्रामोद्योग (Khadi industry)"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 13,
-    "question": "2024 में उत्तर प्रदेश का 'सर्वश्रेष्ठ स्मार्ट शहर' कौन सा है? / Which is UP’s best smart city in 2024?",
-    "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "कानपुर (Kanpur)",
-      "C": "नोएडा (Noida)",
-      "D": "झाँसी (Jhansi)"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 14,
-    "question": "किसे हाल ही में उत्तर प्रदेश 'शिक्षा रत्न पुरस्कार' मिला? / Who received the UP Shiksha Ratna Award recently?",
-    "options": {
-      "A": "डॉ. मनोज सिंह (Dr. Manoj Singh)",
-      "B": "रीमा गुप्ता (Reema Gupta)",
-      "C": "दुर्गेश पाठक (Durgesh Pathak)",
-      "D": "डॉ. प्रियंका यादव (Dr. Priyanka Yadav)"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 15,
-    "question": "किस जिले को 'हरित जनपद पुरस्कार' 2024 मिला? / Which district received the Green District Award 2024?",
-    "options": {
-      "A": "पीलीभीत (Pilibhit)",
-      "B": "सोनभद्र (Sonbhadra)",
-      "C": "बहराइच (Bahraich)",
-      "D": "चित्रकूट (Chitrakoot)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 16,
-    "question": "उत्तर प्रदेश की नई स्ट्रीट वेंडर नीति 2024 में क्या जोड़ा गया है? / What's new in UP's street vendor policy 2024?",
-    "options": {
-      "A": "ई-पंजीकरण (E-registration)",
-      "B": "डिजिटल पेमेंट अनिवार्य (Mandatory digital payment)",
-      "C": "मुफ्त बीमा (Free insurance)",
-      "D": "नाईट मार्केट योजना (Night market scheme)"
+      "A": "चित्रकूट / Chitrakoot",
+      "B": "महोबा / Mahoba",
+      "C": "हमीरपुर / Hamirpur",
+      "D": "ललितपुर / Lalitpur"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 17,
-    "question": "2024 में उत्तर प्रदेश में किस नए फिल्म सिटी प्रोजेक्ट की घोषणा हुई? / Which new Film City project was announced in UP 2024?",
+    "id": 12,
+    "question": "उत्तर प्रदेश में किस जल परियोजना से बुंदेलखंड क्षेत्र को पानी मिलेगा? / Which water project will supply water to Bundelkhand region?",
     "options": {
-      "A": "बृज फिल्म सिटी (Braj Film City)",
-      "B": "पूर्वांचल फिल्म हब (Purvanchal Film Hub)",
-      "C": "गंगा फिल्म पार्क (Ganga Film Park)",
-      "D": "यमुना फिल्म सिटी (Yamuna Film City)"
+      "A": "केन-बेतवा लिंक परियोजना / Ken-Betwa Link Project",
+      "B": "शारदा परियोजना / Sharda Project",
+      "C": "सरयू नहर परियोजना / Saryu Canal Project",
+      "D": "यमुना क्लीनिंग प्रोजेक्ट / Yamuna Cleaning Project"
     },
-    "answer": ["D"]
+    "answer": ["A"]
+  },
+  {
+    "id": 13,
+    "question": "उत्तर प्रदेश में किस योजना के तहत शहरी परिवहन को बढ़ावा दिया जा रहा है? / Under which scheme is urban transport promoted in UP?",
+    "options": {
+      "A": "अमृत योजना / AMRUT",
+      "B": "स्मार्ट सिटी मिशन / Smart City Mission",
+      "C": "नगर बस सेवा / Nagar Bus Seva",
+      "D": "एनएचएम / NHM"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 14,
+    "question": "उत्तर प्रदेश में डिफेंस कॉरिडोर कितने नोड्स पर विकसित हो रहा है? / How many nodes are there in UP Defence Corridor?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "7",
+      "D": "4"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "सारनाथ को किस प्रकार के इंफ्रास्ट्रक्चर विकास में शामिल किया गया है? / What type of infrastructure development is planned for Sarnath?",
+    "options": {
+      "A": "बौद्ध सर्किट / Buddhist Circuit",
+      "B": "स्मार्ट हेरिटेज / Smart Heritage",
+      "C": "तीर्थ पर्यटन / Pilgrimage Tourism",
+      "D": "रेलवे कारिडोर / Railway Corridor"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 16,
+    "question": "लखनऊ में प्रस्तावित आईटी सिटी किस क्षेत्र में स्थित है? / Where is the proposed IT City in Lucknow located?",
+    "options": {
+      "A": "चंद्रिका देवी क्षेत्र / Chandrika Devi Area",
+      "B": "अमराई गांव / Amrai Gaon",
+      "C": "शहीद पथ / Shaheed Path",
+      "D": "अंसल / Ansal"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 17,
+    "question": "उत्तर प्रदेश में ग्रामीण क्षेत्रों के लिए कौन सी योजना है जो हाउसिंग इंफ्रास्ट्रक्चर को बढ़ाती है? / Which scheme promotes housing infrastructure in rural UP?",
+    "options": {
+      "A": "प्रधानमंत्री आवास योजना – ग्रामीण / PMAY-G",
+      "B": "मुख्यमंत्री आवास योजना / Mukhya Mantri Awas Yojana",
+      "C": "इंदिरा आवास योजना / Indira Awas Yojana",
+      "D": "बेसहारा योजना / Beshahara Yojana"
+    },
+    "answer": ["A", "B"]
   },
   {
     "id": 18,
-    "question": "उत्तर प्रदेश में शुरू हुई 'ई-विधान प्रणाली' का उद्देश्य क्या है? / What is the purpose of UP’s e-Vidhan system?",
+    "question": "यूपी में किन शहरों में इंटरनेशनल एयरपोर्ट हैं? / Which UP cities have international airports?",
     "options": {
-      "A": "डिजिटल दस्तावेज़ीकरण (Digital documentation)",
-      "B": "पर्यावरण संरक्षण (Environmental protection)",
-      "C": "पारदर्शिता बढ़ाना (Increase transparency)",
-      "D": "विधायकों के खर्च पर निगरानी (Monitoring MLAs’ expenses)"
+      "A": "लखनऊ / Lucknow",
+      "B": "वाराणसी / Varanasi",
+      "C": "गोरखपुर / Gorakhpur",
+      "D": "कुशीनगर / Kushinagar"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 19,
-    "question": "किसे उत्तर प्रदेश का ब्रांड एंबेसडर घोषित किया गया 2024 में? / Who was declared UP’s brand ambassador in 2024?",
+    "question": "अभी हाल ही में कहां से 'UP RRTS कॉरिडोर' का संचालन शुरू हुआ? / Recently, from where was the 'UP RRTS Corridor' inaugurated?",
     "options": {
-      "A": "मनोज बाजपेयी (Manoj Bajpayee)",
-      "B": "पीवी सिंधु (PV Sindhu)",
-      "C": "नवाजुद्दीन सिद्दीकी (Nawazuddin Siddiqui)",
-      "D": "अक्षय कुमार (Akshay Kumar)"
+      "A": "दिल्ली से मेरठ / Delhi to Meerut",
+      "B": "गाजियाबाद से साहिबाबाद / Ghaziabad to Sahibabad",
+      "C": "कानपुर से लखनऊ / Kanpur to Lucknow",
+      "D": "नोएडा से ग्रेटर नोएडा / Noida to Greater Noida"
     },
-    "answer": ["A", "D"]
+    "answer": ["B"]
   },
   {
     "id": 20,
-    "question": "2024 में यूपी में डिजिटल ग्राम योजना का उद्देश्य क्या है? / What is the aim of UP Digital Gram Scheme 2024?",
+    "question": "किस योजना का उद्देश्य यूपी के शहरी क्षेत्रों में स्मार्ट लाइटिंग सिस्टम लाना है? / Which scheme aims to install smart lighting in urban UP?",
     "options": {
-      "A": "ऑनलाइन शिक्षा (Online education)",
-      "B": "ई-स्वास्थ्य सेवाएं (e-Health services)",
-      "C": "विकेन्द्रित प्रशासन (Decentralized governance)",
-      "D": "डिजिटल साक्षरता (Digital literacy)"
+      "A": "AMRUT योजना / AMRUT Yojana",
+      "B": "Street for All मिशन / Street for All Mission",
+      "C": "LED नगर योजना / LED Nagar Yojana",
+      "D": "Smart Cities योजना / Smart Cities Yojana"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "C", "D"]
   }
 ]
