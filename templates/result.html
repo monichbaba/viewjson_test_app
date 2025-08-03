@@ -9,19 +9,19 @@
     <h2>📊 Result</h2>
     {% for r in results %}
       <div class="card mb-3 shadow">
-        <div class="card-header bg-info text-white">
+        <div class="card-header bg-info text-white fw-bold">
           {{ r.question }}
         </div>
         <div class="card-body">
-          <p><strong>Correct Answers:</strong> 
+          <p><strong>Correct Answers:</strong><br>
             {% for c in r.correct %}
-              <span class="badge bg-success">{{ c }}</span>
+              <span class="badge bg-success mb-1">{{ c }}</span><br>
             {% endfor %}
           </p>
-          <p><strong>Your Answers:</strong> 
+          <p><strong>Your Answers:</strong><br>
             {% if r.selected %}
               {% for s in r.selected %}
-                <span class="badge bg-{{ 'success' if s in r.correct else 'danger' }}">{{ s }}</span>
+                <span class="badge bg-{{ 'success' if s in r.correct else 'danger' }} mb-1">{{ s }}</span><br>
               {% endfor %}
             {% else %}
               <span class="text-muted">No Answer Selected</span>

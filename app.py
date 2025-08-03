@@ -3,7 +3,7 @@ import json
 import os
 
 app = Flask(__name__)
-app.secret_key = 'supersecretkey'  # Required for session
+app.secret_key = 'supersecretkey'  # 🔒 Required for session
 
 # Load MCQs from JSON file
 QUESTIONS_FILE = os.path.join('mcqs', 'questions.json')
@@ -36,27 +36,33 @@ def submit():
     if not session.get('authenticated'):
         return redirect('/password')
 
+    # Collect user answers
     user_answers = {}
     for q in questions:
         qid = str(q["id"])
         selected_options = request.form.getlist(f'q{qid}')
         user_answers[qid] = selected_options
 
+    # Prepare results
     results = []
     for q in questions:
         qid = str(q["id"])
-        correct = q["answer"]
-        if isinstance(correct, str):
-            correct = [correct]  # Ensure it's a list
-        user = user_answers.get(qid, [])
+        correct_keys = q["answer"]
+        if isinstance(correct_keys, str):
+            correct_keys = [correct_keys]  # ensure it's a list
 
-        # Compare sets after stripping
-        is_correct = set(map(str.strip, correct)) == set(map(str.strip, user))
+        user_keys = user_answers.get(qid, [])
+
+        # Full text answers like: A – प्राचीन वास्तुकला शैली
+        correct_texts = [f"{key} – {q['options'][key]}" for key in correct_keys]
+        user_texts = [f"{key} – {q['options'][key]}" for key in user_keys if key in q['options']]
+
+        is_correct = set(map(str.strip, correct_keys)) == set(map(str.strip, user_keys))
 
         results.append({
             "question": q["question"],
-            "correct": correct,
-            "user": user,
+            "correct": correct_texts,
+            "selected": user_texts,
             "is_correct": is_correct
         })
 
