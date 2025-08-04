@@ -1,112 +1,222 @@
 [
   {
     "id": 1,
-    "question": "गायों (Cattle) में कौन-कौन से रोग सामान्य रूप से पाए जाते हैं?\nWhich of the following diseases are commonly found in cattle?",
+    "question": "भारत में लौह अयस्क की प्रमुख खदानें कहाँ स्थित हैं?\nWhere are the major iron ore mines located in India?",
     "options": {
-      "A": "FMD / खुरपका-मुंहपका",
-      "B": "Brucellosis / ब्रुसेलोसिस",
-      "C": "Mastitis / थनैला",
-      "D": "Swine Fever / स्वाइन फीवर"
+      "A": "A. बेलाडीला - छत्तीसगढ़ / Bailadila - Chhattisgarh",
+      "B": "B. नोमोंडी - झारखंड / Noamundi - Jharkhand",
+      "C": "C. बारबिल - ओडिशा / Barbil - Odisha",
+      "D": "D. खेतड़ी - राजस्थान / Khetri - Rajasthan"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "भैंसों (Buffalo) में आमतौर पर कौन-कौन से रोग होते हैं?\nWhich of the following are common diseases in buffaloes?",
+    "question": "भारत में बॉक्साइट का प्रमुख उत्पादक राज्य कौन-कौन से हैं?\nWhich states are major producers of Bauxite in India?",
     "options": {
-      "A": "Haemorrhagic Septicaemia / रक्तात्सारिक सेप्टीसीमिया",
-      "B": "FMD / खुरपका-मुंहपका",
-      "C": "Brucellosis / ब्रुसेलोसिस",
-      "D": "Newcastle disease / न्यूकैसल रोग"
+      "A": "A. ओडिशा / Odisha",
+      "B": "B. झारखंड / Jharkhand",
+      "C": "C. तमिलनाडु / Tamil Nadu",
+      "D": "D. गुजरात / Gujarat"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "बकरियों (Goat) में निम्नलिखित में से कौन-कौन से रोग पाए जाते हैं?\nWhich of the following are goat-specific diseases?",
+    "question": "भारत में कोयले की प्रमुख खदानें कहाँ पाई जाती हैं?\nWhere are the major coal mines located in India?",
     "options": {
-      "A": "PPR / प्लेग",
-      "B": "Enterotoxaemia / उदरविषाक्तता",
-      "C": "FMD / खुरपका-मुंहपका",
-      "D": "Avian Flu / बर्ड फ्लू"
+      "A": "A. झरिया - झारखंड / Jharia - Jharkhand",
+      "B": "B. रानीगंज - पश्चिम बंगाल / Raniganj - West Bengal",
+      "C": "C. चंद्रपुर - महाराष्ट्र / Chandrapur - Maharashtra",
+      "D": "D. सिंगरौली - मध्य प्रदेश / Singrauli - Madhya Pradesh"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 4,
-    "question": "भेड़ों (Sheep) में सामान्य रूप से कौन-कौन से रोग पाए जाते हैं?\nWhich diseases are commonly seen in sheep?",
+    "question": "भारत में तांबे की खदानें कहाँ-कहाँ स्थित हैं?\nWhere are the copper mines located in India?",
     "options": {
-      "A": "Blue Tongue / ब्लूटंग",
-      "B": "PPR / प्लेग",
-      "C": "Enterotoxaemia / उदरविषाक्तता",
-      "D": "Swine Fever / स्वाइन फीवर"
+      "A": "A. खेतड़ी - राजस्थान / Khetri - Rajasthan",
+      "B": "B. मलांजखंड - मध्य प्रदेश / Malanjkhand - Madhya Pradesh",
+      "C": "C. चिल्कोला - गुजरात / Chilkola - Gujarat",
+      "D": "D. सिंदेसर खदान - झारखंड / Sindesar Khadan - Jharkhand"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 5,
-    "question": "मुर्गियों (Poultry) में निम्नलिखित में से कौन-कौन से रोग होते हैं?\nWhich of the following diseases affect poultry?",
+    "question": "निम्नलिखित में से कौन-कौन से राज्य मैंगनीज के प्रमुख उत्पादक हैं?\nWhich of the following states are major producers of Manganese in India?",
     "options": {
-      "A": "Ranikhet / न्यूकैसल रोग",
-      "B": "Infectious Bursal Disease (IBD) / गांठ रोग",
-      "C": "Avian Influenza / पक्षी फ्लू",
-      "D": "Brucellosis / ब्रुसेलोसिस"
+      "A": "A. मध्य प्रदेश / Madhya Pradesh",
+      "B": "B. ओडिशा / Odisha",
+      "C": "C. महाराष्ट्र / Maharashtra",
+      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "सुअरों (Pigs) में सामान्य कौन-कौन से रोग होते हैं?\nWhich of the following are common diseases in pigs?",
+    "question": "निम्नलिखित में से कौन-कौन से खनिज पूर्वी भारत में अधिक पाए जाते हैं?\nWhich of the following minerals are more abundant in Eastern India?",
     "options": {
-      "A": "Swine Fever / स्वाइन फीवर",
-      "B": "Foot and Mouth Disease / खुरपका-मुंहपका",
-      "C": "Brucellosis / ब्रुसेलोसिस",
-      "D": "Tetanus / धनुस्तंभ"
+      "A": "A. लौह अयस्क / Iron Ore",
+      "B": "B. कोयला / Coal",
+      "C": "C. सोना / Gold",
+      "D": "D. बॉक्साइट / Bauxite"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 7,
-    "question": "FMD (खुरपका-मुंहपका) किस-किस पशु प्रजाति में होता है?\nFMD occurs in which of the following animal species?",
+    "question": "भारत में यूरेनियम की प्रमुख खदानें कहाँ स्थित हैं?\nWhere are the major uranium mines located in India?",
     "options": {
-      "A": "Cattle / गाय",
-      "B": "Buffalo / भैंस",
-      "C": "Goat / बकरी",
-      "D": "Pig / सुअर"
+      "A": "A. जादूगोड़ा - झारखंड / Jaduguda - Jharkhand",
+      "B": "B. टुमलपल्ली - आंध्र प्रदेश / Tummalapalle - Andhra Pradesh",
+      "C": "C. नारवा - छत्तीसगढ़ / Narwa - Chhattisgarh",
+      "D": "D. डोमियालगुड़ा - तेलंगाना / Domiyalaguda - Telangana"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A", "B"]
   },
   {
     "id": 8,
-    "question": "Brucellosis किस-किस में पाया जाता है?\nBrucellosis is seen in which of the following species?",
+    "question": "भारत में सोने की प्रमुख खदानें कौन सी हैं?\nWhich are the major gold mines in India?",
     "options": {
-      "A": "Cattle / गाय",
-      "B": "Buffalo / भैंस",
-      "C": "Pig / सुअर",
-      "D": "Poultry / मुर्गी"
+      "A": "A. कोलार - कर्नाटक / Kolar - Karnataka",
+      "B": "B. हुत्ती - कर्नाटक / Hutti - Karnataka",
+      "C": "C. सोनभद्र - उत्तर प्रदेश / Sonbhadra - Uttar Pradesh",
+      "D": "D. किरिबुरू - ओडिशा / Kiriburu - Odisha"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "PPR रोग मुख्यतः किस प्रजाति को प्रभावित करता है?\nPPR mainly affects which of the following species?",
+    "question": "निम्नलिखित खनिजों में से कौन सा भारत में सबसे असमान रूप से वितरित है?\nWhich of the following minerals is most unevenly distributed in India?",
     "options": {
-      "A": "Goat / बकरी",
-      "B": "Sheep / भेड़",
-      "C": "Pig / सुअर",
-      "D": "Cattle / गाय"
+      "A": "A. कोयला / Coal",
+      "B": "B. लोहा / Iron",
+      "C": "C. तांबा / Copper",
+      "D": "D. सोना / Gold"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 10,
+    "question": "भारत में किस राज्य में सबसे अधिक लौह अयस्क का भंडार पाया जाता है?\nWhich Indian state has the largest reserve of Iron Ore?",
+    "options": {
+      "A": "A. ओडिशा / Odisha",
+      "B": "B. झारखंड / Jharkhand",
+      "C": "C. कर्नाटक / Karnataka",
+      "D": "D. छत्तीसगढ़ / Chhattisgarh"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 11,
+    "question": "भारत के कौन से राज्य तांबे के उत्पादन में अग्रणी हैं?\nWhich Indian states are leading in copper production?",
+    "options": {
+      "A": "A. राजस्थान / Rajasthan",
+      "B": "B. मध्य प्रदेश / Madhya Pradesh",
+      "C": "C. गुजरात / Gujarat",
+      "D": "D. उत्तराखंड / Uttarakhand"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 12,
+    "question": "भारत के कौन-कौन से राज्य कोयले में आत्मनिर्भर हैं?\nWhich Indian states are self-sufficient in coal?",
+    "options": {
+      "A": "A. झारखंड / Jharkhand",
+      "B": "B. ओडिशा / Odisha",
+      "C": "C. बिहार / Bihar",
+      "D": "D. छत्तीसगढ़ / Chhattisgarh"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 13,
+    "question": "निम्नलिखित में से कौन सा संयोजन सही है?\nWhich of the following combinations are correct?",
+    "options": {
+      "A": "A. बालाघाट – मैंगनीज / Balaghat – Manganese",
+      "B": "B. खेतड़ी – तांबा / Khetri – Copper",
+      "C": "C. जादूगोड़ा – यूरेनियम / Jaduguda – Uranium",
+      "D": "D. झरिया – बॉक्साइट / Jharia – Bauxite"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 14,
+    "question": "भारत में लिग्नाइट कोयला प्रमुख रूप से कहाँ पाया जाता है?\nWhere is lignite coal primarily found in India?",
+    "options": {
+      "A": "A. नेवेली – तमिलनाडु / Neyveli – Tamil Nadu",
+      "B": "B. जसपुर – ओडिशा / Jaspur – Odisha",
+      "C": "C. पचपट्टी – गुजरात / Pachpatti – Gujarat",
+      "D": "D. अलवर – राजस्थान / Alwar – Rajasthan"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "भारत में एलुमिनियम का प्रमुख स्रोत क्या है?\nWhat is the primary source of Aluminium in India?",
+    "options": {
+      "A": "A. बॉक्साइट / Bauxite",
+      "B": "B. टिन / Tin",
+      "C": "C. क्रोमाइट / Chromite",
+      "D": "D. कोलम्बाइट / Columbite"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "भारत में सबसे अधिक अभ्रक (mica) कहाँ पाया जाता है?\nWhere is the highest amount of mica found in India?",
+    "options": {
+      "A": "A. झारखंड / Jharkhand",
+      "B": "B. आंध्र प्रदेश / Andhra Pradesh",
+      "C": "C. राजस्थान / Rajasthan",
+      "D": "D. उत्तराखंड / Uttarakhand"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 10,
-    "question": "Ranikhet रोग मुख्यतः किस प्रजाति से जुड़ा है?\nRanikhet disease is primarily associated with which species?",
+    "id": 17,
+    "question": "भारत में किस खनिज के लिए 'सिंहभूम' क्षेत्र प्रसिद्ध है?\nWhich mineral is Singhbhum area famous for?",
     "options": {
-      "A": "Poultry / मुर्गी",
-      "B": "Cattle / गाय",
-      "C": "Sheep / भेड़",
-      "D": "Pig / सुअर"
+      "A": "A. लोहा / Iron",
+      "B": "B. सोना / Gold",
+      "C": "C. तांबा / Copper",
+      "D": "D. बॉक्साइट / Bauxite"
     },
-    "answer": ["A"]
+    "answer": ["C"]
+  },
+  {
+    "id": 18,
+    "question": "निम्न में से कौन से खनिज भारत से निर्यात किए जाते हैं?\nWhich of the following minerals are exported from India?",
+    "options": {
+      "A": "A. लौह अयस्क / Iron Ore",
+      "B": "B. बॉक्साइट / Bauxite",
+      "C": "C. कोयला / Coal",
+      "D": "D. क्रोमाइट / Chromite"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 19,
+    "question": "भारत में किस खनिज का प्रयोग प्रमुख रूप से स्टील निर्माण में होता है?\nWhich mineral is mainly used in steel production in India?",
+    "options": {
+      "A": "A. लौह अयस्क / Iron Ore",
+      "B": "B. मैंगनीज / Manganese",
+      "C": "C. कोयला / Coal",
+      "D": "D. बॉक्साइट / Bauxite"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 20,
+    "question": "खनिज संसाधनों के दोहन के क्या दुष्प्रभाव हो सकते हैं?\nWhat are possible negative effects of mineral exploitation?",
+    "options": {
+      "A": "A. पारिस्थितिक असंतुलन / Ecological imbalance",
+      "B": "B. जनजातीय विस्थापन / Tribal displacement",
+      "C": "C. भूमिगत जल प्रदूषण / Groundwater pollution",
+      "D": "D. जैविक कृषि में वृद्धि / Increase in organic farming"
+    },
+    "answer": ["A", "B", "C"]
   }
 ]
