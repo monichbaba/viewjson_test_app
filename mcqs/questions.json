@@ -1,222 +1,444 @@
 [
   {
     "id": 1,
-    "question": "भारत में लौह अयस्क की प्रमुख खदानें कहाँ स्थित हैं?\nWhere are the major iron ore mines located in India?",
+    "question": "भारत में सबसे बड़ा ताप विद्युत संयंत्र कौन सा है?\nWhich is the largest thermal power plant in India?",
     "options": {
-      "A": "A. बेलाडीला - छत्तीसगढ़ / Bailadila - Chhattisgarh",
-      "B": "B. नोमोंडी - झारखंड / Noamundi - Jharkhand",
-      "C": "C. बारबिल - ओडिशा / Barbil - Odisha",
-      "D": "D. खेतड़ी - राजस्थान / Khetri - Rajasthan"
+      "A": "A. मुंद्रा ताप विद्युत संयंत्र, गुजरात / Mundra Thermal Power Plant, Gujarat",
+      "B": "B. तूतुकुड़ी, तमिलनाडु / Tuticorin, Tamil Nadu",
+      "C": "C. कोरबा, छत्तीसगढ़ / Korba, Chhattisgarh",
+      "D": "D. सिंगरौली, मध्य प्रदेश / Singrauli, Madhya Pradesh"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "भारत में बॉक्साइट का प्रमुख उत्पादक राज्य कौन-कौन से हैं?\nWhich states are major producers of Bauxite in India?",
+    "question": "भारत में कौन-कौन से राज्य सौर ऊर्जा उत्पादन में अग्रणी हैं?\nWhich of the following states are leading in solar energy production in India?",
     "options": {
-      "A": "A. ओडिशा / Odisha",
-      "B": "B. झारखंड / Jharkhand",
+      "A": "A. राजस्थान / Rajasthan",
+      "B": "B. गुजरात / Gujarat",
       "C": "C. तमिलनाडु / Tamil Nadu",
-      "D": "D. गुजरात / Gujarat"
+      "D": "D. पंजाब / Punjab"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "भारत में कोयले की प्रमुख खदानें कहाँ पाई जाती हैं?\nWhere are the major coal mines located in India?",
+    "question": "निम्नलिखित में से कौन सा स्थल जल विद्युत उत्पादन के लिए प्रसिद्ध है?\nWhich of the following sites is famous for hydroelectric power generation?",
     "options": {
-      "A": "A. झरिया - झारखंड / Jharia - Jharkhand",
-      "B": "B. रानीगंज - पश्चिम बंगाल / Raniganj - West Bengal",
-      "C": "C. चंद्रपुर - महाराष्ट्र / Chandrapur - Maharashtra",
-      "D": "D. सिंगरौली - मध्य प्रदेश / Singrauli - Madhya Pradesh"
+      "A": "A. भाखड़ा नांगल / Bhakra Nangal",
+      "B": "B. तेज़पुर / Tezpur",
+      "C": "C. कोडैकनाल / Kodaikanal",
+      "D": "D. लुधियाना / Ludhiana"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "भारत में तांबे की खदानें कहाँ-कहाँ स्थित हैं?\nWhere are the copper mines located in India?",
+    "question": "भारत में निम्नलिखित में से कौन सी परियोजनाएं पवन ऊर्जा से संबंधित हैं?\nWhich of the following projects are related to wind energy in India?",
     "options": {
-      "A": "A. खेतड़ी - राजस्थान / Khetri - Rajasthan",
-      "B": "B. मलांजखंड - मध्य प्रदेश / Malanjkhand - Madhya Pradesh",
-      "C": "C. चिल्कोला - गुजरात / Chilkola - Gujarat",
-      "D": "D. सिंदेसर खदान - झारखंड / Sindesar Khadan - Jharkhand"
+      "A": "A. मुप्पंडल, तमिलनाडु / Muppandal, Tamil Nadu",
+      "B": "B. जोधपुर, राजस्थान / Jodhpur, Rajasthan",
+      "C": "C. धारवाड़, कर्नाटक / Dharwad, Karnataka",
+      "D": "D. कोटा, राजस्थान / Kota, Rajasthan"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से कौन-कौन से राज्य मैंगनीज के प्रमुख उत्पादक हैं?\nWhich of the following states are major producers of Manganese in India?",
+    "question": "भारत का पहला परमाणु ऊर्जा संयंत्र कहाँ स्थित है?\nWhere is India's first nuclear power plant located?",
     "options": {
-      "A": "A. मध्य प्रदेश / Madhya Pradesh",
-      "B": "B. ओडिशा / Odisha",
-      "C": "C. महाराष्ट्र / Maharashtra",
-      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
+      "A": "A. तारापुर, महाराष्ट्र / Tarapur, Maharashtra",
+      "B": "B. काक्रापार, गुजरात / Kakrapar, Gujarat",
+      "C": "C. कलपक्कम, तमिलनाडु / Kalpakkam, Tamil Nadu",
+      "D": "D. रावतभाटा, राजस्थान / Rawatbhata, Rajasthan"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "निम्नलिखित में से कौन-कौन से खनिज पूर्वी भारत में अधिक पाए जाते हैं?\nWhich of the following minerals are more abundant in Eastern India?",
+    "question": "पारंपरिक ऊर्जा स्रोतों में शामिल हैं:\nWhich of the following are traditional energy sources?",
     "options": {
-      "A": "A. लौह अयस्क / Iron Ore",
-      "B": "B. कोयला / Coal",
-      "C": "C. सोना / Gold",
-      "D": "D. बॉक्साइट / Bauxite"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 7,
-    "question": "भारत में यूरेनियम की प्रमुख खदानें कहाँ स्थित हैं?\nWhere are the major uranium mines located in India?",
-    "options": {
-      "A": "A. जादूगोड़ा - झारखंड / Jaduguda - Jharkhand",
-      "B": "B. टुमलपल्ली - आंध्र प्रदेश / Tummalapalle - Andhra Pradesh",
-      "C": "C. नारवा - छत्तीसगढ़ / Narwa - Chhattisgarh",
-      "D": "D. डोमियालगुड़ा - तेलंगाना / Domiyalaguda - Telangana"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 8,
-    "question": "भारत में सोने की प्रमुख खदानें कौन सी हैं?\nWhich are the major gold mines in India?",
-    "options": {
-      "A": "A. कोलार - कर्नाटक / Kolar - Karnataka",
-      "B": "B. हुत्ती - कर्नाटक / Hutti - Karnataka",
-      "C": "C. सोनभद्र - उत्तर प्रदेश / Sonbhadra - Uttar Pradesh",
-      "D": "D. किरिबुरू - ओडिशा / Kiriburu - Odisha"
+      "A": "A. कोयला / Coal",
+      "B": "B. जल विद्युत / Hydropower",
+      "C": "C. कच्चा तेल / Crude oil",
+      "D": "D. यूरेनियम / Uranium"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 9,
-    "question": "निम्नलिखित खनिजों में से कौन सा भारत में सबसे असमान रूप से वितरित है?\nWhich of the following minerals is most unevenly distributed in India?",
+    "id": 7,
+    "question": "भारत के किस राज्य में सबसे अधिक कोयला आधारित ताप संयंत्र हैं?\nWhich state in India has the highest number of coal-based thermal plants?",
     "options": {
-      "A": "A. कोयला / Coal",
-      "B": "B. लोहा / Iron",
-      "C": "C. तांबा / Copper",
-      "D": "D. सोना / Gold"
+      "A": "A. झारखंड / Jharkhand",
+      "B": "B. मध्य प्रदेश / Madhya Pradesh",
+      "C": "C. छत्तीसगढ़ / Chhattisgarh",
+      "D": "D. पश्चिम बंगाल / West Bengal"
     },
-    "answer": ["D"]
+    "answer": ["C"]
+  },
+  {
+    "id": 8,
+    "question": "भारत के किस राज्य में सबसे बड़ी सौर पार्क (solar park) स्थित है?\nWhich Indian state hosts the largest solar park?",
+    "options": {
+      "A": "A. राजस्थान / Rajasthan",
+      "B": "B. गुजरात / Gujarat",
+      "C": "C. आंध्र प्रदेश / Andhra Pradesh",
+      "D": "D. महाराष्ट्र / Maharashtra"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 9,
+    "question": "गैर-पारंपरिक ऊर्जा के उदाहरण कौन से हैं?\nWhich of the following are examples of non-conventional energy sources?",
+    "options": {
+      "A": "A. सौर ऊर्जा / Solar energy",
+      "B": "B. पवन ऊर्जा / Wind energy",
+      "C": "C. बायोगैस / Biogas",
+      "D": "D. कोयला / Coal"
+    },
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "भारत में किस राज्य में सबसे अधिक लौह अयस्क का भंडार पाया जाता है?\nWhich Indian state has the largest reserve of Iron Ore?",
+    "question": "कलपक्कम परमाणु संयंत्र किस राज्य में स्थित है?\nIn which state is Kalpakkam nuclear plant located?",
     "options": {
-      "A": "A. ओडिशा / Odisha",
-      "B": "B. झारखंड / Jharkhand",
-      "C": "C. कर्नाटक / Karnataka",
-      "D": "D. छत्तीसगढ़ / Chhattisgarh"
+      "A": "A. तमिलनाडु / Tamil Nadu",
+      "B": "B. केरल / Kerala",
+      "C": "C. महाराष्ट्र / Maharashtra",
+      "D": "D. ओडिशा / Odisha"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "भारत के कौन से राज्य तांबे के उत्पादन में अग्रणी हैं?\nWhich Indian states are leading in copper production?",
+    "question": "भारत की किस नदी पर नागार्जुनसागर जल विद्युत परियोजना स्थित है?\nNagarjuna Sagar hydroelectric project is located on which river in India?",
     "options": {
-      "A": "A. राजस्थान / Rajasthan",
-      "B": "B. मध्य प्रदेश / Madhya Pradesh",
-      "C": "C. गुजरात / Gujarat",
-      "D": "D. उत्तराखंड / Uttarakhand"
+      "A": "A. गोदावरी / Godavari",
+      "B": "B. कृष्णा / Krishna",
+      "C": "C. कावेरी / Kaveri",
+      "D": "D. तापी / Tapi"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 12,
-    "question": "भारत के कौन-कौन से राज्य कोयले में आत्मनिर्भर हैं?\nWhich Indian states are self-sufficient in coal?",
+    "question": "काकरापार परमाणु ऊर्जा स्टेशन किस राज्य में स्थित है?\nKakrapar Nuclear Power Station is located in which state?",
     "options": {
-      "A": "A. झारखंड / Jharkhand",
-      "B": "B. ओडिशा / Odisha",
-      "C": "C. बिहार / Bihar",
-      "D": "D. छत्तीसगढ़ / Chhattisgarh"
+      "A": "A. गुजरात / Gujarat",
+      "B": "B. राजस्थान / Rajasthan",
+      "C": "C. महाराष्ट्र / Maharashtra",
+      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "निम्नलिखित में से कौन सा संयोजन सही है?\nWhich of the following combinations are correct?",
+    "question": "कोयंबटूर क्षेत्र किस ऊर्जा स्रोत के लिए प्रसिद्ध है?\nCoimbatore region is known for which type of energy source?",
     "options": {
-      "A": "A. बालाघाट – मैंगनीज / Balaghat – Manganese",
-      "B": "B. खेतड़ी – तांबा / Khetri – Copper",
-      "C": "C. जादूगोड़ा – यूरेनियम / Jaduguda – Uranium",
-      "D": "D. झरिया – बॉक्साइट / Jharia – Bauxite"
+      "A": "A. सौर ऊर्जा / Solar Energy",
+      "B": "B. जल ऊर्जा / Hydropower",
+      "C": "C. पवन ऊर्जा / Wind Energy",
+      "D": "D. थर्मल ऊर्जा / Thermal Energy"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 14,
-    "question": "भारत में लिग्नाइट कोयला प्रमुख रूप से कहाँ पाया जाता है?\nWhere is lignite coal primarily found in India?",
+    "question": "भारत के प्रमुख जल विद्युत संयंत्रों में कौन सा उत्तराखंड में है?\nWhich major hydroelectric project is located in Uttarakhand?",
     "options": {
-      "A": "A. नेवेली – तमिलनाडु / Neyveli – Tamil Nadu",
-      "B": "B. जसपुर – ओडिशा / Jaspur – Odisha",
-      "C": "C. पचपट्टी – गुजरात / Pachpatti – Gujarat",
-      "D": "D. अलवर – राजस्थान / Alwar – Rajasthan"
+      "A": "A. टिहरी / Tehri",
+      "B": "B. भाखड़ा / Bhakra",
+      "C": "C. नागार्जुनसागर / Nagarjuna Sagar",
+      "D": "D. कोयना / Koyna"
     },
     "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "भारत में एलुमिनियम का प्रमुख स्रोत क्या है?\nWhat is the primary source of Aluminium in India?",
+    "question": "भारत में पहला सौर गांव कहाँ है?\nWhere is India's first solar village located?",
     "options": {
-      "A": "A. बॉक्साइट / Bauxite",
-      "B": "B. टिन / Tin",
-      "C": "C. क्रोमाइट / Chromite",
-      "D": "D. कोलम्बाइट / Columbite"
+      "A": "A. मोढेरा, गुजरात / Modhera, Gujarat",
+      "B": "B. फतेहपुर, उत्तर प्रदेश / Fatehpur, UP",
+      "C": "C. पलवल, हरियाणा / Palwal, Haryana",
+      "D": "D. चुरू, राजस्थान / Churu, Rajasthan"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "भारत में सबसे अधिक अभ्रक (mica) कहाँ पाया जाता है?\nWhere is the highest amount of mica found in India?",
+    "question": "भारत में कोयले का सबसे बड़ा उत्पादक राज्य कौन सा है?\nWhich is the largest coal-producing state in India?",
     "options": {
-      "A": "A. झारखंड / Jharkhand",
-      "B": "B. आंध्र प्रदेश / Andhra Pradesh",
-      "C": "C. राजस्थान / Rajasthan",
-      "D": "D. उत्तराखंड / Uttarakhand"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 17,
-    "question": "भारत में किस खनिज के लिए 'सिंहभूम' क्षेत्र प्रसिद्ध है?\nWhich mineral is Singhbhum area famous for?",
-    "options": {
-      "A": "A. लोहा / Iron",
-      "B": "B. सोना / Gold",
-      "C": "C. तांबा / Copper",
-      "D": "D. बॉक्साइट / Bauxite"
+      "A": "A. ओडिशा / Odisha",
+      "B": "B. झारखंड / Jharkhand",
+      "C": "C. छत्तीसगढ़ / Chhattisgarh",
+      "D": "D. मध्य प्रदेश / Madhya Pradesh"
     },
     "answer": ["C"]
   },
   {
-    "id": 18,
-    "question": "निम्न में से कौन से खनिज भारत से निर्यात किए जाते हैं?\nWhich of the following minerals are exported from India?",
+    "id": 17,
+    "question": "कचरे से ऊर्जा उत्पादन किस प्रकार की ऊर्जा है?\nWaste-to-energy is classified as what type of energy?",
     "options": {
-      "A": "A. लौह अयस्क / Iron Ore",
-      "B": "B. बॉक्साइट / Bauxite",
-      "C": "C. कोयला / Coal",
-      "D": "D. क्रोमाइट / Chromite"
+      "A": "A. पारंपरिक / Conventional",
+      "B": "B. गैर-पारंपरिक / Non-Conventional",
+      "C": "C. मिश्रित / Hybrid",
+      "D": "D. परमाणु / Nuclear"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
+  },
+  {
+    "id": 18,
+    "question": "भारत का 'पवन ऊर्जा राजधानी' किसे कहा जाता है?\nWhich place is known as the 'Wind Energy Capital' of India?",
+    "options": {
+      "A": "A. जयपुर / Jaipur",
+      "B": "B. चेन्नई / Chennai",
+      "C": "C. मुप्पंडल / Muppandal",
+      "D": "D. बेंगलुरु / Bengaluru"
+    },
+    "answer": ["C"]
   },
   {
     "id": 19,
-    "question": "भारत में किस खनिज का प्रयोग प्रमुख रूप से स्टील निर्माण में होता है?\nWhich mineral is mainly used in steel production in India?",
+    "question": "तारापुर संयंत्र किस प्रकार की ऊर्जा से जुड़ा है?\nTarapur Plant is associated with which type of energy?",
     "options": {
-      "A": "A. लौह अयस्क / Iron Ore",
-      "B": "B. मैंगनीज / Manganese",
-      "C": "C. कोयला / Coal",
-      "D": "D. बॉक्साइट / Bauxite"
+      "A": "A. जल विद्युत / Hydropower",
+      "B": "B. परमाणु / Nuclear",
+      "C": "C. सौर / Solar",
+      "D": "D. पवन / Wind"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 20,
-    "question": "खनिज संसाधनों के दोहन के क्या दुष्प्रभाव हो सकते हैं?\nWhat are possible negative effects of mineral exploitation?",
+    "question": "भारत में सबसे बड़ी जल विद्युत परियोजना कौन सी है?\nWhich is the largest hydroelectric project in India?",
     "options": {
-      "A": "A. पारिस्थितिक असंतुलन / Ecological imbalance",
-      "B": "B. जनजातीय विस्थापन / Tribal displacement",
-      "C": "C. भूमिगत जल प्रदूषण / Groundwater pollution",
-      "D": "D. जैविक कृषि में वृद्धि / Increase in organic farming"
+      "A": "A. भाखड़ा-नांगल / Bhakra-Nangal",
+      "B": "B. टिहरी / Tehri",
+      "C": "C. नाथपा झाकरी / Nathpa Jhakri",
+      "D": "D. कोयना / Koyna"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "सौर ऊर्जा उत्पादन के लिए प्रमुख पार्क कौन सा है?\nWhich is a major solar power park in India?",
+    "options": {
+      "A": "A. खवड़ा, गुजरात / Khavda, Gujarat",
+      "B": "B. रीवा, मध्यप्रदेश / Rewa, MP",
+      "C": "C. पवागडा, कर्नाटक / Pavagada, Karnataka",
+      "D": "D. सभी / All of these"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 22,
+    "question": "बायोगैस संयंत्रों के लिए कौन सा राज्य अग्रणी है?\nWhich state is leading in biogas plants in India?",
+    "options": {
+      "A": "A. उत्तर प्रदेश / Uttar Pradesh",
+      "B": "B. महाराष्ट्र / Maharashtra",
+      "C": "C. पंजाब / Punjab",
+      "D": "D. हरियाणा / Haryana"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 23,
+    "question": "कोयना परियोजना किस राज्य में है?\nKoyna Hydroelectric Project is located in which state?",
+    "options": {
+      "A": "A. आंध्र प्रदेश / Andhra Pradesh",
+      "B": "B. महाराष्ट्र / Maharashtra",
+      "C": "C. ओडिशा / Odisha",
+      "D": "D. केरल / Kerala"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 24,
+    "question": "भारत में परमाणु ऊर्जा संयंत्रों की संख्या लगभग कितनी है?\nWhat is the approximate number of nuclear power plants in India?",
+    "options": {
+      "A": "A. 7",
+      "B": "B. 10",
+      "C": "C. 12",
+      "D": "D. 22"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 25,
+    "question": "भारत में गहराई पर ड्रिलिंग से प्राप्त ऊर्जा को क्या कहते हैं?\nWhat is the energy obtained from deep earth drilling in India called?",
+    "options": {
+      "A": "A. भू-तापीय ऊर्जा / Geothermal Energy",
+      "B": "B. सौर ऊर्जा / Solar Energy",
+      "C": "C. जल विद्युत / Hydropower",
+      "D": "D. पवन ऊर्जा / Wind Energy"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 26,
+    "question": "दमन और दीव किस प्रकार की ऊर्जा के लिए संभावित क्षेत्र है?\nDaman and Diu is a potential site for which type of energy?",
+    "options": {
+      "A": "A. सौर ऊर्जा / Solar",
+      "B": "B. परमाणु ऊर्जा / Nuclear",
+      "C": "C. भू-तापीय / Geothermal",
+      "D": "D. बायोगैस / Biogas"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "सबसे बड़ी अपतटीय पवन ऊर्जा परियोजना कहाँ प्रस्तावित है?\nWhere is India's largest offshore wind project proposed?",
+    "options": {
+      "A": "A. गुजरात / Gujarat",
+      "B": "B. केरल / Kerala",
+      "C": "C. ओडिशा / Odisha",
+      "D": "D. महाराष्ट्र / Maharashtra"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "भारत में सौर ऊर्जा पर कार्य करने वाली प्रमुख सरकारी एजेंसी कौन सी है?\nWhich is the main government agency working on solar energy in India?",
+    "options": {
+      "A": "A. NTPC",
+      "B": "B. BHEL",
+      "C": "C. SECI (Solar Energy Corporation of India)",
+      "D": "D. NHPC"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 29,
+    "question": "भारत में पहली भू-तापीय परियोजना कहाँ शुरू हुई?\nWhere was India's first geothermal project started?",
+    "options": {
+      "A": "A. पगेल, लद्दाख / Puga, Ladakh",
+      "B": "B. लेह / Leh",
+      "C": "C. नैनीताल / Nainital",
+      "D": "D. श्रीनगर / Srinagar"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 30,
+    "question": "भारत की कुल ऊर्जा उत्पादन में गैर-पारंपरिक स्रोतों की हिस्सेदारी लगभग कितनी है?\nWhat is the approximate share of non-conventional sources in India's total energy production?",
+    "options": {
+      "A": "A. 10%",
+      "B": "B. 20%",
+      "C": "C. 30%",
+      "D": "D. 40%"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 31,
+    "question": "भारत की प्रति व्यक्ति विद्युत खपत वैश्विक औसत से कम क्यों है?\nWhy is India's per capita electricity consumption lower than the global average?",
+    "options": {
+      "A": "A. ग्रामीण क्षेत्रों में पहुंच की कमी / Lack of access in rural areas",
+      "B": "B. अक्षय ऊर्जा पर अधिक निर्भरता / Greater dependence on renewable sources",
+      "C": "C. औद्योगिकीकरण का निम्न स्तर / Low level of industrialization",
+      "D": "D. उच्च आयकर दरें / High income tax rates"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 32,
+    "question": "निम्न में से कौन-सा कथन सही है?\nWhich of the following statements is/are correct?",
+    "options": {
+      "A": "A. भारत की प्रति व्यक्ति ऊर्जा खपत लगातार बढ़ रही है। / India's per capita energy consumption is steadily increasing.",
+      "B": "B. 2030 तक भारत की 100% ऊर्जा गैर-पारंपरिक स्रोतों से होगी। / By 2030, India will meet 100% of its energy needs from renewable sources.",
+      "C": "C. पारंपरिक ऊर्जा अभी भी प्रमुख स्रोत है। / Conventional energy still remains the dominant source.",
+      "D": "D. भारत में प्रति व्यक्ति ऊर्जा खपत वैश्विक औसत से अधिक है। / India's per capita energy consumption is higher than global average."
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 33,
+    "question": "भारत में निम्न में से किन-किन राज्यों की प्रति व्यक्ति विद्युत खपत उच्चतम है?\nWhich of the following states in India have the highest per capita electricity consumption?",
+    "options": {
+      "A": "A. चंडीगढ़ / Chandigarh",
+      "B": "B. बिहार / Bihar",
+      "C": "C. गुजरात / Gujarat",
+      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 34,
+    "question": "भारत में गैर-पारंपरिक ऊर्जा की प्रति व्यक्ति खपत सबसे अधिक बढ़ी है:\nIn India, the per capita consumption of renewable energy has grown the most in:",
+    "options": {
+      "A": "A. सौर ऊर्जा / Solar energy",
+      "B": "B. बायोगैस / Biogas",
+      "C": "C. कोयला / Coal",
+      "D": "D. जलविद्युत / Hydropower"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 35,
+    "question": "भारत के कौन-से क्षेत्रों में अक्षय ऊर्जा का उपयोग तेजी से बढ़ रहा है?\nIn which regions of India is the use of renewable energy increasing rapidly?",
+    "options": {
+      "A": "A. शहरी क्षेत्र / Urban regions",
+      "B": "B. सीमावर्ती राज्य / Border states",
+      "C": "C. रेगिस्तानी क्षेत्र / Desert regions",
+      "D": "D. द्वीपीय क्षेत्र / Island regions"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 36,
+    "question": "भारत की कुल स्थापित ऊर्जा क्षमता में अक्षय ऊर्जा की हिस्सेदारी लगभग कितनी है?\nWhat is the approximate share of renewable energy in India's total installed energy capacity?",
+    "options": {
+      "A": "A. 20% से कम / Less than 20%",
+      "B": "B. 30%–35%",
+      "C": "C. 40%–45%",
+      "D": "D. 50% से अधिक / More than 50%"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 37,
+    "question": "निम्न में से कौन-से पारंपरिक ऊर्जा स्रोत हैं?\nWhich of the following are traditional sources of energy?",
+    "options": {
+      "A": "A. कोयला / Coal",
+      "B": "B. सौर ऊर्जा / Solar Energy",
+      "C": "C. पेट्रोलियम / Petroleum",
+      "D": "D. पवन ऊर्जा / Wind Energy"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 38,
+    "question": "भारत में निम्न में से कौन-से अक्षय ऊर्जा कार्यक्रम सरकारी सहायता प्राप्त हैं?\nWhich of the following renewable energy programs in India are supported by the government?",
+    "options": {
+      "A": "A. कुसुम योजना / KUSUM Scheme",
+      "B": "B. सौभाग्य योजना / Saubhagya Scheme",
+      "C": "C. जल जीवन मिशन / Jal Jeevan Mission",
+      "D": "D. राष्ट्रीय सौर मिशन / National Solar Mission"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 39,
+    "question": "भारत में निम्नलिखित में से किस राज्य में प्रति व्यक्ति पारंपरिक ऊर्जा की खपत सबसे कम है?\nWhich of the following states in India has the lowest per capita conventional energy consumption?",
+    "options": {
+      "A": "A. बिहार / Bihar",
+      "B": "B. केरल / Kerala",
+      "C": "C. मध्य प्रदेश / Madhya Pradesh",
+      "D": "D. असम / Assam"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 40,
+    "question": "भारत में ऊर्जा खपत बढ़ाने के प्रमुख कारण कौन-कौन से हैं?\nWhich of the following are the main reasons for rising energy consumption in India?",
+    "options": {
+      "A": "A. जनसंख्या वृद्धि / Population growth",
+      "B": "B. डिजिटलीकरण / Digitization",
+      "C": "C. जलवायु परिवर्तन / Climate change",
+      "D": "D. औद्योगिकीकरण / Industrialization"
+    },
+    "answer": ["A", "B", "D"]
   }
 ]
+
+
