@@ -1,190 +1,112 @@
 [
   {
     "id": 1,
-    "question": "हाल ही में उत्तर प्रदेश के किस लोकनृत्य को राष्ट्रीय सांस्कृतिक विरासत सूची में शामिल किया गया है? / Which folk dance of Uttar Pradesh was recently added to the national list of cultural heritage?",
+    "question": "भारत में दूध उत्पादन में भैंस का योगदान सर्वाधिक है। निम्न में से कौन-से राज्य भैंस आधारित दुग्ध उत्पादन में अग्रणी हैं?\nBuffalo-based milk production is highest in which of the following Indian states?",
     "options": {
-      "A": "Raslila / रासलीला",
-      "B": "Nautanki / नौटंकी",
-      "C": "Charkula / चर्कुला",
-      "D": "Jhora / झोरा"
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "हरियाणा / Haryana",
+      "C": "पंजाब / Punjab",
+      "D": "बिहार / Bihar"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "उत्तर प्रदेश के किस शहर को 'शिल्प ग्राम' के रूप में विकसित किया जा रहा है? / Which city in Uttar Pradesh is being developed as a 'Crafts Village'?",
+    "question": "भारत की कौन-कौन सी नस्लें विशेष रूप से भैंसों की हैं?\nWhich of the following are specific buffalo breeds of India?",
     "options": {
-      "A": "Agra / आगरा",
-      "B": "Varanasi / वाराणसी",
-      "C": "Lucknow / लखनऊ",
-      "D": "Saharanpur / सहारनपुर"
+      "A": "मुर्रा / Murrah",
+      "B": "जाफराबादी / Jaffarabadi",
+      "C": "साहीवाल / Sahiwal",
+      "D": "नागपुरी / Nagpuri"
     },
-    "answer": ["B", "D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "उत्तर प्रदेश के किस मेले को UNESCO की सांस्कृतिक विरासत सूची में शामिल किया गया है? / Which fair of Uttar Pradesh is included in UNESCO’s cultural heritage list?",
+    "question": "निम्नलिखित में से कौन-कौन सी गाय की देशी भारतीय नस्लें हैं?\nWhich of the following are indigenous Indian breeds of cows?",
     "options": {
-      "A": "Kumbh Mela / कुंभ मेला",
-      "B": "Deva Mela / देवा मेला",
-      "C": "Bateshwar Mela / बटेश्वर मेला",
-      "D": "Nauchandi Mela / नौचंदी मेला"
+      "A": "गिर / Gir",
+      "B": "थारपारकर / Tharparkar",
+      "C": "होल्स्टीन / Holstein",
+      "D": "कांकरेज / Kankrej"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 4,
-    "question": "उत्तर प्रदेश की किस पारंपरिक संगीत शैली को संरक्षण की आवश्यकता बताई जा रही है? / Which traditional music form of Uttar Pradesh is under threat and needs preservation?",
+    "question": "बकरी पालन (Goat Rearing) में भारत की कौन-कौन सी नस्लें प्रमुख मानी जाती हैं?\nWhich Indian breeds are prominent in goat rearing?",
     "options": {
-      "A": "Birha / बिरहा",
-      "B": "Kajri / कजरी",
-      "C": "Qawwali / कव्वाली",
-      "D": "Thumri / ठुमरी"
+      "A": "बरबरी / Barbari",
+      "B": "जामुनापरी / Jamunapari",
+      "C": "बीटल / Beetal",
+      "D": "हिसार / Hisar"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "हाल में चर्चा में रहा 'लोक संग्रहालय' किस जिले में स्थापित किया गया है? / The newly established 'Folk Museum' is located in which district of Uttar Pradesh?",
+    "question": "निम्नलिखित में से कौन सी बकरी नस्लें मुख्यतः दूध उत्पादन के लिए जानी जाती हैं?\nWhich of the following goat breeds are primarily known for milk production?",
     "options": {
-      "A": "Ballia / बलिया",
-      "B": "Gorakhpur / गोरखपुर",
-      "C": "Mathura / मथुरा",
-      "D": "Prayagraj / प्रयागराज"
+      "A": "जामुनापरी / Jamunapari",
+      "B": "बरबरी / Barbari",
+      "C": "सिरोही / Sirohi",
+      "D": "ओसमानाबादी / Osmanabadi"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 6,
-    "question": "उत्तर प्रदेश में किस शिल्प को GI टैग हाल में प्राप्त हुआ है? / Which craft of Uttar Pradesh recently received a GI tag?",
+    "question": "भारत के किन राज्यों में बकरी पालन का प्रतिशत सबसे अधिक है?\nWhich states in India have the highest percentage of goat rearing population?",
     "options": {
-      "A": "Banarasi Paan / बनारसी पान",
-      "B": "Sankat Mochan Laddu / संकट मोचन लड्डू",
-      "C": "Amroha Dholak / अमरोहा ढोलक",
-      "D": "Bhadohi Carpets / भदोही कालीन"
+      "A": "राजस्थान / Rajasthan",
+      "B": "उत्तर प्रदेश / Uttar Pradesh",
+      "C": "बिहार / Bihar",
+      "D": "झारखंड / Jharkhand"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 7,
-    "question": "उत्तर प्रदेश सरकार द्वारा किस उत्सव को वैश्विक स्तर पर ब्रांड किया जा रहा है? / Which festival is being globally branded by the Uttar Pradesh government?",
+    "question": "गिर नस्ल की गायों के बारे में कौन-कौन से तथ्य सही हैं?\nWhich of the following facts are true about Gir cattle?",
     "options": {
-      "A": "Ganga Mahotsav / गंगा महोत्सव",
-      "B": "Deepotsav Ayodhya / दीपोत्सव अयोध्या",
-      "C": "Ram Navami / राम नवमी",
-      "D": "Taj Mahotsav / ताज महोत्सव"
+      "A": "यह गुजरात से संबंधित है / Native to Gujarat",
+      "B": "उच्च दुग्ध उत्पादन / High milk yield",
+      "C": "विदेशों में निर्यात होती है / Exported to foreign countries",
+      "D": "मांस के लिए पाली जाती है / Raised for meat"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 8,
-    "question": "किस शहर में चल रही है 'संस्कृति बचाओ यात्रा'? / In which city is the 'Save Culture Yatra' being conducted?",
+    "question": "निम्नलिखित में से कौन से राज्य मुख्यतः भैंस नस्लों के लिए प्रसिद्ध हैं?\nWhich of the following states are known for their native buffalo breeds?",
     "options": {
-      "A": "Kanpur / कानपुर",
-      "B": "Sarnath / सारनाथ",
-      "C": "Chitrakoot / चित्रकूट",
-      "D": "Ayodhya / अयोध्या"
+      "A": "हरियाणा / Haryana",
+      "B": "गुजरात / Gujarat",
+      "C": "महाराष्ट्र / Maharashtra",
+      "D": "छत्तीसगढ़ / Chhattisgarh"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "कौन-कौन से शास्त्रीय संगीत घराने उत्तर प्रदेश में स्थित हैं? / Which classical music gharanas are based in Uttar Pradesh?",
+    "question": "साहीवाल नस्ल के बारे में निम्न में से कौन-कौन से तथ्य सत्य हैं?\nWhich of the following are true about Sahiwal breed?",
     "options": {
-      "A": "Gwalior Gharana / ग्वालियर घराना",
-      "B": "Rampur-Sahaswan Gharana / रामपुर-सहसवान घराना",
-      "C": "Benaras Gharana / बनारस घराना",
-      "D": "Kirana Gharana / किराना घराना"
+      "A": "यह एक दुधारू नस्ल है / High milk yield breed",
+      "B": "पाकिस्तान से उत्पत्ति / Originated in Pakistan",
+      "C": "गर्मी सहन कर सकती है / Heat tolerant",
+      "D": "केवल मांस के लिए पाली जाती है / Raised only for meat"
     },
-    "answer": ["B", "C", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "‘बेटी पढ़ाओ, बेटी बचाओ’ की संस्कृति संबंधी आलोचना किन कारणों से हो रही है? / Why is 'Beti Bachao, Beti Padhao' being critiqued from a cultural perspective?",
+    "question": "निम्न में से कौन सी गाय नस्लें भारतीय जलवायु के लिए उपयुक्त मानी जाती हैं?\nWhich cow breeds are best suited to Indian climatic conditions?",
     "options": {
-      "A": "Patriarchal symbolism / पितृसत्तात्मक प्रतीकवाद",
-      "B": "Token representation / प्रतीकात्मक सहभागिता",
-      "C": "Regional neglect / क्षेत्रीय उपेक्षा",
-      "D": "Overuse in urban festivals / शहरी उत्सवों में अति प्रयोग"
+      "A": "थारपारकर / Tharparkar",
+      "B": "कांकरेज / Kankrej",
+      "C": "गिर / Gir",
+      "D": "जर्सी / Jersey"
     },
     "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 11,
-    "question": "बनारस की सांस्कृतिक समस्या में क्या प्रमुख कारण सामने आ रहे हैं? / What are key cultural challenges faced by Banaras today?",
-    "options": {
-      "A": "Tourism pressure / पर्यटन का दबाव",
-      "B": "Language erosion / भाषा का क्षरण",
-      "C": "Heritage site encroachment / विरासत स्थलों पर अतिक्रमण",
-      "D": "Festival commercialization / पर्वों का व्यापारीकरण"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 12,
-    "question": "उत्तर प्रदेश की किस सांस्कृतिक परंपरा को हाल में विवाद का कारण माना गया? / Which cultural tradition of UP was recently involved in controversy?",
-    "options": {
-      "A": "Ramleela in rural areas / ग्रामीण रामलीला",
-      "B": "Muharram Tazia processions / मुहर्रम ताज़िया",
-      "C": "Nautanki performances / नौटंकी मंचन",
-      "D": "Krishna Janmashtami Dahi Handi / कृष्ण जन्माष्टमी दही हांडी"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 13,
-    "question": "उत्तर प्रदेश के कौन से धार्मिक स्थल को हाल में सांस्कृतिक विरासत के रूप में पुनर्जीवित किया गया? / Which religious site of UP was recently revived as a cultural heritage spot?",
-    "options": {
-      "A": "Vindhyachal / विंध्याचल",
-      "B": "Naimisharanya / नैमिषारण्य",
-      "C": "Shakumbhari Devi / शाकुंभरी देवी",
-      "D": "Chitrakoot / चित्रकूट"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 14,
-    "question": "उत्तर प्रदेश सरकार द्वारा किस क्षेत्रीय भाषा को बढ़ावा देने के लिए विशेष अभियान चलाया गया? / Which regional language is being promoted by the UP government through a special campaign?",
-    "options": {
-      "A": "Bhojpuri / भोजपुरी",
-      "B": "Awadhi / अवधी",
-      "C": "Braj / ब्रज",
-      "D": "Kannauji / कन्नौजी"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 15,
-    "question": "संस्कृति और विकास के बीच उत्तर प्रदेश में संघर्ष के उदाहरण क्या हैं? / What are examples of conflict between culture and development in UP?",
-    "options": {
-      "A": "Temple demolitions for roads / सड़कों के लिए मंदिर तोड़ना",
-      "B": "Riverfront construction on ghats / घाटों पर रिवरफ्रंट निर्माण",
-      "C": "Heritage architecture replacement / धरोहर वास्तुकला को हटाना",
-      "D": "Festival bans for urban planning / नगर नियोजन हेतु पर्वों पर रोक"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 16,
-    "question": "हाल ही में 'राम मंदिर अयोध्या' से जुड़ी कौन-कौन सी सांस्कृतिक विशेषताएँ चर्चा में रहीं हैं? / Which of the following cultural aspects related to 'Ram Mandir Ayodhya' have recently been in news?",
-    "options": {
-      "A": "प्राचीन वास्तुकला शैली / Ancient architectural style",
-      "B": "वेदों पर आधारित संगीत समारोह / Vedic music festivals",
-      "C": "पारंपरिक मिट्टी के बर्तन निर्माण / Traditional pottery workshops",
-      "D": "तिरुपति मंदिर की तरह दान-व्यवस्था / Donation model like Tirupati Temple"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 17,
-    "question": "न्यू इंडिया लिटरेचर फेस्टिवल (2025) के किस पहलू को सांस्कृतिक विविधता को बढ़ावा देने वाला माना गया है? / Which aspects of the New India Literature Festival (2025) are considered to promote cultural diversity?",
-    "options": {
-      "A": "25 भाषाओं में पुस्तकों का विमोचन / Book launch in 25 languages",
-      "B": "केवल अंग्रेज़ी लेखकों को आमंत्रित करना / Inviting only English authors",
-      "C": "आदिवासी कहानियों पर केंद्रित पैनल / Panel focused on tribal stories",
-      "D": "गूगल अनुवाद पर आधारित प्रतियोगिता / Contest based on Google Translate"
-    },
-    "answer": ["A", "C"]
   }
 ]
-
