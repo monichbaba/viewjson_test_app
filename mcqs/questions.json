@@ -1,112 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत में दूध उत्पादन में भैंस का योगदान सर्वाधिक है। निम्न में से कौन-से राज्य भैंस आधारित दुग्ध उत्पादन में अग्रणी हैं?\nBuffalo-based milk production is highest in which of the following Indian states?",
+    "question": "गायों (Cattle) में कौन-कौन से रोग सामान्य रूप से पाए जाते हैं?\nWhich of the following diseases are commonly found in cattle?",
     "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "हरियाणा / Haryana",
-      "C": "पंजाब / Punjab",
-      "D": "बिहार / Bihar"
+      "A": "FMD / खुरपका-मुंहपका",
+      "B": "Brucellosis / ब्रुसेलोसिस",
+      "C": "Mastitis / थनैला",
+      "D": "Swine Fever / स्वाइन फीवर"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "भारत की कौन-कौन सी नस्लें विशेष रूप से भैंसों की हैं?\nWhich of the following are specific buffalo breeds of India?",
+    "question": "भैंसों (Buffalo) में आमतौर पर कौन-कौन से रोग होते हैं?\nWhich of the following are common diseases in buffaloes?",
     "options": {
-      "A": "मुर्रा / Murrah",
-      "B": "जाफराबादी / Jaffarabadi",
-      "C": "साहीवाल / Sahiwal",
-      "D": "नागपुरी / Nagpuri"
+      "A": "Haemorrhagic Septicaemia / रक्तात्सारिक सेप्टीसीमिया",
+      "B": "FMD / खुरपका-मुंहपका",
+      "C": "Brucellosis / ब्रुसेलोसिस",
+      "D": "Newcastle disease / न्यूकैसल रोग"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "निम्नलिखित में से कौन-कौन सी गाय की देशी भारतीय नस्लें हैं?\nWhich of the following are indigenous Indian breeds of cows?",
+    "question": "बकरियों (Goat) में निम्नलिखित में से कौन-कौन से रोग पाए जाते हैं?\nWhich of the following are goat-specific diseases?",
     "options": {
-      "A": "गिर / Gir",
-      "B": "थारपारकर / Tharparkar",
-      "C": "होल्स्टीन / Holstein",
-      "D": "कांकरेज / Kankrej"
+      "A": "PPR / प्लेग",
+      "B": "Enterotoxaemia / उदरविषाक्तता",
+      "C": "FMD / खुरपका-मुंहपका",
+      "D": "Avian Flu / बर्ड फ्लू"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "बकरी पालन (Goat Rearing) में भारत की कौन-कौन सी नस्लें प्रमुख मानी जाती हैं?\nWhich Indian breeds are prominent in goat rearing?",
+    "question": "भेड़ों (Sheep) में सामान्य रूप से कौन-कौन से रोग पाए जाते हैं?\nWhich diseases are commonly seen in sheep?",
     "options": {
-      "A": "बरबरी / Barbari",
-      "B": "जामुनापरी / Jamunapari",
-      "C": "बीटल / Beetal",
-      "D": "हिसार / Hisar"
+      "A": "Blue Tongue / ब्लूटंग",
+      "B": "PPR / प्लेग",
+      "C": "Enterotoxaemia / उदरविषाक्तता",
+      "D": "Swine Fever / स्वाइन फीवर"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से कौन सी बकरी नस्लें मुख्यतः दूध उत्पादन के लिए जानी जाती हैं?\nWhich of the following goat breeds are primarily known for milk production?",
+    "question": "मुर्गियों (Poultry) में निम्नलिखित में से कौन-कौन से रोग होते हैं?\nWhich of the following diseases affect poultry?",
     "options": {
-      "A": "जामुनापरी / Jamunapari",
-      "B": "बरबरी / Barbari",
-      "C": "सिरोही / Sirohi",
-      "D": "ओसमानाबादी / Osmanabadi"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 6,
-    "question": "भारत के किन राज्यों में बकरी पालन का प्रतिशत सबसे अधिक है?\nWhich states in India have the highest percentage of goat rearing population?",
-    "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "उत्तर प्रदेश / Uttar Pradesh",
-      "C": "बिहार / Bihar",
-      "D": "झारखंड / Jharkhand"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 7,
-    "question": "गिर नस्ल की गायों के बारे में कौन-कौन से तथ्य सही हैं?\nWhich of the following facts are true about Gir cattle?",
-    "options": {
-      "A": "यह गुजरात से संबंधित है / Native to Gujarat",
-      "B": "उच्च दुग्ध उत्पादन / High milk yield",
-      "C": "विदेशों में निर्यात होती है / Exported to foreign countries",
-      "D": "मांस के लिए पाली जाती है / Raised for meat"
+      "A": "Ranikhet / न्यूकैसल रोग",
+      "B": "Infectious Bursal Disease (IBD) / गांठ रोग",
+      "C": "Avian Influenza / पक्षी फ्लू",
+      "D": "Brucellosis / ब्रुसेलोसिस"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 8,
-    "question": "निम्नलिखित में से कौन से राज्य मुख्यतः भैंस नस्लों के लिए प्रसिद्ध हैं?\nWhich of the following states are known for their native buffalo breeds?",
+    "id": 6,
+    "question": "सुअरों (Pigs) में सामान्य कौन-कौन से रोग होते हैं?\nWhich of the following are common diseases in pigs?",
     "options": {
-      "A": "हरियाणा / Haryana",
-      "B": "गुजरात / Gujarat",
-      "C": "महाराष्ट्र / Maharashtra",
-      "D": "छत्तीसगढ़ / Chhattisgarh"
+      "A": "Swine Fever / स्वाइन फीवर",
+      "B": "Foot and Mouth Disease / खुरपका-मुंहपका",
+      "C": "Brucellosis / ब्रुसेलोसिस",
+      "D": "Tetanus / धनुस्तंभ"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 7,
+    "question": "FMD (खुरपका-मुंहपका) किस-किस पशु प्रजाति में होता है?\nFMD occurs in which of the following animal species?",
+    "options": {
+      "A": "Cattle / गाय",
+      "B": "Buffalo / भैंस",
+      "C": "Goat / बकरी",
+      "D": "Pig / सुअर"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 8,
+    "question": "Brucellosis किस-किस में पाया जाता है?\nBrucellosis is seen in which of the following species?",
+    "options": {
+      "A": "Cattle / गाय",
+      "B": "Buffalo / भैंस",
+      "C": "Pig / सुअर",
+      "D": "Poultry / मुर्गी"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "साहीवाल नस्ल के बारे में निम्न में से कौन-कौन से तथ्य सत्य हैं?\nWhich of the following are true about Sahiwal breed?",
+    "question": "PPR रोग मुख्यतः किस प्रजाति को प्रभावित करता है?\nPPR mainly affects which of the following species?",
     "options": {
-      "A": "यह एक दुधारू नस्ल है / High milk yield breed",
-      "B": "पाकिस्तान से उत्पत्ति / Originated in Pakistan",
-      "C": "गर्मी सहन कर सकती है / Heat tolerant",
-      "D": "केवल मांस के लिए पाली जाती है / Raised only for meat"
+      "A": "Goat / बकरी",
+      "B": "Sheep / भेड़",
+      "C": "Pig / सुअर",
+      "D": "Cattle / गाय"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 10,
-    "question": "निम्न में से कौन सी गाय नस्लें भारतीय जलवायु के लिए उपयुक्त मानी जाती हैं?\nWhich cow breeds are best suited to Indian climatic conditions?",
+    "question": "Ranikhet रोग मुख्यतः किस प्रजाति से जुड़ा है?\nRanikhet disease is primarily associated with which species?",
     "options": {
-      "A": "थारपारकर / Tharparkar",
-      "B": "कांकरेज / Kankrej",
-      "C": "गिर / Gir",
-      "D": "जर्सी / Jersey"
+      "A": "Poultry / मुर्गी",
+      "B": "Cattle / गाय",
+      "C": "Sheep / भेड़",
+      "D": "Pig / सुअर"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   }
 ]
