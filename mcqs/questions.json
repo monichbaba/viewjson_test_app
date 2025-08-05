@@ -1,141 +1,131 @@
 [
   {
     "id": 1,
-    "question_hindi": "लोकसभा और राज्यसभा में से किस सदन में धन विधेयक (Money Bill) प्रस्तुत किया जा सकता है?",
-    "question_english": "In which House of Parliament can a Money Bill be introduced?",
-    "options": {
+    "question": "लोकसभा और राज्यसभा में से किस सदन में धन विधेयक (Money Bill) प्रस्तुत किया जा सकता है?",
+        "options": {
       "A": "केवल लोकसभा / Only Lok Sabha",
       "B": "केवल राज्यसभा / Only Rajya Sabha",
       "C": "दोनों सदनों में / In both Houses",
       "D": "राष्ट्रपति के अनुमोदन से कहीं भी / Anywhere with President's approval"
     },
-    "correct_answers": [
+    "answers": [
       "A"
     ]
   },
   {
     "id": 2,
-    "question_hindi": "राज्यसभा की विशेष शक्तियों में कौन-सा अनुच्छेद शामिल है?",
-    "question_english": "Which Article deals with the special powers of Rajya Sabha?",
-    "options": {
+    "question": "राज्यसभा की विशेष शक्तियों में कौन-सा अनुच्छेद शामिल है?  /  Which Article deals with the special powers of Rajya Sabha?",
+        "options": {
       "A": "अनुच्छेद 249 / Article 249",
       "B": "अनुच्छेद 312 / Article 312",
       "C": "अनुच्छेद 368 / Article 368",
       "D": "दोनों A और B / Both A and B"
     },
-    "correct_answers": [
+    "answers": [
       "D"
     ]
   },
   {
     "id": 3,
-    "question_hindi": "संयुक्त सत्र (Joint Sitting) किस अनुच्छेद के तहत बुलाया जाता है?",
-    "question_english": "Under which Article is the Joint Sitting of Parliament summoned?",
-    "options": {
+    "question": "संयुक्त सत्र (Joint Sitting) किस अनुच्छेद के तहत बुलाया जाता है?",
+        "options": {
       "A": "अनुच्छेद 108 / Article 108",
       "B": "अनुच्छेद 110 / Article 110",
       "C": "अनुच्छेद 111 / Article 111",
       "D": "अनुच्छेद 122 / Article 122"
     },
-    "correct_answers": [
+    "answers": [
       "A"
     ]
   },
   {
     "id": 4,
-    "question_hindi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
-    "question_english": "Why is Rajya Sabha called a permanent house?",
-    "options": {
+    "question": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+        "options": {
       "A": "यह कभी भंग नहीं होती / It is never dissolved",
       "B": "हर दो साल में एक-तिहाई सदस्य सेवानिवृत्त होते हैं / One-third members retire every two years",
       "C": "यह निर्वाचित नहीं होती / It is not elected",
       "D": "A और B दोनों / Both A and B"
     },
-    "correct_answers": [
+    "answers": [
       "D"
     ]
   },
   {
     "id": 5,
-    "question_hindi": "लोकसभा के गठन की अधिकतम समय सीमा क्या है?",
-    "question_english": "What is the maximum duration of the Lok Sabha?",
-    "options": {
+    "question": "लोकसभा के गठन की अधिकतम समय सीमा क्या है?",
+        "options": {
       "A": "4 वर्ष / 4 years",
       "B": "5 वर्ष / 5 years",
       "C": "6 वर्ष / 6 years",
       "D": "7 वर्ष / 7 years"
     },
-    "correct_answers": [
+    "answers": [
       "B"
     ]
   },
   {
     "id": 6,
-    "question_hindi": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
-    "question_english": "Who presides over the joint sitting of both Houses of Parliament?",
-    "options": {
+    "question": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+        "options": {
       "A": "राष्ट्रपति / President",
       "B": "उपराष्ट्रपति / Vice President",
       "C": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
       "D": "प्रधान मंत्री / Prime Minister"
     },
-    "correct_answers": [
+    "answers": [
       "C"
     ]
   },
   {
     "id": 7,
-    "question_hindi": "संसद का कार्यकाल किस परिस्थिति में 1 वर्ष से अधिक बढ़ाया जा सकता है?",
-    "question_english": "Under what condition can Parliament's term be extended by more than 1 year?",
-    "options": {
+    "question": "संसद का कार्यकाल किस परिस्थिति में 1 वर्ष से अधिक बढ़ाया जा सकता है?",
+        "options": {
       "A": "आपातकाल की स्थिति में / During national emergency",
       "B": "संसदीय बहुमत से / By parliamentary majority",
       "C": "राष्ट्रपति की सिफारिश पर / On President's recommendation",
       "D": "राज्यसभा के प्रस्ताव से / By Rajya Sabha resolution"
     },
-    "correct_answers": [
+    "answers": [
       "A"
     ]
   },
   {
     "id": 8,
-    "question_hindi": "निम्न में से कौन सा लोकसभा की अर्हता का हिस्सा है?",
-    "question_english": "Which of the following is a qualification for Lok Sabha membership?",
-    "options": {
+    "question": "निम्न में से कौन सा लोकसभा की अर्हता का हिस्सा है?",
+        "options": {
       "A": "भारत का नागरिक होना / Must be a citizen of India",
       "B": "कम से कम 25 वर्ष आयु / Minimum age 25 years",
       "C": "राज्यसभा सदस्य होना / Must be Rajya Sabha member",
       "D": "A और B दोनों / Both A and B"
     },
-    "correct_answers": [
+    "answers": [
       "D"
     ]
   },
   {
     "id": 9,
-    "question_hindi": "राज्यसभा के सदस्यों का चुनाव कौन करता है?",
-    "question_english": "Who elects the members of Rajya Sabha?",
-    "options": {
+    "question": "राज्यसभा के सदस्यों का चुनाव कौन करता है?",
+        "options": {
       "A": "लोकसभा सदस्य / Lok Sabha members",
       "B": "विधानसभा सदस्य / State Legislative Assembly members",
       "C": "राष्ट्रपति / President",
       "D": "जनता सीधे / People directly"
     },
-    "correct_answers": [
+    "answers": [
       "B"
     ]
   },
   {
     "id": 10,
-    "question_hindi": "अनुच्छेद 110 किससे संबंधित है?",
-    "question_english": "What does Article 110 relate to?",
-    "options": {
+    "question": "अनुच्छेद 110 किससे संबंधित है?",
+        "options": {
       "A": "धन विधेयक / Money Bill",
       "B": "संविधान संशोधन / Constitutional Amendment",
       "C": "राज्यसूची / State List",
       "D": "राष्ट्रपति की शक्तियाँ / Powers of the President"
     },
-    "correct_answers": [
+    "answers": [
       "A"
     ]
   },
