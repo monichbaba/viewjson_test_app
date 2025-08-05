@@ -1,221 +1,133 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-कौन से खेल से संबंधित पुरस्कार हैं? / Which of the following are associated with sports?",
+    "question": "ऑस्कर अवार्ड 2025 में 'Best Picture' किस फ़िल्म को मिला? / Which film won the 2025 Oscar for Best Picture?",
     "options": {
-      "A": "रणजी ट्रॉफी / Ranji Trophy",
-      "B": "डैविड कप / Davis Cup",
-      "C": "ग्रैमी अवार्ड / Grammy Award",
-      "D": "थॉमस कप / Thomas Cup"
+      "A": "Anora",
+      "B": "The Brutalist",
+      "C": "Dune: Part Two",
+      "D": "I'm Still Here"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "नोबेल पुरस्कार निम्नलिखित में से किन क्षेत्रों में दिए जाते हैं? / Nobel Prize is awarded in which of the following fields?",
+    "question": "2024–25 डेविस कप (Davis Cup) चैंपियन कौन सी टीम रही? / Which team won the Davis Cup in 2024–25?",
     "options": {
-      "A": "साहित्य / Literature",
-      "B": "रसायन शास्त्र / Chemistry",
-      "C": "खेल / Sports",
-      "D": "शांति / Peace"
+      "A": "Italy",
+      "B": "Netherlands",
+      "C": "Canada",
+      "D": "Spain"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 3,
-    "question": "ऑस्कर अवार्ड किस क्षेत्र से संबंधित है? / Oscar Awards are related to which field?",
+    "question": "2025 Pulitzer पुरस्कार (फिक्शन कैटेगरी) किस पुस्तक को मिला? / Which book won the 2025 Pulitzer Prize for Fiction?",
     "options": {
-      "A": "संगीत / Music",
-      "B": "फिल्म / Film",
-      "C": "खेल / Sports",
-      "D": "साहित्य / Literature"
+      "A": "James by Percival Everett",
+      "B": "Primary Trust by Eboni Booth",
+      "C": "Combee by Edda L. Fields‑Black",
+      "D": "Native Nations by Kathleen DuVal"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "डैविड कप किस खेल से संबंधित है? / Davis Cup is associated with which sport?",
+    "question": "2024 Booker Prize विजेता कौन हैं? / Who won the Booker Prize in 2024?",
     "options": {
-      "A": "क्रिकेट / Cricket",
-      "B": "टेनिस / Tennis",
-      "C": "बैडमिंटन / Badminton",
-      "D": "हॉकी / Hockey"
+      "A": "Samantha Harvey for Orbital",
+      "B": "Paul Lynch for Prophet Song",
+      "C": "Kiran Desai for The Inheritance of Loss",
+      "D": "Claire Adam for Love Forms"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "‘पुलित्जर पुरस्कार’ किस क्षेत्र में उत्कृष्टता के लिए दिया जाता है? / Pulitzer Prize is awarded for excellence in which field?",
+    "question": "82वें Golden Globe Awards 2025 में 'Best Motion Picture – Musical or Comedy' किसे मिला? / Which film won Best Motion Picture – Musical or Comedy at the 2025 Golden Globes?",
     "options": {
-      "A": "पत्रकारिता / Journalism",
-      "B": "विज्ञान / Science",
-      "C": "लेखन / Writing",
-      "D": "खेल / Sports"
+      "A": "Emilia Pérez",
+      "B": "The Brutalist",
+      "C": "Flow",
+      "D": "Shōgun"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "‘बूकर पुरस्कार’ किस क्षेत्र से जुड़ा हुआ है? / Booker Prize is related to which field?",
+    "question": "Thomas Cup 2024 विजेता कौन सी टीम बनी? / Which team won the Thomas Cup in 2024?",
     "options": {
-      "A": "फिल्म / Film",
-      "B": "साहित्य / Literature",
-      "C": "खेल / Sports",
-      "D": "राजनीति / Politics"
+      "A": "China",
+      "B": "Indonesia",
+      "C": "Malaysia",
+      "D": "India"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "‘अर्जुन पुरस्कार’ किस देश द्वारा दिया जाता है? / Arjuna Award is given by which country?",
+    "question": "Laureus World Sports Awards 2025 में 'Female Athlete of the Year' का पुरस्कार किसने जीता? / Who won the Laureus Female Athlete of the Year award in 2025?",
     "options": {
-      "A": "अमेरिका / USA",
-      "B": "भारत / India",
-      "C": "ऑस्ट्रेलिया / Australia",
-      "D": "जापान / Japan"
+      "A": "Simone Biles",
+      "B": "Lamine Yamal",
+      "C": "Rafael Nadal",
+      "D": "Kelly Slater"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "गोल्डन ग्लोब अवार्ड किसके लिए दिया जाता है? / Golden Globe Award is given for?",
+    "question": "2024 का Ballon d'Or विजेता कौन है? / Who won the 2024 Ballon d'Or?",
     "options": {
-      "A": "खेल / Sports",
-      "B": "साहित्य / Literature",
-      "C": "फिल्म और टेलीविजन / Film and Television",
-      "D": "शांति / Peace"
+      "A": "Rodri",
+      "B": "Vinícius Jr.",
+      "C": "Kylian Mbappé",
+      "D": "Harry Kane"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "‘थॉमस कप’ किस खेल से जुड़ा है? / Thomas Cup is associated with which game?",
+    "question": "Dan David Prize 2025 के विजेताओं में से कौन शामिल हैं? / Which of the following were named as winners of the Dan David Prize in 2025?",
     "options": {
-      "A": "बैडमिंटन / Badminton",
-      "B": "फुटबॉल / Football",
-      "C": "हॉकी / Hockey",
-      "D": "गोल्फ / Golf"
+      "A": "Abidemi Babatunde Babalola",
+      "B": "Mackenzie Cooley",
+      "C": "Hannah Marcus",
+      "D": "सभी के सभी (All of the above)"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 10,
-    "question": "‘लॉरेंस पुरस्कार’ किसके लिए दिया जाता है? / Laureus Awards are given for?",
+    "question": "2025 Grammy Awards में 'Record of the Year' का पुरस्कार किसे मिला? / Who won the 2025 Grammy Award for Record of the Year?",
     "options": {
-      "A": "खेल / Sports",
-      "B": "कला / Art",
-      "C": "संगीत / Music",
-      "D": "राजनीति / Politics"
+      "A": "The Beatles – Now And Then",
+      "B": "Beyoncé – Texas Hold ‘Em",
+      "C": "Kendrick Lamar – Not Like Us",
+      "D": "Chappell Roan – Good Luck, Babe!"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 11,
-    "question": "‘बालोन डी’ओर’ किस खेल से संबंधित है? / Ballon d'Or is associated with which sport?",
+    "question": "Ramon Magsaysay Award 2024 में निम्नलिखित विजेताओं में से कौन शामिल हैं? / Which of the following were recipients of the Ramon Magsaysay Award in 2024?",
     "options": {
-      "A": "फुटबॉल / Football",
-      "B": "टेनिस / Tennis",
-      "C": "क्रिकेट / Cricket",
-      "D": "बैडमिंटन / Badminton"
+      "A": "Hayao Miyazaki",
+      "B": "Karma Phuntsho",
+      "C": "Farwiza Farhan",
+      "D": "सभी के सभी (All of the above)"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 12,
-    "question": "‘डैन डेविड पुरस्कार’ का संबंध है / Dan David Prize is related to:",
+    "question": "International Booker Prize 2024 विजेता कौन हैं? / Who won the International Booker Prize in 2024?",
     "options": {
-      "A": "इतिहास और मानवता / History & Humanity",
-      "B": "भौतिकी / Physics",
-      "C": "वाणिज्य / Commerce",
-      "D": "शांति / Peace"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 13,
-    "question": "‘ग्रैमी अवार्ड’ किसके लिए प्रसिद्ध है? / Grammy Award is famous for:",
-    "options": {
-      "A": "संगीत / Music",
-      "B": "फिल्म / Film",
-      "C": "खेल / Sports",
-      "D": "नाटक / Drama"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "‘विजडन ट्रॉफी’ किसके बीच खेली जाती है? / Wisden Trophy is played between:",
-    "options": {
-      "A": "भारत-ऑस्ट्रेलिया / India-Australia",
-      "B": "इंग्लैंड-वेस्टइंडीज / England-West Indies",
-      "C": "भारत-पाकिस्तान / India-Pakistan",
-      "D": "ऑस्ट्रेलिया-न्यूजीलैंड / Australia-New Zealand"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 15,
-    "question": "इनमें से कौन-सा पुरस्कार भारत का नहीं है? / Which of the following is not an Indian award?",
-    "options": {
-      "A": "द्रोणाचार्य पुरस्कार / Dronacharya Award",
-      "B": "पद्म श्री / Padma Shri",
-      "C": "ऑस्कर / Oscar",
-      "D": "भारत रत्न / Bharat Ratna"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 16,
-    "question": "‘रेमन मैगसेसे पुरस्कार’ किस क्षेत्र से जुड़ा है? / Ramon Magsaysay Award is associated with:",
-    "options": {
-      "A": "सार्वजनिक सेवा / Public Service",
-      "B": "पत्रकारिता / Journalism",
-      "C": "खेल / Sports",
-      "D": "सरकारी सेवा / Government Service"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 17,
-    "question": "‘नेहरू कप’ किस खेल से संबंधित है? / Nehru Cup is related to which sport?",
-    "options": {
-      "A": "हॉकी / Hockey",
-      "B": "फुटबॉल / Football",
-      "C": "क्रिकेट / Cricket",
-      "D": "टेनिस / Tennis"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 18,
-    "question": "‘अंतरराष्ट्रीय बुकर पुरस्कार’ किसे दिया जाता है? / International Booker Prize is given for:",
-    "options": {
-      "A": "फिल्म निर्देशन / Film Direction",
-      "B": "खेल उपलब्धि / Sports Achievement",
-      "C": "अनूदित साहित्य / Translated Literature",
-      "D": "राजनीति / Politics"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 19,
-    "question": "‘दादासाहेब फाल्के पुरस्कार’ किस क्षेत्र में दिया जाता है? / Dadasaheb Phalke Award is given in which field?",
-    "options": {
-      "A": "संगीत / Music",
-      "B": "साहित्य / Literature",
-      "C": "सिनेमा / Cinema",
-      "D": "खेल / Sports"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "‘राजीव गांधी खेल रत्न पुरस्कार’ का नाम अब किसके नाम पर रखा गया है? / Rajiv Gandhi Khel Ratna Award is now renamed after:",
-    "options": {
-      "A": "मेजर ध्यानचंद / Major Dhyan Chand",
-      "B": "कपिल देव / Kapil Dev",
-      "C": "मिल्खा सिंह / Milkha Singh",
-      "D": "सचिन तेंदुलकर / Sachin Tendulkar"
+      "A": "Kairos by Jenny Erpenbeck (translator Michael Hofmann)",
+      "B": "Orbital by Samantha Harvey",
+      "C": "The Loneliness of Sonia and Sunny by Kiran Desai",
+      "D": "Love Forms by Claire Adam"
     },
     "answer": ["A"]
   }
