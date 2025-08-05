@@ -1,134 +1,332 @@
 [
   {
     "id": 1,
-    "question": "ऑस्कर अवार्ड 2025 में 'Best Picture' किस फ़िल्म को मिला? / Which film won the 2025 Oscar for Best Picture?",
+    "question": "Article 1 of the Indian Constitution describes India as: / भारतीय संविधान का अनुच्छेद 1 भारत को किस रूप में परिभाषित करता है?",
     "options": {
-      "A": "Anora",
-      "B": "The Brutalist",
-      "C": "Dune: Part Two",
-      "D": "I'm Still Here"
+      "A": "Union of States / राज्यों का संघ",
+      "B": "Federation of States / राज्यों का महासंघ",
+      "C": "Confederation / परिसंघ",
+      "D": "Republic of States / राज्यों का गणराज्य"
     },
     "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "2024–25 डेविस कप (Davis Cup) चैंपियन कौन सी टीम रही? / Which team won the Davis Cup in 2024–25?",
+    "question": "Which article provides for the creation of new states? / नया राज्य बनाने का प्रावधान किस अनुच्छेद में है?",
     "options": {
-      "A": "Italy",
-      "B": "Netherlands",
-      "C": "Canada",
-      "D": "Spain"
+      "A": "Article 2",
+      "B": "Article 3",
+      "C": "Article 1",
+      "D": "Article 4"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 3,
-    "question": "2025 Pulitzer पुरस्कार (फिक्शन कैटेगरी) किस पुस्तक को मिला? / Which book won the 2025 Pulitzer Prize for Fiction?",
+    "question": "The power to admit or establish new states in the Union lies with: / संघ में नए राज्य को सम्मिलित करने की शक्ति किसके पास है?",
     "options": {
-      "A": "James by Percival Everett",
-      "B": "Primary Trust by Eboni Booth",
-      "C": "Combee by Edda L. Fields‑Black",
-      "D": "Native Nations by Kathleen DuVal"
+      "A": "Parliament / संसद",
+      "B": "President / राष्ट्रपति",
+      "C": "Supreme Court / सर्वोच्च न्यायालय",
+      "D": "State Legislature / राज्य की विधायिका"
     },
     "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "2024 Booker Prize विजेता कौन हैं? / Who won the Booker Prize in 2024?",
+    "question": "Which article allows alteration of state boundaries? / राज्य की सीमाओं को बदलने की अनुमति किस अनुच्छेद में है?",
     "options": {
-      "A": "Samantha Harvey for Orbital",
-      "B": "Paul Lynch for Prophet Song",
-      "C": "Kiran Desai for The Inheritance of Loss",
-      "D": "Claire Adam for Love Forms"
+      "A": "Article 1",
+      "B": "Article 2",
+      "C": "Article 3",
+      "D": "Article 4"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "82वें Golden Globe Awards 2025 में 'Best Motion Picture – Musical or Comedy' किसे मिला? / Which film won Best Motion Picture – Musical or Comedy at the 2025 Golden Globes?",
+    "question": "Which article defines 'State' for Fundamental Rights? / मौलिक अधिकारों के लिए 'राज्य' की परिभाषा किस अनुच्छेद में दी गई है?",
     "options": {
-      "A": "Emilia Pérez",
-      "B": "The Brutalist",
-      "C": "Flow",
-      "D": "Shōgun"
+      "A": "Article 13",
+      "B": "Article 14",
+      "C": "Article 12",
+      "D": "Article 15"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 6,
-    "question": "Thomas Cup 2024 विजेता कौन सी टीम बनी? / Which team won the Thomas Cup in 2024?",
+    "question": "Which of the following is NOT a Fundamental Right under Part III? / निम्न में से कौन-सा मौलिक अधिकार नहीं है?",
     "options": {
-      "A": "China",
-      "B": "Indonesia",
-      "C": "Malaysia",
-      "D": "India"
+      "A": "Right to Equality / समानता का अधिकार",
+      "B": "Right to Property / संपत्ति का अधिकार",
+      "C": "Right to Freedom / स्वतंत्रता का अधिकार",
+      "D": "Right to Education / शिक्षा का अधिकार"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "Laureus World Sports Awards 2025 में 'Female Athlete of the Year' का पुरस्कार किसने जीता? / Who won the Laureus Female Athlete of the Year award in 2025?",
+    "question": "Article 14 ensures: / अनुच्छेद 14 सुनिश्चित करता है:",
     "options": {
-      "A": "Simone Biles",
-      "B": "Lamine Yamal",
-      "C": "Rafael Nadal",
-      "D": "Kelly Slater"
+      "A": "Equality before law / कानून के समक्ष समानता",
+      "B": "Right to Education / शिक्षा का अधिकार",
+      "C": "Freedom of Religion / धर्म की स्वतंत्रता",
+      "D": "Protection of Life / जीवन की सुरक्षा"
     },
     "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "2024 का Ballon d'Or विजेता कौन है? / Who won the 2024 Ballon d'Or?",
+    "question": "Which article prohibits discrimination on grounds of religion, race, caste, sex or place of birth? / कौन-सा अनुच्छेद धर्म, जाति, लिंग, जन्मस्थान के आधार पर भेदभाव को रोकता है?",
     "options": {
-      "A": "Rodri",
-      "B": "Vinícius Jr.",
-      "C": "Kylian Mbappé",
-      "D": "Harry Kane"
+      "A": "Article 15",
+      "B": "Article 16",
+      "C": "Article 17",
+      "D": "Article 18"
     },
     "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "Dan David Prize 2025 के विजेताओं में से कौन शामिल हैं? / Which of the following were named as winners of the Dan David Prize in 2025?",
+    "question": "Article 17 abolishes: / अनुच्छेद 17 समाप्त करता है:",
     "options": {
-      "A": "Abidemi Babatunde Babalola",
-      "B": "Mackenzie Cooley",
-      "C": "Hannah Marcus",
-      "D": "सभी के सभी (All of the above)"
+      "A": "Slavery / गुलामी",
+      "B": "Untouchability / अस्पृश्यता",
+      "C": "Forced Labour / जबरन श्रम",
+      "D": "Child Labour / बाल श्रम"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 10,
-    "question": "2025 Grammy Awards में 'Record of the Year' का पुरस्कार किसे मिला? / Who won the 2025 Grammy Award for Record of the Year?",
+    "question": "Which article guarantees equal opportunity in public employment? / सार्वजनिक रोजगार में समान अवसर की गारंटी कौन देता है?",
     "options": {
-      "A": "The Beatles – Now And Then",
-      "B": "Beyoncé – Texas Hold ‘Em",
-      "C": "Kendrick Lamar – Not Like Us",
-      "D": "Chappell Roan – Good Luck, Babe!"
+      "A": "Article 15",
+      "B": "Article 16",
+      "C": "Article 18",
+      "D": "Article 19"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 11,
+    "question": "Which article guarantees six freedoms to Indian citizens? / भारतीय नागरिकों को छह स्वतंत्रताएं कौन-सा अनुच्छेद प्रदान करता है?",
+    "options": {
+      "A": "Article 18",
+      "B": "Article 19",
+      "C": "Article 20",
+      "D": "Article 21"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 12,
+    "question": "Protection in respect of conviction for offences is provided under: / अपराधों की सजा के संबंध में संरक्षण किस अनुच्छेद के अंतर्गत है?",
+    "options": {
+      "A": "Article 20",
+      "B": "Article 22",
+      "C": "Article 23",
+      "D": "Article 25"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 13,
+    "question": "Which article provides protection of life and personal liberty? / जीवन और व्यक्तिगत स्वतंत्रता का संरक्षण किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 21",
+      "B": "Article 19",
+      "C": "Article 20",
+      "D": "Article 25"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 14,
+    "question": "Right to Education was inserted by which amendment? / शिक्षा का अधिकार किस संशोधन द्वारा जोड़ा गया था?",
+    "options": {
+      "A": "86th Amendment / 86वां संशोधन",
+      "B": "42nd Amendment / 42वां संशोधन",
+      "C": "44th Amendment / 44वां संशोधन",
+      "D": "61st Amendment / 61वां संशोधन"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "Which article protects against arbitrary arrest and detention? / मनमाने गिरफ्तारी और निरोध से संरक्षण किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 20",
+      "B": "Article 21",
+      "C": "Article 22",
+      "D": "Article 23"
     },
     "answer": ["C"]
   },
   {
-    "id": 11,
-    "question": "Ramon Magsaysay Award 2024 में निम्नलिखित विजेताओं में से कौन शामिल हैं? / Which of the following were recipients of the Ramon Magsaysay Award in 2024?",
+    "id": 16,
+    "question": "Article 23 prohibits: / अनुच्छेद 23 किसे निषिद्ध करता है?",
     "options": {
-      "A": "Hayao Miyazaki",
-      "B": "Karma Phuntsho",
-      "C": "Farwiza Farhan",
-      "D": "सभी के सभी (All of the above)"
+      "A": "Begging / भीख मांगना",
+      "B": "Child Labour / बाल श्रम",
+      "C": "Traffic in human beings / मानव तस्करी",
+      "D": "Untouchability / अस्पृश्यता"
     },
-    "answer": ["D"]
+    "answer": ["C"]
   },
   {
-    "id": 12,
-    "question": "International Booker Prize 2024 विजेता कौन हैं? / Who won the International Booker Prize in 2024?",
+    "id": 17,
+    "question": "Which article prohibits employment of children below 14 years in hazardous work? / खतरनाक कार्यों में 14 वर्ष से कम आयु के बच्चों को नियोजित करने पर रोक किस अनुच्छेद में है?",
     "options": {
-      "A": "Kairos by Jenny Erpenbeck (translator Michael Hofmann)",
-      "B": "Orbital by Samantha Harvey",
-      "C": "The Loneliness of Sonia and Sunny by Kiran Desai",
-      "D": "Love Forms by Claire Adam"
+      "A": "Article 21A",
+      "B": "Article 24",
+      "C": "Article 23",
+      "D": "Article 45"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 18,
+    "question": "Freedom of religion is covered under which articles? / धर्म की स्वतंत्रता किस अनुच्छेद के अंतर्गत आती है?",
+    "options": {
+      "A": "Articles 25–28",
+      "B": "Articles 19–22",
+      "C": "Articles 14–18",
+      "D": "Articles 30–32"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 19,
+    "question": "Which article allows religious denomination to manage its own affairs? / धार्मिक संप्रदाय को अपने धार्मिक कार्यों का प्रबंधन करने की अनुमति किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 26",
+      "B": "Article 25",
+      "C": "Article 27",
+      "D": "Article 28"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "Which article prohibits use of state funds for religious instruction? / धार्मिक शिक्षा के लिए राज्य कोष के प्रयोग पर रोक किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 27",
+      "B": "Article 28",
+      "C": "Article 25",
+      "D": "Article 21"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "Which article deals with freedom as to attendance at religious instruction? / धार्मिक शिक्षा में उपस्थिति की स्वतंत्रता किस अनुच्छेद में दी गई है?",
+    "options": {
+      "A": "Article 27",
+      "B": "Article 28",
+      "C": "Article 25",
+      "D": "Article 29"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 22,
+    "question": "Cultural and educational rights are mentioned under which articles? / सांस्कृतिक और शैक्षिक अधिकार किस अनुच्छेदों में वर्णित हैं?",
+    "options": {
+      "A": "Articles 29–30",
+      "B": "Articles 21–22",
+      "C": "Articles 19–21",
+      "D": "Articles 32–35"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 23,
+    "question": "Which article protects interests of minorities? / कौन-सा अनुच्छेद अल्पसंख्यकों के हितों की रक्षा करता है?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 29",
+      "C": "Article 25",
+      "D": "Article 19"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 24,
+    "question": "Right of minorities to establish and administer educational institutions is protected under: / अल्पसंख्यकों को शैक्षिक संस्थान स्थापित करने और संचालित करने का अधिकार किस अनुच्छेद में सुरक्षित है?",
+    "options": {
+      "A": "Article 28",
+      "B": "Article 29",
+      "C": "Article 30",
+      "D": "Article 32"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 25,
+    "question": "Which article gives remedy for enforcement of Fundamental Rights? / मौलिक अधिकारों के प्रवर्तन के लिए उपचार किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 30",
+      "B": "Article 32",
+      "C": "Article 28",
+      "D": "Article 26"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 26,
+    "question": "Dr. B.R. Ambedkar called which article the ‘heart and soul’ of the Constitution? / डॉ. अंबेडकर ने किस अनुच्छेद को संविधान का 'हृदय और आत्मा' कहा?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 32",
+      "D": "Article 21"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 27,
+    "question": "Writs like Habeas Corpus can be issued by: / हेबियस कॉर्पस जैसे रिट कौन जारी कर सकता है?",
+    "options": {
+      "A": "Supreme Court only / केवल सर्वोच्च न्यायालय",
+      "B": "High Court only / केवल उच्च न्यायालय",
+      "C": "Both Supreme Court and High Court / दोनों सर्वोच्च और उच्च न्यायालय",
+      "D": "Parliament / संसद"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 28,
+    "question": "Which article mentions ‘Right to Constitutional Remedies’? / ‘संवैधानिक उपचार का अधिकार’ किस अनुच्छेद में वर्णित है?",
+    "options": {
+      "A": "Article 31",
+      "B": "Article 32",
+      "C": "Article 29",
+      "D": "Article 21"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 29,
+    "question": "Fundamental Rights are enforceable against: / मौलिक अधिकार किसके विरुद्ध लागू किए जा सकते हैं?",
+    "options": {
+      "A": "Private individuals only / केवल निजी व्यक्तियों के विरुद्ध",
+      "B": "State only / केवल राज्य के विरुद्ध",
+      "C": "State and non-state actors both / राज्य और गैर-राज्य दोनों के विरुद्ध",
+      "D": "Courts / न्यायालयों के विरुद्ध"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 30,
+    "question": "Which article defines ‘law’ for the purpose of Fundamental Rights? / मौलिक अधिकारों के संदर्भ में ‘कानून’ की परिभाषा किस अनुच्छेद में दी गई है?",
+    "options": {
+      "A": "Article 12",
+      "B": "Article 13",
+      "C": "Article 14",
+      "D": "Article 15"
+    },
+    "answer": ["B"]
   }
 ]
