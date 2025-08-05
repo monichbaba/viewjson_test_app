@@ -1,444 +1,585 @@
 [
   {
     "id": 1,
-    "question": "भारत में सबसे बड़ा ताप विद्युत संयंत्र कौन सा है?\nWhich is the largest thermal power plant in India?",
+    "question_hindi": "लोकसभा और राज्यसभा में से किस सदन में धन विधेयक (Money Bill) प्रस्तुत किया जा सकता है?",
+    "question_english": "In which House of Parliament can a Money Bill be introduced?",
     "options": {
-      "A": "A. मुंद्रा ताप विद्युत संयंत्र, गुजरात / Mundra Thermal Power Plant, Gujarat",
-      "B": "B. तूतुकुड़ी, तमिलनाडु / Tuticorin, Tamil Nadu",
-      "C": "C. कोरबा, छत्तीसगढ़ / Korba, Chhattisgarh",
-      "D": "D. सिंगरौली, मध्य प्रदेश / Singrauli, Madhya Pradesh"
+      "A": "केवल लोकसभा / Only Lok Sabha",
+      "B": "केवल राज्यसभा / Only Rajya Sabha",
+      "C": "दोनों सदनों में / In both Houses",
+      "D": "राष्ट्रपति के अनुमोदन से कहीं भी / Anywhere with President's approval"
     },
-    "answer": ["A"]
+    "correct_answers": [
+      "A"
+    ]
   },
   {
     "id": 2,
-    "question": "भारत में कौन-कौन से राज्य सौर ऊर्जा उत्पादन में अग्रणी हैं?\nWhich of the following states are leading in solar energy production in India?",
+    "question_hindi": "राज्यसभा की विशेष शक्तियों में कौन-सा अनुच्छेद शामिल है?",
+    "question_english": "Which Article deals with the special powers of Rajya Sabha?",
     "options": {
-      "A": "A. राजस्थान / Rajasthan",
-      "B": "B. गुजरात / Gujarat",
-      "C": "C. तमिलनाडु / Tamil Nadu",
-      "D": "D. पंजाब / Punjab"
+      "A": "अनुच्छेद 249 / Article 249",
+      "B": "अनुच्छेद 312 / Article 312",
+      "C": "अनुच्छेद 368 / Article 368",
+      "D": "दोनों A और B / Both A and B"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": [
+      "D"
+    ]
   },
   {
     "id": 3,
-    "question": "निम्नलिखित में से कौन सा स्थल जल विद्युत उत्पादन के लिए प्रसिद्ध है?\nWhich of the following sites is famous for hydroelectric power generation?",
+    "question_hindi": "संयुक्त सत्र (Joint Sitting) किस अनुच्छेद के तहत बुलाया जाता है?",
+    "question_english": "Under which Article is the Joint Sitting of Parliament summoned?",
     "options": {
-      "A": "A. भाखड़ा नांगल / Bhakra Nangal",
-      "B": "B. तेज़पुर / Tezpur",
-      "C": "C. कोडैकनाल / Kodaikanal",
-      "D": "D. लुधियाना / Ludhiana"
+      "A": "अनुच्छेद 108 / Article 108",
+      "B": "अनुच्छेद 110 / Article 110",
+      "C": "अनुच्छेद 111 / Article 111",
+      "D": "अनुच्छेद 122 / Article 122"
     },
-    "answer": ["A"]
+    "correct_answers": [
+      "A"
+    ]
   },
   {
     "id": 4,
-    "question": "भारत में निम्नलिखित में से कौन सी परियोजनाएं पवन ऊर्जा से संबंधित हैं?\nWhich of the following projects are related to wind energy in India?",
+    "question_hindi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+    "question_english": "Why is Rajya Sabha called a permanent house?",
     "options": {
-      "A": "A. मुप्पंडल, तमिलनाडु / Muppandal, Tamil Nadu",
-      "B": "B. जोधपुर, राजस्थान / Jodhpur, Rajasthan",
-      "C": "C. धारवाड़, कर्नाटक / Dharwad, Karnataka",
-      "D": "D. कोटा, राजस्थान / Kota, Rajasthan"
+      "A": "यह कभी भंग नहीं होती / It is never dissolved",
+      "B": "हर दो साल में एक-तिहाई सदस्य सेवानिवृत्त होते हैं / One-third members retire every two years",
+      "C": "यह निर्वाचित नहीं होती / It is not elected",
+      "D": "A और B दोनों / Both A and B"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": [
+      "D"
+    ]
   },
   {
     "id": 5,
-    "question": "भारत का पहला परमाणु ऊर्जा संयंत्र कहाँ स्थित है?\nWhere is India's first nuclear power plant located?",
+    "question_hindi": "लोकसभा के गठन की अधिकतम समय सीमा क्या है?",
+    "question_english": "What is the maximum duration of the Lok Sabha?",
     "options": {
-      "A": "A. तारापुर, महाराष्ट्र / Tarapur, Maharashtra",
-      "B": "B. काक्रापार, गुजरात / Kakrapar, Gujarat",
-      "C": "C. कलपक्कम, तमिलनाडु / Kalpakkam, Tamil Nadu",
-      "D": "D. रावतभाटा, राजस्थान / Rawatbhata, Rajasthan"
+      "A": "4 वर्ष / 4 years",
+      "B": "5 वर्ष / 5 years",
+      "C": "6 वर्ष / 6 years",
+      "D": "7 वर्ष / 7 years"
     },
-    "answer": ["A"]
+    "correct_answers": [
+      "B"
+    ]
   },
   {
     "id": 6,
-    "question": "पारंपरिक ऊर्जा स्रोतों में शामिल हैं:\nWhich of the following are traditional energy sources?",
+    "question_hindi": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+    "question_english": "Who presides over the joint sitting of both Houses of Parliament?",
     "options": {
-      "A": "A. कोयला / Coal",
-      "B": "B. जल विद्युत / Hydropower",
-      "C": "C. कच्चा तेल / Crude oil",
-      "D": "D. यूरेनियम / Uranium"
+      "A": "राष्ट्रपति / President",
+      "B": "उपराष्ट्रपति / Vice President",
+      "C": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+      "D": "प्रधान मंत्री / Prime Minister"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": [
+      "C"
+    ]
   },
   {
     "id": 7,
-    "question": "भारत के किस राज्य में सबसे अधिक कोयला आधारित ताप संयंत्र हैं?\nWhich state in India has the highest number of coal-based thermal plants?",
+    "question_hindi": "संसद का कार्यकाल किस परिस्थिति में 1 वर्ष से अधिक बढ़ाया जा सकता है?",
+    "question_english": "Under what condition can Parliament's term be extended by more than 1 year?",
     "options": {
-      "A": "A. झारखंड / Jharkhand",
-      "B": "B. मध्य प्रदेश / Madhya Pradesh",
-      "C": "C. छत्तीसगढ़ / Chhattisgarh",
-      "D": "D. पश्चिम बंगाल / West Bengal"
+      "A": "आपातकाल की स्थिति में / During national emergency",
+      "B": "संसदीय बहुमत से / By parliamentary majority",
+      "C": "राष्ट्रपति की सिफारिश पर / On President's recommendation",
+      "D": "राज्यसभा के प्रस्ताव से / By Rajya Sabha resolution"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "question_hindi": "निम्न में से कौन सा लोकसभा की अर्हता का हिस्सा है?",
+    "question_english": "Which of the following is a qualification for Lok Sabha membership?",
+    "options": {
+      "A": "भारत का नागरिक होना / Must be a citizen of India",
+      "B": "कम से कम 25 वर्ष आयु / Minimum age 25 years",
+      "C": "राज्यसभा सदस्य होना / Must be Rajya Sabha member",
+      "D": "A और B दोनों / Both A and B"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "question_hindi": "राज्यसभा के सदस्यों का चुनाव कौन करता है?",
+    "question_english": "Who elects the members of Rajya Sabha?",
+    "options": {
+      "A": "लोकसभा सदस्य / Lok Sabha members",
+      "B": "विधानसभा सदस्य / State Legislative Assembly members",
+      "C": "राष्ट्रपति / President",
+      "D": "जनता सीधे / People directly"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "question_hindi": "अनुच्छेद 110 किससे संबंधित है?",
+    "question_english": "What does Article 110 relate to?",
+    "options": {
+      "A": "धन विधेयक / Money Bill",
+      "B": "संविधान संशोधन / Constitutional Amendment",
+      "C": "राज्यसूची / State List",
+      "D": "राष्ट्रपति की शक्तियाँ / Powers of the President"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "भारत के संसद में विधेयकों की शुरुआत कहाँ‑कहाँ हो सकती है? / Where can bills originate in Indian Parliament?",
+    "options": {
+      "A": "केवल लोकसभा में / Only in Lok Sabha",
+      "B": "केवल राज्यसभा में / Only in Rajya Sabha",
+      "C": "दोनों सदनों में / In both Houses",
+      "D": "केवल राष्ट्रपति के द्वारा / Only by the President"
     },
     "answer": ["C"]
   },
   {
-    "id": 8,
-    "question": "भारत के किस राज्य में सबसे बड़ी सौर पार्क (solar park) स्थित है?\nWhich Indian state hosts the largest solar park?",
+    "id": 12,
+    "question": "संयुक्त सत्र में अध्यक्षता कौन करता है? / Who presides over a Joint Sitting of Parliament?",
     "options": {
-      "A": "A. राजस्थान / Rajasthan",
-      "B": "B. गुजरात / Gujarat",
-      "C": "C. आंध्र प्रदेश / Andhra Pradesh",
-      "D": "D. महाराष्ट्र / Maharashtra"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 9,
-    "question": "गैर-पारंपरिक ऊर्जा के उदाहरण कौन से हैं?\nWhich of the following are examples of non-conventional energy sources?",
-    "options": {
-      "A": "A. सौर ऊर्जा / Solar energy",
-      "B": "B. पवन ऊर्जा / Wind energy",
-      "C": "C. बायोगैस / Biogas",
-      "D": "D. कोयला / Coal"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 10,
-    "question": "कलपक्कम परमाणु संयंत्र किस राज्य में स्थित है?\nIn which state is Kalpakkam nuclear plant located?",
-    "options": {
-      "A": "A. तमिलनाडु / Tamil Nadu",
-      "B": "B. केरल / Kerala",
-      "C": "C. महाराष्ट्र / Maharashtra",
-      "D": "D. ओडिशा / Odisha"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 11,
-    "question": "भारत की किस नदी पर नागार्जुनसागर जल विद्युत परियोजना स्थित है?\nNagarjuna Sagar hydroelectric project is located on which river in India?",
-    "options": {
-      "A": "A. गोदावरी / Godavari",
-      "B": "B. कृष्णा / Krishna",
-      "C": "C. कावेरी / Kaveri",
-      "D": "D. तापी / Tapi"
+      "A": "प्रधान मंत्री / Prime Minister",
+      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+      "C": "राज्यसभा सभापति / Chairman of Rajya Sabha",
+      "D": "लोकसभा उपाध्यक्ष / Deputy Speaker"
     },
     "answer": ["B"]
   },
   {
-    "id": 12,
-    "question": "काकरापार परमाणु ऊर्जा स्टेशन किस राज्य में स्थित है?\nKakrapar Nuclear Power Station is located in which state?",
-    "options": {
-      "A": "A. गुजरात / Gujarat",
-      "B": "B. राजस्थान / Rajasthan",
-      "C": "C. महाराष्ट्र / Maharashtra",
-      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 13,
-    "question": "कोयंबटूर क्षेत्र किस ऊर्जा स्रोत के लिए प्रसिद्ध है?\nCoimbatore region is known for which type of energy source?",
+    "question": "भारत में संसदीय समितियाँ किस उद्देश्य के लिए गठित की जाती हैं? / What are Parliamentary Committees in India primarily meant for?",
     "options": {
-      "A": "A. सौर ऊर्जा / Solar Energy",
-      "B": "B. जल ऊर्जा / Hydropower",
-      "C": "C. पवन ऊर्जा / Wind Energy",
-      "D": "D. थर्मल ऊर्जा / Thermal Energy"
+      "A": "विधान निर्माण / Law-making",
+      "B": "न्यायिक कार्यवाही / Judicial action",
+      "C": "विवरणी जांच और प्रशासनिक निगरानी / Detailed scrutiny and administrative oversight",
+      "D": "राष्ट्रपति को सलाह देना / Advising the President"
     },
     "answer": ["C"]
   },
   {
     "id": 14,
-    "question": "भारत के प्रमुख जल विद्युत संयंत्रों में कौन सा उत्तराखंड में है?\nWhich major hydroelectric project is located in Uttarakhand?",
+    "question": "निम्न में से कौन‑सी संसदीय समिति स्थायी समिति नहीं है? / Which of the following is NOT a Standing Committee?",
     "options": {
-      "A": "A. टिहरी / Tehri",
-      "B": "B. भाखड़ा / Bhakra",
-      "C": "C. नागार्जुनसागर / Nagarjuna Sagar",
-      "D": "D. कोयना / Koyna"
+      "A": "Estimates Committee",
+      "B": "Public Accounts Committee",
+      "C": "Ad hoc Committee",
+      "D": "Committee on Petitions"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 15,
-    "question": "भारत में पहला सौर गांव कहाँ है?\nWhere is India's first solar village located?",
+    "question": "लोकसभा के उपाध्यक्ष का निर्वाचन कौन करता है? / Who elects the Deputy Speaker of Lok Sabha?",
     "options": {
-      "A": "A. मोढेरा, गुजरात / Modhera, Gujarat",
-      "B": "B. फतेहपुर, उत्तर प्रदेश / Fatehpur, UP",
-      "C": "C. पलवल, हरियाणा / Palwal, Haryana",
-      "D": "D. चुरू, राजस्थान / Churu, Rajasthan"
+      "A": "राष्ट्रपति / President",
+      "B": "लोकसभा के सदस्य / Members of Lok Sabha",
+      "C": "प्रधान मंत्री / Prime Minister",
+      "D": "राज्यसभा / Rajya Sabha"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 16,
-    "question": "भारत में कोयले का सबसे बड़ा उत्पादक राज्य कौन सा है?\nWhich is the largest coal-producing state in India?",
+    "question": "निम्न में से किसे संसद में मतदान का अधिकार नहीं होता? / Who among the following does NOT have voting rights in Parliament?",
     "options": {
-      "A": "A. ओडिशा / Odisha",
-      "B": "B. झारखंड / Jharkhand",
-      "C": "C. छत्तीसगढ़ / Chhattisgarh",
-      "D": "D. मध्य प्रदेश / Madhya Pradesh"
+      "A": "अंग्रेज़ी में बोलने वाला सदस्य / English-speaking member",
+      "B": "नामांकित सदस्य / Nominated member",
+      "C": "सभापति (Vice-President) / Vice-President",
+      "D": "लोकसभा अध्यक्ष / Speaker"
     },
     "answer": ["C"]
   },
   {
     "id": 17,
-    "question": "कचरे से ऊर्जा उत्पादन किस प्रकार की ऊर्जा है?\nWaste-to-energy is classified as what type of energy?",
+    "question": "संसद में 'No Confidence Motion' किसके विरुद्ध लाया जाता है? / Against whom is a 'No Confidence Motion' brought in Parliament?",
     "options": {
-      "A": "A. पारंपरिक / Conventional",
-      "B": "B. गैर-पारंपरिक / Non-Conventional",
-      "C": "C. मिश्रित / Hybrid",
-      "D": "D. परमाणु / Nuclear"
+      "A": "राष्ट्रपति / President",
+      "B": "प्रधान मंत्री / Prime Minister",
+      "C": "कुल मंत्रिपरिषद / Entire Council of Ministers",
+      "D": "लोकसभा अध्यक्ष / Speaker"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 18,
-    "question": "भारत का 'पवन ऊर्जा राजधानी' किसे कहा जाता है?\nWhich place is known as the 'Wind Energy Capital' of India?",
+    "question": "राज्यसभा के लिए नामांकित सदस्यों की संख्या कितनी है? / How many members are nominated to Rajya Sabha?",
     "options": {
-      "A": "A. जयपुर / Jaipur",
-      "B": "B. चेन्नई / Chennai",
-      "C": "C. मुप्पंडल / Muppandal",
-      "D": "D. बेंगलुरु / Bengaluru"
+      "A": "2",
+      "B": "10",
+      "C": "12",
+      "D": "15"
     },
     "answer": ["C"]
   },
   {
     "id": 19,
-    "question": "तारापुर संयंत्र किस प्रकार की ऊर्जा से जुड़ा है?\nTarapur Plant is associated with which type of energy?",
+    "question": "राज्यसभा के सभापति के बारे में सही कथन चुनिए / Choose the correct statements about Chairman of Rajya Sabha:",
     "options": {
-      "A": "A. जल विद्युत / Hydropower",
-      "B": "B. परमाणु / Nuclear",
-      "C": "C. सौर / Solar",
-      "D": "D. पवन / Wind"
+      "A": "उप राष्ट्रपति होते हैं / He is the Vice President",
+      "B": "वह राज्यसभा में मतदान कर सकते हैं / Can vote in Rajya Sabha",
+      "C": "सिर्फ टाई की स्थिति में वोट कर सकते हैं / Can vote only in case of tie",
+      "D": "लोकसभा सदस्य होते हैं / He is a Lok Sabha member"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 20,
+    "question": "संसद में किसी विधेयक को पुनः विचार हेतु वापस भेजना किसकी शक्ति है? / Who has the power to return a Bill for reconsideration?",
+    "options": {
+      "A": "राज्यसभा सभापति / Rajya Sabha Chairman",
+      "B": "प्रधान मंत्री / Prime Minister",
+      "C": "राष्ट्रपति / President",
+      "D": "लोकसभा अध्यक्ष / Speaker"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 21,
+    "question": "भारत में संसद का बजट सत्र सामान्यतः कब आयोजित होता है? / When is the Budget Session of Indian Parliament usually held?",
+    "options": {
+      "A": "जनवरी–फरवरी / Jan–Feb",
+      "B": "फरवरी–मई / Feb–May",
+      "C": "अप्रैल–जून / April–June",
+      "D": "सितंबर–नवंबर / Sept–Nov"
     },
     "answer": ["B"]
   },
   {
-    "id": 20,
-    "question": "भारत में सबसे बड़ी जल विद्युत परियोजना कौन सी है?\nWhich is the largest hydroelectric project in India?",
+    "id": 22,
+    "question": "भारत में संसद के विशेष सत्र को कौन बुलाता है? / Who summons a Special Session of the Indian Parliament?",
     "options": {
-      "A": "A. भाखड़ा-नांगल / Bhakra-Nangal",
-      "B": "B. टिहरी / Tehri",
-      "C": "C. नाथपा झाकरी / Nathpa Jhakri",
-      "D": "D. कोयना / Koyna"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 21,
-    "question": "सौर ऊर्जा उत्पादन के लिए प्रमुख पार्क कौन सा है?\nWhich is a major solar power park in India?",
-    "options": {
-      "A": "A. खवड़ा, गुजरात / Khavda, Gujarat",
-      "B": "B. रीवा, मध्यप्रदेश / Rewa, MP",
-      "C": "C. पवागडा, कर्नाटक / Pavagada, Karnataka",
-      "D": "D. सभी / All of these"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "लोकसभा अध्यक्ष / Speaker",
+      "C": "राष्ट्रपति / President",
+      "D": "कैबिनेट की सिफारिश पर राष्ट्रपति / President on Cabinet’s advice"
     },
     "answer": ["D"]
   },
   {
-    "id": 22,
-    "question": "बायोगैस संयंत्रों के लिए कौन सा राज्य अग्रणी है?\nWhich state is leading in biogas plants in India?",
-    "options": {
-      "A": "A. उत्तर प्रदेश / Uttar Pradesh",
-      "B": "B. महाराष्ट्र / Maharashtra",
-      "C": "C. पंजाब / Punjab",
-      "D": "D. हरियाणा / Haryana"
-    },
-    "answer": ["B"]
-  },
-  {
     "id": 23,
-    "question": "कोयना परियोजना किस राज्य में है?\nKoyna Hydroelectric Project is located in which state?",
+    "question": "किस अनुच्छेद के अंतर्गत संसद का सत्र बुलाया जाता है? / Under which Article is Parliament summoned?",
     "options": {
-      "A": "A. आंध्र प्रदेश / Andhra Pradesh",
-      "B": "B. महाराष्ट्र / Maharashtra",
-      "C": "C. ओडिशा / Odisha",
-      "D": "D. केरल / Kerala"
+      "A": "अनुच्छेद 80 / Article 80",
+      "B": "अनुच्छेद 85 / Article 85",
+      "C": "अनुच्छेद 110 / Article 110",
+      "D": "अनुच्छेद 112 / Article 112"
     },
     "answer": ["B"]
   },
   {
     "id": 24,
-    "question": "भारत में परमाणु ऊर्जा संयंत्रों की संख्या लगभग कितनी है?\nWhat is the approximate number of nuclear power plants in India?",
+    "question": "संसद की कार्यवाही में 'Quorum' का अर्थ क्या होता है? / What does 'Quorum' mean in Parliamentary procedure?",
     "options": {
-      "A": "A. 7",
-      "B": "B. 10",
-      "C": "C. 12",
-      "D": "D. 22"
+      "A": "सभी सदस्य उपस्थित हों / All members must be present",
+      "B": "1/10 सदस्य उपस्थित हों / 1/10th members present",
+      "C": "वोटिंग सदस्य उपस्थित हों / Only voting members present",
+      "D": "स्पीकर और सेक्रेटरी उपस्थित हों / Speaker and Secretary must be present"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 25,
-    "question": "भारत में गहराई पर ड्रिलिंग से प्राप्त ऊर्जा को क्या कहते हैं?\nWhat is the energy obtained from deep earth drilling in India called?",
+    "question": "लोकसभा अध्यक्ष को हटाने की प्रक्रिया क्या है? / What is the process for removal of Lok Sabha Speaker?",
     "options": {
-      "A": "A. भू-तापीय ऊर्जा / Geothermal Energy",
-      "B": "B. सौर ऊर्जा / Solar Energy",
-      "C": "C. जल विद्युत / Hydropower",
-      "D": "D. पवन ऊर्जा / Wind Energy"
+      "A": "राष्ट्रपति द्वारा हटाना / By the President",
+      "B": "राज्यसभा द्वारा हटाना / By Rajya Sabha resolution",
+      "C": "लोकसभा में विशेष बहुमत से प्रस्ताव / Resolution by special majority in Lok Sabha",
+      "D": "सर्वसम्मति से हटाना / By unanimous vote"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 26,
-    "question": "दमन और दीव किस प्रकार की ऊर्जा के लिए संभावित क्षेत्र है?\nDaman and Diu is a potential site for which type of energy?",
+    "question": "मनी बिल से संबंधित कौन‑सा कथन सही है? / Which of the following is true about a Money Bill?",
     "options": {
-      "A": "A. सौर ऊर्जा / Solar",
-      "B": "B. परमाणु ऊर्जा / Nuclear",
-      "C": "C. भू-तापीय / Geothermal",
-      "D": "D. बायोगैस / Biogas"
+      "A": "यह केवल लोकसभा में पेश हो सकता है / Introduced only in Lok Sabha",
+      "B": "राष्ट्रपति की अनुशंसा जरूरी होती है / President’s recommendation is required",
+      "C": "राज्यसभा इसे अस्वीकार कर सकती है / Rajya Sabha can reject it",
+      "D": "राज्यसभा केवल सुझाव दे सकती है / Rajya Sabha can only suggest changes"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 27,
-    "question": "सबसे बड़ी अपतटीय पवन ऊर्जा परियोजना कहाँ प्रस्तावित है?\nWhere is India's largest offshore wind project proposed?",
+    "question": "अनुच्छेद 110 किससे संबंधित है? / Article 110 of the Indian Constitution is related to:",
     "options": {
-      "A": "A. गुजरात / Gujarat",
-      "B": "B. केरल / Kerala",
-      "C": "C. ओडिशा / Odisha",
-      "D": "D. महाराष्ट्र / Maharashtra"
+      "A": "संघ का बजट / Union Budget",
+      "B": "मनी बिल / Money Bill",
+      "C": "संविधान संशोधन / Constitutional Amendment",
+      "D": "राज्य सूची / State List"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 28,
-    "question": "भारत में सौर ऊर्जा पर कार्य करने वाली प्रमुख सरकारी एजेंसी कौन सी है?\nWhich is the main government agency working on solar energy in India?",
+    "question": "संसद में 'Zero Hour' का समय क्या होता है? / What is the timing of 'Zero Hour' in Parliament?",
     "options": {
-      "A": "A. NTPC",
-      "B": "B. BHEL",
-      "C": "C. SECI (Solar Energy Corporation of India)",
-      "D": "D. NHPC"
+      "A": "12 बजे से 1 बजे तक / 12 PM to 1 PM",
+      "B": "10 बजे से 11 बजे तक / 10 AM to 11 AM",
+      "C": "11 बजे से 12 बजे तक / 11 AM to 12 PM",
+      "D": "सत्र के अंत में / At the end of the session"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "भारत में पहली भू-तापीय परियोजना कहाँ शुरू हुई?\nWhere was India's first geothermal project started?",
+    "question": "बजट में 'Charged Expenditure' का अर्थ है / Charged expenditure in the budget means:",
     "options": {
-      "A": "A. पगेल, लद्दाख / Puga, Ladakh",
-      "B": "B. लेह / Leh",
-      "C": "C. नैनीताल / Nainital",
-      "D": "D. श्रीनगर / Srinagar"
+      "A": "जो संसद द्वारा अनुमोदित होता है / Approved by Parliament",
+      "B": "जो बिना वोट के खर्च किया जाता है / Expenditure not subject to vote",
+      "C": "राष्ट्रपति द्वारा प्रस्तावित / Proposed by President",
+      "D": "राज्यसभा द्वारा पारित / Passed by Rajya Sabha"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 30,
-    "question": "भारत की कुल ऊर्जा उत्पादन में गैर-पारंपरिक स्रोतों की हिस्सेदारी लगभग कितनी है?\nWhat is the approximate share of non-conventional sources in India's total energy production?",
+    "question": "भारत सरकार का वार्षिक बजट प्रस्तुत करता है: / Annual Budget of the Government of India is presented by:",
     "options": {
-      "A": "A. 10%",
-      "B": "B. 20%",
-      "C": "C. 30%",
-      "D": "D. 40%"
+      "A": "प्रधान मंत्री / Prime Minister",
+      "B": "वित्त मंत्री / Finance Minister",
+      "C": "राष्ट्रपति / President",
+      "D": "कैबिनेट सचिव / Cabinet Secretary"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 31,
-    "question": "भारत की प्रति व्यक्ति विद्युत खपत वैश्विक औसत से कम क्यों है?\nWhy is India's per capita electricity consumption lower than the global average?",
+    "question": "संसद और राज्य विधानमंडल दोनों की विधायी शक्तियाँ किस सूची से जुड़ी होती हैं? / Parliament and State Legislature both can legislate on which List?",
     "options": {
-      "A": "A. ग्रामीण क्षेत्रों में पहुंच की कमी / Lack of access in rural areas",
-      "B": "B. अक्षय ऊर्जा पर अधिक निर्भरता / Greater dependence on renewable sources",
-      "C": "C. औद्योगिकीकरण का निम्न स्तर / Low level of industrialization",
-      "D": "D. उच्च आयकर दरें / High income tax rates"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 32,
-    "question": "निम्न में से कौन-सा कथन सही है?\nWhich of the following statements is/are correct?",
-    "options": {
-      "A": "A. भारत की प्रति व्यक्ति ऊर्जा खपत लगातार बढ़ रही है। / India's per capita energy consumption is steadily increasing.",
-      "B": "B. 2030 तक भारत की 100% ऊर्जा गैर-पारंपरिक स्रोतों से होगी। / By 2030, India will meet 100% of its energy needs from renewable sources.",
-      "C": "C. पारंपरिक ऊर्जा अभी भी प्रमुख स्रोत है। / Conventional energy still remains the dominant source.",
-      "D": "D. भारत में प्रति व्यक्ति ऊर्जा खपत वैश्विक औसत से अधिक है। / India's per capita energy consumption is higher than global average."
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 33,
-    "question": "भारत में निम्न में से किन-किन राज्यों की प्रति व्यक्ति विद्युत खपत उच्चतम है?\nWhich of the following states in India have the highest per capita electricity consumption?",
-    "options": {
-      "A": "A. चंडीगढ़ / Chandigarh",
-      "B": "B. बिहार / Bihar",
-      "C": "C. गुजरात / Gujarat",
-      "D": "D. उत्तर प्रदेश / Uttar Pradesh"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 34,
-    "question": "भारत में गैर-पारंपरिक ऊर्जा की प्रति व्यक्ति खपत सबसे अधिक बढ़ी है:\nIn India, the per capita consumption of renewable energy has grown the most in:",
-    "options": {
-      "A": "A. सौर ऊर्जा / Solar energy",
-      "B": "B. बायोगैस / Biogas",
-      "C": "C. कोयला / Coal",
-      "D": "D. जलविद्युत / Hydropower"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 35,
-    "question": "भारत के कौन-से क्षेत्रों में अक्षय ऊर्जा का उपयोग तेजी से बढ़ रहा है?\nIn which regions of India is the use of renewable energy increasing rapidly?",
-    "options": {
-      "A": "A. शहरी क्षेत्र / Urban regions",
-      "B": "B. सीमावर्ती राज्य / Border states",
-      "C": "C. रेगिस्तानी क्षेत्र / Desert regions",
-      "D": "D. द्वीपीय क्षेत्र / Island regions"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 36,
-    "question": "भारत की कुल स्थापित ऊर्जा क्षमता में अक्षय ऊर्जा की हिस्सेदारी लगभग कितनी है?\nWhat is the approximate share of renewable energy in India's total installed energy capacity?",
-    "options": {
-      "A": "A. 20% से कम / Less than 20%",
-      "B": "B. 30%–35%",
-      "C": "C. 40%–45%",
-      "D": "D. 50% से अधिक / More than 50%"
+      "A": "संघ सूची / Union List",
+      "B": "राज्य सूची / State List",
+      "C": "समवर्ती सूची / Concurrent List",
+      "D": "गैर-विधान सूची / Non-legislative List"
     },
     "answer": ["C"]
   },
   {
-    "id": 37,
-    "question": "निम्न में से कौन-से पारंपरिक ऊर्जा स्रोत हैं?\nWhich of the following are traditional sources of energy?",
+    "id": 32,
+    "question": "यदि संसद और राज्य कानून एक ही विषय पर टकराते हैं, तो कौन सा कानून प्रभावी होगा? / If Parliament and State make conflicting laws on same subject, which prevails?",
     "options": {
-      "A": "A. कोयला / Coal",
-      "B": "B. सौर ऊर्जा / Solar Energy",
-      "C": "C. पेट्रोलियम / Petroleum",
-      "D": "D. पवन ऊर्जा / Wind Energy"
+      "A": "राज्य कानून / State Law",
+      "B": "पहले बना कानून / Earlier Law",
+      "C": "संसद का कानून / Law made by Parliament",
+      "D": "राज्यपाल की अनुमति से राज्य कानून / State law with Presidential assent"
     },
-    "answer": ["A", "C"]
+    "answer": ["C", "D"]
   },
   {
-    "id": 38,
-    "question": "भारत में निम्न में से कौन-से अक्षय ऊर्जा कार्यक्रम सरकारी सहायता प्राप्त हैं?\nWhich of the following renewable energy programs in India are supported by the government?",
+    "id": 33,
+    "question": "जॉइंट सेशन की अध्यक्षता कौन करता है? / Who presides over a Joint Session of Parliament?",
     "options": {
-      "A": "A. कुसुम योजना / KUSUM Scheme",
-      "B": "B. सौभाग्य योजना / Saubhagya Scheme",
-      "C": "C. जल जीवन मिशन / Jal Jeevan Mission",
-      "D": "D. राष्ट्रीय सौर मिशन / National Solar Mission"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+      "C": "उप-राष्ट्रपति / Vice-President",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": ["A", "D"]
+    "answer": ["B"]
   },
   {
-    "id": 39,
-    "question": "भारत में निम्नलिखित में से किस राज्य में प्रति व्यक्ति पारंपरिक ऊर्जा की खपत सबसे कम है?\nWhich of the following states in India has the lowest per capita conventional energy consumption?",
+    "id": 34,
+    "question": "संसद के दोनों सदनों के बीच मतभेद की स्थिति में कौन समाधान करता है? / In case of deadlock between two Houses, who resolves?",
     "options": {
-      "A": "A. बिहार / Bihar",
-      "B": "B. केरल / Kerala",
-      "C": "C. मध्य प्रदेश / Madhya Pradesh",
-      "D": "D. असम / Assam"
+      "A": "राष्ट्रपति / President",
+      "B": "संयुक्त सत्र / Joint Sitting",
+      "C": "संविधान पीठ / Constitutional Bench",
+      "D": "प्रधानमंत्री / Prime Minister"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 35,
+    "question": "संविधान का कौन सा अनुच्छेद जॉइंट सेशन से संबंधित है? / Which Article deals with Joint Sitting of Parliament?",
+    "options": {
+      "A": "अनुच्छेद 108 / Article 108",
+      "B": "अनुच्छेद 110 / Article 110",
+      "C": "अनुच्छेद 112 / Article 112",
+      "D": "अनुच्छेद 120 / Article 120"
     },
     "answer": ["A"]
   },
   {
-    "id": 40,
-    "question": "भारत में ऊर्जा खपत बढ़ाने के प्रमुख कारण कौन-कौन से हैं?\nWhich of the following are the main reasons for rising energy consumption in India?",
+    "id": 36,
+    "question": "कौन‑कौन से बिल जॉइंट सेशन में नहीं लिए जा सकते? / Which of the following bills cannot be considered in Joint Session?",
     "options": {
-      "A": "A. जनसंख्या वृद्धि / Population growth",
-      "B": "B. डिजिटलीकरण / Digitization",
-      "C": "C. जलवायु परिवर्तन / Climate change",
-      "D": "D. औद्योगिकीकरण / Industrialization"
+      "A": "साधारण विधेयक / Ordinary Bill",
+      "B": "संविधान संशोधन विधेयक / Constitutional Amendment Bill",
+      "C": "मनी बिल / Money Bill",
+      "D": "वित्त विधेयक / Finance Bill"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 37,
+    "question": "संसद के सदस्यों को प्राप्त विशेषाधिकारों का उल्लेख कहाँ है? / Where are Parliamentary privileges mentioned?",
+    "options": {
+      "A": "अनुच्छेद 105 / Article 105",
+      "B": "अनुच्छेद 194 / Article 194",
+      "C": "अनुच्छेद 368 / Article 368",
+      "D": "अनुच्छेद 245 / Article 245"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 38,
+    "question": "यदि बजट समय पर पास न हो, तो क्या विकल्प होता है? / If the budget is not passed in time, what is the alternative?",
+    "options": {
+      "A": "अनुदान प्रस्ताव / Vote on Account",
+      "B": "सुप्रीम कोर्ट हस्तक्षेप करेगा / Supreme Court intervenes",
+      "C": "कैबिनेट बजट पास कर देगी / Cabinet approves",
+      "D": "राष्ट्रपति विशेषाधिकार से पारित करेगा / Passed by Presidential Ordinance"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 39,
+    "question": "किस अनुच्छेद के तहत संसद भारत के किसी भाग पर कानून बना सकती है जब वहाँ राज्य विधानमंडल न हो? / Under which Article can Parliament legislate for a State when no Assembly exists?",
+    "options": {
+      "A": "अनुच्छेद 250 / Article 250",
+      "B": "अनुच्छेद 252 / Article 252",
+      "C": "अनुच्छेद 356 / Article 356",
+      "D": "अनुच्छेद 249 / Article 249"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 40,
+    "question": "संसद का अधिवेशन कितने समय में एक बार अवश्य होना चाहिए? / Parliament must meet at least once in how many months?",
+    "options": {
+      "A": "3 महीने / 3 months",
+      "B": "4 महीने / 4 months",
+      "C": "6 महीने / 6 months",
+      "D": "12 महीने / 12 months"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 41,
+    "question": "न्यायपालिका संसद द्वारा बनाए गए कानून को किस आधार पर अमान्य कर सकती है? / On what basis can the Judiciary invalidate a law made by Parliament?",
+    "options": {
+      "A": "यदि वह मौलिक अधिकारों का उल्लंघन करता है / If it violates Fundamental Rights",
+      "B": "यदि वह नीति निदेशक तत्वों के विरुद्ध है / If against DPSP",
+      "C": "यदि वह संविधान के मूल ढांचे का उल्लंघन करता है / If it violates the Basic Structure",
+      "D": "यदि राज्यपाल असहमत हो / If Governor disagrees"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 42,
+    "question": "लोकसभा की तुलना में राज्यसभा की कौन‑सी शक्ति अधिक है? / In which matter does Rajya Sabha have more power than Lok Sabha?",
+    "options": {
+      "A": "धन विधेयक / Money Bill",
+      "B": "राष्ट्रपति के निर्वाचन में / Presidential Election",
+      "C": "राज्यों के हित में संसद को कानून बनाने की अनुमति / Allowing Parliament to legislate in State interest",
+      "D": "अविश्वास प्रस्ताव / No Confidence Motion"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 43,
+    "question": "राज्यसभा के स्थायी सदन होने का क्या अर्थ है? / What does it mean that Rajya Sabha is a permanent House?",
+    "options": {
+      "A": "इसे कभी भंग नहीं किया जाता / It is never dissolved",
+      "B": "हर दो साल में 1/3 सदस्य सेवानिवृत्त होते हैं / 1/3rd members retire every 2 years",
+      "C": "सभी सदस्य आजीवन होते हैं / All members are lifelong",
+      "D": "राष्ट्रपति इसे भंग कर सकते हैं / President can dissolve it"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 44,
+    "question": "लोकसभा में अविश्वास प्रस्ताव किसके खिलाफ लाया जाता है? / Against whom is the No Confidence Motion brought in Lok Sabha?",
+    "options": {
+      "A": "राष्ट्रपति / President",
+      "B": "प्रधानमंत्री / Prime Minister",
+      "C": "केंद्र सरकार / Council of Ministers",
+      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 45,
+    "question": "लोक लेखा समिति (PAC) की अध्यक्षता कौन करता है? / Who chairs the Public Accounts Committee (PAC)?",
+    "options": {
+      "A": "वित्त मंत्री / Finance Minister",
+      "B": "लोकसभा अध्यक्ष / Speaker",
+      "C": "विपक्ष का सदस्य / Member from Opposition",
+      "D": "कैबिनेट सचिव / Cabinet Secretary"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 46,
+    "question": "कौन‑कौन सी समितियाँ संसद की स्थायी समितियाँ मानी जाती हैं? / Which of the following are Standing Committees of Parliament?",
+    "options": {
+      "A": "वित्त पर स्थायी समिति / Standing Committee on Finance",
+      "B": "लोक लेखा समिति / Public Accounts Committee",
+      "C": "संविधान समिति / Constitution Committee",
+      "D": "संसदीय आचरण समिति / Ethics Committee"
     },
     "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 47,
+    "question": "संविधान संशोधन विधेयक को पारित करने के लिए संसद में किस प्रकार का बहुमत आवश्यक है? / What type of majority is required to pass a Constitutional Amendment Bill?",
+    "options": {
+      "A": "सरल बहुमत / Simple Majority",
+      "B": "विशेष बहुमत / Special Majority",
+      "C": "दोनों सदनों की संयुक्त बैठक / Joint Sitting of both Houses",
+      "D": "राज्यों की बहुमत स्वीकृति / Ratification by States"
+    },
+    "answer": ["B", "D"]
+  },
+  {
+    "id": 48,
+    "question": "धन विधेयक पर राज्यसभा की भूमिका क्या होती है? / What is the role of Rajya Sabha in a Money Bill?",
+    "options": {
+      "A": "वह इसे अस्वीकार कर सकती है / Can reject it",
+      "B": "सुझाव दे सकती है / Can make recommendations",
+      "C": "समयसीमा के अंदर पारित करना होता है / Must return within time",
+      "D": "संशोधन कर सकती है / Can amend it"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 49,
+    "question": "किस प्रकार का विधेयक संसद के दोनों सदनों में पारित होना आवश्यक है? / Which type of bill must be passed by both Houses of Parliament?",
+    "options": {
+      "A": "मनी बिल / Money Bill",
+      "B": "साधारण विधेयक / Ordinary Bill",
+      "C": "संविधान संशोधन विधेयक / Constitutional Amendment Bill",
+      "D": "आपूर्ति विधेयक / Appropriation Bill"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 50,
+    "question": "वर्तमान में संसद के दोनों सदनों की संयुक्त बैठक सबसे अंतिम बार कब हुई थी? / When was the last Joint Session of both Houses of Parliament held?",
+    "options": {
+      "A": "2002 में POTA के लिए / For POTA in 2002",
+      "B": "2015 में GST बिल के लिए / For GST in 2015",
+      "C": "2008 में महिला आरक्षण के लिए / For Women's Reservation in 2008",
+      "D": "2023 में डिजिटल डाटा प्रोटेक्शन बिल / For Digital Data Protection Bill in 2023"
+    },
+    "answer": ["A"]
   }
 ]
+
 
 
