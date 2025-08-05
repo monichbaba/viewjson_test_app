@@ -1,575 +1,222 @@
 [
   {
     "id": 1,
-    "question": "लोकसभा और राज्यसभा में से किस सदन में धन विधेयक (Money Bill) प्रस्तुत किया जा सकता है?",
-        "options": {
-      "A": "केवल लोकसभा / Only Lok Sabha",
-      "B": "केवल राज्यसभा / Only Rajya Sabha",
-      "C": "दोनों सदनों में / In both Houses",
-      "D": "राष्ट्रपति के अनुमोदन से कहीं भी / Anywhere with President's approval"
+    "question": "निम्नलिखित में से कौन-कौन से खेल से संबंधित पुरस्कार हैं? / Which of the following are associated with sports?",
+    "options": {
+      "A": "रणजी ट्रॉफी / Ranji Trophy",
+      "B": "डैविड कप / Davis Cup",
+      "C": "ग्रैमी अवार्ड / Grammy Award",
+      "D": "थॉमस कप / Thomas Cup"
     },
-    "answers": [
-      "A"
-    ]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 2,
-    "question": "राज्यसभा की विशेष शक्तियों में कौन-सा अनुच्छेद शामिल है?  /  Which Article deals with the special powers of Rajya Sabha?",
-        "options": {
-      "A": "अनुच्छेद 249 / Article 249",
-      "B": "अनुच्छेद 312 / Article 312",
-      "C": "अनुच्छेद 368 / Article 368",
-      "D": "दोनों A और B / Both A and B"
+    "question": "नोबेल पुरस्कार निम्नलिखित में से किन क्षेत्रों में दिए जाते हैं? / Nobel Prize is awarded in which of the following fields?",
+    "options": {
+      "A": "साहित्य / Literature",
+      "B": "रसायन शास्त्र / Chemistry",
+      "C": "खेल / Sports",
+      "D": "शांति / Peace"
     },
-    "answers": [
-      "D"
-    ]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "संयुक्त सत्र (Joint Sitting) किस अनुच्छेद के तहत बुलाया जाता है?",
-        "options": {
-      "A": "अनुच्छेद 108 / Article 108",
-      "B": "अनुच्छेद 110 / Article 110",
-      "C": "अनुच्छेद 111 / Article 111",
-      "D": "अनुच्छेद 122 / Article 122"
+    "question": "ऑस्कर अवार्ड किस क्षेत्र से संबंधित है? / Oscar Awards are related to which field?",
+    "options": {
+      "A": "संगीत / Music",
+      "B": "फिल्म / Film",
+      "C": "खेल / Sports",
+      "D": "साहित्य / Literature"
     },
-    "answers": [
-      "A"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
-        "options": {
-      "A": "यह कभी भंग नहीं होती / It is never dissolved",
-      "B": "हर दो साल में एक-तिहाई सदस्य सेवानिवृत्त होते हैं / One-third members retire every two years",
-      "C": "यह निर्वाचित नहीं होती / It is not elected",
-      "D": "A और B दोनों / Both A and B"
+    "question": "डैविड कप किस खेल से संबंधित है? / Davis Cup is associated with which sport?",
+    "options": {
+      "A": "क्रिकेट / Cricket",
+      "B": "टेनिस / Tennis",
+      "C": "बैडमिंटन / Badminton",
+      "D": "हॉकी / Hockey"
     },
-    "answers": [
-      "D"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 5,
-    "question": "लोकसभा के गठन की अधिकतम समय सीमा क्या है?",
-        "options": {
-      "A": "4 वर्ष / 4 years",
-      "B": "5 वर्ष / 5 years",
-      "C": "6 वर्ष / 6 years",
-      "D": "7 वर्ष / 7 years"
+    "question": "‘पुलित्जर पुरस्कार’ किस क्षेत्र में उत्कृष्टता के लिए दिया जाता है? / Pulitzer Prize is awarded for excellence in which field?",
+    "options": {
+      "A": "पत्रकारिता / Journalism",
+      "B": "विज्ञान / Science",
+      "C": "लेखन / Writing",
+      "D": "खेल / Sports"
     },
-    "answers": [
-      "B"
-    ]
+    "answer": ["A", "C"]
   },
   {
     "id": 6,
-    "question": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
-        "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "उपराष्ट्रपति / Vice President",
-      "C": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "D": "प्रधान मंत्री / Prime Minister"
+    "question": "‘बूकर पुरस्कार’ किस क्षेत्र से जुड़ा हुआ है? / Booker Prize is related to which field?",
+    "options": {
+      "A": "फिल्म / Film",
+      "B": "साहित्य / Literature",
+      "C": "खेल / Sports",
+      "D": "राजनीति / Politics"
     },
-    "answers": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "संसद का कार्यकाल किस परिस्थिति में 1 वर्ष से अधिक बढ़ाया जा सकता है?",
-        "options": {
-      "A": "आपातकाल की स्थिति में / During national emergency",
-      "B": "संसदीय बहुमत से / By parliamentary majority",
-      "C": "राष्ट्रपति की सिफारिश पर / On President's recommendation",
-      "D": "राज्यसभा के प्रस्ताव से / By Rajya Sabha resolution"
+    "question": "‘अर्जुन पुरस्कार’ किस देश द्वारा दिया जाता है? / Arjuna Award is given by which country?",
+    "options": {
+      "A": "अमेरिका / USA",
+      "B": "भारत / India",
+      "C": "ऑस्ट्रेलिया / Australia",
+      "D": "जापान / Japan"
     },
-    "answers": [
-      "A"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 8,
-    "question": "निम्न में से कौन सा लोकसभा की अर्हता का हिस्सा है?",
-        "options": {
-      "A": "भारत का नागरिक होना / Must be a citizen of India",
-      "B": "कम से कम 25 वर्ष आयु / Minimum age 25 years",
-      "C": "राज्यसभा सदस्य होना / Must be Rajya Sabha member",
-      "D": "A और B दोनों / Both A and B"
+    "question": "गोल्डन ग्लोब अवार्ड किसके लिए दिया जाता है? / Golden Globe Award is given for?",
+    "options": {
+      "A": "खेल / Sports",
+      "B": "साहित्य / Literature",
+      "C": "फिल्म और टेलीविजन / Film and Television",
+      "D": "शांति / Peace"
     },
-    "answers": [
-      "D"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 9,
-    "question": "राज्यसभा के सदस्यों का चुनाव कौन करता है?",
-        "options": {
-      "A": "लोकसभा सदस्य / Lok Sabha members",
-      "B": "विधानसभा सदस्य / State Legislative Assembly members",
-      "C": "राष्ट्रपति / President",
-      "D": "जनता सीधे / People directly"
+    "question": "‘थॉमस कप’ किस खेल से जुड़ा है? / Thomas Cup is associated with which game?",
+    "options": {
+      "A": "बैडमिंटन / Badminton",
+      "B": "फुटबॉल / Football",
+      "C": "हॉकी / Hockey",
+      "D": "गोल्फ / Golf"
     },
-    "answers": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "अनुच्छेद 110 किससे संबंधित है?",
-        "options": {
-      "A": "धन विधेयक / Money Bill",
-      "B": "संविधान संशोधन / Constitutional Amendment",
-      "C": "राज्यसूची / State List",
-      "D": "राष्ट्रपति की शक्तियाँ / Powers of the President"
+    "question": "‘लॉरेंस पुरस्कार’ किसके लिए दिया जाता है? / Laureus Awards are given for?",
+    "options": {
+      "A": "खेल / Sports",
+      "B": "कला / Art",
+      "C": "संगीत / Music",
+      "D": "राजनीति / Politics"
     },
-    "answers": [
-      "A"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "भारत के संसद में विधेयकों की शुरुआत कहाँ‑कहाँ हो सकती है? / Where can bills originate in Indian Parliament?",
+    "question": "‘बालोन डी’ओर’ किस खेल से संबंधित है? / Ballon d'Or is associated with which sport?",
     "options": {
-      "A": "केवल लोकसभा में / Only in Lok Sabha",
-      "B": "केवल राज्यसभा में / Only in Rajya Sabha",
-      "C": "दोनों सदनों में / In both Houses",
-      "D": "केवल राष्ट्रपति के द्वारा / Only by the President"
+      "A": "फुटबॉल / Football",
+      "B": "टेनिस / Tennis",
+      "C": "क्रिकेट / Cricket",
+      "D": "बैडमिंटन / Badminton"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "संयुक्त सत्र में अध्यक्षता कौन करता है? / Who presides over a Joint Sitting of Parliament?",
+    "question": "‘डैन डेविड पुरस्कार’ का संबंध है / Dan David Prize is related to:",
     "options": {
-      "A": "प्रधान मंत्री / Prime Minister",
-      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "C": "राज्यसभा सभापति / Chairman of Rajya Sabha",
-      "D": "लोकसभा उपाध्यक्ष / Deputy Speaker"
+      "A": "इतिहास और मानवता / History & Humanity",
+      "B": "भौतिकी / Physics",
+      "C": "वाणिज्य / Commerce",
+      "D": "शांति / Peace"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "भारत में संसदीय समितियाँ किस उद्देश्य के लिए गठित की जाती हैं? / What are Parliamentary Committees in India primarily meant for?",
+    "question": "‘ग्रैमी अवार्ड’ किसके लिए प्रसिद्ध है? / Grammy Award is famous for:",
     "options": {
-      "A": "विधान निर्माण / Law-making",
-      "B": "न्यायिक कार्यवाही / Judicial action",
-      "C": "विवरणी जांच और प्रशासनिक निगरानी / Detailed scrutiny and administrative oversight",
-      "D": "राष्ट्रपति को सलाह देना / Advising the President"
+      "A": "संगीत / Music",
+      "B": "फिल्म / Film",
+      "C": "खेल / Sports",
+      "D": "नाटक / Drama"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "निम्न में से कौन‑सी संसदीय समिति स्थायी समिति नहीं है? / Which of the following is NOT a Standing Committee?",
+    "question": "‘विजडन ट्रॉफी’ किसके बीच खेली जाती है? / Wisden Trophy is played between:",
     "options": {
-      "A": "Estimates Committee",
-      "B": "Public Accounts Committee",
-      "C": "Ad hoc Committee",
-      "D": "Committee on Petitions"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 15,
-    "question": "लोकसभा के उपाध्यक्ष का निर्वाचन कौन करता है? / Who elects the Deputy Speaker of Lok Sabha?",
-    "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "लोकसभा के सदस्य / Members of Lok Sabha",
-      "C": "प्रधान मंत्री / Prime Minister",
-      "D": "राज्यसभा / Rajya Sabha"
+      "A": "भारत-ऑस्ट्रेलिया / India-Australia",
+      "B": "इंग्लैंड-वेस्टइंडीज / England-West Indies",
+      "C": "भारत-पाकिस्तान / India-Pakistan",
+      "D": "ऑस्ट्रेलिया-न्यूजीलैंड / Australia-New Zealand"
     },
     "answer": ["B"]
   },
   {
-    "id": 16,
-    "question": "निम्न में से किसे संसद में मतदान का अधिकार नहीं होता? / Who among the following does NOT have voting rights in Parliament?",
+    "id": 15,
+    "question": "इनमें से कौन-सा पुरस्कार भारत का नहीं है? / Which of the following is not an Indian award?",
     "options": {
-      "A": "अंग्रेज़ी में बोलने वाला सदस्य / English-speaking member",
-      "B": "नामांकित सदस्य / Nominated member",
-      "C": "सभापति (Vice-President) / Vice-President",
-      "D": "लोकसभा अध्यक्ष / Speaker"
+      "A": "द्रोणाचार्य पुरस्कार / Dronacharya Award",
+      "B": "पद्म श्री / Padma Shri",
+      "C": "ऑस्कर / Oscar",
+      "D": "भारत रत्न / Bharat Ratna"
     },
     "answer": ["C"]
+  },
+  {
+    "id": 16,
+    "question": "‘रेमन मैगसेसे पुरस्कार’ किस क्षेत्र से जुड़ा है? / Ramon Magsaysay Award is associated with:",
+    "options": {
+      "A": "सार्वजनिक सेवा / Public Service",
+      "B": "पत्रकारिता / Journalism",
+      "C": "खेल / Sports",
+      "D": "सरकारी सेवा / Government Service"
+    },
+    "answer": ["A", "B"]
   },
   {
     "id": 17,
-    "question": "संसद में 'No Confidence Motion' किसके विरुद्ध लाया जाता है? / Against whom is a 'No Confidence Motion' brought in Parliament?",
+    "question": "‘नेहरू कप’ किस खेल से संबंधित है? / Nehru Cup is related to which sport?",
     "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "प्रधान मंत्री / Prime Minister",
-      "C": "कुल मंत्रिपरिषद / Entire Council of Ministers",
-      "D": "लोकसभा अध्यक्ष / Speaker"
+      "A": "हॉकी / Hockey",
+      "B": "फुटबॉल / Football",
+      "C": "क्रिकेट / Cricket",
+      "D": "टेनिस / Tennis"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 18,
-    "question": "राज्यसभा के लिए नामांकित सदस्यों की संख्या कितनी है? / How many members are nominated to Rajya Sabha?",
+    "question": "‘अंतरराष्ट्रीय बुकर पुरस्कार’ किसे दिया जाता है? / International Booker Prize is given for:",
     "options": {
-      "A": "2",
-      "B": "10",
-      "C": "12",
-      "D": "15"
+      "A": "फिल्म निर्देशन / Film Direction",
+      "B": "खेल उपलब्धि / Sports Achievement",
+      "C": "अनूदित साहित्य / Translated Literature",
+      "D": "राजनीति / Politics"
     },
     "answer": ["C"]
   },
   {
     "id": 19,
-    "question": "राज्यसभा के सभापति के बारे में सही कथन चुनिए / Choose the correct statements about Chairman of Rajya Sabha:",
+    "question": "‘दादासाहेब फाल्के पुरस्कार’ किस क्षेत्र में दिया जाता है? / Dadasaheb Phalke Award is given in which field?",
     "options": {
-      "A": "उप राष्ट्रपति होते हैं / He is the Vice President",
-      "B": "वह राज्यसभा में मतदान कर सकते हैं / Can vote in Rajya Sabha",
-      "C": "सिर्फ टाई की स्थिति में वोट कर सकते हैं / Can vote only in case of tie",
-      "D": "लोकसभा सदस्य होते हैं / He is a Lok Sabha member"
+      "A": "संगीत / Music",
+      "B": "साहित्य / Literature",
+      "C": "सिनेमा / Cinema",
+      "D": "खेल / Sports"
     },
-    "answer": ["A", "C"]
+    "answer": ["C"]
   },
   {
     "id": 20,
-    "question": "संसद में किसी विधेयक को पुनः विचार हेतु वापस भेजना किसकी शक्ति है? / Who has the power to return a Bill for reconsideration?",
+    "question": "‘राजीव गांधी खेल रत्न पुरस्कार’ का नाम अब किसके नाम पर रखा गया है? / Rajiv Gandhi Khel Ratna Award is now renamed after:",
     "options": {
-      "A": "राज्यसभा सभापति / Rajya Sabha Chairman",
-      "B": "प्रधान मंत्री / Prime Minister",
-      "C": "राष्ट्रपति / President",
-      "D": "लोकसभा अध्यक्ष / Speaker"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 21,
-    "question": "भारत में संसद का बजट सत्र सामान्यतः कब आयोजित होता है? / When is the Budget Session of Indian Parliament usually held?",
-    "options": {
-      "A": "जनवरी–फरवरी / Jan–Feb",
-      "B": "फरवरी–मई / Feb–May",
-      "C": "अप्रैल–जून / April–June",
-      "D": "सितंबर–नवंबर / Sept–Nov"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 22,
-    "question": "भारत में संसद के विशेष सत्र को कौन बुलाता है? / Who summons a Special Session of the Indian Parliament?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "लोकसभा अध्यक्ष / Speaker",
-      "C": "राष्ट्रपति / President",
-      "D": "कैबिनेट की सिफारिश पर राष्ट्रपति / President on Cabinet’s advice"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 23,
-    "question": "किस अनुच्छेद के अंतर्गत संसद का सत्र बुलाया जाता है? / Under which Article is Parliament summoned?",
-    "options": {
-      "A": "अनुच्छेद 80 / Article 80",
-      "B": "अनुच्छेद 85 / Article 85",
-      "C": "अनुच्छेद 110 / Article 110",
-      "D": "अनुच्छेद 112 / Article 112"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 24,
-    "question": "संसद की कार्यवाही में 'Quorum' का अर्थ क्या होता है? / What does 'Quorum' mean in Parliamentary procedure?",
-    "options": {
-      "A": "सभी सदस्य उपस्थित हों / All members must be present",
-      "B": "1/10 सदस्य उपस्थित हों / 1/10th members present",
-      "C": "वोटिंग सदस्य उपस्थित हों / Only voting members present",
-      "D": "स्पीकर और सेक्रेटरी उपस्थित हों / Speaker and Secretary must be present"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 25,
-    "question": "लोकसभा अध्यक्ष को हटाने की प्रक्रिया क्या है? / What is the process for removal of Lok Sabha Speaker?",
-    "options": {
-      "A": "राष्ट्रपति द्वारा हटाना / By the President",
-      "B": "राज्यसभा द्वारा हटाना / By Rajya Sabha resolution",
-      "C": "लोकसभा में विशेष बहुमत से प्रस्ताव / Resolution by special majority in Lok Sabha",
-      "D": "सर्वसम्मति से हटाना / By unanimous vote"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 26,
-    "question": "मनी बिल से संबंधित कौन‑सा कथन सही है? / Which of the following is true about a Money Bill?",
-    "options": {
-      "A": "यह केवल लोकसभा में पेश हो सकता है / Introduced only in Lok Sabha",
-      "B": "राष्ट्रपति की अनुशंसा जरूरी होती है / President’s recommendation is required",
-      "C": "राज्यसभा इसे अस्वीकार कर सकती है / Rajya Sabha can reject it",
-      "D": "राज्यसभा केवल सुझाव दे सकती है / Rajya Sabha can only suggest changes"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 27,
-    "question": "अनुच्छेद 110 किससे संबंधित है? / Article 110 of the Indian Constitution is related to:",
-    "options": {
-      "A": "संघ का बजट / Union Budget",
-      "B": "मनी बिल / Money Bill",
-      "C": "संविधान संशोधन / Constitutional Amendment",
-      "D": "राज्य सूची / State List"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 28,
-    "question": "संसद में 'Zero Hour' का समय क्या होता है? / What is the timing of 'Zero Hour' in Parliament?",
-    "options": {
-      "A": "12 बजे से 1 बजे तक / 12 PM to 1 PM",
-      "B": "10 बजे से 11 बजे तक / 10 AM to 11 AM",
-      "C": "11 बजे से 12 बजे तक / 11 AM to 12 PM",
-      "D": "सत्र के अंत में / At the end of the session"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "बजट में 'Charged Expenditure' का अर्थ है / Charged expenditure in the budget means:",
-    "options": {
-      "A": "जो संसद द्वारा अनुमोदित होता है / Approved by Parliament",
-      "B": "जो बिना वोट के खर्च किया जाता है / Expenditure not subject to vote",
-      "C": "राष्ट्रपति द्वारा प्रस्तावित / Proposed by President",
-      "D": "राज्यसभा द्वारा पारित / Passed by Rajya Sabha"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 30,
-    "question": "भारत सरकार का वार्षिक बजट प्रस्तुत करता है: / Annual Budget of the Government of India is presented by:",
-    "options": {
-      "A": "प्रधान मंत्री / Prime Minister",
-      "B": "वित्त मंत्री / Finance Minister",
-      "C": "राष्ट्रपति / President",
-      "D": "कैबिनेट सचिव / Cabinet Secretary"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 31,
-    "question": "संसद और राज्य विधानमंडल दोनों की विधायी शक्तियाँ किस सूची से जुड़ी होती हैं? / Parliament and State Legislature both can legislate on which List?",
-    "options": {
-      "A": "संघ सूची / Union List",
-      "B": "राज्य सूची / State List",
-      "C": "समवर्ती सूची / Concurrent List",
-      "D": "गैर-विधान सूची / Non-legislative List"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 32,
-    "question": "यदि संसद और राज्य कानून एक ही विषय पर टकराते हैं, तो कौन सा कानून प्रभावी होगा? / If Parliament and State make conflicting laws on same subject, which prevails?",
-    "options": {
-      "A": "राज्य कानून / State Law",
-      "B": "पहले बना कानून / Earlier Law",
-      "C": "संसद का कानून / Law made by Parliament",
-      "D": "राज्यपाल की अनुमति से राज्य कानून / State law with Presidential assent"
-    },
-    "answer": ["C", "D"]
-  },
-  {
-    "id": 33,
-    "question": "जॉइंट सेशन की अध्यक्षता कौन करता है? / Who presides over a Joint Session of Parliament?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "C": "उप-राष्ट्रपति / Vice-President",
-      "D": "राष्ट्रपति / President"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 34,
-    "question": "संसद के दोनों सदनों के बीच मतभेद की स्थिति में कौन समाधान करता है? / In case of deadlock between two Houses, who resolves?",
-    "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "संयुक्त सत्र / Joint Sitting",
-      "C": "संविधान पीठ / Constitutional Bench",
-      "D": "प्रधानमंत्री / Prime Minister"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 35,
-    "question": "संविधान का कौन सा अनुच्छेद जॉइंट सेशन से संबंधित है? / Which Article deals with Joint Sitting of Parliament?",
-    "options": {
-      "A": "अनुच्छेद 108 / Article 108",
-      "B": "अनुच्छेद 110 / Article 110",
-      "C": "अनुच्छेद 112 / Article 112",
-      "D": "अनुच्छेद 120 / Article 120"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 36,
-    "question": "कौन‑कौन से बिल जॉइंट सेशन में नहीं लिए जा सकते? / Which of the following bills cannot be considered in Joint Session?",
-    "options": {
-      "A": "साधारण विधेयक / Ordinary Bill",
-      "B": "संविधान संशोधन विधेयक / Constitutional Amendment Bill",
-      "C": "मनी बिल / Money Bill",
-      "D": "वित्त विधेयक / Finance Bill"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 37,
-    "question": "संसद के सदस्यों को प्राप्त विशेषाधिकारों का उल्लेख कहाँ है? / Where are Parliamentary privileges mentioned?",
-    "options": {
-      "A": "अनुच्छेद 105 / Article 105",
-      "B": "अनुच्छेद 194 / Article 194",
-      "C": "अनुच्छेद 368 / Article 368",
-      "D": "अनुच्छेद 245 / Article 245"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 38,
-    "question": "यदि बजट समय पर पास न हो, तो क्या विकल्प होता है? / If the budget is not passed in time, what is the alternative?",
-    "options": {
-      "A": "अनुदान प्रस्ताव / Vote on Account",
-      "B": "सुप्रीम कोर्ट हस्तक्षेप करेगा / Supreme Court intervenes",
-      "C": "कैबिनेट बजट पास कर देगी / Cabinet approves",
-      "D": "राष्ट्रपति विशेषाधिकार से पारित करेगा / Passed by Presidential Ordinance"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 39,
-    "question": "किस अनुच्छेद के तहत संसद भारत के किसी भाग पर कानून बना सकती है जब वहाँ राज्य विधानमंडल न हो? / Under which Article can Parliament legislate for a State when no Assembly exists?",
-    "options": {
-      "A": "अनुच्छेद 250 / Article 250",
-      "B": "अनुच्छेद 252 / Article 252",
-      "C": "अनुच्छेद 356 / Article 356",
-      "D": "अनुच्छेद 249 / Article 249"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 40,
-    "question": "संसद का अधिवेशन कितने समय में एक बार अवश्य होना चाहिए? / Parliament must meet at least once in how many months?",
-    "options": {
-      "A": "3 महीने / 3 months",
-      "B": "4 महीने / 4 months",
-      "C": "6 महीने / 6 months",
-      "D": "12 महीने / 12 months"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 41,
-    "question": "न्यायपालिका संसद द्वारा बनाए गए कानून को किस आधार पर अमान्य कर सकती है? / On what basis can the Judiciary invalidate a law made by Parliament?",
-    "options": {
-      "A": "यदि वह मौलिक अधिकारों का उल्लंघन करता है / If it violates Fundamental Rights",
-      "B": "यदि वह नीति निदेशक तत्वों के विरुद्ध है / If against DPSP",
-      "C": "यदि वह संविधान के मूल ढांचे का उल्लंघन करता है / If it violates the Basic Structure",
-      "D": "यदि राज्यपाल असहमत हो / If Governor disagrees"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 42,
-    "question": "लोकसभा की तुलना में राज्यसभा की कौन‑सी शक्ति अधिक है? / In which matter does Rajya Sabha have more power than Lok Sabha?",
-    "options": {
-      "A": "धन विधेयक / Money Bill",
-      "B": "राष्ट्रपति के निर्वाचन में / Presidential Election",
-      "C": "राज्यों के हित में संसद को कानून बनाने की अनुमति / Allowing Parliament to legislate in State interest",
-      "D": "अविश्वास प्रस्ताव / No Confidence Motion"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 43,
-    "question": "राज्यसभा के स्थायी सदन होने का क्या अर्थ है? / What does it mean that Rajya Sabha is a permanent House?",
-    "options": {
-      "A": "इसे कभी भंग नहीं किया जाता / It is never dissolved",
-      "B": "हर दो साल में 1/3 सदस्य सेवानिवृत्त होते हैं / 1/3rd members retire every 2 years",
-      "C": "सभी सदस्य आजीवन होते हैं / All members are lifelong",
-      "D": "राष्ट्रपति इसे भंग कर सकते हैं / President can dissolve it"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 44,
-    "question": "लोकसभा में अविश्वास प्रस्ताव किसके खिलाफ लाया जाता है? / Against whom is the No Confidence Motion brought in Lok Sabha?",
-    "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "प्रधानमंत्री / Prime Minister",
-      "C": "केंद्र सरकार / Council of Ministers",
-      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 45,
-    "question": "लोक लेखा समिति (PAC) की अध्यक्षता कौन करता है? / Who chairs the Public Accounts Committee (PAC)?",
-    "options": {
-      "A": "वित्त मंत्री / Finance Minister",
-      "B": "लोकसभा अध्यक्ष / Speaker",
-      "C": "विपक्ष का सदस्य / Member from Opposition",
-      "D": "कैबिनेट सचिव / Cabinet Secretary"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 46,
-    "question": "कौन‑कौन सी समितियाँ संसद की स्थायी समितियाँ मानी जाती हैं? / Which of the following are Standing Committees of Parliament?",
-    "options": {
-      "A": "वित्त पर स्थायी समिति / Standing Committee on Finance",
-      "B": "लोक लेखा समिति / Public Accounts Committee",
-      "C": "संविधान समिति / Constitution Committee",
-      "D": "संसदीय आचरण समिति / Ethics Committee"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 47,
-    "question": "संविधान संशोधन विधेयक को पारित करने के लिए संसद में किस प्रकार का बहुमत आवश्यक है? / What type of majority is required to pass a Constitutional Amendment Bill?",
-    "options": {
-      "A": "सरल बहुमत / Simple Majority",
-      "B": "विशेष बहुमत / Special Majority",
-      "C": "दोनों सदनों की संयुक्त बैठक / Joint Sitting of both Houses",
-      "D": "राज्यों की बहुमत स्वीकृति / Ratification by States"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 48,
-    "question": "धन विधेयक पर राज्यसभा की भूमिका क्या होती है? / What is the role of Rajya Sabha in a Money Bill?",
-    "options": {
-      "A": "वह इसे अस्वीकार कर सकती है / Can reject it",
-      "B": "सुझाव दे सकती है / Can make recommendations",
-      "C": "समयसीमा के अंदर पारित करना होता है / Must return within time",
-      "D": "संशोधन कर सकती है / Can amend it"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 49,
-    "question": "किस प्रकार का विधेयक संसद के दोनों सदनों में पारित होना आवश्यक है? / Which type of bill must be passed by both Houses of Parliament?",
-    "options": {
-      "A": "मनी बिल / Money Bill",
-      "B": "साधारण विधेयक / Ordinary Bill",
-      "C": "संविधान संशोधन विधेयक / Constitutional Amendment Bill",
-      "D": "आपूर्ति विधेयक / Appropriation Bill"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 50,
-    "question": "वर्तमान में संसद के दोनों सदनों की संयुक्त बैठक सबसे अंतिम बार कब हुई थी? / When was the last Joint Session of both Houses of Parliament held?",
-    "options": {
-      "A": "2002 में POTA के लिए / For POTA in 2002",
-      "B": "2015 में GST बिल के लिए / For GST in 2015",
-      "C": "2008 में महिला आरक्षण के लिए / For Women's Reservation in 2008",
-      "D": "2023 में डिजिटल डाटा प्रोटेक्शन बिल / For Digital Data Protection Bill in 2023"
+      "A": "मेजर ध्यानचंद / Major Dhyan Chand",
+      "B": "कपिल देव / Kapil Dev",
+      "C": "मिल्खा सिंह / Milkha Singh",
+      "D": "सचिन तेंदुलकर / Sachin Tendulkar"
     },
     "answer": ["A"]
   }
 ]
-
-
-
