@@ -1,197 +1,201 @@
 [
   {
     "id": 1,
-    "question": "Part X संविधान के किस पहलू से संबंधित है? / What aspect of the Constitution does Part X relate to?",
+    "question": "संविधान के किस अनुच्छेद के तहत वित्त आयोग की स्थापना होती है? / Under which Article is the Finance Commission constituted in the Constitution?",
     "options": {
-      "A": "राज्यसभा / Rajya Sabha",
-      "B": "ग्राम पंचायत / Gram Panchayat",
-      "C": "अनुसूचित और जनजातीय क्षेत्र / Scheduled and Tribal Areas",
-      "D": "संविधान संशोधन / Constitutional Amendment"
+      "A": "अनुच्छेद 280 / Article 280",
+      "B": "अनुच्छेद 270 / Article 270",
+      "C": "अनुच्छेद 312 / Article 312",
+      "D": "अनुच्छेद 265 / Article 265"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "Article 244 किस अनुसूची से संबंधित है? / Article 244 is associated with which Schedule?",
+    "question": "GST परिषद के अध्यक्ष कौन होते हैं? / Who is the Chairperson of the GST Council?",
     "options": {
-      "A": "5वीं और 6वीं / Fifth and Sixth",
-      "B": "7वीं और 8वीं / Seventh and Eighth",
-      "C": "9वीं और 10वीं / Ninth and Tenth",
-      "D": "11वीं और 12वीं / Eleventh and Twelfth"
+      "A": "राष्ट्रपति / President",
+      "B": "प्रधानमंत्री / Prime Minister",
+      "C": "केंद्रीय वित्त मंत्री / Union Finance Minister",
+      "D": "नीति आयोग अध्यक्ष / NITI Aayog Chairman"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 3,
-    "question": "Fifth Schedule क्षेत्रों में प्रशासन का प्रमुख कौन होता है? / Who is the key administrator in Fifth Schedule areas?",
+    "question": "अनुच्छेद 338 के अंतर्गत कौन-सा आयोग गठित किया गया है? / Which commission is established under Article 338?",
     "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "मुख्यमंत्री / Chief Minister",
-      "C": "राज्यपाल / Governor",
-      "D": "राष्ट्रपति / President"
+      "A": "अनुसूचित जनजाति आयोग / Scheduled Tribes Commission",
+      "B": "अनुसूचित जाति आयोग / Scheduled Castes Commission",
+      "C": "अल्पसंख्यक आयोग / Minorities Commission",
+      "D": "मानवाधिकार आयोग / Human Rights Commission"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "Sixth Schedule विशेष रूप से किस क्षेत्र पर लागू होता है? / Sixth Schedule specifically applies to:",
+    "question": "वर्तमान में अनुसूचित जाति आयोग (NCSC) के अध्यक्ष कौन हैं? / Who is the current Chairperson of the NCSC?",
     "options": {
-      "A": "उत्तर भारत / North India",
-      "B": "दक्षिण भारत / South India",
-      "C": "पूर्वोत्तर भारत / North-Eastern India",
-      "D": "पश्चिमी भारत / Western India"
+      "A": "Antar Singh Arya",
+      "B": "V. Srinivas",
+      "C": "Kishor Makwana",
+      "D": "Nirupam Chakma"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "Fifth Schedule के अंतर्गत कौन-सा निकाय परामर्श देता है? / Which body advises under the Fifth Schedule?",
+    "question": "अनुच्छेद 338A के अंतर्गत गठित आयोग का नाम क्या है? / What is the name of the commission constituted under Article 338A?",
     "options": {
-      "A": "जनजातीय सलाहकार परिषद / Tribal Advisory Council",
-      "B": "न्यायिक परिषद / Judicial Council",
-      "C": "राज्य सभा / Rajya Sabha",
-      "D": "राष्ट्रीय विकास परिषद / National Development Council"
+      "A": "राष्ट्रीय मानवाधिकार आयोग / National Human Rights Commission",
+      "B": "अनुसूचित जाति आयोग / Scheduled Castes Commission",
+      "C": "अनुसूचित जनजाति आयोग / Scheduled Tribes Commission",
+      "D": "न्यायिक आयोग / Judicial Commission"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 6,
-    "question": "PESA अधिनियम 1996 किसके लिए बनाया गया था? / The PESA Act 1996 was enacted for:",
+    "question": "संघ लोक सेवा आयोग (UPSC) की स्थापना किस अनुच्छेद के तहत हुई है?",
     "options": {
-      "A": "शहरी सुधार / Urban Reforms",
-      "B": "अनुसूचित क्षेत्रों में पंचायत सशक्तिकरण / Empowering Panchayats in Scheduled Areas",
-      "C": "नगर निगम चुनाव / Municipal Elections",
-      "D": "राज्य पुनर्गठन / State Reorganisation"
+      "A": "अनुच्छेद 280",
+      "B": "अनुच्छेद 315",
+      "C": "अनुच्छेद 324",
+      "D": "अनुच्छेद 148"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"],
+    "explanation": "संघ लोक सेवा आयोग (UPSC) की स्थापना भारतीय संविधान के अनुच्छेद 315 के तहत की गई है।"
   },
   {
     "id": 7,
-    "question": "Article 244A असम के किस विशेष अधिकार से जुड़ा है? / Article 244A relates to which special right of Assam?",
+    "question": "UPSC के वर्तमान अध्यक्ष कौन हैं (2025 में)?",
     "options": {
-      "A": "स्वतंत्र राज्य निर्माण / Formation of independent state",
-      "B": "स्वायत्त राज्य निर्माण / Formation of autonomous state",
-      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
-      "D": "ग्राम पंचायत गठन / Formation of Gram Panchayats"
+      "A": "गिरिश चंद्र मुर्मू",
+      "B": "मनोज सोनी",
+      "C": "अरुण कुमार मिश्रा",
+      "D": "एस. सोमनाथ"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"],
+    "explanation": "डॉ. मनोज सोनी वर्तमान में (2025) संघ लोक सेवा आयोग (UPSC) के अध्यक्ष हैं।"
   },
   {
     "id": 8,
-    "question": "Sixth Schedule में कौन-से निकाय बनते हैं? / Which bodies are created under the Sixth Schedule?",
+    "question": "भारत के चुनाव आयोग (Election Commission of India) का अध्यक्ष (मुख्य चुनाव आयुक्त) कौन है (2025 में)?",
     "options": {
-      "A": "पंचायत समिति / Panchayat Samiti",
-      "B": "नगरपालिका / Municipalities",
-      "C": "स्वायत्त जिला परिषद / Autonomous District Councils",
-      "D": "विधान परिषद / Legislative Councils"
+      "A": "राजीव कुमार",
+      "B": "अरुण गोयल",
+      "C": "मनोज सोनी",
+      "D": "नवीन पटनायक"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"],
+    "explanation": "श्री राजीव कुमार इस समय भारत के मुख्य चुनाव आयुक्त हैं।"
   },
   {
     "id": 9,
-    "question": "Sixth Schedule किस प्रकार की स्वायत्तता प्रदान करता है? / What kind of autonomy does the Sixth Schedule provide?",
+    "question": "केंद्रीय सतर्कता आयोग (CVC) के वर्तमान प्रमुख (2025 में) कौन हैं?",
     "options": {
-      "A": "केवल सांस्कृतिक / Only cultural",
-      "B": "प्रशासनिक और विधायी / Administrative and legislative",
-      "C": "वित्तीय / Financial only",
-      "D": "केवल न्यायिक / Judicial only"
+      "A": "अरविंद कुमार",
+      "B": "प्रेम सिंह",
+      "C": "सुरेश एन पटेल",
+      "D": "राजीव कुमार"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["C"],
+    "explanation": "सुरेश एन पटेल वर्तमान में केंद्रीय सतर्कता आयोग (CVC) के प्रमुख हैं।"
   },
   {
     "id": 10,
-    "question": "Fifth Schedule में राष्ट्रपति की भूमिका क्या है? / What is the role of the President in Fifth Schedule areas?",
+    "question": "राष्ट्रीय महिला आयोग (NCW) की वर्तमान अध्यक्ष (2025 में) कौन हैं?",
     "options": {
-      "A": "कानून लागू करना / Enact laws",
-      "B": "अनुसूचित क्षेत्र घोषित करना / Declare Scheduled Areas",
-      "C": "राज्य चुनाव कराना / Conduct state elections",
-      "D": "पंचायतों का गठन / Form Panchayats"
+      "A": "रीखा शर्मा",
+      "B": "ममता शर्मा",
+      "C": "ललिता कुमारमंगलम",
+      "D": "अलका लांबा"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"],
+    "explanation": "रीखा शर्मा वर्ष 2025 में राष्ट्रीय महिला आयोग (NCW) की अध्यक्ष हैं।"
   },
   {
     "id": 11,
-    "question": "Fifth Schedule क्षेत्रों में राज्यपाल को किसकी सहमति लेनी होती है? / Whose advice must Governor take in Fifth Schedule areas?",
+    "question": "NITI आयोग के वर्तमान अध्यक्ष कौन होते हैं?",
     "options": {
-      "A": "मुख्यमंत्री / Chief Minister",
-      "B": "जनजातीय सलाहकार परिषद / Tribal Advisory Council",
-      "C": "लोकसभा अध्यक्ष / Lok Sabha Speaker",
-      "D": "प्रधानमंत्री / Prime Minister"
+      "A": "प्रधानमंत्री",
+      "B": "राष्ट्रपति",
+      "C": "राज्यपाल",
+      "D": "वित्त मंत्री"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"],
+    "explanation": "प्रधानमंत्री स्वतः NITI आयोग के अध्यक्ष होते हैं।"
   },
   {
     "id": 12,
-    "question": "Sixth Schedule के अंतर्गत कौन सा राज्य शामिल नहीं है? / Which state is NOT covered under the Sixth Schedule?",
+    "question": "राष्ट्रीय पिछड़ा वर्ग आयोग (NCBC) के अध्यक्ष (2025 में) कौन हैं?",
     "options": {
-      "A": "असम / Assam",
-      "B": "मेघालय / Meghalaya",
-      "C": "मिजोरम / Mizoram",
-      "D": "झारखंड / Jharkhand"
+      "A": "हंसराज गंगाराम अहिर",
+      "B": "भगवत करवडे",
+      "C": "मनोज सोनकर",
+      "D": "एस. एस. देशवाल"
     },
-    "answer": [
-      "D"
-    ]
+    "answer": ["A"],
+    "explanation": "हंसराज गंगाराम अहिर राष्ट्रीय पिछड़ा वर्ग आयोग के वर्तमान अध्यक्ष हैं।"
   },
   {
     "id": 13,
-    "question": "Sixth Schedule को संविधान में क्यों जोड़ा गया? / Why was the Sixth Schedule added to the Constitution?",
+    "question": "भारत सरकार द्वारा जारी 'India Electric Mobility Index (IEMI)' किस उद्देश्य से है?",
     "options": {
-      "A": "जनसंख्या नियंत्रण हेतु / For population control",
-      "B": "शहरी विकास के लिए / For urban development",
-      "C": "जनजातीय क्षेत्रों को विशेष स्वायत्तता देने हेतु / To grant special autonomy to tribal regions",
-      "D": "भाषायी राज्यों के निर्माण के लिए / For formation of linguistic states"
+      "A": "राज्यों के आर्थिक विकास को मापना",
+      "B": "विद्युत वाहन अपनाने की प्रगति को ट्रैक करना",
+      "C": "विद्युत उत्पादन में सुधार",
+      "D": "ऊर्जा सुरक्षा नीति बनाना"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"],
+    "explanation": "IEMI एक राष्ट्रीय फ्रेमवर्क है जो विभिन्न राज्यों और केंद्रशासित प्रदेशों में इलेक्ट्रिक व्हीकल को अपनाने, इंफ्रास्ट्रक्चर और नवाचार की प्रगति को मापता है।"
   },
   {
     "id": 14,
-    "question": "Fifth Schedule और Sixth Schedule में मुख्य अंतर क्या है? / What is the key difference between Fifth and Sixth Schedule?",
+    "question": "अंतर्राष्ट्रीय स्तर पर 'LEAP-1 Mission' किस क्षेत्र से संबंधित है?",
     "options": {
-      "A": "एक शहरी और एक ग्रामीण क्षेत्र के लिए / One for urban and one for rural",
-      "B": "एक संसद द्वारा नियंत्रित, दूसरा राज्य द्वारा / One by Parliament, other by State",
-      "C": "एक में स्वायत्त परिषदें हैं, दूसरे में नहीं / One has autonomous councils, the other doesn't",
-      "D": "कोई अंतर नहीं है / No difference"
+      "A": "अंतरिक्ष अन्वेषण",
+      "B": "शिक्षा",
+      "C": "जल संरक्षण",
+      "D": "जलवायु परिवर्तन"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"],
+    "explanation": "LEAP-1 मिशन भारतीय अंतरिक्ष कार्यक्रम से जुड़ा एक मिशन है, जो नई तकनीकों का परीक्षण और विकास करता है।"
   },
   {
     "id": 15,
-    "question": "PESA अधिनियम लागू होता है: / PESA Act is applicable in:",
+    "question": "GST परिषद के अंतर्गत प्रमुख वित्तीय विवाद आमतौर पर किस पर होता है?",
     "options": {
-      "A": "Sixth Schedule क्षेत्रों में / Sixth Schedule areas",
-      "B": "Fifth Schedule क्षेत्रों में / Fifth Schedule areas",
-      "C": "सभी राज्यों में / All states",
-      "D": "केवल शहरी क्षेत्रों में / Only urban areas"
+      "A": "राज्यों के कर राजस्व का वितरण",
+      "B": "विदेशी निवेश नीति",
+      "C": "कृषि सब्सिडी",
+      "D": "पर्यावरण संरक्षण उपाय"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"],
+    "explanation": "GST परिषद में राज्यों और केंद्र के बीच कर राजस्व के वितरण को लेकर कई बार विवाद होते हैं।"
+  },
+  {
+    "id": 16,
+    "question": "भारत की कौन सी पहल पर्यावरण संरक्षण और वृक्षारोपण को बढ़ावा देने के लिए 'Matri Van Initiative' नाम से जानी जाती है?",
+    "options": {
+      "A": "महिला सुरक्षा योजना",
+      "B": "जैव विविधता संरक्षण",
+      "C": "शहरी हरियाली योजना",
+      "D": "महिला सशक्तिकरण"
+    },
+    "answer": ["C"],
+    "explanation": "Matri Van Initiative शहरी क्षेत्रों में वृक्षारोपण और हरियाली बढ़ाने की पहल है।"
+  },
+  {
+    "id": 17,
+    "question": "भारत सरकार द्वारा 'Ethanol Blending Programme' का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "पेट्रोल को पूरी तरह समाप्त करना",
+      "B": "ऊर्जा सुरक्षा और प्रदूषण नियंत्रण",
+      "C": "ख्या चैन के सुधार",
+      "D": "विदेशी तेल आयात बढ़ाना"
+    },
+    "answer": ["B"],
+    "explanation": "इस योजना के माध्यम से पेट्रोल में इथेनॉल मिलाकर ऊर्जा सुरक्षा बढ़ाना और पर्यावरण प्रदूषण को कम करना है।"
   }
 ]

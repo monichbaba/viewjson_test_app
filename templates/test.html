@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>MCQ Test - IAS Mentor</title>
+  <meta charset="UTF-8" />
+  <title>memorization exercise</title>
 
-  <!-- ✅ Favicon -->
-  <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/png">
+  <!-- Favicon -->
+  <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/png" />
 
-  <!-- ✅ Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 
-  <!-- ✅ Optional Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Google Fonts: Poppins -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
 
   <style>
     body {
@@ -19,7 +19,6 @@
       background-color: #f8f9fa;
       padding-top: 60px;
     }
-
     .option-box {
       border-radius: 10px;
       padding: 10px;
@@ -28,24 +27,20 @@
       border: 1px solid #dee2e6;
       transition: background-color 0.3s ease, transform 0.2s ease;
     }
-
     .option-box:hover {
       background-color: #e2f0ff;
       transform: scale(1.01);
     }
-
     .logo-bar {
       position: absolute;
       top: 10px;
       left: 10px;
     }
-
     .logo-bar img {
       height: 50px;
       border-radius: 8px;
       box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
     }
-
     h1.title {
       background: linear-gradient(to right, #ff6a00, #ee0979);
       -webkit-background-clip: text;
@@ -55,21 +50,17 @@
       margin-top: 20px;
       font-weight: 600;
     }
-
     .card-header {
       background-color: #f1f1f1;
       font-weight: 600;
     }
-
     .btn-primary {
       background: linear-gradient(to right, #ff512f, #dd2476);
       border: none;
     }
-
     .btn-primary:hover {
       background: linear-gradient(to right, #dd2476, #ff512f);
     }
-
     .card {
       border-radius: 12px;
     }
@@ -80,25 +71,30 @@
 
   <!-- Logo -->
   <div class="logo-bar">
-    <img src="{{ url_for('static', filename='favicon.png') }}" alt="Logo">
+    <img src="{{ url_for('static', filename='favicon.png') }}" alt="Logo" />
   </div>
 
   <!-- Title -->
-  <h1 class="title">📝 Current Revision Test</h1>
+  <h1 class="title">📝 Memorization Exercise</h1>
 
   <!-- Main Container -->
-  <div class="container mt-4">
-    <form method="post" action="/submit">
-
+  <div class="container mt-4 mb-5">
+    <form method="post" action="{{ url_for('submit') }}">
       {% for q in questions %}
-        <div class="card mb-4 shadow">
+        <div class="card mb-4 shadow-sm">
           <div class="card-header">
             Q{{ q.id }}. {{ q.question }}
           </div>
           <div class="card-body">
             {% for key, value in q.options.items() %}
               <div class="form-check option-box">
-                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ key }}" id="q{{ q.id }}_{{ key }}">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  name="q{{ q.id }}"
+                  value="{{ key }}"
+                  id="q{{ q.id }}_{{ key }}"
+                />
                 <label class="form-check-label" for="q{{ q.id }}_{{ key }}">
                   {{ key }}. {{ value }}
                 </label>
@@ -108,12 +104,13 @@
         </div>
       {% endfor %}
 
-      <div class="text-center mb-5">
+      <div class="text-center">
         <button type="submit" class="btn btn-primary px-4 py-2">Submit</button>
       </div>
-
     </form>
   </div>
 
+  <!-- Bootstrap JS (optional, can help with some Bootstrap components) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
