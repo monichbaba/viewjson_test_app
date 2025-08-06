@@ -1,344 +1,197 @@
 [
   {
     "id": 1,
-    "question": "Article 239 भारत के संविधान में किस विषय से संबंधित है? / Article 239 of the Indian Constitution is related to:",
+    "question": "Part X संविधान के किस पहलू से संबंधित है? / What aspect of the Constitution does Part X relate to?",
     "options": {
-      "A": "राज्यों का गठन",
-      "B": "संघ राज्य क्षेत्रों का प्रशासन",
-      "C": "विधान परिषद् की शक्तियाँ",
-      "D": "राज्यपाल की शक्तियाँ"
+      "A": "राज्यसभा / Rajya Sabha",
+      "B": "ग्राम पंचायत / Gram Panchayat",
+      "C": "अनुसूचित और जनजातीय क्षेत्र / Scheduled and Tribal Areas",
+      "D": "संविधान संशोधन / Constitutional Amendment"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 2,
-    "question": "कौन-कौन से संघ राज्य क्षेत्रों में विधानमंडल है? / Which UTs have legislatures?",
+    "question": "Article 244 किस अनुसूची से संबंधित है? / Article 244 is associated with which Schedule?",
     "options": {
-      "A": "दिल्ली और लद्दाख",
-      "B": "दिल्ली और पुडुचेरी",
-      "C": "चंडीगढ़ और दमन दीव",
-      "D": "लक्षद्वीप और अंडमान"
+      "A": "5वीं और 6वीं / Fifth and Sixth",
+      "B": "7वीं और 8वीं / Seventh and Eighth",
+      "C": "9वीं और 10वीं / Ninth and Tenth",
+      "D": "11वीं और 12वीं / Eleventh and Twelfth"
     },
-    "answer": ["B"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 3,
-    "question": "Article 239AA किस क्षेत्र के लिए विशेष प्रावधान करता है? / Article 239AA makes special provisions for:",
+    "question": "Fifth Schedule क्षेत्रों में प्रशासन का प्रमुख कौन होता है? / Who is the key administrator in Fifth Schedule areas?",
     "options": {
-      "A": "पुडुचेरी",
-      "B": "चंडीगढ़",
-      "C": "दिल्ली (राष्ट्रीय राजधानी क्षेत्र)",
-      "D": "दमन और दीव"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "मुख्यमंत्री / Chief Minister",
+      "C": "राज्यपाल / Governor",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": ["C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 4,
-    "question": "दिल्ली के उपराज्यपाल की शक्तियाँ राष्ट्रपति से प्राप्त होती हैं – यह किस अनुच्छेद में वर्णित है? / The powers of Lieutenant Governor of Delhi are derived from which Article?",
+    "question": "Sixth Schedule विशेष रूप से किस क्षेत्र पर लागू होता है? / Sixth Schedule specifically applies to:",
     "options": {
-      "A": "Article 74",
-      "B": "Article 239",
-      "C": "Article 239AA",
-      "D": "Article 240"
+      "A": "उत्तर भारत / North India",
+      "B": "दक्षिण भारत / South India",
+      "C": "पूर्वोत्तर भारत / North-Eastern India",
+      "D": "पश्चिमी भारत / Western India"
     },
-    "answer": ["C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 5,
-    "question": "Article 239A किससे संबंधित है? / Article 239A is related to:",
+    "question": "Fifth Schedule के अंतर्गत कौन-सा निकाय परामर्श देता है? / Which body advises under the Fifth Schedule?",
     "options": {
-      "A": "दिल्ली की पुलिस व्यवस्था",
-      "B": "पुडुचेरी में विधानमंडल",
-      "C": "लद्दाख में उच्च न्यायालय",
-      "D": "UTs में पंचायत प्रणाली"
+      "A": "जनजातीय सलाहकार परिषद / Tribal Advisory Council",
+      "B": "न्यायिक परिषद / Judicial Council",
+      "C": "राज्य सभा / Rajya Sabha",
+      "D": "राष्ट्रीय विकास परिषद / National Development Council"
     },
-    "answer": ["B"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 6,
-    "question": "केंद्रशासित प्रदेशों में उच्च न्यायालय की स्थापना से संबंधित अनुच्छेद कौन-सा है? / Which Article deals with High Courts in Union Territories?",
+    "question": "PESA अधिनियम 1996 किसके लिए बनाया गया था? / The PESA Act 1996 was enacted for:",
     "options": {
-      "A": "Article 239",
-      "B": "Article 240",
-      "C": "Article 241",
-      "D": "Article 242"
+      "A": "शहरी सुधार / Urban Reforms",
+      "B": "अनुसूचित क्षेत्रों में पंचायत सशक्तिकरण / Empowering Panchayats in Scheduled Areas",
+      "C": "नगर निगम चुनाव / Municipal Elections",
+      "D": "राज्य पुनर्गठन / State Reorganisation"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 7,
-    "question": "निम्नलिखित में से कौन-सा केंद्रशासित प्रदेश विधानमंडल से विहीन है? / Which of the following UTs does not have a legislature?",
+    "question": "Article 244A असम के किस विशेष अधिकार से जुड़ा है? / Article 244A relates to which special right of Assam?",
     "options": {
-      "A": "दिल्ली",
-      "B": "पुडुचेरी",
-      "C": "लद्दाख",
-      "D": "दोनों A और B"
+      "A": "स्वतंत्र राज्य निर्माण / Formation of independent state",
+      "B": "स्वायत्त राज्य निर्माण / Formation of autonomous state",
+      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
+      "D": "ग्राम पंचायत गठन / Formation of Gram Panchayats"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 8,
-    "question": "किस अनुच्छेद के तहत राष्ट्रपति कुछ UTs के लिए विनियम (Regulations) बना सकता है? / Under which Article can the President make regulations for some UTs?",
+    "question": "Sixth Schedule में कौन-से निकाय बनते हैं? / Which bodies are created under the Sixth Schedule?",
     "options": {
-      "A": "Article 238",
-      "B": "Article 240",
-      "C": "Article 239A",
-      "D": "Article 241"
+      "A": "पंचायत समिति / Panchayat Samiti",
+      "B": "नगरपालिका / Municipalities",
+      "C": "स्वायत्त जिला परिषद / Autonomous District Councils",
+      "D": "विधान परिषद / Legislative Councils"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 9,
-    "question": "कौन से केंद्रशासित प्रदेश के पास स्वतंत्र उच्च न्यायालय नहीं है लेकिन किसी राज्य के उच्च न्यायालय के अधीन है? / Which UT does not have its own High Court but comes under a State High Court?",
+    "question": "Sixth Schedule किस प्रकार की स्वायत्तता प्रदान करता है? / What kind of autonomy does the Sixth Schedule provide?",
     "options": {
-      "A": "दिल्ली",
-      "B": "लद्दाख",
-      "C": "पुडुचेरी",
-      "D": "दोनों B और C"
+      "A": "केवल सांस्कृतिक / Only cultural",
+      "B": "प्रशासनिक और विधायी / Administrative and legislative",
+      "C": "वित्तीय / Financial only",
+      "D": "केवल न्यायिक / Judicial only"
     },
-    "answer": ["D"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 10,
-    "question": "Article 242 को किस संशोधन द्वारा हटा दिया गया था? / Article 242 was repealed by which Amendment?",
+    "question": "Fifth Schedule में राष्ट्रपति की भूमिका क्या है? / What is the role of the President in Fifth Schedule areas?",
     "options": {
-      "A": "36वां संशोधन",
-      "B": "42वां संशोधन",
-      "C": "44वां संशोधन",
-      "D": "52वां संशोधन"
+      "A": "कानून लागू करना / Enact laws",
+      "B": "अनुसूचित क्षेत्र घोषित करना / Declare Scheduled Areas",
+      "C": "राज्य चुनाव कराना / Conduct state elections",
+      "D": "पंचायतों का गठन / Form Panchayats"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 11,
-    "question": "क्या केंद्रशासित प्रदेश संविधान की 7वीं अनुसूची के अनुसार विधायी शक्तियाँ प्राप्त करते हैं? / Do Union Territories get legislative powers under the 7th Schedule?",
+    "question": "Fifth Schedule क्षेत्रों में राज्यपाल को किसकी सहमति लेनी होती है? / Whose advice must Governor take in Fifth Schedule areas?",
     "options": {
-      "A": "सभी UTs को मिलती हैं",
-      "B": "किसी को नहीं मिलती",
-      "C": "केवल दिल्ली और पुडुचेरी को",
-      "D": "सिर्फ राष्ट्रपति द्वारा अनुमत UTs को"
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "जनजातीय सलाहकार परिषद / Tribal Advisory Council",
+      "C": "लोकसभा अध्यक्ष / Lok Sabha Speaker",
+      "D": "प्रधानमंत्री / Prime Minister"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 12,
-    "question": "UTs में शासन का अंतिम अधिकार किसके पास होता है? / The ultimate authority of governance in UTs lies with:",
+    "question": "Sixth Schedule के अंतर्गत कौन सा राज्य शामिल नहीं है? / Which state is NOT covered under the Sixth Schedule?",
     "options": {
-      "A": "राज्यपाल",
-      "B": "उपराज्यपाल",
-      "C": "राष्ट्रपति",
-      "D": "प्रधानमंत्री"
+      "A": "असम / Assam",
+      "B": "मेघालय / Meghalaya",
+      "C": "मिजोरम / Mizoram",
+      "D": "झारखंड / Jharkhand"
     },
-    "answer": ["C"]
+    "answer": [
+      "D"
+    ]
   },
   {
     "id": 13,
-    "question": "लद्दाख केंद्रशासित प्रदेश कब बना? / When did Ladakh become a Union Territory?",
+    "question": "Sixth Schedule को संविधान में क्यों जोड़ा गया? / Why was the Sixth Schedule added to the Constitution?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "जनसंख्या नियंत्रण हेतु / For population control",
+      "B": "शहरी विकास के लिए / For urban development",
+      "C": "जनजातीय क्षेत्रों को विशेष स्वायत्तता देने हेतु / To grant special autonomy to tribal regions",
+      "D": "भाषायी राज्यों के निर्माण के लिए / For formation of linguistic states"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 14,
-    "question": "क्या दिल्ली को राज्य का दर्जा प्राप्त है? / Does Delhi have full statehood status?",
+    "question": "Fifth Schedule और Sixth Schedule में मुख्य अंतर क्या है? / What is the key difference between Fifth and Sixth Schedule?",
     "options": {
-      "A": "हाँ",
-      "B": "नहीं",
-      "C": "केवल कुछ मामलों में",
-      "D": "सशर्त"
+      "A": "एक शहरी और एक ग्रामीण क्षेत्र के लिए / One for urban and one for rural",
+      "B": "एक संसद द्वारा नियंत्रित, दूसरा राज्य द्वारा / One by Parliament, other by State",
+      "C": "एक में स्वायत्त परिषदें हैं, दूसरे में नहीं / One has autonomous councils, the other doesn't",
+      "D": "कोई अंतर नहीं है / No difference"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 15,
-    "question": "दिल्ली का उपराज्यपाल किसके प्रति उत्तरदायी होता है? / The LG of Delhi is accountable to:",
+    "question": "PESA अधिनियम लागू होता है: / PESA Act is applicable in:",
     "options": {
-      "A": "दिल्ली विधानसभा",
-      "B": "मुख्यमंत्री",
-      "C": "राष्ट्रपति",
-      "D": "संसद"
+      "A": "Sixth Schedule क्षेत्रों में / Sixth Schedule areas",
+      "B": "Fifth Schedule क्षेत्रों में / Fifth Schedule areas",
+      "C": "सभी राज्यों में / All states",
+      "D": "केवल शहरी क्षेत्रों में / Only urban areas"
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 16,
-    "question": "क्या केंद्रशासित प्रदेशों में संसद को विधायी शक्ति प्राप्त है? / Does the Parliament have legislative power over UTs?",
-    "options": {
-      "A": "नहीं",
-      "B": "हाँ, सभी मामलों में",
-      "C": "केवल जब राष्ट्रपति आदेश दे",
-      "D": "केवल सीमित मामलों में"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "पुडुचेरी की विधानसभा कितने सदस्यों की होती है? / The Puducherry Legislative Assembly consists of how many members?",
-    "options": {
-      "A": "30",
-      "B": "33",
-      "C": "35",
-      "D": "40"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 18,
-    "question": "दिल्ली पुलिस किसके अधीन आती है? / Delhi Police is under the control of:",
-    "options": {
-      "A": "मुख्यमंत्री दिल्ली",
-      "B": "दिल्ली विधानसभा",
-      "C": "उपराज्यपाल",
-      "D": "गृह मंत्रालय, भारत सरकार"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 19,
-    "question": "क्या केंद्रशासित प्रदेश उच्च न्यायालय में मुकदमा दायर कर सकते हैं? / Can UTs file a case in High Court?",
-    "options": {
-      "A": "नहीं",
-      "B": "हाँ, लेकिन राज्य की अनुमति से",
-      "C": "हाँ, संविधानिक प्रावधान के अंतर्गत",
-      "D": "केवल दिल्ली को अनुमति है"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "केंद्रशासित प्रदेशों में पंचायत राज प्रणाली लागू होती है? / Is Panchayati Raj applicable in UTs?",
-    "options": {
-      "A": "नहीं, संविधान में उल्लेख नहीं",
-      "B": "हाँ, लेकिन राज्य सरकार की तरह नहीं",
-      "C": "हाँ, अगर केंद्र सरकार लागू करे",
-      "D": "केवल पुडुचेरी में"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 21,
-    "question": "दिल्ली में DMC में अल्डरमैन नामित करना किसका विधिक कर्तव्य माना गया SC द्वारा? / In Delhi, nomination of aldermen to the DMC was held by SC as a statutory duty of:",
-    "options": {
-      "A": "Chief Minister of Delhi",
-      "B": "Lieutenant Governor of Delhi",
-      "C": "Mayor of Delhi",
-      "D": "President of India"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 22,
-    "question": "Article 239AA के अंतर्गत कौन‑से विषयों में दिल्ली सरकार पर LG की अलग निर्णय‑शक्ति रहती है? / Under Article 239AA, in which subjects does the LG of Delhi have independent discretion over the Delhi government?",
-    "options": {
-      "A": "Services, land, public order",
-      "B": "Police, land, public order",
-      "C": "Services, police, education",
-      "D": "Only land"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 23,
-    "question": "Supreme Court verdict (May 2023) के अनुसार दिल्ली सरकार को नागरिक सेवाओं पर क्या अधिकार मिला? / As per SC verdict in May 2023, the Delhi government gained which power over civil services?",
-    "options": {
-      "A": "All services including police",
-      "B": "Services except police, land, public order",
-      "C": "Police and public order only",
-      "D": "No power over services"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 24,
-    "question": "Delhi Services Act 2023 (Delhi Amendment Act) ने दिल्ली में किसे सर्वाधिक शक्ति दी? / The Delhi Services Act 2023 gives maximum control over services to:",
-    "options": {
-      "A": "Chief Minister of Delhi",
-      "B": "Lieutenant Governor of Delhi",
-      "C": "President of India",
-      "D": "Chief Secretary of Delhi"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 25,
-    "question": "Delhi में MCD की standing committee का चुनाव किन लोगों द्वारा प्रभावित होता है? / The standing committee of Delhi MCD is influenced by nomination of aldermen appointed through:",
-    "options": {
-      "A": "Chief Minister’s role only",
-      "B": "LG’s statutory nomination of aldermen",
-      "C": "Presidential nominees",
-      "D": "Direct election only"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 25,
-    "question": "SC ने यह स्पष्ट किया कि LG द्वारा Council of Ministers की सलाह अनदेखी करना हो तो कैसे निर्णय लेना चाहिए? / SC clarified that if the LG differs from Council of Ministers, he should:",
-    "options": {
-      "A": "Act unilaterally",
-      "B": "Refer to President with sound rationale",
-      "C": "Override Council’s decision",
-      "D": "Resign from office"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 26,
-    "question": "SC ने सरकार और Delhi LG के बीच UT में अधिकार‑वितरण में किस सिद्धांत को पुनः पुष्ट किया? / Which constitutional principle did the SC reaffirm in Delhi vs LG governance dispute?",
-    "options": {
-      "A": "Unitary governance model",
-      "B": "Collaborative federalism",
-      "C": "Executive supremacy",
-      "D": "Judicial retreat"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 27,
-    "question": "Supreme Court ने यह कैसे बताया कि UTs समान नहीं होते हैं—Delhi के संबंध में? / How did SC describe Delhi’s status compared to other UTs?",
-    "options": {
-      "A": "Exactly the same",
-      "B": "Sui generis due to Article 239AA",
-      "C": "No legislature",
-      "D": "Completely under Union control"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 28,
-    "question": "Delhi के वृहद प्रशासन में IAS posting पर कानूनन निर्णय किसके पास है? / Who legally controls IAS postings in Delhi after the SC verdict?",
-    "options": {
-      "A": "LG",
-      "B": "Delhi Government",
-      "C": "MHA",
-      "D": "Supreme Court"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 29,
-    "question": "Chandigarh में religious structures की जांच किस निर्देश पर हुई? / The probe into religious structures in Chandigarh followed a directive from the:",
-    "options": {
-      "A": "Central Land Commission",
-      "B": "Supreme Court mandating estate office action",
-      "C": "Punjab Governor",
-      "D": "Local municipal board"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 30,
-    "question": "SC ने आदेश दिया कि Delhi की elected govt को bureaucratic control मिलने से क्या सुनिश्चित होगा? / SC ruled that giving control over bureaucracy to Delhi's government ensures:",
-    "options": {
-      "A": "Central supremacy",
-      "B": "Representative governance",
-      "C": "Union-territory centralisation",
-      "D": "Administrative chaos"
-    },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   }
 ]
-
