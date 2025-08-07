@@ -1,354 +1,305 @@
 [
   {
     "id": 1,
-    "question": "भारतीय संविधान के किस अनुच्छेद में यह उल्लेख है कि संघ की राजभाषा हिंदी होगी, जो देवनागरी लिपि में लिखी जाएगी?",
+    "question": "CAA, 2019 को लेकर भारत के किन हिस्सों में व्यापक विरोध प्रदर्शन हुए थे?",
     "options": {
-      "A": "अनुच्छेद 343 / Article 343",
-      "B": "अनुच्छेद 344 / Article 344",
-      "C": "अनुच्छेद 348 / Article 348",
-      "D": "अनुच्छेद 351 / Article 351"
+      "A": "उत्तर प्रदेश",
+      "B": "दिल्ली",
+      "C": "अरुणाचल प्रदेश",
+      "D": "असम और पूर्वोत्तर राज्य"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 344 का मुख्य उद्देश्य क्या है?",
+    "question": "भारतीय संविधान में DPSP के तहत जोड़े गए समाजवादी तत्व किस विदेशी संविधान से प्रेरित हैं?\nWhich foreign constitution inspired the socialist elements under DPSP in the Indian Constitution?",
     "options": {
-      "A": "संविधान की आठवीं अनुसूची को निर्धारित करना / To define the Eighth Schedule",
-      "B": "राजभाषा आयोग की स्थापना करना / To establish the Official Language Commission",
-      "C": "राज्य की भाषाओं को पहचान देना / To recognize state languages",
-      "D": "न्यायालयों में हिंदी का प्रयोग अनिवार्य करना / To mandate use of Hindi in courts"
+      "A": "ब्रिटिश संविधान / British Constitution",
+      "B": "आयरिश संविधान / Irish Constitution",
+      "C": "जर्मन संविधान / German Constitution",
+      "D": "सोवियत संविधान / Soviet Constitution"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["D"]
   },
   {
     "id": 3,
-    "question": "भारत सरकार अधिनियम 1963 किससे संबंधित है?",
+    "question": "निम्नलिखित में से कौन सा संशोधन 'Due Process of Law' सिद्धांत को भारतीय संदर्भ में दर्शाता है?\nWhich of the following amendments reflects the 'Due Process of Law' in Indian context?",
     "options": {
-      "A": "केवल हिंदी को राजभाषा बनाना / Declaring Hindi as the sole official language",
-      "B": "अंग्रेजी के प्रयोग को समाप्त करना / Abolishing the use of English",
-      "C": "हिंदी और अंग्रेजी दोनों के प्रयोग को वैध करना / Legalizing use of both Hindi and English",
-      "D": "सिंधी भाषा को मान्यता देना / Recognizing Sindhi language"
+      "A": "42वां संशोधन",
+      "B": "44वां संशोधन",
+      "C": "24वां संशोधन",
+      "D": "None of the above"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "अनुच्छेद 348 के अनुसार उच्च न्यायालयों में किस भाषा का प्रयोग अनिवार्य है?",
+    "question": "किस संशोधन द्वारा भारत में मूल अधिकारों के तहत शिक्षा का अधिकार जोड़ा गया?\nWhich amendment added the Right to Education under Fundamental Rights in India?",
     "options": {
-      "A": "हिंदी / Hindi",
-      "B": "राज्य की भाषा / State Language",
-      "C": "अंग्रेजी / English",
-      "D": "संस्कृत / Sanskrit"
+      "A": "86वां संशोधन",
+      "B": "42वां संशोधन",
+      "C": "44वां संशोधन",
+      "D": "97वां संशोधन"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "संविधान के किस संशोधन द्वारा सिंधी को आठवीं अनुसूची में जोड़ा गया?",
+    "question": "भारत के संविधान में 'Procedure Established by Law' किस देश के संविधान से लिया गया है?\nThe concept of 'Procedure Established by Law' in Indian Constitution is borrowed from which country?",
     "options": {
-      "A": "19वां संशोधन / 19th Amendment",
-      "B": "21वां संशोधन / 21st Amendment",
-      "C": "42वां संशोधन / 42nd Amendment",
-      "D": "44वां संशोधन / 44th Amendment"
+      "A": "अमेरिका / USA",
+      "B": "जापान / Japan",
+      "C": "ब्रिटेन / UK",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 6,
-    "question": "राजभाषा अधिनियम, 1963 का मुख्य उद्देश्य क्या था?",
+    "question": "भारतीय संविधान में 'संविधान की मूल संरचना' (Basic Structure Doctrine) की अवधारणा किस देश के संविधान और न्यायशास्त्र से प्रभावित मानी जाती है?\nThe concept of 'Basic Structure Doctrine' in Indian Constitution is influenced by which country's constitutional jurisprudence?",
     "options": {
-      "A": "हिंदी को राष्ट्रभाषा घोषित करना",
-      "B": "अंग्रेजी को अनिश्चितकाल तक सह-राजभाषा बनाए रखना",
-      "C": "राज्यों को अपनी भाषा चुनने की स्वतंत्रता देना",
-      "D": "8वीं अनुसूची को समाप्त करना"
+      "A": "ब्रिटेन / United Kingdom",
+      "B": "जर्मनी / Germany",
+      "C": "अमेरिका / United States",
+      "D": "कनाडा / Canada"
     },
     "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "अनुच्छेद 343 किस विषय से संबंधित है?",
+    "question": "संघवाद (Federalism) की अवधारणा भारतीय संविधान में किन-किन देशों से ली गई है?\nThe concept of Federalism in Indian Constitution is borrowed from which countries?",
     "options": {
-      "A": "राजभाषा के रूप में हिंदी",
-      "B": "प्रारंभिक शिक्षा में मातृभाषा",
-      "C": "सांस्कृतिक और शैक्षणिक अधिकार",
-      "D": "संविधान की प्रस्तावना"
+      "A": "कनाडा / Canada",
+      "B": "अमेरिका / United States",
+      "C": "ऑस्ट्रेलिया / Australia",
+      "D": "जर्मनी / Germany"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 8,
-    "question": "राज्य को मातृभाषा में प्रारंभिक शिक्षा सुनिश्चित करने का निर्देश किस अनुच्छेद में दिया गया है?",
+    "question": "‘Judicial Review’ की अवधारणा भारत ने किस देश से अपनाई है?\nFrom which country did India adopt the concept of ‘Judicial Review’?",
     "options": {
-      "A": "अनुच्छेद 29",
-      "B": "अनुच्छेद 30",
-      "C": "अनुच्छेद 350A",
-      "D": "अनुच्छेद 351"
+      "A": "कनाडा / Canada",
+      "B": "अमेरिका / USA",
+      "C": "जापान / Japan",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "अनुच्छेद 350B के अंतर्गत किस पद की नियुक्ति की जाती है?",
+    "question": "संसदीय शासन प्रणाली और कैबिनेट प्रणाली भारतीय संविधान में किस देश से ली गई है?\nThe Parliamentary system and Cabinet form of government in Indian Constitution are inspired from which country?",
     "options": {
-      "A": "राजभाषा मंत्री",
-      "B": "अल्पसंख्यक भाषा विशेष अधिकारी",
-      "C": "भाषा आयोग अध्यक्ष",
-      "D": "सांस्कृतिक मामलों के सचिव"
+      "A": "फ्रांस / France",
+      "B": "ब्रिटेन / Britain",
+      "C": "ऑस्ट्रेलिया / Australia",
+      "D": "अमेरिका / United States"
     },
     "answer": ["B"]
   },
   {
     "id": 10,
-    "question": "सर्वोच्च न्यायालय ने किस केस में कहा कि ‘मातृभाषा में शिक्षा देना एक निर्देशात्मक दायित्व है, बाध्यकारी नहीं’?",
+    "question": "भारतीय संविधान में ‘न्यायिक स्वतंत्रता’ (Judicial Independence) की प्रेरणा मुख्यतः किस देश से ली गई है?\nThe principle of ‘Judicial Independence’ in Indian Constitution is primarily inspired from which country?",
     "options": {
-      "A": "TMA Pai Foundation बनाम कर्नाटक राज्य",
-      "B": "Minerva Mills केस",
-      "C": "S.R. Bommai केस",
-      "D": "Mohini Jain केस"
+      "A": "अमेरिका / USA",
+      "B": "ब्रिटेन / UK",
+      "C": "जर्मनी / Germany",
+      "D": "स्विट्ज़रलैंड / Switzerland"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "संविधान का कौन-सा संशोधन 8वीं अनुसूची में सिंधी भाषा को शामिल करने के लिए किया गया था?",
+    "question": "भारतीय संविधान में 'राज्य नीति के निदेशक तत्त्व' (DPSP) की प्रेरणा किस देश से प्राप्त हुई?\nFrom which country did India derive the concept of 'Directive Principles of State Policy' (DPSP)?",
     "options": {
-      "A": "21वां संशोधन",
-      "B": "42वां संशोधन",
-      "C": "71वां संशोधन",
-      "D": "92वां संशोधन"
+      "A": "आयरलैंड / Ireland",
+      "B": "ब्रिटेन / Britain",
+      "C": "ऑस्ट्रेलिया / Australia",
+      "D": "अमेरिका / USA"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "TMA Pai केस (2002) में सुप्रीम कोर्ट का मुख्य निष्कर्ष क्या था?",
+    "question": "‘समवर्ती सूची’ (Concurrent List) की अवधारणा भारत ने किस देश से ली है?\nThe concept of ‘Concurrent List’ in Indian Constitution is adopted from which country?",
     "options": {
-      "A": "मौलिक अधिकार स्थायी नहीं हैं",
-      "B": "निजी संस्थानों को मातृभाषा में शिक्षा देने के लिए बाध्य नहीं किया जा सकता",
-      "C": "राज्य को मातृभाषा में शिक्षा देना अनिवार्य है",
-      "D": "राज्य हिंदी को अनिवार्य कर सकता है"
+      "A": "कनाडा / Canada",
+      "B": "ऑस्ट्रेलिया / Australia",
+      "C": "ब्रिटेन / Britain",
+      "D": "अमेरिका / USA"
     },
     "answer": ["B"]
   },
   {
     "id": 13,
-    "question": "संविधान का 92वां संशोधन (2003) किन भाषाओं को 8वीं अनुसूची में जोड़ने से संबंधित है?",
+    "question": "भारतीय संविधान में अनुच्छेद 368 द्वारा निर्धारित संशोधन प्रक्रिया किस देश की प्रणाली से प्रभावित है?\nThe amendment procedure under Article 368 of Indian Constitution is influenced by which country?",
     "options": {
-      "A": "कोंकणी, मणिपुरी, नेपाली",
-      "B": "डोगरी, मैथिली, संथाली, बोडो",
-      "C": "तेलुगू, कन्नड़, मराठी, गुजराती",
-      "D": "उर्दू, सिंधी, हिंदी, तमिल"
+      "A": "दक्षिण अफ्रीका / South Africa",
+      "B": "जर्मनी / Germany",
+      "C": "अमेरिका / USA",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": ["B"]
+    "answer": ["A", "C"]
   },
   {
     "id": 14,
-    "question": "संविधान के भाग XVII में क्या समाहित है?",
+    "question": "भारत में राष्ट्रपति के महाभियोग की प्रक्रिया किस देश से प्रेरित है?\nThe impeachment procedure of the President in India is inspired from which country?",
     "options": {
-      "A": "राज्य नीति के निदेशक तत्व",
-      "B": "संघ और राज्य के बीच संबंध",
-      "C": "राजभाषा से संबंधित प्रावधान",
-      "D": "आर्थिक और सामाजिक अधिकार"
+      "A": "ब्रिटेन / UK",
+      "B": "फ्रांस / France",
+      "C": "अमेरिका / USA",
+      "D": "कनाडा / Canada"
     },
     "answer": ["C"]
   },
   {
     "id": 15,
-    "question": "अनुच्छेद 351 का उद्देश्य क्या है?",
+    "question": "भारतीय संविधान में शेष विधायी शक्तियाँ (Residuary Powers) किस देश की प्रणाली से ली गई हैं?\nResiduary legislative powers in Indian Constitution are taken from which country?",
     "options": {
-      "A": "राज्य सरकारों को शिक्षा में सुधार हेतु निर्देश देना",
-      "B": "हिंदी भाषा के प्रचार और प्रसार के लिए केंद्र सरकार को निर्देश देना",
-      "C": "राज्य को मातृभाषा में शिक्षा देना अनिवार्य बनाना",
-      "D": "अल्पसंख्यकों के लिए अलग स्कूल खोलना"
+      "A": "ऑस्ट्रेलिया / Australia",
+      "B": "कनाडा / Canada",
+      "C": "अमेरिका / USA",
+      "D": "ब्रिटेन / UK"
     },
     "answer": ["B"]
   },
   {
     "id": 16,
-    "question": "भारत सरकार द्वारा गठित भाषा आयोग किस अनुच्छेद के अंतर्गत स्थापित किया जाता है?",
+    "question": "24वें संविधान संशोधन (1971) का मुख्य उद्देश्य क्या था?\nWhat was the main objective of the 24th Constitutional Amendment (1971)?",
     "options": {
-      "A": "अनुच्छेद 344",
-      "B": "अनुच्छेद 350A",
-      "C": "अनुच्छेद 351",
-      "D": "अनुच्छेद 343"
+      "A": "संविधान संशोधन की संसद की शक्ति की पुष्टि / Affirmed Parliament's power to amend the Constitution",
+      "B": "न्यायपालिका की शक्तियाँ सीमित करना / To limit powers of judiciary",
+      "C": "मौलिक अधिकारों में संशोधन को वैध करना / To validate amendment of Fundamental Rights",
+      "D": "राष्ट्रपति को संशोधन पर हस्ताक्षर करना अनिवार्य बनाना / Made President's assent on amendment bills mandatory"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 17,
-    "question": "सुप्रीम कोर्ट ने किस केस में कहा कि ‘शिक्षा एक मौलिक अधिकार है’, जिसमें भाषा नीति का भी उल्लेख हुआ?",
+    "question": "42वें संविधान संशोधन (1976) को 'मिनी संविधान' क्यों कहा जाता है?\nWhy is the 42nd Constitutional Amendment (1976) called the 'Mini Constitution'?",
     "options": {
-      "A": "Mohini Jain बनाम कर्नाटक राज्य (1992)",
-      "B": "TMA Pai Foundation केस",
-      "C": "Unnikrishnan बनाम आंध्र प्रदेश राज्य",
-      "D": "Minerva Mills केस"
+      "A": "इसने प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द जोड़े / It added 'Socialist' and 'Secular' to the Preamble",
+      "B": "इसने न्यायपालिका की स्वतंत्रता बढ़ाई / It strengthened judicial independence",
+      "C": "इसने मौलिक कर्तव्यों को जोड़ा / It introduced Fundamental Duties",
+      "D": "इसने संसद की शक्तियों को बढ़ाया / It enhanced powers of Parliament"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 18,
-    "question": "8वीं अनुसूची में नई भाषाओं को जोड़ने के लिए संसद को क्या करना होता है?",
+    "question": "86वें संविधान संशोधन (2002) के तहत शिक्षा के अधिकार से संबंधित कौन-से प्रावधान किए गए?\nWhich provisions related to Right to Education were made under the 86th Constitutional Amendment (2002)?",
     "options": {
-      "A": "राज्यपाल की सहमति लेनी होती है",
-      "B": "राष्ट्रपति की मंजूरी के बिना संशोधन किया जा सकता है",
-      "C": "संविधान संशोधन अधिनियम पारित करना होता है",
-      "D": "राज्य विधानसभाओं का समर्थन आवश्यक है"
+      "A": "अनुच्छेद 21A जोड़ा गया / Article 21A was inserted",
+      "B": "6–14 वर्ष के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा / Free and compulsory education for children aged 6–14",
+      "C": "मौलिक अधिकारों में शिक्षा को शामिल किया गया / Education added to Fundamental Rights",
+      "D": "माता-पिता के लिए बच्चों को स्कूल भेजना अनिवार्य किया / Made it a duty for parents to send children to school"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 19,
-    "question": "किस अनुच्छेद में यह उल्लेख है कि राज्य के किसी नागरिक को केवल भाषा के आधार पर नौकरी से वंचित नहीं किया जाएगा?",
+    "question": "44वें संविधान संशोधन (1978) का उद्देश्य आपातकाल के किस प्रभाव को पलटना था?\nWhich impact of the Emergency was reversed by the 44th Constitutional Amendment (1978)?",
     "options": {
-      "A": "अनुच्छेद 15",
-      "B": "अनुच्छेद 16(2)",
-      "C": "अनुच्छेद 19",
-      "D": "अनुच्छेद 21A"
+      "A": "अनुच्छेद 352 में 'आंतरिक अशांति' को हटाकर 'सशस्त्र विद्रोह' जोड़ा गया / Replaced 'internal disturbance' with 'armed rebellion' in Article 352",
+      "B": "अनुच्छेद 20 और 21 को आपातकाल से बाहर रखा गया / Excluded Articles 20 and 21 from Emergency provisions",
+      "C": "संपत्ति का अधिकार बहाल किया गया / Restored Right to Property as Fundamental Right",
+      "D": "प्रधानमंत्री को आपातकाल घोषित करने की शक्ति दी गई / Gave Prime Minister direct power to declare Emergency"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 20,
-    "question": "संविधान की आठवीं अनुसूची का मुख्य उद्देश्य क्या है?",
+    "question": "52वें संविधान संशोधन (1985) से कौन-सा प्रावधान लागू हुआ?\nWhich provision was introduced by the 52nd Constitutional Amendment (1985)?",
     "options": {
-      "A": "राज्य भाषा को संविधान में स्थान देना",
-      "B": "साहित्य अकादमी की भाषा सूची बनाना",
-      "C": "भारत की मान्यता प्राप्त भाषाओं को सूचीबद्ध करना",
-      "D": "संघ और राज्य की भाषाओं को तय करना"
+      "A": "दल-बदल विरोधी कानून / Anti-Defection Law",
+      "B": "दलबदल के कारण अयोग्यता का प्रावधान / Disqualification on grounds of defection",
+      "C": "आदर्श आचार संहिता / Model Code of Conduct",
+      "D": "10वीं अनुसूची की शुरुआत / Introduction of the 10th Schedule"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "D"]
   },
   {
-    "id": 21,
-    "question": "हिंदी दिवस प्रतिवर्ष किस दिन मनाया जाता है?",
+    "id": 19,
+    "question": "44वें संविधान संशोधन (1978) का उद्देश्य आपातकाल के किस प्रभाव को पलटना था?\nWhich impact of the Emergency was reversed by the 44th Constitutional Amendment (1978)?",
     "options": {
-      "A": "14 अगस्त",
-      "B": "14 सितंबर",
-      "C": "26 जनवरी",
-      "D": "15 अगस्त"
+      "A": "अनुच्छेद 352 में 'आंतरिक अशांति' को हटाकर 'सशस्त्र विद्रोह' जोड़ा गया / Replaced 'internal disturbance' with 'armed rebellion' in Article 352",
+      "B": "अनुच्छेद 20 और 21 को आपातकाल से बाहर रखा गया / Excluded Articles 20 and 21 from Emergency provisions",
+      "C": "संपत्ति का अधिकार बहाल किया गया / Restored Right to Property as Fundamental Right",
+      "D": "प्रधानमंत्री को आपातकाल घोषित करने की शक्ति दी गई / Gave Prime Minister direct power to declare Emergency"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
-    "id": 22,
-    "question": "भारत के संविधान के किस अनुच्छेद में प्रत्येक राज्य को प्राथमिक स्तर पर मातृभाषा में शिक्षा देने का निर्देश है?",
+    "id": 20,
+    "question": "52वें संविधान संशोधन (1985) से कौन-सा प्रावधान लागू हुआ?\nWhich provision was introduced by the 52nd Constitutional Amendment (1985)?",
     "options": {
-      "A": "अनुच्छेद 350A",
-      "B": "अनुच्छेद 351",
-      "C": "अनुच्छेद 343",
-      "D": "अनुच्छेद 344"
+      "A": "दल-बदल विरोधी कानून / Anti-Defection Law",
+      "B": "दलबदल के कारण अयोग्यता का प्रावधान / Disqualification on grounds of defection",
+      "C": "आदर्श आचार संहिता / Model Code of Conduct",
+      "D": "10वीं अनुसूची की शुरुआत / Introduction of the 10th Schedule"
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "अनुच्छेद 351 भारत सरकार को किस भाषा के प्रसार के लिए निर्देश देता है?",
-    "options": {
-      "A": "संस्कृत",
-      "B": "उर्दू",
-      "C": "हिंदी",
-      "D": "अंग्रेजी"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 24,
-    "question": "8वीं अनुसूची में कितनी भाषाएं वर्तमान में शामिल हैं?",
-    "options": {
-      "A": "18",
-      "B": "21",
-      "C": "22",
-      "D": "25"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 25,
-    "question": "निम्न में से किस संशोधन द्वारा कोंकणी, मणिपुरी और नेपाली भाषाओं को 8वीं अनुसूची में जोड़ा गया?",
-    "options": {
-      "A": "71वां संशोधन",
-      "B": "92वां संशोधन",
-      "C": "52वां संशोधन",
-      "D": "100वां संशोधन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 26,
-    "question": "92वें संविधान संशोधन (2003) में कौन-कौन सी भाषाएं 8वीं अनुसूची में जोड़ी गई थीं?",
-    "options": {
-      "A": "मैथिली, डोगरी, भोजपुरी, संथाली",
-      "B": "मैथिली, डोगरी, बodo, संथाली",
-      "C": "मैथिली, मराठी, संथाली, डोगरी",
-      "D": "मैथिली, गुजराती, बodo, कोडवा"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 27,
-    "question": "भारत के किस सर्वोच्च न्यायालय के निर्णय ने कहा था कि मातृभाषा में शिक्षा देना राज्यों की बाध्यता नहीं बल्कि एक निर्देशात्मक कर्तव्य है?",
-    "options": {
-      "A": "TMA Pai Foundation केस",
-      "B": "Minerva Mills केस",
-      "C": "Golak Nath केस",
-      "D": "Kesavananda Bharati केस"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 28,
-    "question": "‘मातृभाषा में शिक्षा’ का उद्देश्य मुख्यतः किसके संवैधानिक अधिकार को प्रोत्साहित करता है?",
-    "options": {
-      "A": "सांस्कृतिक और शैक्षणिक अधिकार",
-      "B": "समता का अधिकार",
-      "C": "अभिव्यक्ति की स्वतंत्रता",
-      "D": "संवैधानिक उपचार"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "कौन-सी संस्था भारत की भाषाई नीतियों पर सिफारिश करती है और भाषा विकास पर कार्य करती है?",
-    "options": {
-      "A": "संविधान पीठ",
-      "B": "भाषा आयोग",
-      "C": "संविधान समीक्षा समिति",
-      "D": "साहित्य अकादमी"
-    },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 30,
-    "question": "संविधान के किस भाग में राजभाषा से संबंधित उपबंध हैं?",
+    "question": "नागरिकता संशोधन अधिनियम, 2019 (CAA) के अंतर्गत किन देशों के धार्मिक अल्पसंख्यकों को भारतीय नागरिकता प्रदान की जाती है?",
     "options": {
-      "A": "भाग XVI",
-      "B": "भाग XVII",
-      "C": "भाग XVIII",
-      "D": "भाग XV"
+      "A": "पाकिस्तान",
+      "B": "नेपाल",
+      "C": "अफगानिस्तान",
+      "D": "बांग्लादेश"
     },
-    "answer": ["B"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 31,
-    "question": "केंद्र सरकार को किस अनुच्छेद के तहत यह निर्देशित किया गया है कि वह हिंदी भाषा के प्रसार में विज्ञान और तकनीकी शब्दों का उपयोग करे?",
+    "question": "CAA के तहत किन धार्मिक समुदायों को नागरिकता प्राप्त करने की पात्रता दी गई है?",
     "options": {
-      "A": "अनुच्छेद 343",
-      "B": "अनुच्छेद 350B",
-      "C": "अनुच्छेद 351",
-      "D": "अनुच्छेद 346"
+      "A": "हिंदू",
+      "B": "मुस्लिम",
+      "C": "सिख",
+      "D": "ईसाई"
     },
-    "answer": ["C"]
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 32,
+    "question": "CAA, 2019 में किस कट-ऑफ तिथि से पहले भारत आए प्रवासियों को पात्र माना गया है?",
+    "options": {
+      "A": "31 दिसंबर 2014",
+      "B": "26 जनवरी 1950",
+      "C": "15 अगस्त 1947",
+      "D": "1 जनवरी 2015"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 33,
+    "question": "नागरिकता संशोधन अधिनियम, 2019 की आलोचना किन प्रमुख आधारों पर की गई?",
+    "options": {
+      "A": "धर्म के आधार पर भेदभाव",
+      "B": "संविधान के अनुच्छेद 14 का उल्लंघन",
+      "C": "भारतीय नागरिकों से नागरिकता छीनी गई",
+      "D": "एनआरसी से जोड़ने की आशंका"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 34,
+    "question": "CAA, 2019 को लेकर भारत के किन हिस्सों में व्यापक विरोध प्रदर्शन हुए थे?",
+    "options": {
+      "A": "उत्तर प्रदेश",
+      "B": "दिल्ली",
+      "C": "अरुणाचल प्रदेश",
+      "D": "असम और पूर्वोत्तर राज्य"
+    },
+    "answer": ["A", "B", "D"]
   }
 ]
+
+
+
+
+
 
