@@ -1,303 +1,555 @@
 [
   {
     "id": 1,
-    "question": "CAA, 2019 को लेकर भारत के किन हिस्सों में व्यापक विरोध प्रदर्शन हुए थे?",
+    "question": "निम्नलिखित में से कौन-सी समिति संसद की स्थायी समितियों में से एक है? / Which of the following is a Standing Committee of Parliament?",
     "options": {
-      "A": "उत्तर प्रदेश",
-      "B": "दिल्ली",
-      "C": "अरुणाचल प्रदेश",
-      "D": "असम और पूर्वोत्तर राज्य"
+      "A": "Joint Committee on Data Protection Bill / डेटा संरक्षण विधेयक पर संयुक्त समिति",
+      "B": "Public Accounts Committee (PAC) / लोक लेखा समिति",
+      "C": "Select Committee on Farm Bill / कृषि विधेयक पर चयन समिति",
+      "D": "Delimitation Commission / परिसीमन आयोग"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "भारतीय संविधान में DPSP के तहत जोड़े गए समाजवादी तत्व किस विदेशी संविधान से प्रेरित हैं?\nWhich foreign constitution inspired the socialist elements under DPSP in the Indian Constitution?",
+    "question": "लोक लेखा समिति (PAC) के अध्यक्ष की नियुक्ति किस पक्ष से की जाती है? / The Chairman of Public Accounts Committee (PAC) is usually appointed from which side?",
     "options": {
-      "A": "ब्रिटिश संविधान / British Constitution",
-      "B": "आयरिश संविधान / Irish Constitution",
-      "C": "जर्मन संविधान / German Constitution",
-      "D": "सोवियत संविधान / Soviet Constitution"
+      "A": "Ruling Party / सत्तारूढ़ दल",
+      "B": "Opposition Party / विपक्ष दल",
+      "C": "Neutral / तटस्थ",
+      "D": "President's Nomination / राष्ट्रपति द्वारा नामित"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 3,
-    "question": "निम्नलिखित में से कौन सा संशोधन 'Due Process of Law' सिद्धांत को भारतीय संदर्भ में दर्शाता है?\nWhich of the following amendments reflects the 'Due Process of Law' in Indian context?",
+    "question": "Estimates Committee किस सदन से संबंधित है? / Estimates Committee is related to which House?",
     "options": {
-      "A": "42वां संशोधन",
-      "B": "44वां संशोधन",
-      "C": "24वां संशोधन",
-      "D": "None of the above"
+      "A": "Rajya Sabha only / केवल राज्यसभा",
+      "B": "Lok Sabha only / केवल लोकसभा",
+      "C": "Both Houses / दोनों सदन",
+      "D": "President's Secretariat / राष्ट्रपति सचिवालय"
     },
     "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "किस संशोधन द्वारा भारत में मूल अधिकारों के तहत शिक्षा का अधिकार जोड़ा गया?\nWhich amendment added the Right to Education under Fundamental Rights in India?",
+    "question": "अस्थायी संसदीय समितियाँ किस कार्य के लिए गठित की जाती हैं? / Ad hoc Parliamentary Committees are formed for what purpose?",
     "options": {
-      "A": "86वां संशोधन",
-      "B": "42वां संशोधन",
-      "C": "44वां संशोधन",
-      "D": "97वां संशोधन"
+      "A": "Permanent budget scrutiny / स्थायी बजट जांच",
+      "B": "Specific and temporary tasks / विशिष्ट और अस्थायी कार्य",
+      "C": "Judicial review / न्यायिक समीक्षा",
+      "D": "Election of Speaker / अध्यक्ष का चुनाव"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 5,
+    "question": "2025 में डेटा संरक्षण विधेयक पर संयुक्त समिति के अध्यक्ष कौन हैं? / Who is the chairman of the Joint Committee on Data Protection Bill (2025)?",
+    "options": {
+      "A": "P. P. Chaudhary / पी. पी. चौधरी",
+      "B": "Adhir Ranjan Chowdhury / अधीर रंजन चौधरी",
+      "C": "Girish Bapat / गिरीश बापट",
+      "D": "Amit Shah / अमित शाह"
     },
     "answer": ["A"]
   },
   {
-    "id": 5,
-    "question": "भारत के संविधान में 'Procedure Established by Law' किस देश के संविधान से लिया गया है?\nThe concept of 'Procedure Established by Law' in Indian Constitution is borrowed from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "जापान / Japan",
-      "C": "ब्रिटेन / UK",
-      "D": "आयरलैंड / Ireland"
-    },
-    "answer": ["B"]
-  },
-  {
     "id": 6,
-    "question": "भारतीय संविधान में 'संविधान की मूल संरचना' (Basic Structure Doctrine) की अवधारणा किस देश के संविधान और न्यायशास्त्र से प्रभावित मानी जाती है?\nThe concept of 'Basic Structure Doctrine' in Indian Constitution is influenced by which country's constitutional jurisprudence?",
+    "question": "संसदीय समितियों की विशेषताएँ क्या हैं? / What are the key features of Parliamentary Committees?",
     "options": {
-      "A": "ब्रिटेन / United Kingdom",
-      "B": "जर्मनी / Germany",
-      "C": "अमेरिका / United States",
-      "D": "कनाडा / Canada"
+      "A": "Proceedings are confidential / कार्यवाही गोपनीय होती है",
+      "B": "Members include MPs only / केवल सांसद सदस्य होते हैं",
+      "C": "They can pass bills directly / वे सीधे विधेयक पारित कर सकती हैं",
+      "D": "They assist in legislative scrutiny / वे विधायी जांच में सहायक होती हैं"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 7,
-    "question": "संघवाद (Federalism) की अवधारणा भारतीय संविधान में किन-किन देशों से ली गई है?\nThe concept of Federalism in Indian Constitution is borrowed from which countries?",
+    "question": "निम्नलिखित में से कौन-कौन सी संसदीय समितियाँ वित्तीय समिति (Financial Committee) की श्रेणी में आती हैं? / Which of the following are Financial Committees of Parliament?",
     "options": {
-      "A": "कनाडा / Canada",
-      "B": "अमेरिका / United States",
-      "C": "ऑस्ट्रेलिया / Australia",
-      "D": "जर्मनी / Germany"
+      "A": "Public Accounts Committee / लोक लेखा समिति",
+      "B": "Estimates Committee / प्राक्कलन समिति",
+      "C": "Committee on Public Undertakings / सार्वजनिक उपक्रम समिति",
+      "D": "Committee on Petitions / याचिकाओं पर समिति"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 8,
+    "question": "संसदीय समितियों की शक्तियों की सीमाएँ क्या हैं? / What are the limitations of Parliamentary Committees?",
+    "options": {
+      "A": "They cannot enforce punishments / वे दंड नहीं दे सकतीं",
+      "B": "They work outside the Parliament / वे संसद से बाहर कार्य करती हैं",
+      "C": "They are not bound by Constitution / वे संविधान से बंधी नहीं होतीं",
+      "D": "They cannot implement decisions / वे निर्णय लागू नहीं कर सकतीं"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 9,
+    "question": "Departmentally Related Standing Committees (DRSCs) से संबंधित सत्य कथन कौन से हैं? / Which of the following are true about DRSCs?",
+    "options": {
+      "A": "There are 24 DRSCs in total / कुल 24 DRSCs होती हैं",
+      "B": "Each DRSC consists of both LS & RS members / प्रत्येक समिति में लोकसभा एवं राज्यसभा दोनों के सदस्य होते हैं",
+      "C": "They consider demands for grants / वे अनुदानों की मांगों पर विचार करती हैं",
+      "D": "They deal only with constitutional amendments / वे केवल संविधान संशोधन से संबंधित होती हैं"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 10,
+    "question": "निम्नलिखित में से कौन सी समितियाँ विशेष विधेयकों के लिए बनाई जाती हैं? / Which of the following committees are formed for specific Bills?",
+    "options": {
+      "A": "Select Committee / चयन समिति",
+      "B": "Joint Parliamentary Committee (JPC) / संयुक्त संसदीय समिति",
+      "C": "Public Accounts Committee / लोक लेखा समिति",
+      "D": "Ethics Committee / नैतिकता समिति"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 8,
-    "question": "‘Judicial Review’ की अवधारणा भारत ने किस देश से अपनाई है?\nFrom which country did India adopt the concept of ‘Judicial Review’?",
-    "options": {
-      "A": "कनाडा / Canada",
-      "B": "अमेरिका / USA",
-      "C": "जापान / Japan",
-      "D": "आयरलैंड / Ireland"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 9,
-    "question": "संसदीय शासन प्रणाली और कैबिनेट प्रणाली भारतीय संविधान में किस देश से ली गई है?\nThe Parliamentary system and Cabinet form of government in Indian Constitution are inspired from which country?",
-    "options": {
-      "A": "फ्रांस / France",
-      "B": "ब्रिटेन / Britain",
-      "C": "ऑस्ट्रेलिया / Australia",
-      "D": "अमेरिका / United States"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 10,
-    "question": "भारतीय संविधान में ‘न्यायिक स्वतंत्रता’ (Judicial Independence) की प्रेरणा मुख्यतः किस देश से ली गई है?\nThe principle of ‘Judicial Independence’ in Indian Constitution is primarily inspired from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "ब्रिटेन / UK",
-      "C": "जर्मनी / Germany",
-      "D": "स्विट्ज़रलैंड / Switzerland"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 11,
-    "question": "भारतीय संविधान में 'राज्य नीति के निदेशक तत्त्व' (DPSP) की प्रेरणा किस देश से प्राप्त हुई?\nFrom which country did India derive the concept of 'Directive Principles of State Policy' (DPSP)?",
+    "question": "लोक लेखा समिति (PAC) के बारे में निम्नलिखित में से क्या सत्य है? / Which of the following are true regarding Public Accounts Committee (PAC)?",
     "options": {
-      "A": "आयरलैंड / Ireland",
-      "B": "ब्रिटेन / Britain",
-      "C": "ऑस्ट्रेलिया / Australia",
-      "D": "अमेरिका / USA"
+      "A": "It examines CAG reports / यह CAG की रिपोर्टों की जांच करती है",
+      "B": "It consists only of Lok Sabha members / इसमें केवल लोकसभा सदस्य होते हैं",
+      "C": "Chairperson is usually from Opposition / अध्यक्ष आमत: विपक्ष से होता है",
+      "D": "It can summon ministers / यह मंत्रियों को बुला सकती है"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 12,
-    "question": "‘समवर्ती सूची’ (Concurrent List) की अवधारणा भारत ने किस देश से ली है?\nThe concept of ‘Concurrent List’ in Indian Constitution is adopted from which country?",
+    "question": "निम्नलिखित में से कौन-कौन सी 'Standing Committees' हैं? / Which of the following are Standing Committees?",
     "options": {
-      "A": "कनाडा / Canada",
-      "B": "ऑस्ट्रेलिया / Australia",
-      "C": "ब्रिटेन / Britain",
-      "D": "अमेरिका / USA"
+      "A": "Committee on Petitions / याचिकाओं पर समिति",
+      "B": "Estimates Committee / प्राक्कलन समिति",
+      "C": "Joint Parliamentary Committee / संयुक्त संसदीय समिति",
+      "D": "Committee on Subordinate Legislation / अधीनस्थ विधान पर समिति"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 13,
-    "question": "भारतीय संविधान में अनुच्छेद 368 द्वारा निर्धारित संशोधन प्रक्रिया किस देश की प्रणाली से प्रभावित है?\nThe amendment procedure under Article 368 of Indian Constitution is influenced by which country?",
+    "question": "अस्थायी समिति (Ad-hoc Committee) की विशेषताएँ क्या हैं? / What are the features of Ad-hoc Committees?",
     "options": {
-      "A": "दक्षिण अफ्रीका / South Africa",
-      "B": "जर्मनी / Germany",
-      "C": "अमेरिका / USA",
-      "D": "आयरलैंड / Ireland"
+      "A": "They are formed for specific purposes / ये विशिष्ट उद्देश्यों हेतु गठित होती हैं",
+      "B": "They are permanent in nature / ये स्थायी होती हैं",
+      "C": "They are dissolved after task completion / कार्य पूर्ण होने पर भंग हो जाती हैं",
+      "D": "They function year-round / ये वर्षभर कार्य करती हैं"
     },
     "answer": ["A", "C"]
   },
   {
     "id": 14,
-    "question": "भारत में राष्ट्रपति के महाभियोग की प्रक्रिया किस देश से प्रेरित है?\nThe impeachment procedure of the President in India is inspired from which country?",
+    "question": "संसद की प्राक्कलन समिति (Estimates Committee) के बारे में कौन-कौन से कथन सत्य हैं? / Which statements are correct about the Estimates Committee?",
     "options": {
-      "A": "ब्रिटेन / UK",
-      "B": "फ्रांस / France",
-      "C": "अमेरिका / USA",
-      "D": "कनाडा / Canada"
+      "A": "It suggests alternative policies to bring efficiency / यह वैकल्पिक नीतियाँ सुझाती है",
+      "B": "It examines budget estimates in detail / यह बजट प्राक्कलनों की विस्तृत जांच करती है",
+      "C": "It has members from both Houses / इसमें दोनों सदनों के सदस्य होते हैं",
+      "D": "It consists only of Lok Sabha members / इसमें केवल लोकसभा सदस्य होते हैं"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 15,
+    "question": "संसदीय समितियों के अध्यक्ष के बारे में सत्य कथन कौन से हैं? / Which of the following are true regarding Chairpersons of Parliamentary Committees?",
+    "options": {
+      "A": "Appointed by Speaker or Chairman / अध्यक्ष या सभापति द्वारा नियुक्त",
+      "B": "Always from ruling party / हमेशा सत्तारूढ़ दल से",
+      "C": "Opposition often chairs PAC / विपक्ष अक्सर PAC की अध्यक्षता करता है",
+      "D": "Change every year / हर वर्ष बदलते हैं"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 16,
+    "question": "Joint Parliamentary Committee (JPC) से संबंधित सत्य कथन कौन से हैं? / Which of the following are correct about JPCs?",
+    "options": {
+      "A": "Formed by motion passed in both Houses / दोनों सदनों द्वारा पारित प्रस्ताव से गठित",
+      "B": "It can investigate any issue of public importance / यह किसी भी जनहित विषय की जांच कर सकती है",
+      "C": "Chairperson is always from Lok Sabha / अध्यक्ष हमेशा लोकसभा से होता है",
+      "D": "Report is binding on Government / रिपोर्ट सरकार पर बाध्यकारी होती है"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 17,
+    "question": "नैतिकता समिति (Ethics Committee) के कार्यों में क्या-क्या शामिल है? / What are the functions of Ethics Committee?",
+    "options": {
+      "A": "Monitor moral conduct of MPs / सांसदों के नैतिक आचरण की निगरानी",
+      "B": "Punish MPs for misconduct / दुर्व्यवहार पर सांसदों को दंड देना",
+      "C": "Recommend code of conduct / आचार संहिता की सिफारिश करना",
+      "D": "Summon PM for ethical issues / नैतिक मामलों में PM को तलब करना"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 18,
+    "question": "Committee on Subordinate Legislation से संबंधित कौन-कौन से कथन सही हैं? / Which statements are correct about Committee on Subordinate Legislation?",
+    "options": {
+      "A": "Examines rules and regulations made by Executive / कार्यपालिका द्वारा बनाए गए नियमों की जांच करती है",
+      "B": "Has members only from Lok Sabha / केवल लोकसभा के सदस्य होते हैं",
+      "C": "Checks whether delegated legislation conforms to the Constitution / यह देखती है कि प्राधिकारित विधान संविधान के अनुरूप है या नहीं",
+      "D": "It can amend delegated legislation / यह प्राधिकारित विधान को संशोधित कर सकती है"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 19,
+    "question": "Committee of Privileges से संबंधित कौन-कौन से कथन सही हैं? / Which of the following are true about Committee of Privileges?",
+    "options": {
+      "A": "Deals with breach of parliamentary privileges / संसदीय विशेषाधिकारों के उल्लंघन से संबंधित",
+      "B": "Can recommend punishments / दंड की सिफारिश कर सकती है",
+      "C": "Directly punishes members / सीधे दंड देती है",
+      "D": "Can investigate complaints from public / जनता से मिली शिकायतों की जांच कर सकती है"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 20,
+    "question": "General Purposes Committee से संबंधित कौन-कौन से कथन सत्य हैं? / Which of the following are correct about General Purposes Committee?",
+    "options": {
+      "A": "Speaker or Chairman is its Chairperson / अध्यक्ष या सभापति इसके अध्यक्ष होते हैं",
+      "B": "Includes leaders of parties and important members / दलों के नेता और प्रमुख सदस्य होते हैं",
+      "C": "Deals with all financial legislation / सभी वित्तीय विधानों से संबंधित",
+      "D": "Advisory in nature / परामर्शदातृ प्रकृति की होती है"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 21,
+    "question": "निम्नलिखित में से कौन-सी संसदीय समिति 'वित्तीय मामलों' से संबंधित है? / Which of the following Parliamentary Committees is related to 'Financial Matters'?",
+    "options": {
+      "A": "लोक लेखा समिति / Public Accounts Committee",
+      "B": "अनुमान समिति / Estimates Committee",
+      "C": "सार्वजनिक उपक्रम समिति / Committee on Public Undertakings",
+      "D": "नैतिकता समिति / Committee on Ethics"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 22,
+    "question": "प्रक्रियात्मक दृष्टि से, स्थायी समितियों (Standing Committees) का गठन किसके द्वारा किया जाता है? / Procedurally, who constitutes the Standing Committees?",
+    "options": {
+      "A": "राष्ट्रपति / President",
+      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+      "C": "राज्यसभा सभापति / Chairman of Rajya Sabha",
+      "D": "प्रधानमंत्री / Prime Minister"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 23,
+    "question": "अनुमान समिति (Estimates Committee) से संबंधित कथनों पर विचार करें: / Consider the following statements regarding the Estimates Committee:",
+    "options": {
+      "A": "इसमें केवल लोकसभा के सदस्य होते हैं / It consists only of Lok Sabha members",
+      "B": "इसके अध्यक्ष का चुनाव लोकसभा अध्यक्ष करते हैं / The Speaker of Lok Sabha appoints its chairperson",
+      "C": "यह समिति सरकारी खर्चों के अनुमान की समीक्षा करती है / It examines estimates of government expenditure",
+      "D": "इसकी सदस्य संख्या 15 होती है / It has 15 members"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 24,
+    "question": "लोक लेखा समिति (PAC) के संदर्भ में कौन-सा कथन सत्य है? / Which of the following statements is true regarding the Public Accounts Committee?",
+    "options": {
+      "A": "यह CAG की रिपोर्ट की जांच करती है / It examines the reports of the CAG",
+      "B": "इसमें राज्यसभा के सदस्य भी होते हैं / It includes Rajya Sabha members",
+      "C": "इसके अध्यक्ष आम तौर पर विपक्ष से होते हैं / Its chairperson is usually from the opposition",
+      "D": "यह संविधान द्वारा अनिवार्य की गई समिति है / It is a constitutional body"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 25,
+    "question": "वर्तमान समय में लोक लेखा समिति (PAC) के अध्यक्ष कौन हैं? / Who is the current chairperson of the Public Accounts Committee (PAC)?",
+    "options": {
+      "A": "अधीर रंजन चौधरी / Adhir Ranjan Chowdhury",
+      "B": "नीरज शेखर / Neeraj Shekhar",
+      "C": "के सुरेश / K Suresh",
+      "D": "मल्लिकार्जुन खड़गे / Mallikarjun Kharge"
     },
     "answer": ["C"]
   },
   {
-    "id": 15,
-    "question": "भारतीय संविधान में शेष विधायी शक्तियाँ (Residuary Powers) किस देश की प्रणाली से ली गई हैं?\nResiduary legislative powers in Indian Constitution are taken from which country?",
+    "id": 26,
+    "question": "निम्नलिखित में से कौन-सी समिति प्रवर समिति (Ad Hoc Committee) की श्रेणी में आती है? / Which of the following is an example of an Ad Hoc Committee?",
     "options": {
-      "A": "ऑस्ट्रेलिया / Australia",
-      "B": "कनाडा / Canada",
-      "C": "अमेरिका / USA",
-      "D": "ब्रिटेन / UK"
+      "A": "संविधान समीक्षा समिति / Committee on Review of Constitution",
+      "B": "संसद की संयुक्त समिति / Joint Parliamentary Committee (JPC)",
+      "C": "नैतिकता समिति / Committee on Ethics",
+      "D": "महिलाओं की स्थिति पर समिति / Committee on Status of Women"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 27,
+    "question": "अनुसंधान तथा पुस्तकालय समिति का उद्देश्य क्या है? / What is the purpose of the Committee on Library?",
+    "options": {
+      "A": "संसद पुस्तकालय की सेवाओं को बेहतर बनाना / Improve library services of Parliament",
+      "B": "संसद की कार्यवाही की निगरानी करना / Monitor Parliamentary proceedings",
+      "C": "पुस्तक अधिग्रहण नीति का सुझाव देना / Recommend book acquisition policy",
+      "D": "संसद टीवी का संचालन देखना / Oversee Parliament TV"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 28,
+    "question": "नैतिकता समिति (Committee on Ethics) का गठन किस उद्देश्य से हुआ है? / What is the purpose of the Committee on Ethics?",
+    "options": {
+      "A": "संसद सदस्यों के आचरण पर निगरानी रखना / Monitor conduct of MPs",
+      "B": "लोकपाल की निगरानी करना / Supervise the Lokpal",
+      "C": "लोकतांत्रिक मानदंडों को बनाए रखना / Maintain democratic norms",
+      "D": "राज्यसभा की कार्यवाही को सुचारु करना / Regulate Rajya Sabha proceedings"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 29,
+    "question": "निम्नलिखित में से कौन-सी स्थायी समिति है? / Which of the following is a Standing Committee?",
+    "options": {
+      "A": "व्यवस्थापन समिति / Business Advisory Committee",
+      "B": "याचिका समिति / Committee on Petitions",
+      "C": "महिलाओं के सशक्तिकरण पर समिति / Committee on Empowerment of Women",
+      "D": "जलवायु परिवर्तन समिति / Committee on Climate Change"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 30,
+    "question": "संसदीय समितियों के अध्यक्ष कौन होते हैं? / Who chairs the Parliamentary Committees?",
+    "options": {
+      "A": "राष्ट्रपति / President",
+      "B": "लोकसभा अध्यक्ष या राज्यसभा सभापति द्वारा नामांकित सदस्य / Nominated member by Speaker/Chairman",
+      "C": "मतदान से चयनित / Selected through voting",
+      "D": "प्रधानमंत्री द्वारा नियुक्त / Appointed by Prime Minister"
     },
     "answer": ["B"]
   },
   {
-    "id": 16,
-    "question": "24वें संविधान संशोधन (1971) का मुख्य उद्देश्य क्या था?\nWhat was the main objective of the 24th Constitutional Amendment (1971)?",
-    "options": {
-      "A": "संविधान संशोधन की संसद की शक्ति की पुष्टि / Affirmed Parliament's power to amend the Constitution",
-      "B": "न्यायपालिका की शक्तियाँ सीमित करना / To limit powers of judiciary",
-      "C": "मौलिक अधिकारों में संशोधन को वैध करना / To validate amendment of Fundamental Rights",
-      "D": "राष्ट्रपति को संशोधन पर हस्ताक्षर करना अनिवार्य बनाना / Made President's assent on amendment bills mandatory"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 17,
-    "question": "42वें संविधान संशोधन (1976) को 'मिनी संविधान' क्यों कहा जाता है?\nWhy is the 42nd Constitutional Amendment (1976) called the 'Mini Constitution'?",
-    "options": {
-      "A": "इसने प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द जोड़े / It added 'Socialist' and 'Secular' to the Preamble",
-      "B": "इसने न्यायपालिका की स्वतंत्रता बढ़ाई / It strengthened judicial independence",
-      "C": "इसने मौलिक कर्तव्यों को जोड़ा / It introduced Fundamental Duties",
-      "D": "इसने संसद की शक्तियों को बढ़ाया / It enhanced powers of Parliament"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 18,
-    "question": "86वें संविधान संशोधन (2002) के तहत शिक्षा के अधिकार से संबंधित कौन-से प्रावधान किए गए?\nWhich provisions related to Right to Education were made under the 86th Constitutional Amendment (2002)?",
-    "options": {
-      "A": "अनुच्छेद 21A जोड़ा गया / Article 21A was inserted",
-      "B": "6–14 वर्ष के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा / Free and compulsory education for children aged 6–14",
-      "C": "मौलिक अधिकारों में शिक्षा को शामिल किया गया / Education added to Fundamental Rights",
-      "D": "माता-पिता के लिए बच्चों को स्कूल भेजना अनिवार्य किया / Made it a duty for parents to send children to school"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 19,
-    "question": "44वें संविधान संशोधन (1978) का उद्देश्य आपातकाल के किस प्रभाव को पलटना था?\nWhich impact of the Emergency was reversed by the 44th Constitutional Amendment (1978)?",
-    "options": {
-      "A": "अनुच्छेद 352 में 'आंतरिक अशांति' को हटाकर 'सशस्त्र विद्रोह' जोड़ा गया / Replaced 'internal disturbance' with 'armed rebellion' in Article 352",
-      "B": "अनुच्छेद 20 और 21 को आपातकाल से बाहर रखा गया / Excluded Articles 20 and 21 from Emergency provisions",
-      "C": "संपत्ति का अधिकार बहाल किया गया / Restored Right to Property as Fundamental Right",
-      "D": "प्रधानमंत्री को आपातकाल घोषित करने की शक्ति दी गई / Gave Prime Minister direct power to declare Emergency"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 20,
-    "question": "52वें संविधान संशोधन (1985) से कौन-सा प्रावधान लागू हुआ?\nWhich provision was introduced by the 52nd Constitutional Amendment (1985)?",
-    "options": {
-      "A": "दल-बदल विरोधी कानून / Anti-Defection Law",
-      "B": "दलबदल के कारण अयोग्यता का प्रावधान / Disqualification on grounds of defection",
-      "C": "आदर्श आचार संहिता / Model Code of Conduct",
-      "D": "10वीं अनुसूची की शुरुआत / Introduction of the 10th Schedule"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 19,
-    "question": "44वें संविधान संशोधन (1978) का उद्देश्य आपातकाल के किस प्रभाव को पलटना था?\nWhich impact of the Emergency was reversed by the 44th Constitutional Amendment (1978)?",
-    "options": {
-      "A": "अनुच्छेद 352 में 'आंतरिक अशांति' को हटाकर 'सशस्त्र विद्रोह' जोड़ा गया / Replaced 'internal disturbance' with 'armed rebellion' in Article 352",
-      "B": "अनुच्छेद 20 और 21 को आपातकाल से बाहर रखा गया / Excluded Articles 20 and 21 from Emergency provisions",
-      "C": "संपत्ति का अधिकार बहाल किया गया / Restored Right to Property as Fundamental Right",
-      "D": "प्रधानमंत्री को आपातकाल घोषित करने की शक्ति दी गई / Gave Prime Minister direct power to declare Emergency"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 20,
-    "question": "52वें संविधान संशोधन (1985) से कौन-सा प्रावधान लागू हुआ?\nWhich provision was introduced by the 52nd Constitutional Amendment (1985)?",
-    "options": {
-      "A": "दल-बदल विरोधी कानून / Anti-Defection Law",
-      "B": "दलबदल के कारण अयोग्यता का प्रावधान / Disqualification on grounds of defection",
-      "C": "आदर्श आचार संहिता / Model Code of Conduct",
-      "D": "10वीं अनुसूची की शुरुआत / Introduction of the 10th Schedule"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 30,
-    "question": "नागरिकता संशोधन अधिनियम, 2019 (CAA) के अंतर्गत किन देशों के धार्मिक अल्पसंख्यकों को भारतीय नागरिकता प्रदान की जाती है?",
-    "options": {
-      "A": "पाकिस्तान",
-      "B": "नेपाल",
-      "C": "अफगानिस्तान",
-      "D": "बांग्लादेश"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
     "id": 31,
-    "question": "CAA के तहत किन धार्मिक समुदायों को नागरिकता प्राप्त करने की पात्रता दी गई है?",
+    "question": "संसदीय समिति से संबंधित निम्न कथनों पर विचार करें / Consider the following statements regarding Parliamentary Committees:",
     "options": {
-      "A": "हिंदू",
-      "B": "मुस्लिम",
-      "C": "सिख",
-      "D": "ईसाई"
+      "A": "संसदीय समितियाँ राज्यसभा, लोकसभा दोनों में होती हैं। / Parliamentary Committees exist in both Lok Sabha and Rajya Sabha.",
+      "B": "सभी स्थायी समितियों के अध्यक्ष प्रधानमंत्री होते हैं। / All Standing Committees are chaired by the Prime Minister.",
+      "C": "संसदीय समितियाँ कार्यपालिका की उत्तरदायित्व सुनिश्चित करती हैं। / Parliamentary Committees ensure executive accountability.",
+      "D": "संसदीय समितियाँ संविधान द्वारा अनिवार्य की गई हैं। / Parliamentary Committees are mandatory under the Constitution."
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A", "C"]
   },
   {
     "id": 32,
-    "question": "CAA, 2019 में किस कट-ऑफ तिथि से पहले भारत आए प्रवासियों को पात्र माना गया है?",
+    "question": "निम्नलिखित में से कौन-कौन सी वित्तीय समितियाँ हैं? / Which of the following are Financial Committees?",
     "options": {
-      "A": "31 दिसंबर 2014",
-      "B": "26 जनवरी 1950",
-      "C": "15 अगस्त 1947",
-      "D": "1 जनवरी 2015"
+      "A": "Public Accounts Committee",
+      "B": "Estimates Committee",
+      "C": "Committee on Public Undertakings",
+      "D": "Rules Committee"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 33,
+    "question": "वित्त विधेयक (Finance Bill) और विनियोग विधेयक (Appropriation Bill) के संदर्भ में कौन से कथन सही हैं? / Which statements are correct regarding Finance Bill and Appropriation Bill?",
+    "options": {
+      "A": "दोनों राष्ट्रपति की स्वीकृति आवश्यक होती है। / Both require President’s assent.",
+      "B": "दोनों राज्यसभा में संशोधन के लिए खुले होते हैं। / Both can be amended in Rajya Sabha.",
+      "C": "वित्त विधेयक करों और वित्तीय प्रस्तावों से जुड़ा होता है। / Finance Bill deals with taxation and financial proposals.",
+      "D": "विनियोग विधेयक अनुदानों की स्वीकृति से संबंधित होता है। / Appropriation Bill deals with the approval of grants."
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 34,
+    "question": "कटौती प्रस्तावों (Cut Motions) के बारे में निम्न कथनों पर विचार करें: / Consider the following statements about Cut Motions:",
+    "options": {
+      "A": "नीति कटौती सरकार की नीति पर असहमति व्यक्त करती है। / Policy Cut expresses disapproval of government policy.",
+      "B": "आर्थिक कटौती एक प्रतीकात्मक विरोध होता है। / Economy Cut is a symbolic protest.",
+      "C": "टोकन कटौती ₹100 की कटौती का सुझाव देती है। / Token Cut suggests a cut of ₹100.",
+      "D": "कटौती प्रस्ताव राज्यसभा में पेश किए जाते हैं। / Cut Motions are presented in Rajya Sabha."
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 35,
+    "question": "संसद में निम्नलिखित में से कौन से असाधारण अनुदान (Exceptional Grants) हैं? / Which of the following are considered Exceptional Grants in Parliament?",
+    "options": {
+      "A": "Vote on Account",
+      "B": "Vote of Credit",
+      "C": "Token Grant",
+      "D": "Supplementary Grant"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 36,
+    "question": "निम्नलिखित में से कौन से स्थायी समिति के उदाहरण हैं? / Which of the following are examples of Standing Committees?",
+    "options": {
+      "A": "Estimates Committee",
+      "B": "Committee on Petitions",
+      "C": "Joint Parliamentary Committee on 2G Scam",
+      "D": "Committee on Public Undertakings"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 37,
+    "question": "लोक लेखा समिति (PAC) के बारे में कौन से कथन सही हैं? / Which statements about Public Accounts Committee (PAC) are correct?",
+    "options": {
+      "A": "PAC केवल लोकसभा के सदस्यों से मिलकर बनती है। / PAC consists only of Lok Sabha members.",
+      "B": "PAC अध्यक्ष परंपरागत रूप से विपक्ष से होता है। / PAC is traditionally chaired by a member of the opposition.",
+      "C": "PAC नियंत्रक और महालेखा परीक्षक (CAG) की रिपोर्ट की समीक्षा करती है। / PAC examines reports of the CAG.",
+      "D": "PAC किसी भी नीति को बदल सकती है। / PAC can change any government policy."
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 38,
+    "question": "निम्नलिखित में से कौन से 'Business Advisory Committee' से संबंधित तथ्य सही हैं? / Which of the following facts about the Business Advisory Committee are correct?",
+    "options": {
+      "A": "यह समिति संसदीय कार्यों का समय तय करती है। / It decides the allocation of time for business in the House.",
+      "B": "इसके अध्यक्ष लोकसभा अध्यक्ष होते हैं। / Its chairperson is the Speaker of the Lok Sabha.",
+      "C": "यह समिति वित्तीय विधेयकों को पारित करती है। / It passes financial bills.",
+      "D": "यह सरकार के खिलाफ असहमति प्रकट करती है। / It expresses dissent against the government."
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 39,
+    "question": "निम्न में से कौन-से राष्ट्रपति द्वारा नामित सदस्य संसद की समितियों का हिस्सा हो सकते हैं? / Which of the following nominated members can be part of Parliamentary Committees?",
+    "options": {
+      "A": "राज्यसभा में नामित सदस्य / Nominated members in Rajya Sabha",
+      "B": "लोकसभा में नामित सदस्य / Nominated members in Lok Sabha",
+      "C": "अंग्रेज़ी साहित्यकार सदस्य / Members from English literature background",
+      "D": "CAG / Comptroller and Auditor General"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 40,
+    "question": "अनुसंधान, संस्कृति, और पर्यावरण पर बनी समितियाँ कौन-सी श्रेणी में आती हैं? / Committees formed on research, culture, and environment come under which category?",
+    "options": {
+      "A": "Ad Hoc Committees",
+      "B": "Standing Committees",
+      "C": "Select Committees",
+      "D": "Joint Committees"
     },
     "answer": ["A"]
   },
   {
-    "id": 33,
-    "question": "नागरिकता संशोधन अधिनियम, 2019 की आलोचना किन प्रमुख आधारों पर की गई?",
+    "id": 41,
+    "question": "निम्नलिखित में से किसे 2024 में लोक लेखा समिति (PAC) का अध्यक्ष नियुक्त किया गया?\nWho among the following was appointed as the Chairperson of the Public Accounts Committee (PAC) in 2024?",
     "options": {
-      "A": "धर्म के आधार पर भेदभाव",
-      "B": "संविधान के अनुच्छेद 14 का उल्लंघन",
-      "C": "भारतीय नागरिकों से नागरिकता छीनी गई",
-      "D": "एनआरसी से जोड़ने की आशंका"
+      "A": "अदिर रंजन चौधरी / Adhir Ranjan Chowdhury",
+      "B": "भर्तृहरि महताब / Bhartruhari Mahtab",
+      "C": "राहुल गांधी / Rahul Gandhi",
+      "D": "ओम बिड़ला / Om Birla"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
-    "id": 34,
-    "question": "CAA, 2019 को लेकर भारत के किन हिस्सों में व्यापक विरोध प्रदर्शन हुए थे?",
+    "id": 42,
+    "question": "Estimate Committee के वर्तमान अध्यक्ष कौन हैं? / Who is the current Chairperson of the Estimates Committee?",
     "options": {
-      "A": "उत्तर प्रदेश",
-      "B": "दिल्ली",
-      "C": "अरुणाचल प्रदेश",
-      "D": "असम और पूर्वोत्तर राज्य"
+      "A": "ओम बिड़ला / Om Birla",
+      "B": "गिरीश बापट / Girish Bapat",
+      "C": "मुरली मनोहर जोशी / Murli Manohar Joshi",
+      "D": "नीतीश कुमार / Nitish Kumar"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
+  },
+  {
+    "id": 43,
+    "question": "निम्नलिखित में से कौन लोक लेखा समिति के भूतपूर्व अध्यक्ष रह चुके हैं? / Who among the following have served as former Chairpersons of PAC?",
+    "options": {
+      "A": "मुरली मनोहर जोशी / Murli Manohar Joshi",
+      "B": "सुभाष चंद्र बोस / Subhash Chandra Bose",
+      "C": "अमित शाह / Amit Shah",
+      "D": "मल्लिकार्जुन खड़गे / Mallikarjun Kharge"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 44,
+    "question": "Committee on Public Undertakings का अध्यक्ष किसे नियुक्त किया गया है? / Who has been appointed as Chairperson of Committee on Public Undertakings?",
+    "options": {
+      "A": "संदीप दीक्षित / Sandeep Dikshit",
+      "B": "भर्तृहरि महताब / Bhartruhari Mahtab",
+      "C": "नीरज शेखर / Neeraj Shekhar",
+      "D": "राजीव प्रताप रूड़ी / Rajiv Pratap Rudy"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 45,
+    "question": "कौन-कौन सी समितियाँ अध्यक्ष के रूप में लोकसभा अध्यक्ष द्वारा संचालित होती हैं? / Which of the following Committees are chaired by the Speaker of Lok Sabha?",
+    "options": {
+      "A": "Business Advisory Committee / कार्य सलाहकार समिति",
+      "B": "Rules Committee / नियम समिति",
+      "C": "Ethics Committee / नैतिकता समिति",
+      "D": "Privileges Committee / विशेषाधिकार समिति"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 46,
+    "question": "नैतिकता समिति (Ethics Committee) की अध्यक्षता कौन करता है? / Who chairs the Ethics Committee?",
+    "options": {
+      "A": "राज्यसभा उपसभापति / Deputy Chairman of Rajya Sabha",
+      "B": "सभापति / Chairman (Vice President of India)",
+      "C": "राज्यसभा के सदस्य द्वारा नियुक्त अध्यक्ष / Appointed RS Member",
+      "D": "प्रधानमंत्री / Prime Minister"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 47,
+    "question": "कौन सी समिति को संविधानिक रूप से अनिवार्य नहीं माना जाता? / Which of the following committees is NOT constitutionally mandated?",
+    "options": {
+      "A": "Public Accounts Committee / लोक लेखा समिति",
+      "B": "Estimates Committee / अनुमान समिति",
+      "C": "Rules Committee / नियम समिति",
+      "D": "Cabinet Committee on Security / सुरक्षा पर मंत्रिमंडलीय समिति"
+    },
+    "answer": ["B", "C", "D"]
+  },
+  {
+    "id": 48,
+    "question": "Public Accounts Committee के अध्यक्ष की नियुक्ति कैसे होती है? / How is the Chairperson of PAC appointed?",
+    "options": {
+      "A": "लोकसभा अध्यक्ष द्वारा / By Speaker of Lok Sabha",
+      "B": "राष्ट्रपति द्वारा / By President",
+      "C": "प्रधानमंत्री द्वारा / By Prime Minister",
+      "D": "PAC के सदस्य द्वारा चुनाव / Elected by PAC members"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 49,
+    "question": "संसदीय समितियों के अध्यक्षों की नियुक्ति के समय किन बातों का ध्यान रखा जाता है? / What is considered while appointing Chairpersons of Parliamentary Committees?",
+    "options": {
+      "A": "पार्टी संतुलन / Party balance",
+      "B": "वरिष्ठता / Seniority",
+      "C": "योग्यता / Merit",
+      "D": "राज्यपाल की सिफारिश / Governor’s recommendation"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 50,
+    "question": "निम्न में से कौन सी समिति राज्यसभा अध्यक्ष की अध्यक्षता में कार्य करती है? / Which of the following Committees is chaired by Chairman of Rajya Sabha?",
+    "options": {
+      "A": "General Purposes Committee / सामान्य प्रयोजन समिति",
+      "B": "Business Advisory Committee / कार्य सलाहकार समिति",
+      "C": "Privileges Committee / विशेषाधिकार समिति",
+      "D": "Ethics Committee / नैतिकता समिति"
+    },
+    "answer": ["A", "B"]
   }
 ]
-
 
 
 
