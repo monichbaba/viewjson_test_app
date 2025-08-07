@@ -1,555 +1,721 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-सी समिति संसद की स्थायी समितियों में से एक है? / Which of the following is a Standing Committee of Parliament?",
+    "question": "निम्नलिखित में से कौन-सा/से मुख्य आर्थिक क्षेत्र (core sector) में आते हैं?/ Which of the following are included in the Core Sector?",
     "options": {
-      "A": "Joint Committee on Data Protection Bill / डेटा संरक्षण विधेयक पर संयुक्त समिति",
-      "B": "Public Accounts Committee (PAC) / लोक लेखा समिति",
-      "C": "Select Committee on Farm Bill / कृषि विधेयक पर चयन समिति",
-      "D": "Delimitation Commission / परिसीमन आयोग"
+      "A": "कोयला / Coal",
+      "B": "पेट्रोलियम रिफाइनरी उत्पाद / Petroleum Refinery Products",
+      "C": "जैव प्रौद्योगिकी / Biotechnology",
+      "D": "प्राकृतिक गैस / Natural Gas"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 2,
-    "question": "लोक लेखा समिति (PAC) के अध्यक्ष की नियुक्ति किस पक्ष से की जाती है? / The Chairman of Public Accounts Committee (PAC) is usually appointed from which side?",
+    "question": "भारत में 'मुद्रास्फीति' (Inflation) को मापने के लिए मुख्य रूप से किस सूचकांक का उपयोग होता है? / Which index is primarily used to measure inflation in India?",
     "options": {
-      "A": "Ruling Party / सत्तारूढ़ दल",
-      "B": "Opposition Party / विपक्ष दल",
-      "C": "Neutral / तटस्थ",
-      "D": "President's Nomination / राष्ट्रपति द्वारा नामित"
+      "A": "उपभोक्ता मूल्य सूचकांक / Consumer Price Index (CPI)",
+      "B": "थोक मूल्य सूचकांक / Wholesale Price Index (WPI)",
+      "C": "शेयर मूल्य सूचकांक / Share Price Index",
+      "D": "औद्योगिक उत्पादन सूचकांक / Index of Industrial Production (IIP)"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 3,
-    "question": "Estimates Committee किस सदन से संबंधित है? / Estimates Committee is related to which House?",
+    "question": "भारतीय रुपये का मूल्य निर्धारण (valuation) कैसे तय होता है? / How is the value of the Indian Rupee determined?",
     "options": {
-      "A": "Rajya Sabha only / केवल राज्यसभा",
-      "B": "Lok Sabha only / केवल लोकसभा",
-      "C": "Both Houses / दोनों सदन",
-      "D": "President's Secretariat / राष्ट्रपति सचिवालय"
+      "A": "सोने की कीमत से / By price of gold",
+      "B": "बाजार की मांग और आपूर्ति / By market demand and supply",
+      "C": "भारत सरकार द्वारा निर्धारित / Fixed by Government of India",
+      "D": "अंतर्राष्ट्रीय साख एजेंसियों द्वारा / By international credit agencies"
     },
     "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "अस्थायी संसदीय समितियाँ किस कार्य के लिए गठित की जाती हैं? / Ad hoc Parliamentary Committees are formed for what purpose?",
+    "question": "भारत में 'नवउदारवाद' (Neo-liberalism) के तहत, निम्नलिखित में से कौन-से बदलाव हुए? / Under neo-liberal reforms in India, which of the following changes took place?",
     "options": {
-      "A": "Permanent budget scrutiny / स्थायी बजट जांच",
-      "B": "Specific and temporary tasks / विशिष्ट और अस्थायी कार्य",
-      "C": "Judicial review / न्यायिक समीक्षा",
-      "D": "Election of Speaker / अध्यक्ष का चुनाव"
+      "A": "निजीकरण / Privatisation",
+      "B": "वैश्वीकरण / Globalisation",
+      "C": "राष्ट्रीयकरण / Nationalisation",
+      "D": "उदारीकरण / Liberalisation"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 5,
-    "question": "2025 में डेटा संरक्षण विधेयक पर संयुक्त समिति के अध्यक्ष कौन हैं? / Who is the chairman of the Joint Committee on Data Protection Bill (2025)?",
+    "question": "प्रधानमंत्री जन धन योजना का मुख्य उद्देश्य क्या है? / What is the main objective of the Pradhan Mantri Jan Dhan Yojana?",
     "options": {
-      "A": "P. P. Chaudhary / पी. पी. चौधरी",
-      "B": "Adhir Ranjan Chowdhury / अधीर रंजन चौधरी",
-      "C": "Girish Bapat / गिरीश बापट",
-      "D": "Amit Shah / अमित शाह"
+      "A": "वित्तीय समावेशन / Financial inclusion",
+      "B": "मुफ्त शिक्षा / Free education",
+      "C": "किसानों के लिए सब्सिडी / Subsidy for farmers",
+      "D": "स्वास्थ्य सेवाएं / Health services"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "संसदीय समितियों की विशेषताएँ क्या हैं? / What are the key features of Parliamentary Committees?",
+    "question": "2025 में भारत का सबसे अधिक निर्यात होने वाला उत्पाद कौन-सा है? / Which is India's largest export item in 2025?",
     "options": {
-      "A": "Proceedings are confidential / कार्यवाही गोपनीय होती है",
-      "B": "Members include MPs only / केवल सांसद सदस्य होते हैं",
-      "C": "They can pass bills directly / वे सीधे विधेयक पारित कर सकती हैं",
-      "D": "They assist in legislative scrutiny / वे विधायी जांच में सहायक होती हैं"
+      "A": "इलेक्ट्रॉनिक सामान / Electronic Goods",
+      "B": "पेट्रोलियम उत्पाद / Petroleum Products",
+      "C": "कपड़ा / Textiles",
+      "D": "चावल / Rice"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "निम्नलिखित में से कौन-कौन सी संसदीय समितियाँ वित्तीय समिति (Financial Committee) की श्रेणी में आती हैं? / Which of the following are Financial Committees of Parliament?",
+    "question": "भारत के कुल गूंढ निर्यात (total exports) 2024-25 में लगभग क्या रहा? / What was India's total exports value in 2024-25?",
     "options": {
-      "A": "Public Accounts Committee / लोक लेखा समिति",
-      "B": "Estimates Committee / प्राक्कलन समिति",
-      "C": "Committee on Public Undertakings / सार्वजनिक उपक्रम समिति",
-      "D": "Committee on Petitions / याचिकाओं पर समिति"
+      "A": "683.2 अरब डॉलर",
+      "B": "773 अरब डॉलर",
+      "C": "824.9 अरब डॉलर",
+      "D": "950 अरब डॉलर"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 8,
-    "question": "संसदीय समितियों की शक्तियों की सीमाएँ क्या हैं? / What are the limitations of Parliamentary Committees?",
+    "question": "2025 में भारत का इलेक्ट्रॉनिक सामान निर्यात में सबसे अधिक वृद्धि किस अनुपात में देखी गई? / By what percentage did India's electronic goods exports rise in 2025?",
     "options": {
-      "A": "They cannot enforce punishments / वे दंड नहीं दे सकतीं",
-      "B": "They work outside the Parliament / वे संसद से बाहर कार्य करती हैं",
-      "C": "They are not bound by Constitution / वे संविधान से बंधी नहीं होतीं",
-      "D": "They cannot implement decisions / वे निर्णय लागू नहीं कर सकतीं"
+      "A": "11%",
+      "B": "22%",
+      "C": "39.5%",
+      "D": "5%"
     },
-    "answer": ["A", "D"]
+    "answer": ["C"]
   },
   {
     "id": 9,
-    "question": "Departmentally Related Standing Committees (DRSCs) से संबंधित सत्य कथन कौन से हैं? / Which of the following are true about DRSCs?",
+    "question": "भारत के निर्यात में किस कृषि उत्पाद की वैश्विक मांग सबसे अधिक है? / Which agricultural product from India has highest global demand?",
     "options": {
-      "A": "There are 24 DRSCs in total / कुल 24 DRSCs होती हैं",
-      "B": "Each DRSC consists of both LS & RS members / प्रत्येक समिति में लोकसभा एवं राज्यसभा दोनों के सदस्य होते हैं",
-      "C": "They consider demands for grants / वे अनुदानों की मांगों पर विचार करती हैं",
-      "D": "They deal only with constitutional amendments / वे केवल संविधान संशोधन से संबंधित होती हैं"
+      "A": "तंबाकू / Tobacco",
+      "B": "कॉफी / Coffee",
+      "C": "चावल / Rice",
+      "D": "मसाले / Spices"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 10,
-    "question": "निम्नलिखित में से कौन सी समितियाँ विशेष विधेयकों के लिए बनाई जाती हैं? / Which of the following committees are formed for specific Bills?",
+    "question": "जनवरी 2025 में भारत के शीर्ष 10 निर्यात उत्पादों में कौन-सा शामिल नहीं है? / Which of the following is NOT among India's top 10 exports as of Jan 2025?",
     "options": {
-      "A": "Select Committee / चयन समिति",
-      "B": "Joint Parliamentary Committee (JPC) / संयुक्त संसदीय समिति",
-      "C": "Public Accounts Committee / लोक लेखा समिति",
-      "D": "Ethics Committee / नैतिकता समिति"
+      "A": "कटे हुए हीरे / Cut Diamonds",
+      "B": "स्मार्टफोन / Smartphones",
+      "C": "खाद्य तेल / Edible Oil",
+      "D": "सूती टी-शर्ट / Cotton T-shirts"
     },
-    "answer": ["A", "B"]
+    "answer": ["C"]
   },
   {
     "id": 11,
-    "question": "लोक लेखा समिति (PAC) के बारे में निम्नलिखित में से क्या सत्य है? / Which of the following are true regarding Public Accounts Committee (PAC)?",
+    "question": "2025 में भारत द्वारा सबसे अधिक निर्यात किए जाने वाले इंजीनियरिंग सामान में निम्न में से कौन-सा प्रमुख है? / Which engineering good is a major Indian export in 2025?",
     "options": {
-      "A": "It examines CAG reports / यह CAG की रिपोर्टों की जांच करती है",
-      "B": "It consists only of Lok Sabha members / इसमें केवल लोकसभा सदस्य होते हैं",
-      "C": "Chairperson is usually from Opposition / अध्यक्ष आमत: विपक्ष से होता है",
-      "D": "It can summon ministers / यह मंत्रियों को बुला सकती है"
+      "A": "औद्योगिक मशीनरी / Industrial Machinery",
+      "B": "साइकिल / Bicycles",
+      "C": "फर्नीचर / Furniture",
+      "D": "कंप्यूटर पार्ट्स / Computer Parts"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "निम्नलिखित में से कौन-कौन सी 'Standing Committees' हैं? / Which of the following are Standing Committees?",
+    "question": "2025 में कुल सेवा निर्यात का भारत का मूल्य क्या था? / What was the value of India's total services exports in 2025?",
     "options": {
-      "A": "Committee on Petitions / याचिकाओं पर समिति",
-      "B": "Estimates Committee / प्राक्कलन समिति",
-      "C": "Joint Parliamentary Committee / संयुक्त संसदीय समिति",
-      "D": "Committee on Subordinate Legislation / अधीनस्थ विधान पर समिति"
+      "A": "241 अरब डॉलर",
+      "B": "387.5 अरब डॉलर",
+      "C": "600 अरब डॉलर",
+      "D": "152 अरब डॉलर"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 13,
-    "question": "अस्थायी समिति (Ad-hoc Committee) की विशेषताएँ क्या हैं? / What are the features of Ad-hoc Committees?",
+    "question": "भारत के किस निर्यात क्षेत्र ने 2025 में सबसे अधिक प्रतिशत वृद्धि दर्ज की? / Which Indian export sector registered the highest percentage growth in 2025?",
     "options": {
-      "A": "They are formed for specific purposes / ये विशिष्ट उद्देश्यों हेतु गठित होती हैं",
-      "B": "They are permanent in nature / ये स्थायी होती हैं",
-      "C": "They are dissolved after task completion / कार्य पूर्ण होने पर भंग हो जाती हैं",
-      "D": "They function year-round / ये वर्षभर कार्य करती हैं"
+      "A": "इलेक्ट्रॉनिक सामान / Electronic Goods",
+      "B": "रत्न और आभूषण / Gems & Jewellery",
+      "C": "चावल / Rice",
+      "D": "फार्मा / Pharmaceuticals"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "संसद की प्राक्कलन समिति (Estimates Committee) के बारे में कौन-कौन से कथन सत्य हैं? / Which statements are correct about the Estimates Committee?",
+    "question": "निम्नलिखित में से कौन-सा भारत का प्रमुख निर्यात गंतव्य देश नहीं है? / Which of the following is NOT a major Indian export destination?",
     "options": {
-      "A": "It suggests alternative policies to bring efficiency / यह वैकल्पिक नीतियाँ सुझाती है",
-      "B": "It examines budget estimates in detail / यह बजट प्राक्कलनों की विस्तृत जांच करती है",
-      "C": "It has members from both Houses / इसमें दोनों सदनों के सदस्य होते हैं",
-      "D": "It consists only of Lok Sabha members / इसमें केवल लोकसभा सदस्य होते हैं"
+      "A": "अमेरिका / USA",
+      "B": "चीन / China",
+      "C": "नाइजीरिया / Nigeria",
+      "D": "नेपाल / Nepal"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["D"]
   },
   {
     "id": 15,
-    "question": "संसदीय समितियों के अध्यक्ष के बारे में सत्य कथन कौन से हैं? / Which of the following are true regarding Chairpersons of Parliamentary Committees?",
+    "question": "2025 में किन सेवाओं का निर्यात भारत से सबसे अधिक है? / Which services has the highest export from India in 2025?",
     "options": {
-      "A": "Appointed by Speaker or Chairman / अध्यक्ष या सभापति द्वारा नियुक्त",
-      "B": "Always from ruling party / हमेशा सत्तारूढ़ दल से",
-      "C": "Opposition often chairs PAC / विपक्ष अक्सर PAC की अध्यक्षता करता है",
-      "D": "Change every year / हर वर्ष बदलते हैं"
+      "A": "आईटी सेवाएँ / IT Services",
+      "B": "पर्यटन / Tourism",
+      "C": "शिक्षा / Education",
+      "D": "स्वास्थ्य / Healthcare"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "Joint Parliamentary Committee (JPC) से संबंधित सत्य कथन कौन से हैं? / Which of the following are correct about JPCs?",
+    "question": "भारत के कुल मर्चेंडाइज (वस्तु) निर्यात में पेट्रोलियम उत्पादों को छोड़कर 2024-25 में कितनी वृद्धि दर्ज़ की गई? / By what percent did India's non-petroleum merchandise exports grow in 2024-25?",
     "options": {
-      "A": "Formed by motion passed in both Houses / दोनों सदनों द्वारा पारित प्रस्ताव से गठित",
-      "B": "It can investigate any issue of public importance / यह किसी भी जनहित विषय की जांच कर सकती है",
-      "C": "Chairperson is always from Lok Sabha / अध्यक्ष हमेशा लोकसभा से होता है",
-      "D": "Report is binding on Government / रिपोर्ट सरकार पर बाध्यकारी होती है"
+      "A": "2%",
+      "B": "6%",
+      "C": "9%",
+      "D": "12%"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 17,
-    "question": "नैतिकता समिति (Ethics Committee) के कार्यों में क्या-क्या शामिल है? / What are the functions of Ethics Committee?",
+    "question": "2025 में भारत के लिए कौन-सा निर्यात क्षेत्र सर्वोच्च मुद्रा अर्जक रहा? / Which export segment was the highest forex earner for India in 2025?",
     "options": {
-      "A": "Monitor moral conduct of MPs / सांसदों के नैतिक आचरण की निगरानी",
-      "B": "Punish MPs for misconduct / दुर्व्यवहार पर सांसदों को दंड देना",
-      "C": "Recommend code of conduct / आचार संहिता की सिफारिश करना",
-      "D": "Summon PM for ethical issues / नैतिक मामलों में PM को तलब करना"
+      "A": "फार्मास्युटिकल्स / Pharmaceuticals",
+      "B": "इंजीनियरिंग सामान / Engineering Goods",
+      "C": "कपड़ा / Textiles",
+      "D": "पेट्रोलियम उत्पाद / Petroleum Products"
     },
-    "answer": ["A", "C"]
+    "answer": ["D"]
   },
   {
     "id": 18,
-    "question": "Committee on Subordinate Legislation से संबंधित कौन-कौन से कथन सही हैं? / Which statements are correct about Committee on Subordinate Legislation?",
+    "question": "भारत के किस निर्यात उत्पाद ने कोविड के बाद निर्यात में स्थिरता दिखाई है? / Which Indian export stayed resilient post-Covid?",
     "options": {
-      "A": "Examines rules and regulations made by Executive / कार्यपालिका द्वारा बनाए गए नियमों की जांच करती है",
-      "B": "Has members only from Lok Sabha / केवल लोकसभा के सदस्य होते हैं",
-      "C": "Checks whether delegated legislation conforms to the Constitution / यह देखती है कि प्राधिकारित विधान संविधान के अनुरूप है या नहीं",
-      "D": "It can amend delegated legislation / यह प्राधिकारित विधान को संशोधित कर सकती है"
+      "A": "फार्मास्युटिकल्स / Pharmaceuticals",
+      "B": "कपड़ा / Textiles",
+      "C": "चाय / Tea",
+      "D": "सब्जियां / Vegetables"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "Committee of Privileges से संबंधित कौन-कौन से कथन सही हैं? / Which of the following are true about Committee of Privileges?",
+    "question": "भारत की 'प्रमुख निर्यात नीति 2025' किस मुख्य लक्ष्य पर केंद्रित है? / India's main 'Export Policy 2025' focuses on which goal?",
     "options": {
-      "A": "Deals with breach of parliamentary privileges / संसदीय विशेषाधिकारों के उल्लंघन से संबंधित",
-      "B": "Can recommend punishments / दंड की सिफारिश कर सकती है",
-      "C": "Directly punishes members / सीधे दंड देती है",
-      "D": "Can investigate complaints from public / जनता से मिली शिकायतों की जांच कर सकती है"
+      "A": "एशिया में रणनीतिक विस्तार / Strategic expansion in Asia",
+      "B": "नए उत्पाद और बाज़ार / New products and markets",
+      "C": "घरेलू खपत वृद्धि / Increasing domestic consumption",
+      "D": "आयात प्रतिबंध / Import restrictions"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 20,
-    "question": "General Purposes Committee से संबंधित कौन-कौन से कथन सत्य हैं? / Which of the following are correct about General Purposes Committee?",
+    "question": "2025 में भारत का रत्न एवं आभूषण का निर्यात किस रेंकिंग पर है? / What is the rank of Gems & Jewellery among India's exports in 2025?",
     "options": {
-      "A": "Speaker or Chairman is its Chairperson / अध्यक्ष या सभापति इसके अध्यक्ष होते हैं",
-      "B": "Includes leaders of parties and important members / दलों के नेता और प्रमुख सदस्य होते हैं",
-      "C": "Deals with all financial legislation / सभी वित्तीय विधानों से संबंधित",
-      "D": "Advisory in nature / परामर्शदातृ प्रकृति की होती है"
+      "A": "पहला / 1st",
+      "B": "दूसरा / 2nd",
+      "C": "तीसरा / 3rd",
+      "D": "पांचवां / 5th"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 21,
-    "question": "निम्नलिखित में से कौन-सी संसदीय समिति 'वित्तीय मामलों' से संबंधित है? / Which of the following Parliamentary Committees is related to 'Financial Matters'?",
+    "question": "भारत का वस्त्र (Textiles) निर्यात सबसे ज्यादा कहाँ जाता है? / Where does India's textile export the most?",
     "options": {
-      "A": "लोक लेखा समिति / Public Accounts Committee",
-      "B": "अनुमान समिति / Estimates Committee",
-      "C": "सार्वजनिक उपक्रम समिति / Committee on Public Undertakings",
-      "D": "नैतिकता समिति / Committee on Ethics"
+      "A": "नौर्थ अमेरिका / North America",
+      "B": "मध्य एशिया / Central Asia",
+      "C": "अफ्रीका / Africa",
+      "D": "जलवायु संवेदनशील देश / Climate sensitive countries"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "प्रक्रियात्मक दृष्टि से, स्थायी समितियों (Standing Committees) का गठन किसके द्वारा किया जाता है? / Procedurally, who constitutes the Standing Committees?",
+    "question": "इनमें से कौन-सी फसल का निर्यात भारत से सबसे अधिक होता है? / Which crop's export is highest from India?",
     "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "C": "राज्यसभा सभापति / Chairman of Rajya Sabha",
-      "D": "प्रधानमंत्री / Prime Minister"
+      "A": "गेंहू / Wheat",
+      "B": "मक्का / Maize",
+      "C": "चावल / Rice",
+      "D": "सरसों / Mustard"
     },
-    "answer": ["B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 23,
-    "question": "अनुमान समिति (Estimates Committee) से संबंधित कथनों पर विचार करें: / Consider the following statements regarding the Estimates Committee:",
+    "question": "2025 में भारत के कुल व्यापार घाटे का मुख्य कारण क्या था? / What was the main reason for India's trade deficit in 2025?",
     "options": {
-      "A": "इसमें केवल लोकसभा के सदस्य होते हैं / It consists only of Lok Sabha members",
-      "B": "इसके अध्यक्ष का चुनाव लोकसभा अध्यक्ष करते हैं / The Speaker of Lok Sabha appoints its chairperson",
-      "C": "यह समिति सरकारी खर्चों के अनुमान की समीक्षा करती है / It examines estimates of government expenditure",
-      "D": "इसकी सदस्य संख्या 15 होती है / It has 15 members"
+      "A": "कच्चे तेल का आयात / Crude oil imports",
+      "B": "गहनों का निर्यात / Jewellery exports",
+      "C": "सेवा क्षेत्र का निर्यात / Services export",
+      "D": "स्पाइस निर्यात / Spice export"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "लोक लेखा समिति (PAC) के संदर्भ में कौन-सा कथन सत्य है? / Which of the following statements is true regarding the Public Accounts Committee?",
+    "question": "2025 में भारत के वस्त्र निर्यात में मुख्य उत्पाद कौन-सा रहा? / Which is the main product in India's textile export in 2025?",
     "options": {
-      "A": "यह CAG की रिपोर्ट की जांच करती है / It examines the reports of the CAG",
-      "B": "इसमें राज्यसभा के सदस्य भी होते हैं / It includes Rajya Sabha members",
-      "C": "इसके अध्यक्ष आम तौर पर विपक्ष से होते हैं / Its chairperson is usually from the opposition",
-      "D": "यह संविधान द्वारा अनिवार्य की गई समिति है / It is a constitutional body"
+      "A": "रेशम / Silk",
+      "B": "जूट / Jute",
+      "C": "सूती वस्त्र / Cotton textiles",
+      "D": "ऊन / Wool"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 25,
-    "question": "वर्तमान समय में लोक लेखा समिति (PAC) के अध्यक्ष कौन हैं? / Who is the current chairperson of the Public Accounts Committee (PAC)?",
+    "question": "2025 में वैश्विक स्तर पर भारत का कुल निर्यात किस स्थान पर रहा? / What is Indias position in global exports in 2025?",
     "options": {
-      "A": "अधीर रंजन चौधरी / Adhir Ranjan Chowdhury",
-      "B": "नीरज शेखर / Neeraj Shekhar",
-      "C": "के सुरेश / K Suresh",
-      "D": "मल्लिकार्जुन खड़गे / Mallikarjun Kharge"
+      "A": "शीर्ष 3 / Top 3",
+      "B": "शीर्ष 5 / Top 5",
+      "C": "शीर्ष 10 / Top 10",
+      "D": "शीर्ष 20 / Top 20"
     },
     "answer": ["C"]
   },
   {
     "id": 26,
-    "question": "निम्नलिखित में से कौन-सी समिति प्रवर समिति (Ad Hoc Committee) की श्रेणी में आती है? / Which of the following is an example of an Ad Hoc Committee?",
+    "question": "MSME की नई परिभाषा के अनुसार, एक सूक्ष्म (Micro) उद्यम की अधिकतम निवेश सीमा क्या है? / According to the new MSME definition, what is the maximum investment limit for a Micro enterprise?",
     "options": {
-      "A": "संविधान समीक्षा समिति / Committee on Review of Constitution",
-      "B": "संसद की संयुक्त समिति / Joint Parliamentary Committee (JPC)",
-      "C": "नैतिकता समिति / Committee on Ethics",
-      "D": "महिलाओं की स्थिति पर समिति / Committee on Status of Women"
+      "A": "₹1 करोड़",
+      "B": "₹2.5 करोड़",
+      "C": "₹5 करोड़",
+      "D": "₹10 करोड़"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 27,
-    "question": "अनुसंधान तथा पुस्तकालय समिति का उद्देश्य क्या है? / What is the purpose of the Committee on Library?",
+    "question": "MSME की नई परिभाषा के तहत, एक लघु (Small) उद्यम की वार्षिक टर्नओवर सीमा क्या है? / Under the new MSME definition what is the annual turnover limit of a Small enterprise?",
     "options": {
-      "A": "संसद पुस्तकालय की सेवाओं को बेहतर बनाना / Improve library services of Parliament",
-      "B": "संसद की कार्यवाही की निगरानी करना / Monitor Parliamentary proceedings",
-      "C": "पुस्तक अधिग्रहण नीति का सुझाव देना / Recommend book acquisition policy",
-      "D": "संसद टीवी का संचालन देखना / Oversee Parliament TV"
+      "A": "₹50 करोड़",
+      "B": "₹100 करोड़",
+      "C": "₹25 करोड़",
+      "D": "₹125 करोड़"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"]
   },
   {
     "id": 28,
-    "question": "नैतिकता समिति (Committee on Ethics) का गठन किस उद्देश्य से हुआ है? / What is the purpose of the Committee on Ethics?",
+    "question": "मध्यम (Medium) उद्यमों के लिए सरकार द्वारा निर्धारित निवेश और टर्नओवर की नई सीमा क्या है? / What are the new government-defined investment and turnover limits for Medium enterprises?",
     "options": {
-      "A": "संसद सदस्यों के आचरण पर निगरानी रखना / Monitor conduct of MPs",
-      "B": "लोकपाल की निगरानी करना / Supervise the Lokpal",
-      "C": "लोकतांत्रिक मानदंडों को बनाए रखना / Maintain democratic norms",
-      "D": "राज्यसभा की कार्यवाही को सुचारु करना / Regulate Rajya Sabha proceedings"
+      "A": "₹50 करोड़ निवेश, ₹250 करोड़ टर्नओवर",
+      "B": "₹125 करोड़ निवेश, ₹500 करोड़ टर्नओवर",
+      "C": "₹100 करोड़ निवेश, ₹400 करोड़ टर्नओवर",
+      "D": "₹75 करोड़ निवेश, ₹300 करोड़ टर्नओवर"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"]
   },
   {
     "id": 29,
-    "question": "निम्नलिखित में से कौन-सी स्थायी समिति है? / Which of the following is a Standing Committee?",
+    "question": "MSME वर्गीकरण में निवेश सीमा के साथ कौन-सा अतिरिक्त मापदंड जोड़ा गया है? / Along with investment limit, which additional criterion is included in MSME classification?",
     "options": {
-      "A": "व्यवस्थापन समिति / Business Advisory Committee",
-      "B": "याचिका समिति / Committee on Petitions",
-      "C": "महिलाओं के सशक्तिकरण पर समिति / Committee on Empowerment of Women",
-      "D": "जलवायु परिवर्तन समिति / Committee on Climate Change"
+      "A": "कर्मचारियों की संख्या / Number of employees",
+      "B": "वार्षिक टर्नओवर / Annual turnover",
+      "C": "मुनाफा / Profit",
+      "D": "बाजार हिस्सेदारी / Market share"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 30,
-    "question": "संसदीय समितियों के अध्यक्ष कौन होते हैं? / Who chairs the Parliamentary Committees?",
+    "question": "2025 से MSME वर्गीकरण में संशोधनों का मुख्य उद्देश्य क्या है? / What is the main objective of the MSME classification revision in 2025?",
     "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "लोकसभा अध्यक्ष या राज्यसभा सभापति द्वारा नामांकित सदस्य / Nominated member by Speaker/Chairman",
-      "C": "मतदान से चयनित / Selected through voting",
-      "D": "प्रधानमंत्री द्वारा नियुक्त / Appointed by Prime Minister"
+      "A": "प्रौद्योगिकी उन्नयन को बढ़ावा देना / Promote technology upgradation",
+      "B": "MSME को बड़े व्यापार के साथ प्रतिस्पर्धा के लिए सक्षम बनाना / Enable MSMEs to compete with larger industries",
+      "C": "सरकारी सहायता को घटाना / Reduce government assistance",
+      "D": "कर लाभों को समाप्त करना / Eliminate tax benefits"
     },
     "answer": ["B"]
   },
   {
     "id": 31,
-    "question": "संसदीय समिति से संबंधित निम्न कथनों पर विचार करें / Consider the following statements regarding Parliamentary Committees:",
+    "question": "MSME को सरकार द्वारा दी जाने वाली सुविधा कौन-सी है? / Which benefit is given by the government to MSMEs?",
     "options": {
-      "A": "संसदीय समितियाँ राज्यसभा, लोकसभा दोनों में होती हैं। / Parliamentary Committees exist in both Lok Sabha and Rajya Sabha.",
-      "B": "सभी स्थायी समितियों के अध्यक्ष प्रधानमंत्री होते हैं। / All Standing Committees are chaired by the Prime Minister.",
-      "C": "संसदीय समितियाँ कार्यपालिका की उत्तरदायित्व सुनिश्चित करती हैं। / Parliamentary Committees ensure executive accountability.",
-      "D": "संसदीय समितियाँ संविधान द्वारा अनिवार्य की गई हैं। / Parliamentary Committees are mandatory under the Constitution."
+      "A": "सरकारी ऋण में प्राथमिकता / Priority in government loans",
+      "B": "मुफ्त बिजली आपूर्ति / Free electricity supply",
+      "C": "मुफ्त भूमि / Free land",
+      "D": "नौकरियों की गारंटी / Job guarantees"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "निम्नलिखित में से कौन-कौन सी वित्तीय समितियाँ हैं? / Which of the following are Financial Committees?",
+    "question": "MSME के लिए 'उद्योगम' पंजीकरण किसका प्रमाणपत्र है? / What does 'Udyam' registration certify for MSMEs?",
     "options": {
-      "A": "Public Accounts Committee",
-      "B": "Estimates Committee",
-      "C": "Committee on Public Undertakings",
-      "D": "Rules Committee"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 33,
-    "question": "वित्त विधेयक (Finance Bill) और विनियोग विधेयक (Appropriation Bill) के संदर्भ में कौन से कथन सही हैं? / Which statements are correct regarding Finance Bill and Appropriation Bill?",
-    "options": {
-      "A": "दोनों राष्ट्रपति की स्वीकृति आवश्यक होती है। / Both require President’s assent.",
-      "B": "दोनों राज्यसभा में संशोधन के लिए खुले होते हैं। / Both can be amended in Rajya Sabha.",
-      "C": "वित्त विधेयक करों और वित्तीय प्रस्तावों से जुड़ा होता है। / Finance Bill deals with taxation and financial proposals.",
-      "D": "विनियोग विधेयक अनुदानों की स्वीकृति से संबंधित होता है। / Appropriation Bill deals with the approval of grants."
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 34,
-    "question": "कटौती प्रस्तावों (Cut Motions) के बारे में निम्न कथनों पर विचार करें: / Consider the following statements about Cut Motions:",
-    "options": {
-      "A": "नीति कटौती सरकार की नीति पर असहमति व्यक्त करती है। / Policy Cut expresses disapproval of government policy.",
-      "B": "आर्थिक कटौती एक प्रतीकात्मक विरोध होता है। / Economy Cut is a symbolic protest.",
-      "C": "टोकन कटौती ₹100 की कटौती का सुझाव देती है। / Token Cut suggests a cut of ₹100.",
-      "D": "कटौती प्रस्ताव राज्यसभा में पेश किए जाते हैं। / Cut Motions are presented in Rajya Sabha."
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 35,
-    "question": "संसद में निम्नलिखित में से कौन से असाधारण अनुदान (Exceptional Grants) हैं? / Which of the following are considered Exceptional Grants in Parliament?",
-    "options": {
-      "A": "Vote on Account",
-      "B": "Vote of Credit",
-      "C": "Token Grant",
-      "D": "Supplementary Grant"
+      "A": "किसानों का पंजीकरण / Farmer's registration",
+      "B": "MSME उद्यम पंजीकरण प्रमाणपत्र / MSME enterprise registration certificate",
+      "C": "विदेश व्यापार लाइसेंस / Foreign trade license",
+      "D": "सरकारी नौकरी प्रमाणपत्र / Government job certificate"
     },
     "answer": ["B"]
   },
   {
-    "id": 36,
-    "question": "निम्नलिखित में से कौन से स्थायी समिति के उदाहरण हैं? / Which of the following are examples of Standing Committees?",
+    "id": 33,
+    "question": "MSME की प्राप्ति के लिए आवश्यक निवेश और टर्नओवर सीमाओं को बढ़ाया गया है। इसका प्रभाव क्या होगा? / The increase in MSME investment and turnover limits will have what impact?",
     "options": {
-      "A": "Estimates Committee",
-      "B": "Committee on Petitions",
-      "C": "Joint Parliamentary Committee on 2G Scam",
-      "D": "Committee on Public Undertakings"
+      "A": "छोटे उद्यमों का बड़े उद्यमों में परिवर्तित होना / Small enterprises becoming large enterprises",
+      "B": "अधिक उद्यम MSME के अंतर्गत आएंगे / More enterprises will fall under MSME category",
+      "C": "लाभ सीमित होंगे / Benefits will be limited",
+      "D": "निवेश नहीं बढ़ेगा / Investment will not increase"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
+  },
+  {
+    "id": 34,
+    "question": "निम्नलिखित में से कौन-सा क्षेत्र MSME के अंतर्गत आता है? / Which of the following sectors come under MSMEs?",
+    "options": {
+      "A": "निर्माण और सेवा क्षेत्र / Manufacturing and service sectors",
+      "B": "केवल कृषि क्षेत्र / Only agriculture sector",
+      "C": "केवल हॉस्पिटलिटी / Only hospitality",
+      "D": "केवल शिक्षा / Only education"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 35,
+    "question": "MSME मदद के कौन-से प्रमुख स्रोत हैं? / What are the major sources of MSME assistance?",
+    "options": {
+      "A": "बैंक ऋण, सब्सिडी और कर लाभ / Bank loans, subsidies and tax benefits",
+      "B": "सरकारी नौकरी / Government jobs",
+      "C": "फ्री शिक्षा / Free education",
+      "D": "मुफ्त आवास / Free housing"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 36,
+    "question": "उद्योगम पंजीकरण के बिना MSME उद्यमी क्या कर सकते हैं? / Without Udyam registration, what can MSME entrepreneurs face?",
+    "options": {
+      "A": "सरकारी योजनाओं और लाभों से वंचित रहना / Denial of government schemes and benefits",
+      "B": "अधिक आपूर्ति / More supplies",
+      "C": "अधिक कर्मचारी / More employees",
+      "D": "मुफ्त बिजली / Free electricity"
+    },
+    "answer": ["A"]
   },
   {
     "id": 37,
-    "question": "लोक लेखा समिति (PAC) के बारे में कौन से कथन सही हैं? / Which statements about Public Accounts Committee (PAC) are correct?",
+    "question": "MSME उद्यमों को किसी एक सीमा से अधिक निवेश करने पर क्या होता है? / What happens if an MSME enterprise exceeds one of the limits of investment or turnover?",
     "options": {
-      "A": "PAC केवल लोकसभा के सदस्यों से मिलकर बनती है। / PAC consists only of Lok Sabha members.",
-      "B": "PAC अध्यक्ष परंपरागत रूप से विपक्ष से होता है। / PAC is traditionally chaired by a member of the opposition.",
-      "C": "PAC नियंत्रक और महालेखा परीक्षक (CAG) की रिपोर्ट की समीक्षा करती है। / PAC examines reports of the CAG.",
-      "D": "PAC किसी भी नीति को बदल सकती है। / PAC can change any government policy."
+      "A": "वह MSME श्रेणी से बाहर चले जाता है / It moves out of MSME category",
+      "B": "अधिक लाभ प्राप्त करता है / Receives more benefits",
+      "C": "सरकार द्वारा दंडित किया जाता है / Penalized by government",
+      "D": "निवेश वापस करना पड़ता है / Investment must be returned"
     },
-    "answer": ["B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 38,
-    "question": "निम्नलिखित में से कौन से 'Business Advisory Committee' से संबंधित तथ्य सही हैं? / Which of the following facts about the Business Advisory Committee are correct?",
+    "question": "MSME की नई परिभाषा कब से प्रभावी होगी? / From when will the new MSME definition be effective?",
     "options": {
-      "A": "यह समिति संसदीय कार्यों का समय तय करती है। / It decides the allocation of time for business in the House.",
-      "B": "इसके अध्यक्ष लोकसभा अध्यक्ष होते हैं। / Its chairperson is the Speaker of the Lok Sabha.",
-      "C": "यह समिति वित्तीय विधेयकों को पारित करती है। / It passes financial bills.",
-      "D": "यह सरकार के खिलाफ असहमति प्रकट करती है। / It expresses dissent against the government."
+      "A": "1 जनवरी 2025",
+      "B": "1 अप्रैल 2025",
+      "C": "1 जुलाई 2025",
+      "D": "1 अक्टूबर 2025"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 39,
-    "question": "निम्न में से कौन-से राष्ट्रपति द्वारा नामित सदस्य संसद की समितियों का हिस्सा हो सकते हैं? / Which of the following nominated members can be part of Parliamentary Committees?",
+    "question": "MSME सेक्टर भारत की अर्थव्यवस्था में किस प्रकार योगदान देता है? / How does the MSME sector contribute to India's economy?",
     "options": {
-      "A": "राज्यसभा में नामित सदस्य / Nominated members in Rajya Sabha",
-      "B": "लोकसभा में नामित सदस्य / Nominated members in Lok Sabha",
-      "C": "अंग्रेज़ी साहित्यकार सदस्य / Members from English literature background",
-      "D": "CAG / Comptroller and Auditor General"
+      "A": "रोजगार सृजन, आर्थिक विकास और निर्यात में योगदान / Employment generation, economic growth and export contribution",
+      "B": "केवल कृषि उत्पादन / Only agricultural production",
+      "C": "केवल सरकारी सहायता पर निर्भरता / Only dependence on government aid",
+      "D": "विदेशी निवेश कम करना / Reducing foreign investment"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "अनुसंधान, संस्कृति, और पर्यावरण पर बनी समितियाँ कौन-सी श्रेणी में आती हैं? / Committees formed on research, culture, and environment come under which category?",
+    "question": "कौन-सी योजना MSME सेक्टर को वित्तीय सहायता प्रदान करती है? / Which scheme provides financial support to the MSME sector?",
     "options": {
-      "A": "Ad Hoc Committees",
-      "B": "Standing Committees",
-      "C": "Select Committees",
-      "D": "Joint Committees"
+      "A": "प्रधानमंत्री मुद्रा योजना (PMMY) / Pradhan Mantri Mudra Yojana",
+      "B": "स्वच्छ भारत अभियान / Swachh Bharat Abhiyan",
+      "C": "लाभांश योजना / Dividend scheme",
+      "D": "मेक इन इंडिया / Make in India"
     },
     "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "निम्नलिखित में से किसे 2024 में लोक लेखा समिति (PAC) का अध्यक्ष नियुक्त किया गया?\nWho among the following was appointed as the Chairperson of the Public Accounts Committee (PAC) in 2024?",
+    "question": "निम्नलिखित में से कौन-सी योजनाएं सूक्ष्म, लघु और मध्यम उद्यमों (MSMEs) के लिए शुरू की गई हैं? / Which of the following schemes are launched for Micro, Small and Medium Enterprises (MSMEs)?",
     "options": {
-      "A": "अदिर रंजन चौधरी / Adhir Ranjan Chowdhury",
-      "B": "भर्तृहरि महताब / Bhartruhari Mahtab",
-      "C": "राहुल गांधी / Rahul Gandhi",
-      "D": "ओम बिड़ला / Om Birla"
+      "A": "क्रेडिट गारंटी फंड ट्रस्ट फॉर एमएसएमई / Credit Guarantee Fund Trust for MSMEs",
+      "B": "प्रधानमंत्री मुद्रा योजना / Pradhan Mantri MUDRA Yojana",
+      "C": "अटल इनोवेशन मिशन / Atal Innovation Mission",
+      "D": "प्रधानमंत्री ग्राम सड़क योजना / Pradhan Mantri Gram Sadak Yojana"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 42,
-    "question": "Estimate Committee के वर्तमान अध्यक्ष कौन हैं? / Who is the current Chairperson of the Estimates Committee?",
+    "question": "निम्नलिखित में से कौन-से उपाय डिजिटल अर्थव्यवस्था को बढ़ावा देने के लिए किए गए हैं? / Which of the following measures have been taken to promote the digital economy?",
     "options": {
-      "A": "ओम बिड़ला / Om Birla",
-      "B": "गिरीश बापट / Girish Bapat",
-      "C": "मुरली मनोहर जोशी / Murli Manohar Joshi",
-      "D": "नीतीश कुमार / Nitish Kumar"
+      "A": "UPI (Unified Payments Interface) का विस्तार / Expansion of UPI",
+      "B": "भारत नेट परियोजना / BharatNet Project",
+      "C": "डिजिटल इंडिया अभियान / Digital India Campaign",
+      "D": "कृषि सुधार कानून / Agricultural Reform Laws"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 43,
-    "question": "निम्नलिखित में से कौन लोक लेखा समिति के भूतपूर्व अध्यक्ष रह चुके हैं? / Who among the following have served as former Chairpersons of PAC?",
+    "question": "निम्नलिखित में से कौन-सी योजनाएँ प्रत्यक्ष रूप से रोजगार सृजन और कौशल विकास से जुड़ी हैं? / Which of the following schemes are directly related to employment generation and skill development?",
     "options": {
-      "A": "मुरली मनोहर जोशी / Murli Manohar Joshi",
-      "B": "सुभाष चंद्र बोस / Subhash Chandra Bose",
-      "C": "अमित शाह / Amit Shah",
-      "D": "मल्लिकार्जुन खड़गे / Mallikarjun Kharge"
+      "A": "प्रधानमंत्री कौशल विकास योजना / PM Kaushal Vikas Yojana",
+      "B": "राष्ट्रीय शहरी आजीविका मिशन / National Urban Livelihoods Mission",
+      "C": "स्वच्छ भारत मिशन / Swachh Bharat Mission",
+      "D": "दीनदयाल उपाध्याय ग्रामीण कौशल योजना / DDU–GKY"
     },
-    "answer": ["A", "D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 44,
-    "question": "Committee on Public Undertakings का अध्यक्ष किसे नियुक्त किया गया है? / Who has been appointed as Chairperson of Committee on Public Undertakings?",
+    "question": "निम्नलिखित में से कौन-से उपकरण पर्यावरणीय बजटिंग (Green Budgeting) में प्रयुक्त होते हैं? / Which of the following instruments are used in Green Budgeting?",
     "options": {
-      "A": "संदीप दीक्षित / Sandeep Dikshit",
-      "B": "भर्तृहरि महताब / Bhartruhari Mahtab",
-      "C": "नीरज शेखर / Neeraj Shekhar",
-      "D": "राजीव प्रताप रूड़ी / Rajiv Pratap Rudy"
+      "A": "हरित बॉण्ड / Green Bonds",
+      "B": "कार्बन टैक्स / Carbon Tax",
+      "C": "एफआरबीएम अधिनियम / FRBM Act",
+      "D": "पर्यावरण-व्यय लेखांकन / Environmental Expenditure Accounting"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 45,
-    "question": "कौन-कौन सी समितियाँ अध्यक्ष के रूप में लोकसभा अध्यक्ष द्वारा संचालित होती हैं? / Which of the following Committees are chaired by the Speaker of Lok Sabha?",
+    "question": "भारत में निम्नलिखित में से कौन-सी पर्यावरणीय कर नीतियाँ अस्तित्व में हैं? / Which of the following environmental tax policies exist in India?",
     "options": {
-      "A": "Business Advisory Committee / कार्य सलाहकार समिति",
-      "B": "Rules Committee / नियम समिति",
-      "C": "Ethics Committee / नैतिकता समिति",
-      "D": "Privileges Committee / विशेषाधिकार समिति"
+      "A": "कोयला उपकर / Coal Cess",
+      "B": "कार्बन मूल्य निर्धारण / Carbon Pricing",
+      "C": "प्लास्टिक पर पर्यावरणीय उपकर / Environmental Cess on Plastics",
+      "D": "स्वच्छ ऊर्जा उपकर / Clean Energy Cess"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 46,
+    "question": "भारत में गरीबी मापने के लिए कौन-से मानक या पद्धतियाँ उपयोग की गई हैं? / Which of the following methods have been used to measure poverty in India?",
+    "options": {
+      "A": "तेंदुलकर समिति / Tendulkar Committee",
+      "B": "रंगराजन समिति / Rangarajan Committee",
+      "C": "मानव विकास सूचकांक / Human Development Index",
+      "D": "राष्ट्रीय पारिवारिक स्वास्थ्य सर्वेक्षण / National Family Health Survey"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 46,
-    "question": "नैतिकता समिति (Ethics Committee) की अध्यक्षता कौन करता है? / Who chairs the Ethics Committee?",
-    "options": {
-      "A": "राज्यसभा उपसभापति / Deputy Chairman of Rajya Sabha",
-      "B": "सभापति / Chairman (Vice President of India)",
-      "C": "राज्यसभा के सदस्य द्वारा नियुक्त अध्यक्ष / Appointed RS Member",
-      "D": "प्रधानमंत्री / Prime Minister"
-    },
-    "answer": ["C"]
-  },
-  {
     "id": 47,
-    "question": "कौन सी समिति को संविधानिक रूप से अनिवार्य नहीं माना जाता? / Which of the following committees is NOT constitutionally mandated?",
+    "question": "भारत सरकार द्वारा असमानता को कम करने हेतु शुरू की गई कौन-सी योजनाएँ निम्नलिखित में शामिल हैं? / Which of the following schemes are launched to reduce inequality in India?",
     "options": {
-      "A": "Public Accounts Committee / लोक लेखा समिति",
-      "B": "Estimates Committee / अनुमान समिति",
-      "C": "Rules Committee / नियम समिति",
-      "D": "Cabinet Committee on Security / सुरक्षा पर मंत्रिमंडलीय समिति"
+      "A": "मनरेगा / MGNREGA",
+      "B": "आयुष्मान भारत / Ayushman Bharat",
+      "C": "स्टार्टअप इंडिया / Startup India",
+      "D": "प्रधानमंत्री गरीब कल्याण योजना / PM Garib Kalyan Yojana"
     },
-    "answer": ["B", "C", "D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 48,
-    "question": "Public Accounts Committee के अध्यक्ष की नियुक्ति कैसे होती है? / How is the Chairperson of PAC appointed?",
+    "question": "मानव विकास सूचकांक (HDI) को निर्धारित करने वाले मुख्य घटक कौन-से हैं? / What are the key components used to calculate Human Development Index (HDI)?",
     "options": {
-      "A": "लोकसभा अध्यक्ष द्वारा / By Speaker of Lok Sabha",
-      "B": "राष्ट्रपति द्वारा / By President",
-      "C": "प्रधानमंत्री द्वारा / By Prime Minister",
-      "D": "PAC के सदस्य द्वारा चुनाव / Elected by PAC members"
+      "A": "जीवन प्रत्याशा / Life Expectancy",
+      "B": "शैक्षिक स्तर / Educational Attainment",
+      "C": "प्रति व्यक्ति आय / Per Capita Income",
+      "D": "जनसंख्या घनत्व / Population Density"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 49,
-    "question": "संसदीय समितियों के अध्यक्षों की नियुक्ति के समय किन बातों का ध्यान रखा जाता है? / What is considered while appointing Chairpersons of Parliamentary Committees?",
+    "question": "भारत के मानव पूंजी सूचकांक (HCI) को प्रभावित करने वाले कौन-से कारक महत्वपूर्ण हैं? / Which of the following significantly affect Indias Human Capital Index (HCI)?",
     "options": {
-      "A": "पार्टी संतुलन / Party balance",
-      "B": "वरिष्ठता / Seniority",
-      "C": "योग्यता / Merit",
-      "D": "राज्यपाल की सिफारिश / Governor’s recommendation"
+      "A": "बचपन में कुपोषण / Childhood Malnutrition",
+      "B": "प्राथमिक शिक्षा गुणवत्ता / Quality of Primary Education",
+      "C": "स्वास्थ्य सेवाओं की पहुंच / Access to Healthcare",
+      "D": "कर अनुपालन दर / Tax Compliance Rate"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 50,
-    "question": "निम्न में से कौन सी समिति राज्यसभा अध्यक्ष की अध्यक्षता में कार्य करती है? / Which of the following Committees is chaired by Chairman of Rajya Sabha?",
+    "question": "निम्नलिखित में से कौन-से वैश्विक संगठन गरीबी और मानव विकास पर रिपोर्ट जारी करते हैं? / Which of the following global organizations publish reports on poverty and human development?",
     "options": {
-      "A": "General Purposes Committee / सामान्य प्रयोजन समिति",
-      "B": "Business Advisory Committee / कार्य सलाहकार समिति",
-      "C": "Privileges Committee / विशेषाधिकार समिति",
-      "D": "Ethics Committee / नैतिकता समिति"
+      "A": "विश्व बैंक / World Bank",
+      "B": "संयुक्त राष्ट्र विकास कार्यक्रम / UNDP",
+      "C": "आईएमएफ / IMF",
+      "D": "विश्व आर्थिक मंच / World Economic Forum"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 51,
+    "question": "भारतीय कृषि क्षेत्र को प्रभावित करने वाली प्रमुख संरचनात्मक समस्याएँ कौन-सी हैं? / What are the major structural problems affecting Indian agriculture?",
+    "options": {
+      "A": "भूमि holdings का विखंडन / Fragmentation of land holdings",
+      "B": "बाजार तक सीमित पहुंच / Limited access to markets",
+      "C": "स्वदेशी बीजों का उपयोग / Use of indigenous seeds",
+      "D": "कम यंत्रीकरण / Low mechanization"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 52,
+    "question": "भारत के विनिर्माण क्षेत्र (Manufacturing Sector) को गति देने में कौन-से पहलु बाधक हैं? / Which of the following factors are hindering growth of the Indian manufacturing sector?",
+    "options": {
+      "A": "बुनियादी ढांचे की कमी / Lack of infrastructure",
+      "B": "कुशल श्रमिकों की कमी / Shortage of skilled labor",
+      "C": "बढ़ती वैश्विक मांग / Rising global demand",
+      "D": "पर्यावरणीय नियमों की अनिश्चितता / Regulatory uncertainty on environmental norms"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 53,
+    "question": "सेवा क्षेत्र (Services Sector) में भारत की मजबूती किन पहलुओं पर आधारित है? / On which of the following aspects does Indias strength in the services sector rely?",
+    "options": {
+      "A": "आईटी और बीपीओ सेवाएं / IT and BPO services",
+      "B": "कम लागत वाले कार्यबल / Low-cost skilled workforce",
+      "C": "औद्योगिक स्वचालन / Industrial automation",
+      "D": "अंग्रेजी भाषा में दक्षता / English language proficiency"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 54,
+    "question": "भारत के कृषि क्षेत्र में जलवायु परिवर्तन से संबंधित कौन-से प्रभाव देखे गए हैं? / What are the impacts of climate change observed in Indias agriculture sector?",
+    "options": {
+      "A": "फसल चक्र में अनियमितता / Irregular crop cycles",
+      "B": "सिंचाई की मांग में वृद्धि / Increased irrigation demand",
+      "C": "औद्योगिक उत्सर्जन में वृद्धि / Rise in industrial emissions",
+      "D": "फसल उत्पादकता में गिरावट / Decline in crop productivity"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 55,
+    "question": "निम्न में से कौन-सी सरकार की पहलें भारत में विनिर्माण को बढ़ावा देने के उद्देश्य से हैं? / Which of the following initiatives aim to boost manufacturing in India?",
+    "options": {
+      "A": "मेक इन इंडिया / Make in India",
+      "B": "उद्योग 4.0 नीति / Industry 4.0 Policy",
+      "C": "स्मार्ट सिटीज मिशन / Smart Cities Mission",
+      "D": "पीएलआई योजना / PLI Scheme"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 56,
+    "question": "भारत में कृषि क्षेत्र की निम्न में से कौन-कौन सी चुनौतियाँ हैं? / Which of the following are major challenges in India's agriculture sector?",
+    "options": {
+      "A": "कृषि में कम पूंजी निवेश / Low capital investment in agriculture",
+      "B": "विपणन सुविधाओं की कमी / Lack of marketing infrastructure",
+      "C": "ऊंची कृषि निर्यात दर / High agricultural export rate",
+      "D": "अत्यधिक मानसूनी निर्भरता / Excessive monsoon dependence"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 57,
+    "question": "भारत के विनिर्माण क्षेत्र की वृद्धि में कौन से तत्व बाधक हैं? / Which factors hinder the growth of India's manufacturing sector?",
+    "options": {
+      "A": "ऊंचा लॉजिस्टिक लागत / High logistics cost",
+      "B": "स्थिर विद्युत आपूर्ति / Stable electricity supply",
+      "C": "भूमि अधिग्रहण संबंधी जटिलताएं / Land acquisition complexities",
+      "D": "कुशल श्रमिकों की कमी / Shortage of skilled labor"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 58,
+    "question": "सेवा क्षेत्र (Services sector) की निम्न में से कौन-कौन सी विशेषताएं हैं जो भारत को वैश्विक स्तर पर प्रतिस्पर्धात्मक बनाती हैं? / Which of the following characteristics make India's services sector globally competitive?",
+    "options": {
+      "A": "मजबूत IT/ITES सेवाएं / Strong IT/ITES services",
+      "B": "सस्ती और शिक्षित श्रम शक्ति / Affordable and educated workforce",
+      "C": "कम बैंकिंग पहुँच / Low banking penetration",
+      "D": "अंग्रेज़ी में दक्षता / English language proficiency"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 59,
+    "question": "भारत में कृषि उत्पादकता को सीमित करने वाले कारणों में कौन शामिल हैं? / Which of the following are reasons limiting agricultural productivity in India?",
+    "options": {
+      "A": "प्रौद्योगिकी का सीमित उपयोग / Limited use of technology",
+      "B": "उपज मूल्य अस्थिरता / Price volatility of crops",
+      "C": "उच्च सिंचाई कवरेज / High irrigation coverage",
+      "D": "भूमि की गिरती उर्वरता / Declining soil fertility"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 60,
+    "question": "निम्नलिखित में से कौन-सी योजनाएं भारत में विनिर्माण क्षेत्र को सुदृढ़ करने हेतु कार्य कर रही हैं? / Which of the following schemes are working to strengthen the manufacturing sector in India?",
+    "options": {
+      "A": "मेक इन इंडिया / Make in India",
+      "B": "पीएलआई योजना / PLI Scheme",
+      "C": "डिजिटल इंडिया / Digital India",
+      "D": "स्टार्टअप इंडिया / Startup India"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 61,
+    "question": "सेवा क्षेत्र में वृद्धि के बावजूद भारत को किन सामाजिक-आर्थिक चुनौतियों का सामना करना पड़ता है? / Despite growth in services sector, what socio-economic challenges does India still face?",
+    "options": {
+      "A": "गंभीर क्षेत्रीय असमानता / Severe regional disparity",
+      "B": "औपचारिक रोजगार की कमी / Lack of formal employment",
+      "C": "आयात निर्भरता / Import dependency",
+      "D": "सार्वजनिक शिक्षा का ह्रास / Decline in public education quality"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 62,
+    "question": "कृषि क्षेत्र में MSP (Minimum Support Price) नीति की आलोचना के कौन-कौन से बिंदु हैं? / What are the criticisms of the MSP (Minimum Support Price) policy in agriculture?",
+    "options": {
+      "A": "कुछ फसलों तक सीमित लाभ / Limited to select crops",
+      "B": "क्षेत्रीय असंतुलन / Regional imbalance",
+      "C": "बाजार-आधारित सुधारों में बाधा / Hindrance to market-based reforms",
+      "D": "ग्रामीण रोजगार को बढ़ावा देना / Promotion of rural employment"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 63,
+    "question": "निम्नलिखित में से कौन सी समस्याएं भारत के सेवा क्षेत्र में नवाचार (Innovation) को सीमित करती हैं? / Which of the following hinder innovation in Indias services sector?",
+    "options": {
+      "A": "आरएंडडी में कम निवेश / Low investment in R&D",
+      "B": "डिजिटल बुनियादी ढांचे की कमी / Lack of digital infrastructure",
+      "C": "सख्त श्रम कानून / Stringent labor laws",
+      "D": "शिक्षा प्रणाली में व्यावसायिक कौशल की कमी / Lack of vocational skills in education"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 64,
+    "question": "भारत में विनिर्माण क्षेत्र में क्षेत्रीय असंतुलन किस कारण से है? / What are the reasons for regional imbalance in India's manufacturing sector?",
+    "options": {
+      "A": "कुछ राज्यों में अधिक निवेश / Higher investment in certain states",
+      "B": "बिजली और जल की असमान आपूर्ति / Unequal power and water supply",
+      "C": "श्रम कानूनों में विविधता / Variation in labor laws",
+      "D": "हर राज्य में औद्योगिक नीति की समानता / Uniform industrial policy across states"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 65,
+    "question": "भारतीय कृषि में जल संकट के समाधान हेतु कौन-सी पहलें सहायक हो सकती हैं? / Which initiatives can help address the water crisis in Indian agriculture?",
+    "options": {
+      "A": "माइक्रो-सिंचाई प्रणालियाँ / Micro-irrigation systems",
+      "B": "फसल विविधीकरण / Crop diversification",
+      "C": "कृषि में बिजली सब्सिडी / Electricity subsidy in agriculture",
+      "D": "जल-अनुकूल फसलों को बढ़ावा / Promotion of water-efficient crops"
+    },
+    "answer": ["A", "B", "D"]
   }
 ]
+
 
 
 
