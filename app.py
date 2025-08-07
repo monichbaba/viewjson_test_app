@@ -18,7 +18,7 @@ def home():
 def password():
     if request.method == 'POST':
         entered_password = request.form.get('password')
-        if entered_password == '123':
+        if entered_password == 'jaihind':
             session['authenticated'] = True
             return redirect('/test')
         else:
