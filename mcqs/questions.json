@@ -1,1324 +1,662 @@
 [
   {
     "id": 1,
-    "question": "भारत के किस क्षेत्र को \"मनीषा क्षेत्र\" कहा जाता है? / Which region of India is known as the \"Manisha region\"?",
+    "question": "भारत में कृषि क्षेत्र का जीडीपी में योगदान लगभग कितना है 2024-25 में? / What is the approximate contribution of agriculture sector to India's GDP in 2024-25?",
     "options": {
-      "A": "अंतर-मध्य पर्वतीय क्षेत्र / Inter-Mountain region",
-      "B": "राजस्थान का थार रेगिस्तान / Thar Desert of Rajasthan",
-      "C": "पश्चिमी घाट / Western Ghats",
-      "D": "तिब्बती पठार / Tibetan Plateau"
+      "A": "15.3%",
+      "B": "18.5%",
+      "C": "22.7%",
+      "D": "12.1%"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "भारत के प्रमुख नदियाँ कौन-कौन सी हैं? / Which of the following are major rivers of India?",
+    "question": "भारत में कृषि के प्रमुख प्रकार कौन-कौन से हैं? / What are the major types of farming in India?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "सरस्वती / Saraswati",
-      "D": "कृष्णा / Krishna"
+      "A": "परंपरागत खेती (Subsistence Farming)",
+      "B": "वाणिज्यिक खेती (Commercial Farming)",
+      "C": "सिंचित खेती (Irrigated Farming)",
+      "D": "शहरी खेती (Urban Farming)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "भारत में कौन-सी पर्वतमाला सबसे अधिक ऊँची है? / Which mountain range in India has the highest peaks?",
+    "question": "ग्रीन रिवोल्यूशन का भारत में मुख्य उद्देश्य क्या था? / What was the main objective of Green Revolution in India?",
     "options": {
-      "A": "हिमालय / Himalayas",
-      "B": "अरावली / Aravalli",
-      "C": "विंध्याचल / Vindhyas",
-      "D": "सातपुड़ा / Satpura"
+      "A": "फसल उत्पादन बढ़ाना (Increase Crop Production)",
+      "B": "आयात कम करना (Reduce Imports)",
+      "C": "कृषि आय में वृद्धि (Increase Farmer Income)",
+      "D": "भूमि सुधार करना (Land Reforms)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "भारत के कौन से क्षेत्र में अधिकांश वर्षा मानसून के बाहर होती है? / In which region of India does most rainfall occur outside the monsoon season?",
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किसके लिए तय किया जाता है? / Minimum Support Price (MSP) is fixed for which crops in India?",
     "options": {
-      "A": "असम और पूर्वोत्तर क्षेत्र / Assam and Northeast",
-      "B": "राजस्थान / Rajasthan",
-      "C": "थार रेगिस्तान / Thar Desert",
-      "D": "दक्षिण भारत का पश्चिमी तट / Western coast of South India"
+      "A": "धान (Paddy)",
+      "B": "गेहूं (Wheat)",
+      "C": "मकई (Maize)",
+      "D": "सब्जियाँ (Vegetables)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "भारत के कौन से क्षेत्र में लाल और पीली मिट्टियाँ पाई जाती हैं? / In which regions of India are red and yellow soils found?",
+    "question": "भारत में कृषि विपणन (Agricultural Marketing) में किन प्रमुख समस्याओं का सामना करना पड़ता है? / What are the major problems faced in agricultural marketing in India?",
     "options": {
-      "A": "छत्तीसगढ़ और झारखंड / Chhattisgarh and Jharkhand",
-      "B": "पश्चिम बंगाल / West Bengal",
-      "C": "मध्य प्रदेश और महाराष्ट्र / Madhya Pradesh and Maharashtra",
-      "D": "गुजरात / Gujarat"
+      "A": "कृषि उत्पादकों का सीमित पहुँच (Limited Access of Farmers)",
+      "B": "मध्यस्थों का अधिभार (Excessive Intermediaries)",
+      "C": "सरकारी बाजार का अभाव (Lack of Government Markets)",
+      "D": "उन्नत तकनीकी सुविधाएँ (Advanced Technological Facilities)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "भारत में कौन-सी नदियाँ पूर्व से पश्चिम की ओर बहती हैं? / Which rivers in India flow from east to west?",
+    "question": "भारत में किसानों का कर्ज संकट किस कारण से बढ़ता जा रहा है? / What are the reasons behind rising farmer debt crisis in India?",
     "options": {
-      "A": "तपती / Tapi",
-      "B": "नर्मदा / Narmada",
-      "C": "गंगा / Ganga",
-      "D": "माही / Mahi"
+      "A": "सहायक वित्तीय संस्थाओं की कमी (Lack of Supportive Financial Institutions)",
+      "B": "प्राकृतिक आपदाएँ (Natural Disasters)",
+      "C": "उच्च ब्याज दरें (High Interest Rates)",
+      "D": "सरकारी समर्थन की कमी (Lack of Government Support)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 7,
-    "question": "भारत के किन राज्यों में थार रेगिस्तान स्थित है? / In which states of India is the Thar Desert located?",
+    "question": "भारत में सिंचित कृषि का मुख्य स्रोत क्या है? / What is the main source of irrigated farming in India?",
     "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "गुजरात / Gujarat",
-      "C": "हरियाणा / Haryana",
-      "D": "पंजाब / Punjab"
+      "A": "नहर सिंचाई (Canal Irrigation)",
+      "B": "भूमिगत जल (Groundwater)",
+      "C": "वर्षा जल संचयन (Rainwater Harvesting)",
+      "D": "तालाब और जलाशय (Ponds and Reservoirs)"
     },
     "answer": ["A", "B"]
   },
   {
     "id": 8,
-    "question": "भारत में कौन-से प्राकृतिक संसाधन अधिक पाए जाते हैं? / Which of the following natural resources are abundant in India?",
+    "question": "ग्रीन रिवोल्यूशन की शुरुआत किस वर्ष में भारत में हुई? / When was the Green Revolution started in India?",
     "options": {
-      "A": "कोयला / Coal",
-      "B": "लोहा / Iron",
-      "C": "गैस / Natural Gas",
-      "D": "पारा / Mercury"
+      "A": "1950",
+      "B": "1965",
+      "C": "1975",
+      "D": "1985"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "भारत में किस प्रकार के वन सबसे अधिक पाए जाते हैं? / Which type of forests are most common in India?",
+    "question": "न्यूनतम समर्थन मूल्य (MSP) तय करने वाला मुख्य निकाय कौन है? / Which is the main body responsible for fixing MSP in India?",
     "options": {
-      "A": "उष्णकटिबंधीय वन / Tropical forests",
-      "B": "शंकुधारी वन / Coniferous forests",
-      "C": "पर्णपाती वन / Deciduous forests",
-      "D": "मैंग्रोव वन / Mangrove forests"
+      "A": "कृषि उत्पादन आयोग (Agricultural Production Commission)",
+      "B": "मंडल समिति (Commission for Agricultural Costs and Prices - CACP)",
+      "C": "वित्त मंत्रालय (Ministry of Finance)",
+      "D": "कृषि मंत्रालय (Ministry of Agriculture)"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"]
   },
   {
     "id": 10,
-    "question": "भारत में किस मौसम को \"गरमी का मौसम\" कहा जाता है? / Which season is known as the \"Summer season\" in India?",
+    "question": "भारत में कृषि क्षेत्र की जो सबसे बड़ी समस्या मानी जाती है, वह कौन-सी है? / What is considered the biggest problem in Indian agriculture?",
     "options": {
-      "A": "मार्च से जून / March to June",
-      "B": "जुलाई से सितंबर / July to September",
-      "C": "अक्टूबर से दिसंबर / October to December",
-      "D": "जनवरी से फरवरी / January to February"
+      "A": "उपज का निम्न मूल्य (Low Price for Produce)",
+      "B": "प्राकृतिक आपदाएँ (Natural Disasters)",
+      "C": "किसानों का कर्ज (Farmer Debt)",
+      "D": "कृषि भूमि की कमी (Lack of Agricultural Land)"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 11,
-    "question": "भारत में सबसे लंबी नदी कौन-सी है? / Which is the longest river in India?",
+    "question": "भारत में परंपरागत खेती का मुख्य स्वरूप क्या है? / What is the main characteristic of subsistence farming in India?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "गोदावरी / Godavari",
-      "D": "सिंधु / Indus"
+      "A": "अपने परिवार के लिए उत्पादन (Producing for own family)",
+      "B": "बाजार के लिए उत्पादन (Producing for Market)",
+      "C": "आधुनिक उपकरणों का उपयोग (Use of Modern Equipment)",
+      "D": "सिंचित भूमि का उपयोग (Use of Irrigated Land)"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "भारत के पर्वतीय क्षेत्र किसके लिए प्रसिद्ध हैं? / Mountainous regions of India are famous for which of the following?",
+    "question": "भारत में कृषि विपणन सुधार के लिए कौन-कौन से कदम उठाए गए हैं? / What steps have been taken to improve agricultural marketing in India?",
     "options": {
-      "A": "सैलानियों के लिए / Tourism",
-      "B": "खनिज संसाधन / Mineral resources",
-      "C": "कृषि / Agriculture",
-      "D": "मछली पालन / Fisheries"
+      "A": "ई-नाम पोर्टल (e-NAM Portal)",
+      "B": "अगली पीढ़ी के मंडी सुधार (Next-gen Mandi Reforms)",
+      "C": "मंडी टैक्स हटाना (Removal of Mandi Tax)",
+      "D": "आयात निर्यात प्रतिबंध (Import Export Restrictions)"
     },
     "answer": ["A", "B"]
   },
   {
     "id": 13,
-    "question": "भारत में किस नदी को \"दक्षिणी गंगा\" कहा जाता है? / Which river in India is called the \"Southern Ganga\"?",
+    "question": "भारत में किसान ऋण माफी योजनाएँ किसका उद्देश्य रखती हैं? / What is the purpose of farmer loan waiver schemes in India?",
     "options": {
-      "A": "गोदावरी / Godavari",
-      "B": "कृष्णा / Krishna",
-      "C": "तपती / Tapi",
-      "D": "महानदी / Mahanadi"
+      "A": "किसानों को वित्तीय राहत देना (Provide financial relief to farmers)",
+      "B": "कृषि उत्पादन बढ़ाना (Increase agricultural production)",
+      "C": "बैंकिंग प्रणाली को स्थिर करना (Stabilize banking system)",
+      "D": "किसानों को निवेश के लिए प्रोत्साहित करना (Encourage investment)"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "भारत के किन क्षेत्रों में मानसून की वर्षा सबसे अधिक होती है? / In which areas of India is monsoon rainfall the highest?",
+    "question": "भारत में कृषि क्षेत्र के लिए किस प्रकार के बीजों का उपयोग ग्रीन रिवोल्यूशन के दौरान बढ़ा? / What type of seeds saw increased use during Green Revolution in India?",
     "options": {
-      "A": "मौसिनराम / Mawsynram",
-      "B": "चेरापूंजी / Cherrapunji",
-      "C": "थार रेगिस्तान / Thar Desert",
-      "D": "राजस्थान का पश्चिमी भाग / Western Rajasthan"
+      "A": "उच्च उपज वाले बीज (High Yielding Variety Seeds)",
+      "B": "जैविक बीज (Organic Seeds)",
+      "C": "स्थानीय बीज (Local Seeds)",
+      "D": "अनुवांशिक रूप से संशोधित बीज (Genetically Modified Seeds)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "भारत में कौन-सी नदियाँ समुद्र में बहती हैं? / Which of the following rivers flow into the sea?",
+    "question": "भारत में कृषि क्षेत्र की न्यूनतम समर्थन मूल्य (MSP) प्रणाली का प्रमुख उद्देश्य क्या है? / What is the main objective of MSP system in Indian agriculture?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "नर्मदा / Narmada",
-      "D": "सिंधु / Indus"
+      "A": "किसानों को उचित मूल्य देना (Ensuring fair price to farmers)",
+      "B": "बाजार मूल्य कम करना (Reducing market prices)",
+      "C": "सरकारी स्टॉक बढ़ाना (Increasing government stock)",
+      "D": "निर्यात बढ़ाना (Increasing exports)"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "भारत में कौन-सी भूमि ऊंचाई पर स्थित है? / Which landforms in India are located at high altitudes?",
+    "question": "भारत में कृषि ऋण संकट को कम करने के लिए कौन-कौन से उपाय किए जा रहे हैं? / What measures are being taken to reduce farmer debt crisis in India?",
     "options": {
-      "A": "हिमालय पर्वत / Himalaya Mountains",
-      "B": "पश्चिमी घाट / Western Ghats",
-      "C": "पश्चिमी राजस्थान का रेगिस्तान / Western Rajasthan Desert",
-      "D": "डेक्कन पठार / Deccan Plateau"
+      "A": "कृषि ऋण माफी (Farm Loan Waivers)",
+      "B": "सस्ता ऋण प्रदान करना (Providing Cheap Credit)",
+      "C": "किसानों को बीमा देना (Providing Crop Insurance)",
+      "D": "मंडी कर बढ़ाना (Increasing Market Tax)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 17,
-    "question": "भारत में किस क्षेत्र को 'डेक्कन पठार' कहा जाता है? / Which region in India is called the 'Deccan Plateau'?",
+    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए कौन-कौन से तकनीकी सुधार महत्वपूर्ण हैं? / Which technological improvements are important to increase agricultural productivity in India?",
     "options": {
-      "A": "दक्षिण भारत का मध्य भाग / Central part of South India",
-      "B": "उत्तर भारत का मैदान / Northern plains",
-      "C": "पूर्वी भारत का तटीय क्षेत्र / Eastern coastal region",
-      "D": "पश्चिमी भारत का रेगिस्तान / Western desert region"
+      "A": "उन्नत बीजों का उपयोग (Use of Improved Seeds)",
+      "B": "सिंचाई के आधुनिक तरीकों का विकास (Development of Modern Irrigation)",
+      "C": "मशीनीकरण (Mechanization)",
+      "D": "कृषि भूमि का विस्तार (Expansion of Agricultural Land)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 18,
+    "question": "भारत में कृषि क्षेत्र में जो सबसे बड़ा ऋणदाता है, वह कौन है? / Who is the largest lender to the agriculture sector in India?",
+    "options": {
+      "A": "बैंक (Banks)",
+      "B": "पारंपरिक धन उगाहने वाले (Informal Moneylenders)",
+      "C": "सरकारी वित्तीय संस्थान (Government Financial Institutions)",
+      "D": "निजी ऋणदाता (Private Lenders)"
     },
     "answer": ["A"]
   },
   {
-    "id": 18,
-    "question": "भारत में किस नदियों का उद्गम हिमालय से होता है? / Which of the following rivers originate from the Himalayas?",
-    "options": {
-      "A": "सिंधु / Indus",
-      "B": "गंगा / Ganga",
-      "C": "कृष्णा / Krishna",
-      "D": "यमुना / Yamuna"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
     "id": 19,
-    "question": "भारत के किन क्षेत्रों में रेड एंड लैटराइट मिट्टी अधिक पाई जाती है? / In which regions of India is Red and Laterite soil more common?",
+    "question": "ग्रीन रिवोल्यूशन के दौरान किस क्षेत्र में सबसे अधिक सुधार हुआ? / Which sector saw the maximum improvement during Green Revolution?",
     "options": {
-      "A": "पश्चिमी घाट / Western Ghats",
-      "B": "पूर्वोत्तर भारत / Northeast India",
-      "C": "राजस्थान / Rajasthan",
-      "D": "मध्य प्रदेश / Madhya Pradesh"
+      "A": "धान की पैदावार (Paddy Production)",
+      "B": "गेहूं की पैदावार (Wheat Production)",
+      "C": "मसाले की खेती (Spice Farming)",
+      "D": "फलोत्पादन (Fruit Production)"
     },
     "answer": ["A", "B"]
   },
   {
     "id": 20,
-    "question": "भारत के किन राज्यों में मुख्य रूप से फॉस्फेट खनिज पाए जाते हैं? / In which Indian states are phosphate minerals mainly found?",
+    "question": "कृषि विपणन में ई-नाम पोर्टल का क्या महत्व है? / What is the significance of e-NAM portal in agricultural marketing?",
     "options": {
-      "A": "मध्य प्रदेश / Madhya Pradesh",
-      "B": "राजस्थान / Rajasthan",
-      "C": "ओडिशा / Odisha",
-      "D": "गुजरात / Gujarat"
+      "A": "किसानों को ऑनलाइन बाजार तक पहुंच प्रदान करना (Providing farmers access to online markets)",
+      "B": "मंडी करों को समाप्त करना (Eliminating mandi taxes)",
+      "C": "बिचौलियों को पूरी तरह खत्म करना (Completely eliminating middlemen)",
+      "D": "उत्पाद की कीमतों में पारदर्शिता लाना (Bringing price transparency)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "D"]
   },
   {
     "id": 21,
-    "question": "भारत के प्रमुख तटीय क्षेत्र कौन-कौन से हैं? / Which of the following are major coastal regions of India?",
+    "question": "भारत में कृषि क्षेत्र से संबंधित निम्नलिखित में से कौन-कौन से कारक किसानों के कर्ज संकट को बढ़ाते हैं? / Which of the following factors contribute to the farmer debt crisis in India?",
     "options": {
-      "A": "पूर्वी तट / Eastern Coast",
-      "B": "पश्चिमी तट / Western Coast",
-      "C": "दक्षिणी तट / Southern Coast",
-      "D": "उत्तरी तट / Northern Coast"
+      "A": "अपर्याप्त वित्तीय पहुंच (Limited financial access)",
+      "B": "प्राकृतिक आपदाएँ (Natural calamities)",
+      "C": "सरकारी समर्थन मूल्य (Government support price)",
+      "D": "बाजार की अनिश्चितता (Market uncertainties)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 22,
-    "question": "भारत में कौन-सी नदी समुद्र में नहीं मिलती है? / Which of the following rivers do not meet the sea?",
+    "question": "ग्रीन रिवोल्यूशन के तहत भारत में किन फसलों पर विशेष ध्यान दिया गया? / Which crops received special focus under the Green Revolution in India?",
     "options": {
-      "A": "सरस्वती / Saraswati",
-      "B": "गंगा / Ganga",
-      "C": "नर्मदा / Narmada",
-      "D": "तपती / Tapi"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "भारत में कौन-से क्षेत्र में जैव विविधता सर्वाधिक है? / In which region of India is biodiversity highest?",
-    "options": {
-      "A": "पश्चिमी घाट / Western Ghats",
-      "B": "अंडमान-निकोबार द्वीप समूह / Andaman and Nicobar Islands",
-      "C": "थार रेगिस्तान / Thar Desert",
-      "D": "राजस्थान का रेगिस्तान / Rajasthan Desert"
+      "A": "धान (Paddy)",
+      "B": "गेहूं (Wheat)",
+      "C": "मकई (Maize)",
+      "D": "सोयाबीन (Soybean)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 24,
-    "question": "भारत में सूखा प्रभाव सबसे अधिक कहाँ होता है? / Where is the impact of drought most severe in India?",
+    "id": 23,
+    "question": "भारत में कृषि उत्पादन बढ़ाने के लिए कौन-कौन से तकनीकी नवाचार महत्वपूर्ण हैं? / Which technological innovations are important to increase agricultural production in India?",
     "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "मध्य प्रदेश / Madhya Pradesh",
-      "C": "कर्नाटक / Karnataka",
-      "D": "पश्चिम बंगाल / West Bengal"
+      "A": "उन्नत बीज (Improved seeds)",
+      "B": "सिंचाई के आधुनिक तरीके (Modern irrigation methods)",
+      "C": "मशीनीकरण (Mechanization)",
+      "D": "कृषि भूमि के विस्तार (Expansion of agricultural land)"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 25,
-    "question": "भारत में सबसे अधिक वर्षा किस प्रकार की मिट्टी में होती है? / In which soil type is maximum rainfall absorbed in India?",
+    "id": 24,
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) प्रणाली का उद्देश्य क्या है? / What is the objective of Minimum Support Price (MSP) system in India?",
     "options": {
-      "A": "मिट्टी लाल और पीली / Red and Yellow Soil",
-      "B": "काली मिट्टी / Black Soil",
-      "C": "लैटराइट मिट्टी / Laterite Soil",
-      "D": "रेगिस्तानी मिट्टी / Desert Soil"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 26,
-    "question": "भारत में प्रमुख नदियाँ कौन-से महासागरों में मिलती हैं? / Major rivers of India meet which oceans?",
-    "options": {
-      "A": "अंडमान सागर / Andaman Sea",
-      "B": "अरब सागर / Arabian Sea",
-      "C": "बंगाल की खाड़ी / Bay of Bengal",
-      "D": "हिंद महासागर / Indian Ocean"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 27,
-    "question": "भारत में समुद्र तटों की लंबाई लगभग कितनी है? / What is the approximate length of India's coastline?",
-    "options": {
-      "A": "7500 किलोमीटर / 7500 km",
-      "B": "6100 किलोमीटर / 6100 km",
-      "C": "5000 किलोमीटर / 5000 km",
-      "D": "8200 किलोमीटर / 8200 km"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 28,
-    "question": "भारत के किन क्षेत्रों में शुष्क मिट्टियाँ पाई जाती हैं? / In which areas of India are arid soils found?",
-    "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "गुजरात / Gujarat",
-      "C": "महाराष्ट्र / Maharashtra",
-      "D": "उत्तराखंड / Uttarakhand"
+      "A": "किसानों को लाभकारी मूल्य प्रदान करना (Provide remunerative prices to farmers)",
+      "B": "उत्पादकों को सरकारी खरीद से जोड़ना (Connect producers with government procurement)",
+      "C": "मंडी में बिचौलियों को बढ़ावा देना (Promote middlemen in markets)",
+      "D": "खाद्यान्न की भंडारण क्षमता बढ़ाना (Increase food grain storage capacity)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 29,
-    "question": "भारत के मुख्य नदियों के बेसिन कौन-कौन से हैं? / Which are the major river basins in India?",
+    "id": 25,
+    "question": "भारत में कृषि विपणन सुधारों के तहत कौन-कौन से कदम उठाए गए हैं? / Which steps have been taken under agricultural marketing reforms in India?",
     "options": {
-      "A": "गंगा बेसिन / Ganga Basin",
-      "B": "सिन्धु बेसिन / Indus Basin",
-      "C": "मंगल बेसिन / Mangal Basin",
-      "D": "कृष्णा बेसिन / Krishna Basin"
+      "A": "ई-नाम पोर्टल (e-NAM portal)",
+      "B": "मंडी प्रणाली का आधुनिकीकरण (Modernization of mandi system)",
+      "C": "किसानों के लिए बाजारों की संख्या कम करना (Reducing number of markets for farmers)",
+      "D": "मध्यस्थों के नियंत्रण को कम करना (Reducing control of intermediaries)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 26,
+    "question": "किसानों के कर्ज संकट से निपटने के लिए भारत सरकार ने कौन-कौन से उपाय किए हैं? / What measures has the Indian government taken to address farmer loan crisis?",
+    "options": {
+      "A": "कर्ज माफी योजनाएं (Loan waiver schemes)",
+      "B": "सस्ते कृषि ऋण उपलब्ध कराना (Providing cheap agricultural credit)",
+      "C": "किसानों के लिए बीमा योजना (Insurance schemes for farmers)",
+      "D": "बाजार मूल्य नियंत्रण (Price control in markets)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 27,
+    "question": "भारत में किस प्रकार की खेती को वाणिज्यिक खेती कहा जाता है? / What is referred to as commercial farming in India?",
+    "options": {
+      "A": "बाजार के लिए बड़े पैमाने पर उत्पादन (Large scale production for market)",
+      "B": "अपनी जरूरत के लिए उत्पादन (Production for own needs)",
+      "C": "पर्यावरण संरक्षण पर आधारित खेती (Environmentally focused farming)",
+      "D": "सिंचित भूमि पर छोटी खेती (Small scale irrigated farming)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से आधुनिक सिंचाई उपाय प्रचलित हैं? / Which modern irrigation methods are prevalent in Indian agriculture?",
+    "options": {
+      "A": "ड्रिप सिंचाई (Drip irrigation)",
+      "B": "स्प्रिंकलर सिंचाई (Sprinkler irrigation)",
+      "C": "नहर सिंचाई (Canal irrigation)",
+      "D": "बरसाती सिंचाई (Rainfed irrigation)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 29,
+    "question": "भारत में ग्रीन रिवोल्यूशन के दौरान किन क्षेत्रों में सुधार हुआ? / Which areas saw improvement during the Green Revolution in India?",
+    "options": {
+      "A": "धान और गेहूं उत्पादन (Paddy and wheat production)",
+      "B": "कृषि आय में वृद्धि (Increase in agricultural income)",
+      "C": "पर्यावरण संरक्षण (Environmental conservation)",
+      "D": "कृषि औजारों का उपयोग (Use of agricultural tools)"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 30,
-    "question": "भारत में किस पर्वतमाला को 'पश्चिमी घाट' कहा जाता है? / Which mountain range is called the 'Western Ghats' in India?",
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किस आधार पर तय किया जाता है? / On what basis is MSP fixed in India?",
     "options": {
-      "A": "दक्षिण भारत के पश्चिमी किनारे की पर्वतमाला / Mountain range along west coast of South India",
-      "B": "हिमालय की एक शाखा / A branch of Himalayas",
-      "C": "मध्य भारत की पहाड़ियाँ / Hills of Central India",
-      "D": "पूर्वोत्तर भारत की पर्वतमाला / Mountain range of Northeast India"
+      "A": "उत्पादन लागत (Cost of production)",
+      "B": "मांग और आपूर्ति (Demand and supply)",
+      "C": "सरकारी बजट (Government budget)",
+      "D": "वैश्विक कीमतें (Global prices)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 31,
-    "question": "भारत में किस क्षेत्र को 'उष्णकटिबंधीय मानसूनी क्षेत्र' कहा जाता है? / Which area in India is called the 'Tropical Monsoon Region'?",
+    "question": "भारत में कृषि विपणन में प्रमुख चुनौतियाँ कौन-कौन सी हैं? / What are the major challenges in agricultural marketing in India?",
     "options": {
-      "A": "सागर और समुद्र के किनारे / Coastal regions",
-      "B": "मध्य भारत का बड़ा हिस्सा / Large part of Central India",
-      "C": "उत्तर भारत का मैदान / Northern plains",
-      "D": "थार रेगिस्तान / Thar Desert"
+      "A": "बिचौलियों का दबदबा (Dominance of intermediaries)",
+      "B": "कम सरकारी बाजार (Lack of government markets)",
+      "C": "उच्च मंडी कर (High mandi taxes)",
+      "D": "कृषि उत्पादकों की अधिकता (Surplus of agricultural producers)"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 32,
-    "question": "भारत में किस प्रकार की मिट्टी चावल की खेती के लिए उपयुक्त होती है? / Which type of soil is most suitable for paddy cultivation in India?",
+    "question": "किसानों के कर्ज संकट के समाधान के लिए कौन-से वित्तीय साधन उपयोग किए जाते हैं? / Which financial instruments are used to solve farmer debt crisis?",
     "options": {
-      "A": "लाल और पीली मिट्टी / Red and Yellow soil",
-      "B": "लैटराइट मिट्टी / Laterite soil",
-      "C": "काली मिट्टी / Black soil",
-      "D": "मैदानी नदी के तटीय क्षेत्रों की मिट्टी / Alluvial soil of river plains"
+      "A": "कृषि ऋण (Agricultural loans)",
+      "B": "कृषि बीमा (Crop insurance)",
+      "C": "ऋण माफी (Loan waivers)",
+      "D": "मंडी करों में वृद्धि (Increase in mandi taxes)"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 33,
-    "question": "भारत में किस क्षेत्र को 'बारानी क्षेत्र' कहा जाता है? / Which region of India is called the 'Barani area'?",
+    "question": "भारत में ग्रीन रिवोल्यूशन के दौरान किस तकनीक ने सबसे अधिक मदद की? / Which technology helped most during Green Revolution in India?",
     "options": {
-      "A": "वर्षा पर निर्भर खेती वाला क्षेत्र / Rainfed farming area",
-      "B": "सिंचित क्षेत्र / Irrigated area",
-      "C": "अधिक वर्षा वाला क्षेत्र / High rainfall region",
-      "D": "रेगिस्तानी क्षेत्र / Desert area"
+      "A": "उच्च उपज वाली फसलें (High Yield Variety crops)",
+      "B": "कीटनाशकों का उपयोग (Use of pesticides)",
+      "C": "जैविक खेती (Organic farming)",
+      "D": "वर्षा जल संचयन (Rainwater harvesting)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 34,
-    "question": "भारत में प्राकृतिक संसाधनों की उपलब्धता पर कौन-से कारक प्रभाव डालते हैं? / Which factors affect the availability of natural resources in India?",
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) प्रणाली के तहत किन फसलों को कवर किया जाता है? / Which crops are covered under MSP system in India?",
     "options": {
-      "A": "भौगोलिक स्थिति / Geographical location",
-      "B": "जलवायु / Climate",
-      "C": "आबादी घनत्व / Population density",
-      "D": "राजनीतिक स्थिरता / Political stability"
+      "A": "धान (Paddy)",
+      "B": "गेहूं (Wheat)",
+      "C": "मसाले (Spices)",
+      "D": "तिलहन (Oilseeds)"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 35,
-    "question": "भारत में कौन-सी नदियाँ 'अंतरराज्यीय नदियाँ' कहलाती हैं? / Which of the following rivers are called 'Interstate rivers' in India?",
+    "question": "भारत में कृषि विपणन सुधार के तहत ई-नाम पोर्टल का क्या लाभ है? / What are the benefits of e-NAM portal under agricultural marketing reforms in India?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "नर्मदा / Narmada",
-      "C": "गोदावरी / Godavari",
-      "D": "तपती / Tapi"
+      "A": "बाजार तक बेहतर पहुंच (Better market access)",
+      "B": "मंडी कर में कमी (Reduction in mandi taxes)",
+      "C": "बिचौलियों की समाप्ति (Elimination of intermediaries)",
+      "D": "कीमतों में पारदर्शिता (Price transparency)"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A", "D"]
   },
   {
     "id": 36,
-    "question": "भारत के किन राज्यों में मुख्य रूप से काली मिट्टी पाई जाती है? / In which Indian states is black soil mainly found?",
+    "question": "किसानों के कर्ज संकट का भारत की ग्रामीण अर्थव्यवस्था पर क्या प्रभाव है? / What is the impact of farmer debt crisis on India's rural economy?",
     "options": {
-      "A": "महाराष्ट्र / Maharashtra",
-      "B": "मध्य प्रदेश / Madhya Pradesh",
-      "C": "गुजरात / Gujarat",
-      "D": "कर्नाटक / Karnataka"
+      "A": "कृषि उत्पादन में कमी (Decrease in agricultural production)",
+      "B": "ग्रामीण रोजगार में गिरावट (Decline in rural employment)",
+      "C": "ग्रामीण विकास में बाधा (Obstacle in rural development)",
+      "D": "सरकारी राजस्व में वृद्धि (Increase in government revenue)"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 37,
-    "question": "भारत में मुख्य रूप से किस क्षेत्र में मैंग्रोव वन पाए जाते हैं? / In which areas of India are mangrove forests mainly found?",
+    "question": "भारत में ग्रीन रिवोल्यूशन के बाद किस क्षेत्र में सबसे अधिक वृद्धि हुई? / Which sector saw maximum growth after Green Revolution in India?",
     "options": {
-      "A": "सुंदरबन / Sundarbans",
-      "B": "अंडमान निकोबार द्वीप / Andaman Nicobar Islands",
-      "C": "राजस्थान / Rajasthan",
-      "D": "पश्चिमी घाट / Western Ghats"
+      "A": "धान उत्पादन (Paddy production)",
+      "B": "गेहूं उत्पादन (Wheat production)",
+      "C": "मसाले उत्पादन (Spices production)",
+      "D": "मक्के का उत्पादन (Maize production)"
     },
     "answer": ["A", "B"]
   },
   {
     "id": 38,
-    "question": "भारत में मानसून की शुरुआत आमतौर पर कब होती है? / When does the monsoon usually start in India?",
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) का निर्धारण किन कारकों पर निर्भर करता है? / MSP determination in India depends on which factors?",
     "options": {
-      "A": "जून के पहले सप्ताह / First week of June",
-      "B": "मई के अंतिम सप्ताह / Last week of May",
-      "C": "जुलाई के मध्य / Mid July",
-      "D": "अगस्त के शुरुआत / Early August"
+      "A": "उत्पादन लागत (Cost of production)",
+      "B": "फसल की मांग और आपूर्ति (Crop demand and supply)",
+      "C": "सरकारी बजट (Government budget)",
+      "D": "निवेशकों की प्राथमिकताएं (Investor preferences)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 39,
-    "question": "भारत के किन क्षेत्रों में उष्णकटिबंधीय मानसूनी वन पाए जाते हैं? / In which areas of India are tropical monsoon forests found?",
+    "question": "भारत में कृषि विपणन में सुधार के लिए किन प्रमुख तकनीकों का इस्तेमाल किया जा रहा है? / Which key technologies are being used for improvement in agricultural marketing in India?",
     "options": {
-      "A": "पश्चिमी घाट / Western Ghats",
-      "B": "पूर्वोत्तर भारत / Northeast India",
-      "C": "राजस्थान / Rajasthan",
-      "D": "मध्य भारत / Central India"
+      "A": "डिजिटल मार्केटिंग (Digital marketing)",
+      "B": "स्मार्ट कांट्रैक्ट (Smart contracts)",
+      "C": "ब्लॉकचेन (Blockchain)",
+      "D": "औद्योगिक मशीनरी (Industrial machinery)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 40,
-    "question": "भारत में किस नदी को 'गंगा के पुत्र' कहा जाता है? / Which river is called the 'Son of Ganga' in India?",
+    "question": "भारत में किसानों के लिए कौन-कौन से ऋण विकल्प उपलब्ध हैं? / What loan options are available for farmers in India?",
     "options": {
-      "A": "यमुना / Yamuna",
-      "B": "सिंधु / Indus",
-      "C": "गोदावरी / Godavari",
-      "D": "कृष्णा / Krishna"
+      "A": "सरकारी कृषि ऋण (Government agricultural loans)",
+      "B": "बैंक ऋण (Bank loans)",
+      "C": "सूक्ष्म वित्त ऋण (Microfinance loans)",
+      "D": "व्यावसायिक ऋण (Commercial loans)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 41,
-    "question": "भारत में प्रमुख खनिज संसाधन कौन-कौन से हैं? / Which of the following are major mineral resources in India?",
+    "question": "भारत में कृषि क्षेत्र में बढ़ती उत्पादन लागत का मुख्य कारण क्या है? / What is the main reason for increasing production cost in Indian agriculture?",
     "options": {
-      "A": "कोयला / Coal",
-      "B": "आयरन अयस्क / Iron ore",
-      "C": "सोना / Gold",
-      "D": "पारा / Mercury"
+      "A": "उच्च बीज और उर्वरक मूल्य (High seed and fertilizer prices)",
+      "B": "सिंचाई की लागत (Irrigation costs)",
+      "C": "मजदूरी लागत (Labor costs)",
+      "D": "सरकारी सब्सिडी (Government subsidies)"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 42,
-    "question": "भारत के किन क्षेत्रों में घने वनों की अधिकता है? / In which regions of India are dense forests found?",
+    "question": "भारत में ग्रीन रिवोल्यूशन के बाद किस क्षेत्र में पर्यावरणीय प्रभाव देखने को मिला? / Which environmental impact was seen after Green Revolution in India?",
     "options": {
-      "A": "असम और पूर्वोत्तर क्षेत्र / Assam and Northeast",
-      "B": "मध्य भारत / Central India",
-      "C": "राजस्थान / Rajasthan",
-      "D": "कर्नाटक / Karnataka"
+      "A": "भूमि क्षरण (Soil degradation)",
+      "B": "जल प्रदूषण (Water pollution)",
+      "C": "जैव विविधता का नुकसान (Loss of biodiversity)",
+      "D": "वनों की वृद्धि (Increase in forests)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 43,
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) की घोषणा किसके द्वारा की जाती है? / Who announces the Minimum Support Price (MSP) in India?",
+    "options": {
+      "A": "कृषि एवं किसान कल्याण मंत्रालय (Ministry of Agriculture & Farmers Welfare)",
+      "B": "निति आयोग (NITI Aayog)",
+      "C": "भारतीय रिजर्व बैंक (RBI)",
+      "D": "कृषि लागत एवं मूल्य आयोग (CACP)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 44,
+    "question": "भारत में कृषि विपणन में किसानों को बेहतर मूल्य दिलाने के लिए कौन-से उपाय जरूरी हैं? / What measures are necessary to provide better prices to farmers in agricultural marketing in India?",
+    "options": {
+      "A": "प्रत्यक्ष बिक्री (Direct sales)",
+      "B": "सशक्त मंडी प्रणाली (Strengthened mandi system)",
+      "C": "मध्यस्थों को बढ़ावा देना (Encouraging intermediaries)",
+      "D": "डिजिटल प्लेटफॉर्म का उपयोग (Use of digital platforms)"
     },
     "answer": ["A", "B", "D"]
   },
   {
-    "id": 43,
-    "question": "भारत में जल संसाधन का प्रबंधन किन तरीकों से किया जाता है? / How are water resources managed in India?",
-    "options": {
-      "A": "तालाब और जलाशय बनाना / Construction of ponds and reservoirs",
-      "B": "नदियों के प्रवाह को नियंत्रित करना / Regulating river flow",
-      "C": "भूमिगत जल का पुनर्भरण / Groundwater recharge",
-      "D": "आसपास के जंगलों को काटना / Cutting nearby forests"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 44,
-    "question": "भारत में कौन-से फसलें प्रमुख हैं? / Which of the following are major crops grown in India?",
-    "options": {
-      "A": "गेहूं / Wheat",
-      "B": "चावल / Rice",
-      "C": "मक्का / Maize",
-      "D": "ज्वार / Jowar"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
     "id": 45,
-    "question": "भारत में सिंचाई के प्रमुख स्रोत कौन-कौन से हैं? / What are the major sources of irrigation in India?",
+    "question": "भारत में किसानों के लिए कृषि ऋण किस आधार पर वितरित किया जाता है? / On what basis agricultural loans are distributed to farmers in India?",
     "options": {
-      "A": "नहरें / Canals",
-      "B": "ट्यूबवेल / Tubewells",
-      "C": "बारिश / Rainfall",
-      "D": "झरने / Waterfalls"
+      "A": "भूमि स्वामित्व (Land ownership)",
+      "B": "किसान का क्रेडिट स्कोर (Farmer's credit score)",
+      "C": "किसानी का इतिहास (Farming history)",
+      "D": "सरकारी योजना के तहत पात्रता (Eligibility under government schemes)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 46,
-    "question": "भारत के किस क्षेत्र को 'धान का कटोरा' कहा जाता है? / Which region of India is called the 'Rice Bowl'?",
+    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए कौन-कौन से सुधार आवश्यक हैं? / Which reforms are necessary to increase productivity in Indian agriculture?",
     "options": {
-      "A": "पश्चिम बंगाल / West Bengal",
-      "B": "असम / Assam",
-      "C": "पंजाब / Punjab",
-      "D": "मध्य प्रदेश / Madhya Pradesh"
+      "A": "कृषि भूमि सुधार (Land reforms)",
+      "B": "सिंचाई व्यवस्था में सुधार (Irrigation system improvements)",
+      "C": "कृषि तकनीक में सुधार (Improvement in agricultural technology)",
+      "D": "मंडी प्रणाली को कमजोर करना (Weakening mandi system)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 47,
-    "question": "भारत में प्रमुख औद्योगिक क्षेत्रों में कौन-कौन से शामिल हैं? / Which of the following are major industrial belts in India?",
+    "question": "भारत में कृषि विपणन सुधारों का लक्ष्य क्या है? / What is the objective of agricultural marketing reforms in India?",
     "options": {
-      "A": "मुंबई-पुणे क्षेत्र / Mumbai-Pune region",
-      "B": "हैदराबाद / Hyderabad",
-      "C": "कोलकाता क्षेत्र / Kolkata region",
-      "D": "बंगलौर क्षेत्र / Bangalore region"
+      "A": "किसानों को बेहतर मूल्य दिलाना (Ensuring better prices to farmers)",
+      "B": "मंडी करों को बढ़ाना (Increasing mandi taxes)",
+      "C": "बिचौलियों की संख्या कम करना (Reducing intermediaries)",
+      "D": "कृषि उत्पादकों को बाजार से दूर रखना (Keeping producers away from markets)"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A", "C"]
   },
   {
     "id": 48,
-    "question": "भारत के कौन से क्षेत्र लोहे का प्रमुख उत्पादक हैं? / Which regions in India are major producers of iron?",
+    "question": "भारत में किसानों की आमदनी बढ़ाने के लिए कौन-कौन से उपाय किये जा रहे हैं? / What measures are being taken to increase farmer incomes in India?",
     "options": {
-      "A": "झारखंड / Jharkhand",
-      "B": "छत्तीसगढ़ / Chhattisgarh",
-      "C": "महाराष्ट्र / Maharashtra",
-      "D": "तमिलनाडु / Tamil Nadu"
+      "A": "कृषि विपणन सुधार (Agricultural marketing reforms)",
+      "B": "मूल्य समर्थन (Price support)",
+      "C": "कृषि विविधीकरण (Agricultural diversification)",
+      "D": "कर्ज बढ़ाना (Increasing debts)"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 49,
-    "question": "भारत में कौन-से प्रमुख बंदरगाह हैं? / Which of the following are major ports in India?",
+    "question": "भारत में ग्रीन रिवोल्यूशन की शुरुआत किस क्षेत्र में सबसे पहले हुई थी? / In which region was the Green Revolution first started in India?",
     "options": {
-      "A": "मुम्बई / Mumbai",
-      "B": "चेन्नई / Chennai",
-      "C": "कोलकाता / Kolkata",
-      "D": "गंगटोक / Gangtok"
+      "A": "पंजाब (Punjab)",
+      "B": "हरियाणा (Haryana)",
+      "C": "उत्तर प्रदेश (Uttar Pradesh)",
+      "D": "बिहार (Bihar)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 50,
-    "question": "भारत में रेलवे नेटवर्क का विकास किन कारणों से हुआ? / What are the reasons for the development of railway network in India?",
+    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किस समय घोषित किया जाता है? / When is the MSP announced in India?",
     "options": {
-      "A": "व्यापार और उद्योग के लिए / For trade and industry",
-      "B": "सैन्य जरूरतों के लिए / For military needs",
-      "C": "पर्यटन को बढ़ावा देने के लिए / To promote tourism",
-      "D": "कृषि उत्पादन बढ़ाने के लिए / To increase agricultural production"
+      "A": "हर साल फरवरी में (Every year in February)",
+      "B": "हर साल मई में (Every year in May)",
+      "C": "हर साल अक्टूबर में (Every year in October)",
+      "D": "हर साल जनवरी में (Every year in January)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "भारत में प्रमुख हवाई अड्डे कहाँ स्थित हैं? / Where are the major airports located in India?",
+    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से प्रमुख ऋणदाता हैं? / Who are the major lenders to the agricultural sector in India?",
     "options": {
-      "A": "दिल्ली / Delhi",
-      "B": "मुंबई / Mumbai",
-      "C": "जयपुर / Jaipur",
-      "D": "कोलकाता / Kolkata"
+      "A": "सार्वजनिक क्षेत्र के बैंक (Public sector banks)",
+      "B": "सहकारी बैंक (Cooperative banks)",
+      "C": "पारंपरिक सूदखोर (Traditional moneylenders)",
+      "D": "माइक्रोफाइनेंस संस्थाएं (Microfinance institutions)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 52,
-    "question": "भारत में सड़क परिवहन के लिए कौन-से प्रमुख राजमार्ग हैं? / What are the major highways used for road transport in India?",
+    "question": "भारत में कृषि क्षेत्र की असमानता का मुख्य कारण क्या है? / What is the main cause of inequality in Indian agriculture?",
     "options": {
-      "A": "राष्ट्रीय राजमार्ग 44 / National Highway 44",
-      "B": "राष्ट्रीय राजमार्ग 66 / National Highway 66",
-      "C": "सड़क संख्या 1 / Road number 1",
-      "D": "दिल्ली-मुंबई एक्सप्रेसवे / Delhi-Mumbai Expressway"
+      "A": "भूमि वितरण में असमानता (Unequal land distribution)",
+      "B": "सिंचाई संसाधनों की कमी (Lack of irrigation resources)",
+      "C": "कृषि शिक्षा की कमी (Lack of agricultural education)",
+      "D": "सरकारी सब्सिडी का अभाव (Lack of government subsidies)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B"]
   },
   {
     "id": 53,
-    "question": "भारत में कृषि आधारित उद्योगों के उदाहरण कौन से हैं? / Which of the following are examples of agro-based industries in India?",
+    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए किस तरह के नवाचारों की आवश्यकता है? / What kind of innovations are needed to increase productivity in Indian agriculture?",
     "options": {
-      "A": "चीनी उद्योग / Sugar industry",
-      "B": "टेक्सटाइल उद्योग / Textile industry",
-      "C": "दूध उत्पादन उद्योग / Dairy industry",
-      "D": "कोयला खनन / Coal mining"
+      "A": "डिजिटल कृषि (Digital agriculture)",
+      "B": "स्मार्ट सिंचाई (Smart irrigation)",
+      "C": "जैविक खेती (Organic farming)",
+      "D": "परंपरागत बीज (Traditional seeds)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 54,
-    "question": "भारत में किस प्रकार की सिंचाई सबसे अधिक इस्तेमाल होती है? / Which type of irrigation is most widely used in India?",
+    "question": "भारत में कृषि उत्पादों के लिए कौन-कौन से प्रमुख बाजार उपलब्ध हैं? / What are the major markets available for agricultural products in India?",
     "options": {
-      "A": "नहर सिंचाई / Canal irrigation",
-      "B": "ट्यूबवेल सिंचाई / Tubewell irrigation",
-      "C": "वर्षा आधारित सिंचाई / Rain-fed irrigation",
-      "D": "स्प्रिंकलर सिंचाई / Sprinkler irrigation"
+      "A": "मंडी बाजार (Mandi markets)",
+      "B": "सीधे खरीदार (Direct buyers)",
+      "C": "ऑनलाइन बाजार (Online markets)",
+      "D": "विदेशी बाजार (Foreign markets)"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 55,
-    "question": "भारत में किस क्षेत्र को 'भारत का औद्योगिक हृदय' कहा जाता है? / Which region is called the 'Industrial Heart of India'?",
+    "question": "भारत में किसानों के लिए सबसे बड़ी चुनौती क्या है? / What is the biggest challenge faced by farmers in India?",
     "options": {
-      "A": "महाराष्ट्र / Maharashtra",
-      "B": "पश्चिम बंगाल / West Bengal",
-      "C": "तमिलनाडु / Tamil Nadu",
-      "D": "उत्तर प्रदेश / Uttar Pradesh"
+      "A": "कर्ज का बोझ (Debt burden)",
+      "B": "बाजार मूल्य की अनिश्चितता (Price uncertainty)",
+      "C": "जल संकट (Water scarcity)",
+      "D": "श्रमिकों की कमी (Labor shortage)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 56,
-    "question": "भारत में किस नदी के किनारे प्रमुख औद्योगिक क्षेत्र विकसित हुए हैं? / Major industrial regions in India have developed along which river?",
+    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से सरकारी योजनाएँ चल रही हैं? / Which government schemes are running for agricultural sector in India?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "गोदावरी / Godavari",
-      "D": "तपती / Tapi"
+      "A": "प्रधानमंत्री किसान सम्मान निधि (PM-Kisan)",
+      "B": "फसल बीमा योजना (Crop Insurance Scheme)",
+      "C": "कृषि ऋण योजना (Agricultural Loan Scheme)",
+      "D": "मंडी कर योजना (Mandi Tax Scheme)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 57,
-    "question": "भारत में प्रमुख किस फसल को \"सुवर्ण अन्न\" कहा जाता है? / Which major crop in India is called \"Golden Grain\"?",
+    "question": "भारत में कृषि विपणन में सुधार से क्या लाभ होते हैं? / What are the benefits of improvement in agricultural marketing in India?",
     "options": {
-      "A": "गेहूं / Wheat",
-      "B": "धान / Rice",
-      "C": "मक्का / Maize",
-      "D": "ज्वार / Jowar"
+      "A": "किसानों को बेहतर मूल्य मिलना (Farmers get better prices)",
+      "B": "उत्पाद की गुणवत्ता बढ़ना (Increase in product quality)",
+      "C": "मंडी करों में वृद्धि (Increase in mandi taxes)",
+      "D": "बिचौलियों की भूमिका कम होना (Reduction in intermediaries)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 58,
-    "question": "भारत में जल संरक्षण के कौन-से तरीके अपनाए जाते हैं? / Which methods are adopted for water conservation in India?",
+    "question": "भारत में किसानों को खेती में किस प्रकार की सहायता मिलती है? / What type of assistance do farmers get in India?",
     "options": {
-      "A": "पानी की बचत तकनीक / Water-saving techniques",
-      "B": "वर्षा जल संचयन / Rainwater harvesting",
-      "C": "कृत्रिम तालाब / Artificial ponds",
-      "D": "नदी का प्रदूषण / River pollution"
+      "A": "वित्तीय सहायता (Financial assistance)",
+      "B": "तकनीकी सहायता (Technical assistance)",
+      "C": "मार्केटिंग सहायता (Marketing assistance)",
+      "D": "श्रमिक सहायता (Labor assistance)"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 59,
-    "question": "भारत के किस क्षेत्र में कारखानों की अधिकता है? / In which region of India are factories more concentrated?",
+    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से नए तकनीकी उपाय अपनाए जा रहे हैं? / Which new technological methods are being adopted for agriculture in India?",
     "options": {
-      "A": "महाराष्ट्र / Maharashtra",
-      "B": "तमिलनाडु / Tamil Nadu",
-      "C": "राजस्थान / Rajasthan",
-      "D": "पश्चिम बंगाल / West Bengal"
+      "A": "ड्रोन आधारित कृषि (Drone-based farming)",
+      "B": "स्मार्ट सेंसर (Smart sensors)",
+      "C": "रोबोटिक खेती (Robotic farming)",
+      "D": "मशीन लर्निंग (Machine learning)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 60,
-    "question": "भारत में किस क्षेत्र को 'भारत का चिड़िया घर' कहा जाता है? / Which area is called the 'Bird Sanctuary of India'?",
+    "question": "भारत में किसानों की आय बढ़ाने के लिए कौन-कौन से विकल्प महत्वपूर्ण हैं? / What are important options to increase farmer income in India?",
     "options": {
-      "A": "कामरूप / Kamrup",
-      "B": "कुमारिकों / Kumarikon",
-      "C": "सस्सी / Sassi",
-      "D": "केरला / Kerala"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 61,
-    "question": "भारत में प्रमुख जलाशयों के उदाहरण कौन से हैं? / Which of the following are major reservoirs in India?",
-    "options": {
-      "A": "भरती बाँध / Bhakra Dam",
-      "B": "तेग बहादुर साहिब / Tehri Dam",
-      "C": "हिराकुंड बाँध / Hirakud Dam",
-      "D": "अल्लाहाबाद बाँध / Allahabad Dam"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 62,
-    "question": "भारत में औद्योगिक विकास के लिए कौन-से कारक महत्वपूर्ण हैं? / What are important factors for industrial development in India?",
-    "options": {
-      "A": "कच्चा माल उपलब्धता / Availability of raw materials",
-      "B": "ऊर्जा संसाधन / Energy resources",
-      "C": "परिवहन सुविधा / Transport facilities",
-      "D": "सैन्य क्षेत्र / Military sector"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 63,
-    "question": "भारत में कौन-कौन से प्रमुख बंदरगाहों पर निर्यात-आयात होता है? / At which major ports of India does export-import take place?",
-    "options": {
-      "A": "मुम्बई / Mumbai",
-      "B": "विशाखापट्टनम / Visakhapatnam",
-      "C": "कोच्चि / Kochi",
-      "D": "पटना / Patna"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 64,
-    "question": "भारत में जनसंख्या वृद्धि पर कौन-से प्रभाव पड़ते हैं? / What are the effects of population growth in India?",
-    "options": {
-      "A": "भूमि और संसाधनों पर दबाव / Pressure on land and resources",
-      "B": "रोजगार संकट / Employment crisis",
-      "C": "सड़क परिवहन का विकास / Development of road transport",
-      "D": "शिक्षा की गुणवत्ता में गिरावट / Decline in quality of education"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 65,
-    "question": "भारत में शहरीकरण के मुख्य कारण क्या हैं? / What are the main reasons for urbanization in India?",
-    "options": {
-      "A": "औद्योगिकीकरण / Industrialization",
-      "B": "कृषि में रोजगार कम होना / Decrease in agricultural jobs",
-      "C": "शिक्षा और स्वास्थ्य सुविधाएं / Education and health facilities",
-      "D": "ग्रामीण क्षेत्र का विकास / Rural development"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 66,
-    "question": "भारत में कौन-से क्षेत्र औद्योगिक क्रांति के प्रमुख केंद्र हैं? / Which regions in India are major centers of industrial revolution?",
-    "options": {
-      "A": "पश्चिमी महाराष्ट्र / Western Maharashtra",
-      "B": "उत्तर प्रदेश / Uttar Pradesh",
-      "C": "तमिलनाडु / Tamil Nadu",
-      "D": "झारखंड / Jharkhand"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 67,
-    "question": "भारत में किस प्रकार की सिंचाई प्रणाली में पानी की बचत अधिक होती है? / Which irrigation system in India conserves more water?",
-    "options": {
-      "A": "ड्रिप इरिगेशन / Drip irrigation",
-      "B": "फलक सिंचाई / Flood irrigation",
-      "C": "स्प्रिंकलर सिंचाई / Sprinkler irrigation",
-      "D": "कुंड सिंचाई / Kund irrigation"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 68,
-    "question": "भारत में प्रमुख औद्योगिक उत्पाद कौन-से हैं? / What are the major industrial products in India?",
-    "options": {
-      "A": "इस्पात / Steel",
-      "B": "संगीत उपकरण / Musical instruments",
-      "C": "रेलगाड़ी / Railway engines",
-      "D": "सॉफ़्टवेयर / Software"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 69,
-    "question": "भारत में किस क्षेत्र को 'चमड़ा उद्योग का केंद्र' कहा जाता है? / Which region is called the 'Center of Leather Industry' in India?",
-    "options": {
-      "A": "कानपुर / Kanpur",
-      "B": "तिरुपति / Tirupati",
-      "C": "चेनई / Chennai",
-      "D": "मुम्बई / Mumbai"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 70,
-    "question": "भारत में प्रमुख हवाई अड्डे किस प्रकार के हैं? / What types of major airports are there in India?",
-    "options": {
-      "A": "अंतरराष्ट्रीय हवाई अड्डे / International airports",
-      "B": "राष्ट्रीय हवाई अड्डे / Domestic airports",
-      "C": "सैन्य हवाई अड्डे / Military airports",
-      "D": "घरेलू हवाई अड्डे / Private airports"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 71,
-    "question": "भारत में कौन-कौन सी फसलों की दो या अधिक फसलें एक वर्ष में उगाई जाती हैं? / Which crops in India are grown more than once a year?",
-    "options": {
-      "A": "धान / Rice",
-      "B": "गेहूं / Wheat",
-      "C": "मक्का / Maize",
-      "D": "गन्ना / Sugarcane"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 72,
-    "question": "भारत में प्रमुख सिंचाई परियोजनाएँ कौन-कौन सी हैं? / Which are the major irrigation projects in India?",
-    "options": {
-      "A": "सरदार सरोवर परियोजना / Sardar Sarovar Project",
-      "B": "तेग बहादुर साहिब बाँध / Tehri Dam",
-      "C": "नाथपारा बाँध / Nathpa Jhakri Dam",
-      "D": "हिराकुंड बाँध / Hirakud Dam"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 73,
-    "question": "भारत में जनसंख्या घनत्व किस क्षेत्र में सबसे अधिक है? / Where is population density highest in India?",
-    "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "बिहार / Bihar",
-      "C": "महाराष्ट्र / Maharashtra",
-      "D": "तमिलनाडु / Tamil Nadu"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 74,
-    "question": "भारत में किस प्रकार के वन जैव विविधता के लिए महत्वपूर्ण हैं? / Which types of forests in India are important for biodiversity?",
-    "options": {
-      "A": "उष्णकटिबंधीय वन / Tropical forests",
-      "B": "पर्णपाती वन / Deciduous forests",
-      "C": "शंकुधारी वन / Coniferous forests",
-      "D": "मैंग्रोव वन / Mangrove forests"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 75,
-    "question": "भारत में कौन-से नदियाँ सिंचाई के लिए सबसे ज्यादा उपयोग की जाती हैं? / Which rivers are most used for irrigation in India?",
-    "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "गोदावरी / Godavari",
-      "D": "नर्मदा / Narmada"
+      "A": "कृषि विविधीकरण (Agricultural diversification)",
+      "B": "प्रसंस्करण उद्योगों का विकास (Development of processing industries)",
+      "C": "न्यूनतम समर्थन मूल्य (Minimum Support Price)",
+      "D": "बाजार सुधार (Market reforms)"
     },
     "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 76,
-    "question": "भारत में कौन-कौन से प्रमुख औद्योगिक उत्पाद क्षेत्रों के लिए प्रसिद्ध हैं? / Which are famous for major industrial products in India?",
-    "options": {
-      "A": "मुम्बई - कपड़ा उद्योग / Mumbai - Textile industry",
-      "B": "कोलकाता - लोहे का उद्योग / Kolkata - Iron industry",
-      "C": "चेन्नई - ऑटोमोबाइल उद्योग / Chennai - Automobile industry",
-      "D": "जयपुर - तांबा उद्योग / Jaipur - Copper industry"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 77,
-    "question": "भारत में रेलवे नेटवर्क का प्रमुख केंद्र कहाँ है? / Where is the major center of the railway network in India?",
-    "options": {
-      "A": "मुम्बई / Mumbai",
-      "B": "दिल्ली / Delhi",
-      "C": "कोलकाता / Kolkata",
-      "D": "चेन्नई / Chennai"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 78,
-    "question": "भारत में शहरीकरण के मुख्य प्रभाव कौन से हैं? / What are the main impacts of urbanization in India?",
-    "options": {
-      "A": "अधिक रोजगार के अवसर / More employment opportunities",
-      "B": "पर्यावरण प्रदूषण / Environmental pollution",
-      "C": "सड़क जाम / Traffic congestion",
-      "D": "कृषि क्षेत्र का विस्तार / Expansion of agricultural land"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 79,
-    "question": "भारत में किस प्रकार के परिवहन को सबसे अधिक उपयोग किया जाता है? / Which type of transport is most widely used in India?",
-    "options": {
-      "A": "सड़क परिवहन / Road transport",
-      "B": "रेल परिवहन / Rail transport",
-      "C": "जल परिवहन / Water transport",
-      "D": "हवाई परिवहन / Air transport"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 80,
-    "question": "भारत में औद्योगिक विकास के लिए कौन-कौन से क्षेत्र महत्वपूर्ण हैं? / Which sectors are important for industrial development in India?",
-    "options": {
-      "A": "कृषि आधारित उद्योग / Agro-based industries",
-      "B": "खनिज आधारित उद्योग / Mineral-based industries",
-      "C": "सूचना प्रौद्योगिकी / Information Technology",
-      "D": "पर्यटन उद्योग / Tourism industry"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 81,
-    "question": "भौगोलिक दृष्टि से 'रेगिस्तानी जलवायु' के मुख्य लक्षण कौन-कौन से हैं? / What are the main characteristics of 'Desert Climate' geographically?",
-    "options": {
-      "A": "अत्यधिक तापमान / Extreme temperatures",
-      "B": "कम वर्षा / Low rainfall",
-      "C": "उच्च आर्द्रता / High humidity",
-      "D": "मिट्टी का नम होना / Moist soil"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 82,
-    "question": "भारत की कौन-सी पर्वत श्रृंखला विश्व की सबसे युवा पर्वत श्रृंखलाओं में से एक है? / Which mountain range in India is among the youngest in the world?",
-    "options": {
-      "A": "हिमालय / Himalayas",
-      "B": "अरावली / Aravalli",
-      "C": "विंध्य / Vindhya",
-      "D": "सतपुड़ा / Satpura"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 83,
-    "question": "भारत की कौन-सी नदियाँ पश्चिमी घाट से निकलती हैं? / Which rivers originate from the Western Ghats in India?",
-    "options": {
-      "A": "तपती / Tapi",
-      "B": "गोदावरी / Godavari",
-      "C": "नर्मदा / Narmada",
-      "D": "यमुना / Yamuna"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 84,
-    "question": "भारत में 'जल विभाजन रेखा' किस नदी घाटी के बीच स्थित है? / The 'Water Divide Line' in India is located between which river basins?",
-    "options": {
-      "A": "गंगा और महानदी / Ganga and Mahanadi",
-      "B": "नर्मदा और तापी / Narmada and Tapi",
-      "C": "गंगा और सिंधु / Ganga and Indus",
-      "D": "यमुना और गोदावरी / Yamuna and Godavari"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 85,
-    "question": "भारत में 'डाल झील' किस राज्य में स्थित है? / In which state of India is the 'Dal Lake' located?",
-    "options": {
-      "A": "जम्मू और कश्मीर / Jammu and Kashmir",
-      "B": "उत्तराखंड / Uttarakhand",
-      "C": "हिमाचल प्रदेश / Himachal Pradesh",
-      "D": "सिक्किम / Sikkim"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 86,
-    "question": "भारत के किस राज्य में 'चिलिका झील' स्थित है? / In which Indian state is the 'Chilika Lake' located?",
-    "options": {
-      "A": "ओडिशा / Odisha",
-      "B": "गुजरात / Gujarat",
-      "C": "पश्चिम बंगाल / West Bengal",
-      "D": "तमिलनाडु / Tamil Nadu"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 87,
-    "question": "भारत में पर्यावरण संरक्षण के लिए कौन-कौन से प्रमुख अधिनियम लागू हैं? / Which major acts are implemented in India for environmental protection?",
-    "options": {
-      "A": "जल (प्रदूषण निवारण) अधिनियम / Water (Prevention and Control of Pollution) Act",
-      "B": "वायु (प्रदूषण नियंत्रण) अधिनियम / Air (Prevention and Control of Pollution) Act",
-      "C": "वन संरक्षण अधिनियम / Forest Conservation Act",
-      "D": "मालिकाना हक अधिनियम / Ownership Act"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 88,
-    "question": "भारत में कौन-से राष्ट्रीय उद्यान जैव विविधता के संरक्षण के लिए प्रसिद्ध हैं? / Which national parks in India are famous for biodiversity conservation?",
-    "options": {
-      "A": "काजीरंगा / Kaziranga",
-      "B": "सिमलीपाल / Simlipal",
-      "C": "रणथंभौर / Ranthambore",
-      "D": "सरिस्का / Sariska"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 89,
-    "question": "भारत में जल प्रदूषण के प्रमुख स्रोत कौन-कौन से हैं? / What are the major sources of water pollution in India?",
-    "options": {
-      "A": "औद्योगिक अपशिष्ट / Industrial waste",
-      "B": "गंदा पानी / Sewage",
-      "C": "कृषि रसायन / Agricultural chemicals",
-      "D": "नदी प्रवाह / River flow"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 90,
-    "question": "भारत में कौन-से प्रमुख नदियाँ हिमनदों से निकलती हैं? / Which major rivers in India originate from glaciers?",
-    "options": {
-      "A": "गंगा / Ganga",
-      "B": "सिंधु / Indus",
-      "C": "गोदावरी / Godavari",
-      "D": "यमुना / Yamuna"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 91,
-    "question": "भारत में 'अरावली' पर्वत श्रृंखला किस दिशा में फैली हुई है? / In which direction does the 'Aravalli' mountain range extend in India?",
-    "options": {
-      "A": "उत्तर-पश्चिम से दक्षिण-पूर्व / Northwest to southeast",
-      "B": "पूर्व से पश्चिम / East to west",
-      "C": "उत्तर से दक्षिण / North to south",
-      "D": "दक्षिण-पश्चिम से उत्तर-पूर्व / Southwest to northeast"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 92,
-    "question": "भारत में 'सिंधु घाटी' सभ्यता के प्रमुख स्थल कौन-कौन से हैं? / What are the major sites of the Indus Valley Civilization in India?",
-    "options": {
-      "A": "हड़प्पा / Harappa",
-      "B": "मोहनजोदड़ो / Mohenjo-daro",
-      "C": "लौथल / Lothal",
-      "D": "धौलावीरा / Dholavira"
-    },
-    "answer": ["C", "D"]
-  },
-  {
-    "id": 93,
-    "question": "भारत में मानसूनी वर्षा पर कौन-कौन से कारक प्रभाव डालते हैं? / Which factors affect the monsoon rainfall in India?",
-    "options": {
-      "A": "हिमालय पर्वत / Himalayan mountains",
-      "B": "अरावली पर्वत / Aravalli mountains",
-      "C": "समुद्री हवाएँ / Sea winds",
-      "D": "गंगा मैदान / Ganga plains"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 94,
-    "question": "भारत के किन क्षेत्रों में भूकंप के जोखिम अधिक हैं? / Which regions in India are more prone to earthquakes?",
-    "options": {
-      "A": "हिमालय क्षेत्र / Himalayan region",
-      "B": "अरुणाचल प्रदेश / Arunachal Pradesh",
-      "C": "गोवा / Goa",
-      "D": "उत्तर पूर्वी क्षेत्र / Northeast region"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 95,
-    "question": "भारत में वर्षा के कौन-कौन से प्रकार पाए जाते हैं? / What are the types of rainfall found in India?",
-    "options": {
-      "A": "औसत वर्षा / Average rainfall",
-      "B": "मॉनसून वर्षा / Monsoon rainfall",
-      "C": "संयोजित वर्षा / Convectional rainfall",
-      "D": "अवक्षेप वर्षा / Orographic rainfall"
-    },
-    "answer": ["B", "C", "D"]
-  },
-  {
-    "id": 96,
-    "question": "भारत के कौन-कौन से राज्य ज्वालामुखी गतिविधि के लिए जाने जाते हैं? / Which Indian states are known for volcanic activity?",
-    "options": {
-      "A": "आगंतुक क्षेत्र / Andaman and Nicobar Islands",
-      "B": "सिक्किम / Sikkim",
-      "C": "गोवा / Goa",
-      "D": "तमिलनाडु / Tamil Nadu"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 97,
-    "question": "भारत में किस नदी को 'जीवनदायिनी' कहा जाता है? / Which river in India is called the 'Lifeline'?",
-    "options": {
-      "A": "गंगा / Ganga",
-      "B": "यमुना / Yamuna",
-      "C": "सिंधु / Indus",
-      "D": "गोदावरी / Godavari"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 98,
-    "question": "भारत में प्रदूषण नियंत्रण के लिए कौन-कौन सी नीतियाँ लागू हैं? / Which policies are implemented in India for pollution control?",
-    "options": {
-      "A": "राष्ट्रीय जल नीति / National Water Policy",
-      "B": "राष्ट्रीय वायु गुणवत्ता मानक / National Air Quality Standards",
-      "C": "नागरिक अधिकार अधिनियम / Civil Rights Act",
-      "D": "राष्ट्रीय प्रदूषण नियंत्रण कार्यक्रम / National Pollution Control Programme"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 99,
-    "question": "भारत में किस प्राकृतिक आपदा का प्रभाव सबसे अधिक होता है? / Which natural disaster has the most impact in India?",
-    "options": {
-      "A": "भूकंप / Earthquake",
-      "B": "बाढ़ / Flood",
-      "C": "तूफान / Cyclone",
-      "D": "भूमि धंसाव / Landslide"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 100,
-    "question": "भारत में नदी घाटी के कौन-कौन से प्रमुख बाँध हैं? / What are the major dams in the river valleys of India?",
-    "options": {
-      "A": "भाखड़ा नांगल बाँध / Bhakra Nangal Dam",
-      "B": "तेग बहादुर साहिब बाँध / Tehri Dam",
-      "C": "हिराकुंड बाँध / Hirakud Dam",
-      "D": "तुतिकोरिन बाँध / Tuticorin Dam"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 101,
-    "question": "भारत में जलवायु परिवर्तन के प्रभाव कौन-कौन से हैं? / What are the effects of climate change in India?",
-    "options": {
-      "A": "मानसून में अनियमितता / Irregularity in monsoon",
-      "B": "समुद्री स्तर वृद्धि / Sea level rise",
-      "C": "जैव विविधता का नुकसान / Loss of biodiversity",
-      "D": "वृक्षों की संख्या बढ़ना / Increase in trees"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 102,
-    "question": "भारत में कौन-कौन से पर्वत श्रृंखला पूर्वी घाट का हिस्सा हैं? / Which mountain ranges are part of the Eastern Ghats in India?",
-    "options": {
-      "A": "निलगिरी पर्वत / Nilgiri Hills",
-      "B": "बालाघाट / Balaghat",
-      "C": "सतपुड़ा / Satpura",
-      "D": "विशाखापत्तनम पठार / Visakhapatnam Plateau"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 103,
-    "question": "भारत में पर्वतीय क्षेत्र की कौन-सी विशेषताएँ होती हैं? / What are the features of mountainous regions in India?",
-    "options": {
-      "A": "ऊंचाई / High altitude",
-      "B": "जलवायु विविधता / Climatic diversity",
-      "C": "समान तापमान / Uniform temperature",
-      "D": "कठिन भूगोल / Difficult terrain"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 104,
-    "question": "भारत में कौन-सी नदियाँ पूर्वी तट पर गिरती हैं? / Which rivers flow into the eastern coast of India?",
-    "options": {
-      "A": "गोदावरी / Godavari",
-      "B": "कृष्णा / Krishna",
-      "C": "नर्मदा / Narmada",
-      "D": "माही / Mahi"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 105,
-    "question": "भारत में तटीय झीलों के कौन-कौन से उदाहरण हैं? / What are some examples of coastal lakes in India?",
-    "options": {
-      "A": "चिलिका झील / Chilika Lake",
-      "B": "वेम्बनाड झील / Vembanad Lake",
-      "C": "डाल झील / Dal Lake",
-      "D": "सिरसागर झील / Sarsagar Lake"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 106,
-    "question": "भारत में जल संकट के कौन-कौन से कारण हैं? / What are the causes of water crisis in India?",
-    "options": {
-      "A": "अत्यधिक जल उपयोग / Excessive water use",
-      "B": "जल प्रदूषण / Water pollution",
-      "C": "मानसून में कमी / Reduction in monsoon",
-      "D": "नदी बहाव बढ़ना / Increase in river flow"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 107,
-    "question": "भारत में पर्यावरणीय सुधार के लिए कौन-कौन से कार्यक्रम शुरू किए गए हैं? / Which programs have been launched for environmental improvement in India?",
-    "options": {
-      "A": "स्वच्छ भारत अभियान / Swachh Bharat Mission",
-      "B": "हरित भारत अभियान / Green India Mission",
-      "C": "नदी पुनर्जीवन योजना / River Rejuvenation Plan",
-      "D": "शहरीकरण योजना / Urbanization Plan"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 108,
-    "question": "भारत में कौन-कौन से क्षेत्र भूस्खलन के अधिक प्रभावित हैं? / Which areas in India are more affected by landslides?",
-    "options": {
-      "A": "हिमालय क्षेत्र / Himalayan region",
-      "B": "अरुणाचल प्रदेश / Arunachal Pradesh",
-      "C": "राजस्थान / Rajasthan",
-      "D": "उत्तराखंड / Uttarakhand"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 109,
-    "question": "भारत में भूमिगत जल संसाधनों के संरक्षण के लिए कौन-कौन से उपाय किए जाते हैं? / What measures are taken in India to conserve groundwater resources?",
-    "options": {
-      "A": "वर्षा जल संचयन / Rainwater harvesting",
-      "B": "भूमिगत जल पंपिंग / Groundwater pumping",
-      "C": "कृषि में सिंचाई का सुधार / Improvement in agricultural irrigation",
-      "D": "प्लास्टिक उपयोग बढ़ाना / Increasing plastic use"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 110,
-    "question": "भारत में वन क्षेत्र में कमी के कारण कौन-कौन से पर्यावरणीय प्रभाव होते हैं? / What are the environmental impacts of deforestation in India?",
-    "options": {
-      "A": "जैव विविधता का नुकसान / Loss of biodiversity",
-      "B": "मिट्टी अपरदन / Soil erosion",
-      "C": "जल चक्र में बाधा / Disruption in water cycle",
-      "D": "वायु गुणवत्ता सुधार / Improvement in air quality"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 111,
-    "question": "भारत में नदी तटीय सिंचाई के लिए कौन-कौन से बाँध प्रमुख हैं? / Which dams are major for riverine irrigation in India?",
-    "options": {
-      "A": "सरदार सरोवर बाँध / Sardar Sarovar Dam",
-      "B": "तल्ली बाँध / Talli Dam",
-      "C": "नर्मदा बाँध / Narmada Dam",
-      "D": "तेग बहादुर साहिब बाँध / Tehri Dam"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 112,
-    "question": "भारत में हिमनदों के पिघलने के कारण कौन-कौन से खतरे बढ़ते हैं? / What risks increase due to glacier melting in India?",
-    "options": {
-      "A": "बाढ़ / Floods",
-      "B": "जल स्रोतों की कमी / Water scarcity",
-      "C": "भूमि धंसाव / Landslides",
-      "D": "नदी बहाव का स्थिरीकरण / Stabilization of river flow"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 113,
-    "question": "भारत के किस राज्य में सबसे अधिक कोयला भंडार पाए जाते हैं? / In which Indian state are the largest coal deposits found?",
-    "options": {
-      "A": "झारखंड / Jharkhand",
-      "B": "मध्य प्रदेश / Madhya Pradesh",
-      "C": "राजस्थान / Rajasthan",
-      "D": "छत्तीसगढ़ / Chhattisgarh"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 114,
-    "question": "भारत में वायु प्रदूषण के प्रमुख स्रोत कौन-कौन से हैं? / What are the major sources of air pollution in India?",
-    "options": {
-      "A": "वाहन उत्सर्जन / Vehicle emissions",
-      "B": "औद्योगिक धुआं / Industrial smoke",
-      "C": "कृषि गतिविधि / Agricultural activities",
-      "D": "नदी प्रदूषण / River pollution"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 115,
-    "question": "भारत में कौन-से समुद्री बंदरगाह सबसे व्यस्त हैं? / Which are the busiest seaports in India?",
-    "options": {
-      "A": "मुंबई / Mumbai",
-      "B": "चेन्नई / Chennai",
-      "C": "कोलकाता / Kolkata",
-      "D": "विशाखापत्तनम / Visakhapatnam"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 116,
-    "question": "भारत में कौन-कौन से प्राकृतिक जल स्रोत हैं? / What are the natural water resources in India?",
-    "options": {
-      "A": "नदियाँ / Rivers",
-      "B": "तालाब / Ponds",
-      "C": "तालाब / Lakes",
-      "D": "आयातित जल स्रोत / Imported water sources"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 117,
-    "question": "भारत में कौन-से क्षेत्र समशीतोष्ण जलवायु क्षेत्र के अंतर्गत आते हैं? / Which areas in India fall under the temperate climate zone?",
-    "options": {
-      "A": "हिमालय / Himalayas",
-      "B": "सिन्धु घाटी / Indus Valley",
-      "C": "अरुणाचल प्रदेश / Arunachal Pradesh",
-      "D": "राजस्थान / Rajasthan"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 118,
-    "question": "भारत में किन नदियों को 'दक्षिण भारत की जीवनरेखा' कहा जाता है? / Which rivers are called the 'Lifeline of South India'?",
-    "options": {
-      "A": "कृष्णा / Krishna",
-      "B": "गोदावरी / Godavari",
-      "C": "कावेरी / Cauvery",
-      "D": "ताप्ती / Tapi"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 119,
-    "question": "भारत में कौन-से नदियाँ गंगा नदी की सहायक नदियाँ हैं? / Which rivers are tributaries of the Ganga River in India?",
-    "options": {
-      "A": "यमुना / Yamuna",
-      "B": "घाघरा / Ghaghara",
-      "C": "सोन / Son",
-      "D": "सिंधु / Indus"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 120,
-    "question": "भारत में 'जल संकट' से निपटने के लिए कौन-कौन से उपाय किए जा रहे हैं? / What measures are being taken in India to tackle 'water crisis'?",
-    "options": {
-      "A": "वर्षा जल संचयन / Rainwater harvesting",
-      "B": "जल संरक्षण शिक्षा / Water conservation education",
-      "C": "अत्यधिक जल उपयोग / Excessive water use",
-      "D": "कृषि में सुधार / Improvement in agriculture"
-    },
-    "answer": ["A", "B", "D"]
   }
 ]
-
-
