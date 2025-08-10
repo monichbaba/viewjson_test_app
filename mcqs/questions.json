@@ -1,662 +1,662 @@
 [
   {
     "id": 1,
-    "question": "भारत में कृषि क्षेत्र का जीडीपी में योगदान लगभग कितना है 2024-25 में? / What is the approximate contribution of agriculture sector to India's GDP in 2024-25?",
+    "question": "किस वर्ष के Union Budget में Capital Expenditure outlay ~₹11,11,111 करोड़ जैसा उल्लेख हुआ था? / In which Union Budget year was the Capital Expenditure outlay reported around ₹11,11,111 crore?",
     "options": {
-      "A": "15.3%",
-      "B": "18.5%",
-      "C": "22.7%",
-      "D": "12.1%"
+      "A": "Budget 2024–25",
+      "B": "Budget 2023–24",
+      "C": "Budget 2022–23",
+      "D": "Budget 2025–26"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "भारत में कृषि के प्रमुख प्रकार कौन-कौन से हैं? / What are the major types of farming in India?",
+    "question": "निम्न में से कौन-से 2024–25 के आस-पास हुए प्रमुख वैश्विक घटनाक्रम हैं जो भारत की नीति/डिप्लोमेसी को प्रभावित कर सकते हैं? / Which of the following 2024–25 global events likely influenced India’s policy/diplomacy?",
     "options": {
-      "A": "परंपरागत खेती (Subsistence Farming)",
-      "B": "वाणिज्यिक खेती (Commercial Farming)",
-      "C": "सिंचित खेती (Irrigated Farming)",
-      "D": "शहरी खेती (Urban Farming)"
+      "A": "ग्लोबल ऊर्जा और तेल सप्लाई शिफ्ट (Russia oil dynamics)",
+      "B": "ऑस्ट्रेलियाई घरेलू चुनाव (local council only)",
+      "C": "बड़ी बहु-राष्ट्रीय शिखर बैठकें (G20/G7-related outcomes)",
+      "D": "विश्व कप फुटबॉल 1950"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A","C"]
   },
   {
     "id": 3,
-    "question": "ग्रीन रिवोल्यूशन का भारत में मुख्य उद्देश्य क्या था? / What was the main objective of Green Revolution in India?",
+    "question": "निम्न में से कौन-सा अंतर्राष्ट्रीय पुरस्कार 2024 में मशीन-लर्निंग/AI के शोधकों को दिया गया था (नामों में शामिल)? / Which international prize in 2024 recognized foundational ML/AI researchers (names included)?",
     "options": {
-      "A": "फसल उत्पादन बढ़ाना (Increase Crop Production)",
-      "B": "आयात कम करना (Reduce Imports)",
-      "C": "कृषि आय में वृद्धि (Increase Farmer Income)",
-      "D": "भूमि सुधार करना (Land Reforms)"
+      "A": "Nobel Prize in Physics (Hopfield, Hinton etc.)",
+      "B": "Pulitzer Prize (fiction)",
+      "C": "Turner Prize (arts)",
+      "D": "Fields Medal (mathematics) for Hopfield"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किसके लिए तय किया जाता है? / Minimum Support Price (MSP) is fixed for which crops in India?",
+    "question": "Paris 2024 Olympics का medal-table टॉप-रैंक कौन-सा देश रहा (overall golds/total)? / Which country ranked at the top of the Paris 2024 Olympic medal table (overall golds/total)?",
     "options": {
-      "A": "धान (Paddy)",
-      "B": "गेहूं (Wheat)",
-      "C": "मकई (Maize)",
-      "D": "सब्जियाँ (Vegetables)"
+      "A": "China (People's Republic of China)",
+      "B": "India",
+      "C": "United States of America",
+      "D": "France (host)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "भारत में कृषि विपणन (Agricultural Marketing) में किन प्रमुख समस्याओं का सामना करना पड़ता है? / What are the major problems faced in agricultural marketing in India?",
+    "question": "किस योजना का उद्देश्य आर्थिक रूप से कमजोर परिवारों को स्वास्थ्य कवरेज प्रदान करना है और यह केंद्र स्तर पर देर से 2010s से प्रमुख रही है? / Which scheme aims to provide health coverage to vulnerable households and has been central since late 2010s?",
     "options": {
-      "A": "कृषि उत्पादकों का सीमित पहुँच (Limited Access of Farmers)",
-      "B": "मध्यस्थों का अधिभार (Excessive Intermediaries)",
-      "C": "सरकारी बाजार का अभाव (Lack of Government Markets)",
-      "D": "उन्नत तकनीकी सुविधाएँ (Advanced Technological Facilities)"
+      "A": "Ayushman Bharat - PM-JAY",
+      "B": "Pradhan Mantri Fasal Bima Yojana (crop insurance)",
+      "C": "PM-Kisan (income support)",
+      "D": "PM Awas Yojana"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "भारत में किसानों का कर्ज संकट किस कारण से बढ़ता जा रहा है? / What are the reasons behind rising farmer debt crisis in India?",
+    "question": "निम्न में से कौन-सी घोषणा/निशानदेही Union Budget 2024–25 का हिस्सा थी? / Which announcement/commitment was part of Union Budget 2024–25?",
     "options": {
-      "A": "सहायक वित्तीय संस्थाओं की कमी (Lack of Supportive Financial Institutions)",
-      "B": "प्राकृतिक आपदाएँ (Natural Disasters)",
-      "C": "उच्च ब्याज दरें (High Interest Rates)",
-      "D": "सरकारी समर्थन की कमी (Lack of Government Support)"
+      "A": "Capital Expenditure बढ़ाना (major capex push)",
+      "B": "पूरी तरह GST खत्म करना",
+      "C": "विस्तृत सीमा शुल्क नीतियों का तत्काल उन्मूलन",
+      "D": "रिजर्व बैंक का नियंत्रण खत्म"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "भारत में सिंचित कृषि का मुख्य स्रोत क्या है? / What is the main source of irrigated farming in India?",
+    "question": "कौन-सी सरकारी पहल ने हालिया वर्षों में MSMEs और skilling पर विशेष जोर दिया? / Which initiative in recent years emphasized MSMEs and skilling?",
     "options": {
-      "A": "नहर सिंचाई (Canal Irrigation)",
-      "B": "भूमिगत जल (Groundwater)",
-      "C": "वर्षा जल संचयन (Rainwater Harvesting)",
-      "D": "तालाब और जलाशय (Ponds and Reservoirs)"
+      "A": "Union Budget priorities (employment, skilling, MSMEs)",
+      "B": "Only foreign affairs budget",
+      "C": "Space sector only",
+      "D": "None; no focus"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "ग्रीन रिवोल्यूशन की शुरुआत किस वर्ष में भारत में हुई? / When was the Green Revolution started in India?",
+    "question": "निम्न में से कौन-सा राष्ट्रीय आर्थिक सर्वेक्षण/बजट डॉक्यूमेंट नियमित रूप से केन्द्र सरकार द्वारा प्रकाशित होता है और नीति-निर्माण में उपयोग होता है? / Which national economic/budget document is regularly published by the central government and used in policymaking?",
     "options": {
-      "A": "1950",
-      "B": "1965",
-      "C": "1975",
-      "D": "1985"
+      "A": "Economic Survey",
+      "B": "State Land Records only",
+      "C": "Municipal tax register",
+      "D": "Private sector quarterly report"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "न्यूनतम समर्थन मूल्य (MSP) तय करने वाला मुख्य निकाय कौन है? / Which is the main body responsible for fixing MSP in India?",
+    "question": "UP Budget 2024–25 में अनुमानित fiscal deficit (target) किस के आसपास बताया गया था? / Around what was Uttar Pradesh’s targeted fiscal deficit in its 2024–25 budget?",
     "options": {
-      "A": "कृषि उत्पादन आयोग (Agricultural Production Commission)",
-      "B": "मंडल समिति (Commission for Agricultural Costs and Prices - CACP)",
-      "C": "वित्त मंत्रालय (Ministry of Finance)",
-      "D": "कृषि मंत्रालय (Ministry of Agriculture)"
+      "A": "3.46% of GSDP",
+      "B": "10% of GSDP",
+      "C": "0% (balanced budget)",
+      "D": "50% of GSDP"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "भारत में कृषि क्षेत्र की जो सबसे बड़ी समस्या मानी जाती है, वह कौन-सी है? / What is considered the biggest problem in Indian agriculture?",
+    "question": "निम्न में से कौन-सी घटना/घटनाक्रम 2024–2025 में राष्ट्रीय सन्दर्भ में प्रमुख रहे (India year-ender headlines)? / Which event(s) were among India’s major headlines in 2024–25?",
     "options": {
-      "A": "उपज का निम्न मूल्य (Low Price for Produce)",
-      "B": "प्राकृतिक आपदाएँ (Natural Disasters)",
-      "C": "किसानों का कर्ज (Farmer Debt)",
-      "D": "कृषि भूमि की कमी (Lack of Agricultural Land)"
+      "A": "Lok Sabha 2024 general election results and political transition",
+      "B": "India won ICC T20 World Cup 2024 (fictional for example)",
+      "C": "Major state elections and law-and-order crises",
+      "D": "Both A and C"
     },
-    "answer": ["C"]
+    "answer": ["D"]
   },
   {
     "id": 11,
-    "question": "भारत में परंपरागत खेती का मुख्य स्वरूप क्या है? / What is the main characteristic of subsistence farming in India?",
+    "question": "किस अंतर्राष्ट्रीय सम्मेलन/फोरम ने 2023–24 के आसपास ग्लोबल क्लाइमेट और ऊर्जा नीतियों पर बहस में प्रमुख भूमिका निभाई थी, और 2024–25 में भी उसकी नीतिगत प्रतिध्वनि रही? / Which international forum played a leading role on climate/energy debates around 2023–24 and echoed into 2024–25?",
     "options": {
-      "A": "अपने परिवार के लिए उत्पादन (Producing for own family)",
-      "B": "बाजार के लिए उत्पादन (Producing for Market)",
-      "C": "आधुनिक उपकरणों का उपयोग (Use of Modern Equipment)",
-      "D": "सिंचित भूमि का उपयोग (Use of Irrigated Land)"
+      "A": "COP (UN Climate Conferences) series",
+      "B": "World Bank Annual Meeting only",
+      "C": "Local city council meetings",
+      "D": "None of the above"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "भारत में कृषि विपणन सुधार के लिए कौन-कौन से कदम उठाए गए हैं? / What steps have been taken to improve agricultural marketing in India?",
+    "question": "2024–25 के आस-पास, वैश्विक AI / machine learning में एक बड़े वैज्ञानिक योगदान के लिए किस पुरस्कार ने नोट किया? / Around 2024–25, which prize recognized a big scientific contribution in AI/ML?",
     "options": {
-      "A": "ई-नाम पोर्टल (e-NAM Portal)",
-      "B": "अगली पीढ़ी के मंडी सुधार (Next-gen Mandi Reforms)",
-      "C": "मंडी टैक्स हटाना (Removal of Mandi Tax)",
-      "D": "आयात निर्यात प्रतिबंध (Import Export Restrictions)"
+      "A": "Nobel Prize in Physics recognising foundational ML work (2024 laureates)",
+      "B": "Best Chef award",
+      "C": "Tony Awards",
+      "D": "Grassroots sports award"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "भारत में किसान ऋण माफी योजनाएँ किसका उद्देश्य रखती हैं? / What is the purpose of farmer loan waiver schemes in India?",
+    "question": "किस अंतरराष्ट्रीय संगठन का काम व्यापार-विचारों/कस्टम्स और विकास नीतियों पर विश्व स्तर पर असर डालता है और 2024–25 में भी उसकी भूमिका चर्चा का विषय रही? / Which international organization affects trade/customs and development policies globally and remained in focus in 2024–25?",
     "options": {
-      "A": "किसानों को वित्तीय राहत देना (Provide financial relief to farmers)",
-      "B": "कृषि उत्पादन बढ़ाना (Increase agricultural production)",
-      "C": "बैंकिंग प्रणाली को स्थिर करना (Stabilize banking system)",
-      "D": "किसानों को निवेश के लिए प्रोत्साहित करना (Encourage investment)"
+      "A": "World Trade Organization (WTO)",
+      "B": "National Film Board",
+      "C": "Small local NGO only",
+      "D": "None"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "भारत में कृषि क्षेत्र के लिए किस प्रकार के बीजों का उपयोग ग्रीन रिवोल्यूशन के दौरान बढ़ा? / What type of seeds saw increased use during Green Revolution in India?",
+    "question": "निम्न में से कौन-सी केंद्र/UP पहल 2024–25 के संदर्भ में योजना-वितरण/आवास पर फोकस रखती है? / Which central/UP initiative in 2024–25 focused on housing/program delivery?",
     "options": {
-      "A": "उच्च उपज वाले बीज (High Yielding Variety Seeds)",
-      "B": "जैविक बीज (Organic Seeds)",
-      "C": "स्थानीय बीज (Local Seeds)",
-      "D": "अनुवांशिक रूप से संशोधित बीज (Genetically Modified Seeds)"
+      "A": "PM Awas Yojana (Gramin/Urban) expansions",
+      "B": "Only opening football stadiums",
+      "C": "No housing programmes at all",
+      "D": "Space launch housing"
     },
     "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "भारत में कृषि क्षेत्र की न्यूनतम समर्थन मूल्य (MSP) प्रणाली का प्रमुख उद्देश्य क्या है? / What is the main objective of MSP system in Indian agriculture?",
+    "question": "किस वैश्विक घटना/सम्मेलन में देशों ने पारस्परिक ऊर्जा सुरक्षा और तेल सप्लाई पर चर्चा तेज़ की (2024 में प्रभावशाली)? / At which global discussions did countries intensify talks on energy security and oil supply in 2024?",
     "options": {
-      "A": "किसानों को उचित मूल्य देना (Ensuring fair price to farmers)",
-      "B": "बाजार मूल्य कम करना (Reducing market prices)",
-      "C": "सरकारी स्टॉक बढ़ाना (Increasing government stock)",
-      "D": "निर्यात बढ़ाना (Increasing exports)"
+      "A": "G20 / energy dialogues",
+      "B": "Local town fairs",
+      "C": "School PTA meetings",
+      "D": "City marathons"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "भारत में कृषि ऋण संकट को कम करने के लिए कौन-कौन से उपाय किए जा रहे हैं? / What measures are being taken to reduce farmer debt crisis in India?",
+    "question": "निम्न में से कौन-सा राष्ट्रीय पुरस्कार/सम्मान 2024–25 के आस-पास खेल/साहसिक उपलब्धियों के लिए दिया जाता है? / Which national award/recognition is given around 2024–25 for sporting/excellence achievements?",
     "options": {
-      "A": "कृषि ऋण माफी (Farm Loan Waivers)",
-      "B": "सस्ता ऋण प्रदान करना (Providing Cheap Credit)",
-      "C": "किसानों को बीमा देना (Providing Crop Insurance)",
-      "D": "मंडी कर बढ़ाना (Increasing Market Tax)"
+      "A": "Khel Ratna (Major sports award) / Major national sports honours",
+      "B": "Gram Panchayat Award for street cleaning",
+      "C": "Only literary awards",
+      "D": "None"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 17,
-    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए कौन-कौन से तकनीकी सुधार महत्वपूर्ण हैं? / Which technological improvements are important to increase agricultural productivity in India?",
+    "question": "निम्न में से कौन-सा डॉक्यूमेंट केंद्र सरकार की वार्षिक आर्थिक समीक्षा देता है और बजट के पहले प्रकाशित होता है? / Which document provides the central government’s annual economic review and is released before the budget?",
     "options": {
-      "A": "उन्नत बीजों का उपयोग (Use of Improved Seeds)",
-      "B": "सिंचाई के आधुनिक तरीकों का विकास (Development of Modern Irrigation)",
-      "C": "मशीनीकरण (Mechanization)",
-      "D": "कृषि भूमि का विस्तार (Expansion of Agricultural Land)"
+      "A": "Economic Survey of India",
+      "B": "State Assembly minutes",
+      "C": "Private bank quarterly notes",
+      "D": "Daily newspapers"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 18,
-    "question": "भारत में कृषि क्षेत्र में जो सबसे बड़ा ऋणदाता है, वह कौन है? / Who is the largest lender to the agriculture sector in India?",
+    "question": "2024–25 के संदर्भ में भारत-वर्ल्ड इवेंट्स: निम्न में से कौन-सा बयान सही है? / Regarding India-world events in 2024–25: which statement is correct?",
     "options": {
-      "A": "बैंक (Banks)",
-      "B": "पारंपरिक धन उगाहने वाले (Informal Moneylenders)",
-      "C": "सरकारी वित्तीय संस्थान (Government Financial Institutions)",
-      "D": "निजी ऋणदाता (Private Lenders)"
+      "A": "India remained engaged in multilateral forums (G20, climate dialogues) while managing bilateral ties",
+      "B": "India withdrew from all international organisations",
+      "C": "India became member of the European Union",
+      "D": "India ceased diplomatic missions"
     },
     "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "ग्रीन रिवोल्यूशन के दौरान किस क्षेत्र में सबसे अधिक सुधार हुआ? / Which sector saw the maximum improvement during Green Revolution?",
+    "question": "किस अंतरराष्ट्रीय संगठन का उद्देश्य वैश्विक स्वास्थ्य पर केंद्रित है और 2024–25 में महामारी-तैयारी पर चर्चा का हिस्सा बना रहा? / Which international organization focuses on global health and was part of pandemic-preparedness talks in 2024–25?",
     "options": {
-      "A": "धान की पैदावार (Paddy Production)",
-      "B": "गेहूं की पैदावार (Wheat Production)",
-      "C": "मसाले की खेती (Spice Farming)",
-      "D": "फलोत्पादन (Fruit Production)"
+      "A": "World Health Organization (WHO)",
+      "B": "International Olympic Committee (IOC)",
+      "C": "FIFA",
+      "D": "World Snooker Federation"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "कृषि विपणन में ई-नाम पोर्टल का क्या महत्व है? / What is the significance of e-NAM portal in agricultural marketing?",
+    "question": "निम्न में से कौन-सा वैज्ञानिक/टेक ट्रेंड 2024 में वैश्विक शोध परिदृश्य में उल्लेखनीय था? / Which scientific/tech trend was notable in global research in 2024?",
     "options": {
-      "A": "किसानों को ऑनलाइन बाजार तक पहुंच प्रदान करना (Providing farmers access to online markets)",
-      "B": "मंडी करों को समाप्त करना (Eliminating mandi taxes)",
-      "C": "बिचौलियों को पूरी तरह खत्म करना (Completely eliminating middlemen)",
-      "D": "उत्पाद की कीमतों में पारदर्शिता लाना (Bringing price transparency)"
+      "A": "Rapid advances in generative AI / large language models",
+      "B": "Complete halt to semiconductor research",
+      "C": "Reversion to typewriters",
+      "D": "No progress in battery tech"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"]
   },
   {
     "id": 21,
-    "question": "भारत में कृषि क्षेत्र से संबंधित निम्नलिखित में से कौन-कौन से कारक किसानों के कर्ज संकट को बढ़ाते हैं? / Which of the following factors contribute to the farmer debt crisis in India?",
+    "question": "किस अंतर्राष्ट्रीय पुरस्कार/घोषणा ने 2024 में AI/ML के आधारभूत योगदानों को वैश्विक रूप से मान्यता दी? / Which international prize recognized foundational contributions to AI/ML in 2024?",
     "options": {
-      "A": "अपर्याप्त वित्तीय पहुंच (Limited financial access)",
-      "B": "प्राकृतिक आपदाएँ (Natural calamities)",
-      "C": "सरकारी समर्थन मूल्य (Government support price)",
-      "D": "बाजार की अनिश्चितता (Market uncertainties)"
+      "A": "Nobel Prize (Physics) recognising ML foundations",
+      "B": "Local neighbourhood award",
+      "C": "Film festival prize",
+      "D": "Travel grant"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "ग्रीन रिवोल्यूशन के तहत भारत में किन फसलों पर विशेष ध्यान दिया गया? / Which crops received special focus under the Green Revolution in India?",
+    "question": "कौन-सा वित्तीय सूचक Union Budget 2024–25 के 'Budget at a glance' में नीति प्राथमिकता के रूप में उभरा? / Which fiscal indicator emerged as a policy priority in Union Budget 2024–25 'Budget at a Glance'?",
     "options": {
-      "A": "धान (Paddy)",
-      "B": "गेहूं (Wheat)",
-      "C": "मकई (Maize)",
-      "D": "सोयाबीन (Soybean)"
+      "A": "CapEx push (capital expenditure increase)",
+      "B": "Elimination of defence spending",
+      "C": "No public investment",
+      "D": "Only subsidies for antique cars"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "भारत में कृषि उत्पादन बढ़ाने के लिए कौन-कौन से तकनीकी नवाचार महत्वपूर्ण हैं? / Which technological innovations are important to increase agricultural production in India?",
+    "question": "निम्न में से कौन-सी वैश्विक संस्था व्यापारिक विवादों और वैश्विक ट्रेड नियमों के लिए जानी जाती है? / Which global institution is known for handling trade disputes and global trade rules?",
     "options": {
-      "A": "उन्नत बीज (Improved seeds)",
-      "B": "सिंचाई के आधुनिक तरीके (Modern irrigation methods)",
-      "C": "मशीनीकरण (Mechanization)",
-      "D": "कृषि भूमि के विस्तार (Expansion of agricultural land)"
+      "A": "WTO (World Trade Organization)",
+      "B": "WHO",
+      "C": "UNESCO",
+      "D": "INTERPOL"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) प्रणाली का उद्देश्य क्या है? / What is the objective of Minimum Support Price (MSP) system in India?",
+    "question": "UP और केंद्र स्तर पर 2024–25 में किस तरह की योजनाएँ अक्सर बुनियादी ढांचा और रोज़गार सृजन पर ध्यान देती पाई गईं? / What types of schemes at Centre/UP in 2024–25 often emphasized?",
     "options": {
-      "A": "किसानों को लाभकारी मूल्य प्रदान करना (Provide remunerative prices to farmers)",
-      "B": "उत्पादकों को सरकारी खरीद से जोड़ना (Connect producers with government procurement)",
-      "C": "मंडी में बिचौलियों को बढ़ावा देना (Promote middlemen in markets)",
-      "D": "खाद्यान्न की भंडारण क्षमता बढ़ाना (Increase food grain storage capacity)"
+      "A": "Infrastructure development and employment/skill generation",
+      "B": "Only interstellar travel for all",
+      "C": "Exclusively luxury yacht construction",
+      "D": "Phasing out all roads"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "भारत में कृषि विपणन सुधारों के तहत कौन-कौन से कदम उठाए गए हैं? / Which steps have been taken under agricultural marketing reforms in India?",
+    "question": "निम्न में से कौन-सी घटना 2024 के इन-इयर समरी/Year-ender में भारत के लिए प्रमुख कारण बनी? / Which event featured prominently in India’s 2024 year-ender coverage?",
     "options": {
-      "A": "ई-नाम पोर्टल (e-NAM portal)",
-      "B": "मंडी प्रणाली का आधुनिकीकरण (Modernization of mandi system)",
-      "C": "किसानों के लिए बाजारों की संख्या कम करना (Reducing number of markets for farmers)",
-      "D": "मध्यस्थों के नियंत्रण को कम करना (Reducing control of intermediaries)"
+      "A": "General elections (Lok Sabha) and their outcomes",
+      "B": "India hosted Winter Olympics in 2024",
+      "C": "Entire country switched to a new calendar",
+      "D": "No major events occurred"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "किसानों के कर्ज संकट से निपटने के लिए भारत सरकार ने कौन-कौन से उपाय किए हैं? / What measures has the Indian government taken to address farmer loan crisis?",
+    "question": "किस global sporting event ने 2024 में विश्व ध्यान खींचा और 2024–25 करंट-अफ़ेयर्स में इसके प्रभाव की चर्चा रही? / Which global sporting event in 2024 captured worldwide attention and remained discussed into 2024–25?",
     "options": {
-      "A": "कर्ज माफी योजनाएं (Loan waiver schemes)",
-      "B": "सस्ते कृषि ऋण उपलब्ध कराना (Providing cheap agricultural credit)",
-      "C": "किसानों के लिए बीमा योजना (Insurance schemes for farmers)",
-      "D": "बाजार मूल्य नियंत्रण (Price control in markets)"
+      "A": "Paris Summer Olympics 2024",
+      "B": "FIFA World Cup 1950",
+      "C": "Local school sports day only",
+      "D": "Regional chess club meet"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "भारत में किस प्रकार की खेती को वाणिज्यिक खेती कहा जाता है? / What is referred to as commercial farming in India?",
+    "question": "निम्न में से कौन-सा अंतर्राष्ट्रीय संगठन आर्थिक स्थिरता, विकास और ऋण-विनियोजन में महत्त्वपूर्ण भूमिका निभाता है? / Which international body plays an important role in economic stability, development and lending?",
     "options": {
-      "A": "बाजार के लिए बड़े पैमाने पर उत्पादन (Large scale production for market)",
-      "B": "अपनी जरूरत के लिए उत्पादन (Production for own needs)",
-      "C": "पर्यावरण संरक्षण पर आधारित खेती (Environmentally focused farming)",
-      "D": "सिंचित भूमि पर छोटी खेती (Small scale irrigated farming)"
+      "A": "World Bank / IMF family",
+      "B": "World Wildlife Fund (WWF)",
+      "C": "Local cooperative bank",
+      "D": "FIFA"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से आधुनिक सिंचाई उपाय प्रचलित हैं? / Which modern irrigation methods are prevalent in Indian agriculture?",
+    "question": "किसे 2024–25 के दौर में वैश्विक ऊर्जा/कच्चे तेल की आपूर्ति-संबंधी चर्चाओं में मुख्य मुद्दा माना गया? / What was a central topic in 2024–25 energy/oil supply discussions?",
     "options": {
-      "A": "ड्रिप सिंचाई (Drip irrigation)",
-      "B": "स्प्रिंकलर सिंचाई (Sprinkler irrigation)",
-      "C": "नहर सिंचाई (Canal irrigation)",
-      "D": "बरसाती सिंचाई (Rainfed irrigation)"
+      "A": "Diversification of crude supply (including Russian supplies dynamics)",
+      "B": "Phasing out all renewables immediately",
+      "C": "Complete end of oil use in one week",
+      "D": "No debate on energy"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "भारत में ग्रीन रिवोल्यूशन के दौरान किन क्षेत्रों में सुधार हुआ? / Which areas saw improvement during the Green Revolution in India?",
+    "question": "UP और केंद्र की योजनाओं पर आधारित—किस तरह की सरकारी प्रवृत्ति 2024–25 में स्पष्ट थी? / On schemes of UP and Centre—what administrative trend was visible in 2024–25?",
     "options": {
-      "A": "धान और गेहूं उत्पादन (Paddy and wheat production)",
-      "B": "कृषि आय में वृद्धि (Increase in agricultural income)",
-      "C": "पर्यावरण संरक्षण (Environmental conservation)",
-      "D": "कृषि औजारों का उपयोग (Use of agricultural tools)"
+      "A": "CapEx and infrastructure-led growth emphasis",
+      "B": "Complete withdrawal of public investment",
+      "C": "Only cultural festivals funded, nothing else",
+      "D": "No policy actions"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किस आधार पर तय किया जाता है? / On what basis is MSP fixed in India?",
+    "question": "किसे अंतरराष्ट्रीय शांति और सुरक्षा पर बहुपक्षीय वार्ताओं में 2024–25 के दौरान लगातार चर्चा का विषय माना गया? / What remained a continuous topic in multilateral peace & security talks in 2024–25?",
     "options": {
-      "A": "उत्पादन लागत (Cost of production)",
-      "B": "मांग और आपूर्ति (Demand and supply)",
-      "C": "सरकारी बजट (Government budget)",
-      "D": "वैश्विक कीमतें (Global prices)"
+      "A": "Russia-Ukraine conflict and de-escalation dialogues",
+      "B": "Local street parking rules",
+      "C": "Only sports policies",
+      "D": "Fashion week schedules"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "भारत में कृषि विपणन में प्रमुख चुनौतियाँ कौन-कौन सी हैं? / What are the major challenges in agricultural marketing in India?",
+    "question": "किसे 2024–25 में वैज्ञानिक समुदाय ने ऊर्जाक्षेत्र/बेटरी/क्लीन-टेक में प्रगति के रूप में प्रमुख माना? / Which area was seen as significant progress by scientists in 2024–25 (energy/tech)?",
     "options": {
-      "A": "बिचौलियों का दबदबा (Dominance of intermediaries)",
-      "B": "कम सरकारी बाजार (Lack of government markets)",
-      "C": "उच्च मंडी कर (High mandi taxes)",
-      "D": "कृषि उत्पादकों की अधिकता (Surplus of agricultural producers)"
+      "A": "Battery tech and renewable integration advances",
+      "B": "Typewriter improvements",
+      "C": "No research in energy",
+      "D": "Only cosmetics innovation"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "किसानों के कर्ज संकट के समाधान के लिए कौन-से वित्तीय साधन उपयोग किए जाते हैं? / Which financial instruments are used to solve farmer debt crisis?",
+    "question": "निम्न में से कौन-सा किस्म का डेटा Budget at a Glance और State Budget Analysis में अक्सर दिया जाता है और नीति-निर्धारक उपयोग करते हैं? / Which type of data is typically present in 'Budget at a Glance' and state budget analysis and used by policymakers?",
     "options": {
-      "A": "कृषि ऋण (Agricultural loans)",
-      "B": "कृषि बीमा (Crop insurance)",
-      "C": "ऋण माफी (Loan waivers)",
-      "D": "मंडी करों में वृद्धि (Increase in mandi taxes)"
+      "A": "Revenue receipts, committed expenditure, fiscal deficit targets",
+      "B": "Only people’s personal diaries",
+      "C": "Individual grocery lists",
+      "D": "Random tweets"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "भारत में ग्रीन रिवोल्यूशन के दौरान किस तकनीक ने सबसे अधिक मदद की? / Which technology helped most during Green Revolution in India?",
+    "question": "निम्न में से कौन-सा global award/recognition 2024 में विज्ञान-तकनीक के लिए प्रसिद्ध रहा? / Which global recognition was prominent in science-tech in 2024?",
     "options": {
-      "A": "उच्च उपज वाली फसलें (High Yield Variety crops)",
-      "B": "कीटनाशकों का उपयोग (Use of pesticides)",
-      "C": "जैविक खेती (Organic farming)",
-      "D": "वर्षा जल संचयन (Rainwater harvesting)"
+      "A": "Nobel Prizes (including recognition for ML foundations)",
+      "B": "Best bakery award",
+      "C": "Local music contest only",
+      "D": "No awards given"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 34,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) प्रणाली के तहत किन फसलों को कवर किया जाता है? / Which crops are covered under MSP system in India?",
+    "question": "किसे 2024–25 में राष्ट्रीय खेल-घटनाओं/अंतरराष्ट्रीय पुरस्कारों के सन्दर्भ में ध्यान देने योग्य माना गया? / Which was notable in national sports/international awards context 2024–25?",
     "options": {
-      "A": "धान (Paddy)",
-      "B": "गेहूं (Wheat)",
-      "C": "मसाले (Spices)",
-      "D": "तिलहन (Oilseeds)"
+      "A": "India’s athletes performing on global stages (Olympics/World cups) and national honours",
+      "B": "No sports activities anywhere",
+      "C": "Only local kabaddi matches",
+      "D": "No awards given in sports"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 35,
-    "question": "भारत में कृषि विपणन सुधार के तहत ई-नाम पोर्टल का क्या लाभ है? / What are the benefits of e-NAM portal under agricultural marketing reforms in India?",
+    "question": "निम्न में से कौन-सा अन्तरराष्ट्रीय समझौता/रणनीति जलवायु/ऊर्जा वार्ताओं का हिस्सा रहा? / Which international agreement/strategy featured in climate/energy talks?",
     "options": {
-      "A": "बाजार तक बेहतर पहुंच (Better market access)",
-      "B": "मंडी कर में कमी (Reduction in mandi taxes)",
-      "C": "बिचौलियों की समाप्ति (Elimination of intermediaries)",
-      "D": "कीमतों में पारदर्शिता (Price transparency)"
+      "A": "COP processes and national commitments (NDCs)",
+      "B": "Only inter-city football pacts",
+      "C": "No international processes",
+      "D": "Comic con schedules"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"]
   },
   {
     "id": 36,
-    "question": "किसानों के कर्ज संकट का भारत की ग्रामीण अर्थव्यवस्था पर क्या प्रभाव है? / What is the impact of farmer debt crisis on India's rural economy?",
+    "question": "किसे 2024–25 के दौर में डिजिटल/AI नीति-विकास के लिए गंभीर चर्चा का विषय माना गया? / What was under intense debate for digital/AI policy development in 2024–25?",
     "options": {
-      "A": "कृषि उत्पादन में कमी (Decrease in agricultural production)",
-      "B": "ग्रामीण रोजगार में गिरावट (Decline in rural employment)",
-      "C": "ग्रामीण विकास में बाधा (Obstacle in rural development)",
-      "D": "सरकारी राजस्व में वृद्धि (Increase in government revenue)"
+      "A": "Regulation, safety, and responsible deployment of generative AI",
+      "B": "Banning all internet forever",
+      "C": "Only hardware import tariffs",
+      "D": "No AI policy discussion"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 37,
-    "question": "भारत में ग्रीन रिवोल्यूशन के बाद किस क्षेत्र में सबसे अधिक वृद्धि हुई? / Which sector saw maximum growth after Green Revolution in India?",
+    "question": "किसे 2024–25 में वैश्विक आर्थिक परिदृश्य में भारत के लिए अवसर/चुनौती के रूप में बताया गया? / Which was seen as opportunity/challenge in 2024–25 global economic outlook for India?",
     "options": {
-      "A": "धान उत्पादन (Paddy production)",
-      "B": "गेहूं उत्पादन (Wheat production)",
-      "C": "मसाले उत्पादन (Spices production)",
-      "D": "मक्के का उत्पादन (Maize production)"
+      "A": "Supply chain realignments & increased private investment",
+      "B": "Isolation from global markets completely",
+      "C": "Only increase in stamp duty",
+      "D": "Total shutdown of exports"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 38,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) का निर्धारण किन कारकों पर निर्भर करता है? / MSP determination in India depends on which factors?",
+    "question": "निम्न में से कौन-सा सरकारी दस्तावेज केन्द्र सरकार द्वारा बजट सत्र से पहले जारी किया जाता है और अर्थव्यवस्था की स्थिति बताता है? / Which government document is released before the budget session and indicates the economy’s status?",
     "options": {
-      "A": "उत्पादन लागत (Cost of production)",
-      "B": "फसल की मांग और आपूर्ति (Crop demand and supply)",
-      "C": "सरकारी बजट (Government budget)",
-      "D": "निवेशकों की प्राथमिकताएं (Investor preferences)"
+      "A": "Economic Survey",
+      "B": "Random social media posts",
+      "C": "Only cinema reviews",
+      "D": "Municipal tax bills"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "भारत में कृषि विपणन में सुधार के लिए किन प्रमुख तकनीकों का इस्तेमाल किया जा रहा है? / Which key technologies are being used for improvement in agricultural marketing in India?",
+    "question": "किसे 2024–25 में अंतरराष्ट्रीय संगठन-शिखर सम्मेलन में बहुपक्षीय वित्त/ऊर्जा/कृषि पर चर्चा के संदर्भ में किंचित प्रभावी माना गया? / Which multilateral summit was influential on finance/energy/agriculture debates in 2024–25?",
     "options": {
-      "A": "डिजिटल मार्केटिंग (Digital marketing)",
-      "B": "स्मार्ट कांट्रैक्ट (Smart contracts)",
-      "C": "ब्लॉकचेन (Blockchain)",
-      "D": "औद्योगिक मशीनरी (Industrial machinery)"
+      "A": "G20 (and related ministerial meetings)",
+      "B": "High school science fair",
+      "C": "Local music jam",
+      "D": "None"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "भारत में किसानों के लिए कौन-कौन से ऋण विकल्प उपलब्ध हैं? / What loan options are available for farmers in India?",
+    "question": "निम्न में से कौन-सा तथ्य 2024–25 के करंट-अफ़ेयर्स में लागू है? / Which statement applies to 2024–25 current affairs?",
     "options": {
-      "A": "सरकारी कृषि ऋण (Government agricultural loans)",
-      "B": "बैंक ऋण (Bank loans)",
-      "C": "सूक्ष्म वित्त ऋण (Microfinance loans)",
-      "D": "व्यावसायिक ऋण (Commercial loans)"
+      "A": "Major economies debated supply security and tech governance",
+      "B": "No international cooperation existed",
+      "C": "All countries had identical domestic policies",
+      "D": "Global diplomacy ceased"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "भारत में कृषि क्षेत्र में बढ़ती उत्पादन लागत का मुख्य कारण क्या है? / What is the main reason for increasing production cost in Indian agriculture?",
+    "question": "किसे 2024–25 में राष्ट्रीय और राज्य-स्तरीय बजट विश्लेषण में अक्सर प्राथमिकता के रूप में दिखाया गया? / What often appeared as a priority in national and state budget analyses in 2024–25?",
     "options": {
-      "A": "उच्च बीज और उर्वरक मूल्य (High seed and fertilizer prices)",
-      "B": "सिंचाई की लागत (Irrigation costs)",
-      "C": "मजदूरी लागत (Labor costs)",
-      "D": "सरकारी सब्सिडी (Government subsidies)"
+      "A": "Committed expenditure control and capital outlay for infrastructure",
+      "B": "Only cultural parades with no budget",
+      "C": "Cutting all education spending",
+      "D": "No fiscal planning"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 42,
-    "question": "भारत में ग्रीन रिवोल्यूशन के बाद किस क्षेत्र में पर्यावरणीय प्रभाव देखने को मिला? / Which environmental impact was seen after Green Revolution in India?",
+    "question": "निम्न में से कौन-सा वैश्विक संगठन व्यापार, स्वास्थ्य और शिक्षा के विभिन्न पहलुओं पर नीतिगत सहयोग के लिए जाना जाता है? / Which global organization is known for policy collaboration across trade, health and education?",
     "options": {
-      "A": "भूमि क्षरण (Soil degradation)",
-      "B": "जल प्रदूषण (Water pollution)",
-      "C": "जैव विविधता का नुकसान (Loss of biodiversity)",
-      "D": "वनों की वृद्धि (Increase in forests)"
+      "A": "United Nations family (UN agencies: WHO, UNESCO, UNCTAD etc.)",
+      "B": "Local sports club",
+      "C": "City library only",
+      "D": "None"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 43,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) की घोषणा किसके द्वारा की जाती है? / Who announces the Minimum Support Price (MSP) in India?",
+    "question": "किसे 2024–25 में भारत के लिए तकनीकी रणनीति के रूप में तेज़ी से उभरता हुआ माना गया? / Which technological strategy was emerging rapidly for India in 2024–25?",
     "options": {
-      "A": "कृषि एवं किसान कल्याण मंत्रालय (Ministry of Agriculture & Farmers Welfare)",
-      "B": "निति आयोग (NITI Aayog)",
-      "C": "भारतीय रिजर्व बैंक (RBI)",
-      "D": "कृषि लागत एवं मूल्य आयोग (CACP)"
+      "A": "AI adoption paired with regulation and skilling",
+      "B": "Only rotary phone revival",
+      "C": "Rejection of all digital payments",
+      "D": "No tech strategy"
     },
-    "answer": ["D"]
+    "answer": ["A"]
   },
   {
     "id": 44,
-    "question": "भारत में कृषि विपणन में किसानों को बेहतर मूल्य दिलाने के लिए कौन-से उपाय जरूरी हैं? / What measures are necessary to provide better prices to farmers in agricultural marketing in India?",
+    "question": "निम्न में से कौन-सी घटना 2024 में वैश्विक पुरस्कार-सूची (Nobel आदि) में विज्ञान/AI के योगदान के रूप में प्रमुख रही? / Which event in 2024 Nobel/awards list was notable for science/AI contributions?",
     "options": {
-      "A": "प्रत्यक्ष बिक्री (Direct sales)",
-      "B": "सशक्त मंडी प्रणाली (Strengthened mandi system)",
-      "C": "मध्यस्थों को बढ़ावा देना (Encouraging intermediaries)",
-      "D": "डिजिटल प्लेटफॉर्म का उपयोग (Use of digital platforms)"
+      "A": "Physics Nobel recognising work enabling machine learning",
+      "B": "Only culinary awards given",
+      "C": "No scientific awards in 2024",
+      "D": "Only fashion awards"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 45,
-    "question": "भारत में किसानों के लिए कृषि ऋण किस आधार पर वितरित किया जाता है? / On what basis agricultural loans are distributed to farmers in India?",
+    "question": "किसे 2024–25 में अंतरराष्ट्रीय खेल/खिलाड़ियों के प्रदर्शन के संदर्भ में राष्ट्रीय नीतियों के लिये महत्वपूर्ण माना गया? / Which was considered significant for national policy in sports performance 2024–25?",
     "options": {
-      "A": "भूमि स्वामित्व (Land ownership)",
-      "B": "किसान का क्रेडिट स्कोर (Farmer's credit score)",
-      "C": "किसानी का इतिहास (Farming history)",
-      "D": "सरकारी योजना के तहत पात्रता (Eligibility under government schemes)"
+      "A": "Investment in elite athlete development and sports infrastructure",
+      "B": "Only celebrations without training",
+      "C": "No role for policy in sports",
+      "D": "Banning all sporting events"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 46,
-    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए कौन-कौन से सुधार आवश्यक हैं? / Which reforms are necessary to increase productivity in Indian agriculture?",
+    "question": "निम्न में से कौन-सा तथ्य Union Budget 2024–25 और State Budgets (जैसे UP) के विश्लेषण में स्पस्ट मिलता है? / Which fact is clear from analyzing Union and state budgets (like UP) for 2024–25?",
     "options": {
-      "A": "कृषि भूमि सुधार (Land reforms)",
-      "B": "सिंचाई व्यवस्था में सुधार (Irrigation system improvements)",
-      "C": "कृषि तकनीक में सुधार (Improvement in agricultural technology)",
-      "D": "मंडी प्रणाली को कमजोर करना (Weakening mandi system)"
+      "A": "States manage committed expenditure while emphasising capital outlay growth",
+      "B": "States ignore fiscal discipline entirely",
+      "C": "States had zero revenue streams",
+      "D": "States abolished taxation"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 47,
-    "question": "भारत में कृषि विपणन सुधारों का लक्ष्य क्या है? / What is the objective of agricultural marketing reforms in India?",
+    "question": "किसे 2024–25 में वैश्विक स्वास्थ्य नीति-ढांचे के संदर्भ में चर्चा का केंद्र माना गया? / What was central in global health policy discussions in 2024–25?",
     "options": {
-      "A": "किसानों को बेहतर मूल्य दिलाना (Ensuring better prices to farmers)",
-      "B": "मंडी करों को बढ़ाना (Increasing mandi taxes)",
-      "C": "बिचौलियों की संख्या कम करना (Reducing intermediaries)",
-      "D": "कृषि उत्पादकों को बाजार से दूर रखना (Keeping producers away from markets)"
+      "A": "Pandemic preparedness and strengthening WHO coordination",
+      "B": "Only sports medicine",
+      "C": "No health policy discussions",
+      "D": "Only local clinic openings"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 48,
-    "question": "भारत में किसानों की आमदनी बढ़ाने के लिए कौन-कौन से उपाय किये जा रहे हैं? / What measures are being taken to increase farmer incomes in India?",
+    "question": "निम्न में से कौन-सा अंतरराष्ट्रीय संस्थान वैश्विक आर्थिक प्रक्षेपण और नीतिगत सलाह के लिए जाना जाता है? / Which international institution is known for global economic projections and policy advice?",
     "options": {
-      "A": "कृषि विपणन सुधार (Agricultural marketing reforms)",
-      "B": "मूल्य समर्थन (Price support)",
-      "C": "कृषि विविधीकरण (Agricultural diversification)",
-      "D": "कर्ज बढ़ाना (Increasing debts)"
+      "A": "International Monetary Fund (IMF)",
+      "B": "Local chamber of commerce only",
+      "C": "City council",
+      "D": "Neighborhood watch"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 49,
-    "question": "भारत में ग्रीन रिवोल्यूशन की शुरुआत किस क्षेत्र में सबसे पहले हुई थी? / In which region was the Green Revolution first started in India?",
+    "question": "किसे 2024–25 में डेटा-आधारित नीति-निर्णय और अनुसंधान-रिपोर्टिंग के लिए अहम माना गया? / What was considered important for data-driven policymaking and research reporting in 2024–25?",
     "options": {
-      "A": "पंजाब (Punjab)",
-      "B": "हरियाणा (Haryana)",
-      "C": "उत्तर प्रदेश (Uttar Pradesh)",
-      "D": "बिहार (Bihar)"
+      "A": "Timely official statistics and budget documents (e.g., Economic Survey, Budget at a Glance)",
+      "B": "Only rumours",
+      "C": "Random blogs only",
+      "D": "Horoscopes"
     },
     "answer": ["A"]
   },
   {
     "id": 50,
-    "question": "भारत में न्यूनतम समर्थन मूल्य (MSP) किस समय घोषित किया जाता है? / When is the MSP announced in India?",
+    "question": "निम्न में से कौन-सा मामला 2024–25 में वैश्विक सुरक्षा/डिप्लोमेसी चर्चाओं में बना रहा? / Which matter remained in global security/diplomacy talks in 2024–25?",
     "options": {
-      "A": "हर साल फरवरी में (Every year in February)",
-      "B": "हर साल मई में (Every year in May)",
-      "C": "हर साल अक्टूबर में (Every year in October)",
-      "D": "हर साल जनवरी में (Every year in January)"
+      "A": "Great power tensions (including diplomacy around Russia-Ukraine)",
+      "B": "Only inter-club rivalries",
+      "C": "No diplomatic interactions",
+      "D": "All nations merged"
     },
     "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से प्रमुख ऋणदाता हैं? / Who are the major lenders to the agricultural sector in India?",
+    "question": "किसे 2024–25 में भारत के आंतरिक-विकास और अंतरराष्ट्रीय भागीदारी के लिए एक समेकित प्राथमिकता माना गया? / What was an integrated priority for India’s internal development and international engagement in 2024–25?",
     "options": {
-      "A": "सार्वजनिक क्षेत्र के बैंक (Public sector banks)",
-      "B": "सहकारी बैंक (Cooperative banks)",
-      "C": "पारंपरिक सूदखोर (Traditional moneylenders)",
-      "D": "माइक्रोफाइनेंस संस्थाएं (Microfinance institutions)"
+      "A": "Infrastructure-led growth combined with trade and tech partnerships",
+      "B": "Isolationist policies only",
+      "C": "Cutting all external ties",
+      "D": "Focus only on ancient crafts"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 52,
-    "question": "भारत में कृषि क्षेत्र की असमानता का मुख्य कारण क्या है? / What is the main cause of inequality in Indian agriculture?",
+    "question": "निम्न में से कौन-सा वैश्विक मंच आर्थिक पुनरुद्धार, निवेश और विकास पर बहुपक्षीय संवाद के लिए प्रचलित है? / Which global forum is prevalent for multilateral dialogue on economic recovery, investment and development?",
     "options": {
-      "A": "भूमि वितरण में असमानता (Unequal land distribution)",
-      "B": "सिंचाई संसाधनों की कमी (Lack of irrigation resources)",
-      "C": "कृषि शिक्षा की कमी (Lack of agricultural education)",
-      "D": "सरकारी सब्सिडी का अभाव (Lack of government subsidies)"
+      "A": "G20",
+      "B": "Local book club",
+      "C": "Sports federation only",
+      "D": "No such forum"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 53,
-    "question": "भारत में कृषि क्षेत्र की उत्पादकता बढ़ाने के लिए किस तरह के नवाचारों की आवश्यकता है? / What kind of innovations are needed to increase productivity in Indian agriculture?",
+    "question": "किसे 2024–25 में वैश्विक विज्ञान-समुदाय ने सक्रिय क्षेत्रों में से माना (उदा. AI, climate tech, battery research)? / Which were active scientific areas recognized by the global community in 2024–25?",
     "options": {
-      "A": "डिजिटल कृषि (Digital agriculture)",
-      "B": "स्मार्ट सिंचाई (Smart irrigation)",
-      "C": "जैविक खेती (Organic farming)",
-      "D": "परंपरागत बीज (Traditional seeds)"
+      "A": "AI, climate technology, battery & materials research",
+      "B": "Only candle making",
+      "C": "No active research areas",
+      "D": "Only medieval studies"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 54,
-    "question": "भारत में कृषि उत्पादों के लिए कौन-कौन से प्रमुख बाजार उपलब्ध हैं? / What are the major markets available for agricultural products in India?",
+    "question": "निम्न में से कौन-सा दस्तावेज UP Budget Analysis (PRS) जैसे स्रोतों में मिलता है और नीति-निर्णय को प्रभावित करता है? / Which document type appears in UP Budget Analysis (PRS) and influences policy?",
     "options": {
-      "A": "मंडी बाजार (Mandi markets)",
-      "B": "सीधे खरीदार (Direct buyers)",
-      "C": "ऑनलाइन बाजार (Online markets)",
-      "D": "विदेशी बाजार (Foreign markets)"
+      "A": "Committed expenditure and revenue surplus/deficit estimates",
+      "B": "Celebrity gossip columns",
+      "C": "Random travel photos",
+      "D": "None"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 55,
-    "question": "भारत में किसानों के लिए सबसे बड़ी चुनौती क्या है? / What is the biggest challenge faced by farmers in India?",
+    "question": "किसे 2024–25 में अंतरराष्ट्रीय पुरस्कारों-सम्मानों ने विज्ञान और तकनीक के क्षेत्र में मान्यता दी (उदा. Nobel)? / Which international prizes/ceremonies recognized science & tech in 2024–25?",
     "options": {
-      "A": "कर्ज का बोझ (Debt burden)",
-      "B": "बाजार मूल्य की अनिश्चितता (Price uncertainty)",
-      "C": "जल संकट (Water scarcity)",
-      "D": "श्रमिकों की कमी (Labor shortage)"
+      "A": "Nobel Prizes (Physics recognising ML foundations, 2024)",
+      "B": "Only local state fairs",
+      "C": "No prizes given for science",
+      "D": "Only culinary medals"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 56,
-    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से सरकारी योजनाएँ चल रही हैं? / Which government schemes are running for agricultural sector in India?",
+    "question": "निम्न में से कौन-सा संकेतक एक देश/राज्य की आर्थिक नीति-लचीलापन दिखाने के लिए उपयोगी है? / Which indicator is useful to show fiscal flexibility of a country/state?",
     "options": {
-      "A": "प्रधानमंत्री किसान सम्मान निधि (PM-Kisan)",
-      "B": "फसल बीमा योजना (Crop Insurance Scheme)",
-      "C": "कृषि ऋण योजना (Agricultural Loan Scheme)",
-      "D": "मंडी कर योजना (Mandi Tax Scheme)"
+      "A": "Committed expenditure as % of revenue receipts",
+      "B": "Number of movie theatres",
+      "C": "Only number of festivals",
+      "D": "Phone brand preference"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 57,
-    "question": "भारत में कृषि विपणन में सुधार से क्या लाभ होते हैं? / What are the benefits of improvement in agricultural marketing in India?",
+    "question": "किसे 2024–25 में विज्ञान-नीति के संदर्भ में वैश्विक स्तर पर मुख्य चिंता माना गया? / What was a major global science-policy concern in 2024–25?",
     "options": {
-      "A": "किसानों को बेहतर मूल्य मिलना (Farmers get better prices)",
-      "B": "उत्पाद की गुणवत्ता बढ़ना (Increase in product quality)",
-      "C": "मंडी करों में वृद्धि (Increase in mandi taxes)",
-      "D": "बिचौलियों की भूमिका कम होना (Reduction in intermediaries)"
+      "A": "Responsible AI governance & safety",
+      "B": "Eliminating research completely",
+      "C": "No scientific issues existed",
+      "D": "Only art exhibitions"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 58,
-    "question": "भारत में किसानों को खेती में किस प्रकार की सहायता मिलती है? / What type of assistance do farmers get in India?",
+    "question": "निम्न में से कौन-सा तथ्य 2024–25 के करंट-अफेयर्स सेट में उपयुक्त है? / Which fact is appropriate in the 2024–25 current affairs set?",
     "options": {
-      "A": "वित्तीय सहायता (Financial assistance)",
-      "B": "तकनीकी सहायता (Technical assistance)",
-      "C": "मार्केटिंग सहायता (Marketing assistance)",
-      "D": "श्रमिक सहायता (Labor assistance)"
+      "A": "Multilateral forums (G20, COP processes, IMF/World Bank) continued shaping policy responses",
+      "B": "No multilateral activity existed",
+      "C": "Only national festivals mattered",
+      "D": "All countries adopted identical laws"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 59,
-    "question": "भारत में कृषि क्षेत्र के लिए कौन-कौन से नए तकनीकी उपाय अपनाए जा रहे हैं? / Which new technological methods are being adopted for agriculture in India?",
+    "question": "किसे 2024–25 में राष्ट्रीय-अन्तर्राष्ट्रीय स्तर पर प्रासंगिक माना गया—नीति और विज्ञान के अलावा—खेलों के संदर्भ में? / Apart from policy & science, what was relevant nationally/internationally in 2024–25 for sports?",
     "options": {
-      "A": "ड्रोन आधारित कृषि (Drone-based farming)",
-      "B": "स्मार्ट सेंसर (Smart sensors)",
-      "C": "रोबोटिक खेती (Robotic farming)",
-      "D": "मशीन लर्निंग (Machine learning)"
+      "A": "Olympic performances and world-cup events influencing sports policy",
+      "B": "No sports events at all",
+      "C": "Only local gymkhana results",
+      "D": "Complete ban on sports"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 60,
-    "question": "भारत में किसानों की आय बढ़ाने के लिए कौन-कौन से विकल्प महत्वपूर्ण हैं? / What are important options to increase farmer income in India?",
+    "question": "निम्न में से कौन-सी व्यवहारिक सिफारिश (policy implication) 2024–25 के घटनाक्रमों से निकाली जा सकती है? / Which practical policy implication can be drawn from 2024–25 events?",
     "options": {
-      "A": "कृषि विविधीकरण (Agricultural diversification)",
-      "B": "प्रसंस्करण उद्योगों का विकास (Development of processing industries)",
-      "C": "न्यूनतम समर्थन मूल्य (Minimum Support Price)",
-      "D": "बाजार सुधार (Market reforms)"
+      "A": "Balance between CapEx-led growth, social protection, and regulatory frameworks for tech/energy",
+      "B": "Total stop to public investment",
+      "C": "No need for data or budgets",
+      "D": "Isolate from global cooperation entirely"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A"]
   }
 ]
