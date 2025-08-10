@@ -1,661 +1,1321 @@
 [
   {
     "id": 1,
-    "question": "किस वर्ष के Union Budget में Capital Expenditure outlay ~₹11,11,111 करोड़ जैसा उल्लेख हुआ था? / In which Union Budget year was the Capital Expenditure outlay reported around ₹11,11,111 crore?",
+    "question": "1857 का विद्रोह किस घटना/श्रेणी के रूप में अक्सर वर्णित होता है? / How is the 1857 uprising commonly described?",
     "options": {
-      "A": "Budget 2024–25",
-      "B": "Budget 2023–24",
-      "C": "Budget 2022–23",
-      "D": "Budget 2025–26"
+      "A": "पहला स्वतंत्रता संग्राम (First War of Independence)",
+      "B": "सिपाही बगावत (Sepoy Mutiny)",
+      "C": "रिजनल किसान आंदोलन (Regional Peasant Movement)",
+      "D": "औद्योगिक श्रमिक हड़ताल (Industrial Workers' Strike)"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 2,
-    "question": "निम्न में से कौन-से 2024–25 के आस-पास हुए प्रमुख वैश्विक घटनाक्रम हैं जो भारत की नीति/डिप्लोमेसी को प्रभावित कर सकते हैं? / Which of the following 2024–25 global events likely influenced India’s policy/diplomacy?",
+    "question": "नीचे किस-किस स्थान को 1857 के विद्रोह के प्रमुख केंद्र माना जाता है? / Which of the following were main centres of the 1857 revolt?",
     "options": {
-      "A": "ग्लोबल ऊर्जा और तेल सप्लाई शिफ्ट (Russia oil dynamics)",
-      "B": "ऑस्ट्रेलियाई घरेलू चुनाव (local council only)",
-      "C": "बड़ी बहु-राष्ट्रीय शिखर बैठकें (G20/G7-related outcomes)",
-      "D": "विश्व कप फुटबॉल 1950"
+      "A": "Meerut",
+      "B": "Lucknow",
+      "C": "Kolkata",
+      "D": "Kanpur"
     },
-    "answer": ["A","C"]
+    "answer": ["A","B","D"]
   },
   {
     "id": 3,
-    "question": "निम्न में से कौन-सा अंतर्राष्ट्रीय पुरस्कार 2024 में मशीन-लर्निंग/AI के शोधकों को दिया गया था (नामों में शामिल)? / Which international prize in 2024 recognized foundational ML/AI researchers (names included)?",
+    "question": "‘1857 के विद्रोह’ का तत्काल सरल कारण किसको माना जाता है? / Which immediate cause is commonly cited for the 1857 rebellion?",
     "options": {
-      "A": "Nobel Prize in Physics (Hopfield, Hinton etc.)",
-      "B": "Pulitzer Prize (fiction)",
-      "C": "Turner Prize (arts)",
-      "D": "Fields Medal (mathematics) for Hopfield"
+      "A": "Enfield rifle cartridges controversy (greased cartridges)",
+      "B": "भूमिहीन किसानों का कर विरोध (Peasant land tax protest)",
+      "C": "ब्रिटिश-प्रशासनिक भ्रष्टाचार (British administrative corruption)",
+      "D": "रेलवे निर्माण के चलते विस्थापन (Displacement due to railways)"
     },
     "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "Paris 2024 Olympics का medal-table टॉप-रैंक कौन-सा देश रहा (overall golds/total)? / Which country ranked at the top of the Paris 2024 Olympic medal table (overall golds/total)?",
+    "question": "नाना साहब किस स्थान से संबंधित थे और उन्होंने किस शहर पर प्रमुख प्रभाव डाला? / Nana Sahib was associated with which region and influenced which city prominently?",
     "options": {
-      "A": "China (People's Republic of China)",
-      "B": "India",
-      "C": "United States of America",
-      "D": "France (host)"
+      "A": "Kanpur",
+      "B": "Meerut",
+      "C": "Lucknow",
+      "D": "Jhansi"
     },
     "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "किस योजना का उद्देश्य आर्थिक रूप से कमजोर परिवारों को स्वास्थ्य कवरेज प्रदान करना है और यह केंद्र स्तर पर देर से 2010s से प्रमुख रही है? / Which scheme aims to provide health coverage to vulnerable households and has been central since late 2010s?",
+    "question": "रानी लक्ष्मीबाई (Rani of Jhansi) के बारे में सही-गलत चुनें: (1) वे झांसी की रानी थीं, (2) उन्होंने अंग्रेजों के खिलाफ 1858 में भी लड़ाई की। / Select correct statements about Rani Lakshmibai:",
     "options": {
-      "A": "Ayushman Bharat - PM-JAY",
-      "B": "Pradhan Mantri Fasal Bima Yojana (crop insurance)",
-      "C": "PM-Kisan (income support)",
-      "D": "PM Awas Yojana"
+      "A": "वे झांसी की रानी थीं (She was Rani of Jhansi)",
+      "B": "वे 1857-58 के विद्रोह में अग्रणी सैन्य नेता रहीं (She was a leading military figure in 1857-58)",
+      "C": "उनकी मृत्यु 1920 में हुई थी (She died in 1920)",
+      "D": "वे अंग्रेजों के साथ समझौता कर बैठ गईं (She made a settlement with British)"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 6,
-    "question": "निम्न में से कौन-सी घोषणा/निशानदेही Union Budget 2024–25 का हिस्सा थी? / Which announcement/commitment was part of Union Budget 2024–25?",
+    "question": "Meerut का 1857 में क्या महत्व था? / What was Meerut's significance in 1857?",
     "options": {
-      "A": "Capital Expenditure बढ़ाना (major capex push)",
-      "B": "पूरी तरह GST खत्म करना",
-      "C": "विस्तृत सीमा शुल्क नीतियों का तत्काल उन्मूलन",
-      "D": "रिजर्व बैंक का नियंत्रण खत्म"
+      "A": "विद्रोह की शुरुआत के लिए प्रमुख स्थल (Major flashpoint where revolt began)",
+      "B": "ब्रिटिश गवर्नर का निवास (Residence of British Governor)",
+      "C": "नौसेना का आधार (Naval base)",
+      "D": "वाणिज्यिक बंदरगाह (Commercial port)"
     },
     "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "कौन-सी सरकारी पहल ने हालिया वर्षों में MSMEs और skilling पर विशेष जोर दिया? / Which initiative in recent years emphasized MSMEs and skilling?",
+    "question": "किस घटना के बाद दिल्ली पर विद्रोहियों का कब्ज़ा हुआ और इसे प्रतीकात्मक रूप से कौन-सा बदलाव माना जाता है? / After which event did rebels take Delhi and what symbolic change did it represent?",
     "options": {
-      "A": "Union Budget priorities (employment, skilling, MSMEs)",
-      "B": "Only foreign affairs budget",
-      "C": "Space sector only",
-      "D": "None; no focus"
+      "A": "दिल्ली पर काबू — शाह की सत्ता में चुनौती (Capture of Delhi — challenge to Mughal/imperial authority)",
+      "B": "दिल्ली पर काबू — ब्रिटिश संसद का पतन (Capture of Delhi — fall of British Parliament)",
+      "C": "दिल्ली पर काबू — व्यापारिक हानि (Capture of Delhi — commercial loss)",
+      "D": "दिल्ली पर काबू — नोकरशाही उभरना (Capture of Delhi — bureaucratic rise)"
     },
     "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "निम्न में से कौन-सा राष्ट्रीय आर्थिक सर्वेक्षण/बजट डॉक्यूमेंट नियमित रूप से केन्द्र सरकार द्वारा प्रकाशित होता है और नीति-निर्माण में उपयोग होता है? / Which national economic/budget document is regularly published by the central government and used in policymaking?",
+    "question": "1857 के विद्रोह के लंबी अवधि के प्रमुख नतीजों में कौन-कौन से शामिल हैं? / Which long-term outcomes followed the 1857 revolt?",
     "options": {
-      "A": "Economic Survey",
-      "B": "State Land Records only",
-      "C": "Municipal tax register",
-      "D": "Private sector quarterly report"
+      "A": "ईस्ट इंडिया कंपनी का अंत और ब्रिटिश ताज का शासन (End of East India Company; start of direct British Crown rule)",
+      "B": "भारत की तत्काल स्वतंत्रता (Immediate independence of India)",
+      "C": "भारतीय सिपाहियों की नीतियों में बदलाव (Changes in recruitment of Indian sepoys)",
+      "D": "देश की कृषि व्यवस्था का पूर्ण विनाश (Total destruction of agrarian system)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 9,
-    "question": "UP Budget 2024–25 में अनुमानित fiscal deficit (target) किस के आसपास बताया गया था? / Around what was Uttar Pradesh’s targeted fiscal deficit in its 2024–25 budget?",
+    "question": "नीचे दिए गए कौन-से नेता 1857 में सक्रिय थे? / Which of the following leaders were active in 1857?",
     "options": {
-      "A": "3.46% of GSDP",
-      "B": "10% of GSDP",
-      "C": "0% (balanced budget)",
-      "D": "50% of GSDP"
+      "A": "Rani Lakshmibai",
+      "B": "Mangal Pandey",
+      "C": "Ram Prasad Bismil",
+      "D": "Nana Sahib"
+    },
+    "answer": ["A","B","D"]
+  },
+  {
+    "id": 10,
+    "question": "Mangal Pandey का संबंध किस घटना/घटना-स्थल से है? / Mangal Pandey is associated with which event/location?",
+    "options": {
+      "A": "Barrackpore — उसने अंग्रेज अफ़सरों पर हमला किया (Barrackpore — attacked British officers)",
+      "B": "Lucknow — Residency की रक्षा (Lucknow Residency defence)",
+      "C": "Kakori — 1925 ट्रेन डकैती (Kakori 1925 train robbery)",
+      "D": "Poona — 1857 के बाद का आंदोलन (Poona activities post 1857)"
     },
     "answer": ["A"]
   },
   {
-    "id": 10,
-    "question": "निम्न में से कौन-सी घटना/घटनाक्रम 2024–2025 में राष्ट्रीय सन्दर्भ में प्रमुख रहे (India year-ender headlines)? / Which event(s) were among India’s major headlines in 2024–25?",
-    "options": {
-      "A": "Lok Sabha 2024 general election results and political transition",
-      "B": "India won ICC T20 World Cup 2024 (fictional for example)",
-      "C": "Major state elections and law-and-order crises",
-      "D": "Both A and C"
-    },
-    "answer": ["D"]
-  },
-  {
     "id": 11,
-    "question": "किस अंतर्राष्ट्रीय सम्मेलन/फोरम ने 2023–24 के आसपास ग्लोबल क्लाइमेट और ऊर्जा नीतियों पर बहस में प्रमुख भूमिका निभाई थी, और 2024–25 में भी उसकी नीतिगत प्रतिध्वनि रही? / Which international forum played a leading role on climate/energy debates around 2023–24 and echoed into 2024–25?",
+    "question": "Ram Prasad Bismil और Ashfaqullah Khan किस घटना से जुड़े थे? / Ram Prasad Bismil & Ashfaqullah Khan are associated with which event?",
     "options": {
-      "A": "COP (UN Climate Conferences) series",
-      "B": "World Bank Annual Meeting only",
-      "C": "Local city council meetings",
-      "D": "None of the above"
+      "A": "Kakori Train Robbery (1925)",
+      "B": "1857 Indian Rebellion",
+      "C": "Non-Cooperation Movement",
+      "D": "Quit India Movement"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "2024–25 के आस-पास, वैश्विक AI / machine learning में एक बड़े वैज्ञानिक योगदान के लिए किस पुरस्कार ने नोट किया? / Around 2024–25, which prize recognized a big scientific contribution in AI/ML?",
+    "question": "Lucknow Residency किस लिए प्रसिद्ध है? / What is Lucknow Residency famous for?",
     "options": {
-      "A": "Nobel Prize in Physics recognising foundational ML work (2024 laureates)",
-      "B": "Best Chef award",
-      "C": "Tony Awards",
-      "D": "Grassroots sports award"
+      "A": "1857 के दौरान घेराबंदी और रक्षा (Siege and defence during 1857)",
+      "B": "मुगल शाही अदालत (Mughal royal court)",
+      "C": "ब्रिटिश वाणिज्यिक केंद्र (British commercial hub)",
+      "D": "समकालीन विश्वविद्यालय (Modern university)"
     },
     "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "किस अंतरराष्ट्रीय संगठन का काम व्यापार-विचारों/कस्टम्स और विकास नीतियों पर विश्व स्तर पर असर डालता है और 2024–25 में भी उसकी भूमिका चर्चा का विषय रही? / Which international organization affects trade/customs and development policies globally and remained in focus in 2024–25?",
+    "question": "Kanpur (Cawnpore) में किस प्रमुख घटना ने 1857 को असर दिया? / Which major event in Kanpur affected the 1857 revolt?",
     "options": {
-      "A": "World Trade Organization (WTO)",
-      "B": "National Film Board",
-      "C": "Small local NGO only",
-      "D": "None"
+      "A": "Kanpur massacre (massacre at Satichaura Ghat and Bibighar)",
+      "B": "Major naval battle",
+      "C": "Signing of treaty with British",
+      "D": "Dandi March"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "निम्न में से कौन-सी केंद्र/UP पहल 2024–25 के संदर्भ में योजना-वितरण/आवास पर फोकस रखती है? / Which central/UP initiative in 2024–25 focused on housing/program delivery?",
+    "question": "1857 के विद्रोह में कौन-सी सामाजिक/धार्मिक प्रवृत्तियाँ मिलीं? / Which social/religious tendencies were involved in 1857?",
     "options": {
-      "A": "PM Awas Yojana (Gramin/Urban) expansions",
-      "B": "Only opening football stadiums",
-      "C": "No housing programmes at all",
-      "D": "Space launch housing"
+      "A": "मुस्लिम-मिश्रित और हिन्दू नेतृत्व (Combined Muslim and Hindu leadership)",
+      "B": "सिर्फ राजपूतों का संघर्ष (Only Rajput resistance)",
+      "C": "स्थानीय राजाओं और सिपाहियों का गठबंधन (Alliances of local rulers and sepoys)",
+      "D": "विदेशी समर्थित विद्रोह (Foreign-backed insurgency)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 15,
-    "question": "किस वैश्विक घटना/सम्मेलन में देशों ने पारस्परिक ऊर्जा सुरक्षा और तेल सप्लाई पर चर्चा तेज़ की (2024 में प्रभावशाली)? / At which global discussions did countries intensify talks on energy security and oil supply in 2024?",
+    "question": "‘Doctrine of Lapse’ (लैप्स नीति) का 1857 में क्या रोल था? / What role did the Doctrine of Lapse play related to 1857?",
     "options": {
-      "A": "G20 / energy dialogues",
-      "B": "Local town fairs",
-      "C": "School PTA meetings",
-      "D": "City marathons"
+      "A": "रियासतों के विलय/हटाने से असंतोष बढ़ा (Annexation of princely states caused resentment)",
+      "B": "ब्रिटिश शिक्षा नीतियों में बदलाव लाया (Affected British education policies)",
+      "C": "कृषि कर घटाया गया (Reduction in land tax)",
+      "D": "भारतीय सैनिकों को ऊँची पदवी दी गई (Higher ranks for Indian soldiers)"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "निम्न में से कौन-सा राष्ट्रीय पुरस्कार/सम्मान 2024–25 के आस-पास खेल/साहसिक उपलब्धियों के लिए दिया जाता है? / Which national award/recognition is given around 2024–25 for sporting/excellence achievements?",
+    "question": "किसने Lucknow में Residency का नेतृत्व करके अंग्रेजों से मुकाबला किया? / Who led the defence at Lucknow Residency against the British attackers?",
     "options": {
-      "A": "Khel Ratna (Major sports award) / Major national sports honours",
-      "B": "Gram Panchayat Award for street cleaning",
-      "C": "Only literary awards",
-      "D": "None"
+      "A": "Sir Henry Lawrence (initially)",
+      "B": "William Peel (Sepoy leader)",
+      "C": "Nana Sahib",
+      "D": "Begums of Avadh were associated with resistance later"
     },
-    "answer": ["A"]
+    "answer": ["A","D"]
   },
   {
     "id": 17,
-    "question": "निम्न में से कौन-सा डॉक्यूमेंट केंद्र सरकार की वार्षिक आर्थिक समीक्षा देता है और बजट के पहले प्रकाशित होता है? / Which document provides the central government’s annual economic review and is released before the budget?",
+    "question": "1857 विद्रोह के दौरान अवध (Awadh) का क्या महत्व था? / What was Awadh's significance during the 1857 revolt?",
     "options": {
-      "A": "Economic Survey of India",
-      "B": "State Assembly minutes",
-      "C": "Private bank quarterly notes",
-      "D": "Daily newspapers"
+      "A": "अवध का ब्रिटिश द्वारा हाल ही में विलय (Annexation of Awadh provoked unrest)",
+      "B": "यह एक निरपेक्ष शांत राज्य था (It remained completely peaceful)",
+      "C": "यह विद्रोह का एक हॉटस्पॉट बना (It became a hotbed of rebellion)",
+      "D": "यह ब्रिटिश सैन्य मुख्यालय बना रहा (It became British military HQ)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 18,
-    "question": "2024–25 के संदर्भ में भारत-वर्ल्ड इवेंट्स: निम्न में से कौन-सा बयान सही है? / Regarding India-world events in 2024–25: which statement is correct?",
+    "question": "नीचे में से कौन-सी बातें 1857 विद्रोह की आर्थिक उपज/प्रभाव बताती हैं? / Which of the following indicate economic causes/effects of the revolt?",
     "options": {
-      "A": "India remained engaged in multilateral forums (G20, climate dialogues) while managing bilateral ties",
-      "B": "India withdrew from all international organisations",
-      "C": "India became member of the European Union",
-      "D": "India ceased diplomatic missions"
+      "A": "भारतीय किसानों पर भारी कर और ज़मीन संबंधी परेशानियाँ (Heavy taxation & land issues)",
+      "B": "विदेशी ट्रेड-सैन्य समझौते (Foreign trade-military pacts)",
+      "C": "नौकरशाही में भारतीयों की उन्नति (Promotion of Indians in bureaucracy)",
+      "D": "रियासतों की नीतियों में हस्तक्षेप (Interference in princely state policies)"
     },
-    "answer": ["A"]
+    "answer": ["A","D"]
   },
   {
     "id": 19,
-    "question": "किस अंतरराष्ट्रीय संगठन का उद्देश्य वैश्विक स्वास्थ्य पर केंद्रित है और 2024–25 में महामारी-तैयारी पर चर्चा का हिस्सा बना रहा? / Which international organization focuses on global health and was part of pandemic-preparedness talks in 2024–25?",
+    "question": "1857 विद्रोह की शैक्षिक/साहित्यिक स्मृति में कौन-से स्थल आज दर्शनीय माने जाते हैं? / Which historical sites related to 1857 are tourist/heritage attractions today?",
     "options": {
-      "A": "World Health Organization (WHO)",
-      "B": "International Olympic Committee (IOC)",
-      "C": "FIFA",
-      "D": "World Snooker Federation"
+      "A": "Lucknow Residency and 1857 Memorial Museum",
+      "B": "Kakori station memorial (only 1925 related)",
+      "C": "Barrackpore cantonment sites",
+      "D": "Jhansi Fort"
     },
-    "answer": ["A"]
+    "answer": ["A","C","D"]
   },
   {
     "id": 20,
-    "question": "निम्न में से कौन-सा वैज्ञानिक/टेक ट्रेंड 2024 में वैश्विक शोध परिदृश्य में उल्लेखनीय था? / Which scientific/tech trend was notable in global research in 2024?",
+    "question": "निम्न में से कौन-सा कथन सत्य है? (2024–25 से जुड़ा तथ्य)। / Which statement is true? (Related to 2024–25 developments)",
     "options": {
-      "A": "Rapid advances in generative AI / large language models",
-      "B": "Complete halt to semiconductor research",
-      "C": "Reversion to typewriters",
-      "D": "No progress in battery tech"
+      "A": "Uttar Pradesh prison department ने Lucknow में एक नया जेल म्यूज़ियम उद्घाटित किया जिसमें 1857/काकोरी युग के ऐतिहासिक आइटम भी प्रदर्शित हैं।",
+      "B": "2025 में Kakori घटना की पहली सदी मनाई गई (Kakori centenary celebrated in 2025).",
+      "C": "1857 Memorial Museum Lucknow Residency में अभी कोई प्रदर्शन नहीं है।",
+      "D": "Kakori के चौराहे पर नया रेलवे टर्मिनल 2024 में खोला गया।"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 21,
-    "question": "किस अंतर्राष्ट्रीय पुरस्कार/घोषणा ने 2024 में AI/ML के आधारभूत योगदानों को वैश्विक रूप से मान्यता दी? / Which international prize recognized foundational contributions to AI/ML in 2024?",
+    "question": "किसे 1857 के विद्रोह का नेतृत्वकारी 'दिल' माना जाता है—राजनैतिक/धार्मिक प्रतीक के रूप में? / Who emerged as a symbolic political/religious centre during 1857?",
     "options": {
-      "A": "Nobel Prize (Physics) recognising ML foundations",
-      "B": "Local neighbourhood award",
-      "C": "Film festival prize",
-      "D": "Travel grant"
+      "A": "Delhi under Bahadur Shah II (Shahanshah as symbolic leader)",
+      "B": "Calcutta Presidency",
+      "C": "Madras Presidency",
+      "D": "Bombay"
     },
     "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "कौन-सा वित्तीय सूचक Union Budget 2024–25 के 'Budget at a glance' में नीति प्राथमिकता के रूप में उभरा? / Which fiscal indicator emerged as a policy priority in Union Budget 2024–25 'Budget at a Glance'?",
+    "question": "1857 के विद्रोह में सैन्य और नागरिक सहयोग के उदाहरण कौन-सा हैं? / Examples of military and civilian cooperation in 1857 include:",
     "options": {
-      "A": "CapEx push (capital expenditure increase)",
-      "B": "Elimination of defence spending",
-      "C": "No public investment",
-      "D": "Only subsidies for antique cars"
+      "A": "प्रवर्तित सिपाही + स्थानीय राजाओं का गठबंधन (Sepoys allying with local rulers)",
+      "B": "केवल विदेशी सेनाएँ (Only foreign armies)",
+      "C": "नागरिक सेना का गठन (Formation of civilian militias)",
+      "D": "किसी तरह का कोई सहयोग नहीं (No such cooperation)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 23,
-    "question": "निम्न में से कौन-सी वैश्विक संस्था व्यापारिक विवादों और वैश्विक ट्रेड नियमों के लिए जानी जाती है? / Which global institution is known for handling trade disputes and global trade rules?",
+    "question": "1857 विद्रोह किस वर्ष औपचारिकतः समाप्त माना जाता है (मुख्य सैन्य दबाव के बाद)? / Around which year is the 1857 revolt considered to have largely ended?",
     "options": {
-      "A": "WTO (World Trade Organization)",
-      "B": "WHO",
-      "C": "UNESCO",
-      "D": "INTERPOL"
+      "A": "1858",
+      "B": "1865",
+      "C": "1847",
+      "D": "1871"
     },
     "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "UP और केंद्र स्तर पर 2024–25 में किस तरह की योजनाएँ अक्सर बुनियादी ढांचा और रोज़गार सृजन पर ध्यान देती पाई गईं? / What types of schemes at Centre/UP in 2024–25 often emphasized?",
+    "question": "नीचे दिए गए कौन से संघर्षक 1857 के समय या ठीक बाद की स्थिति में सीधे जुड़े थे? / Which of these figures/events are directly linked to the 1857 period?",
     "options": {
-      "A": "Infrastructure development and employment/skill generation",
-      "B": "Only interstellar travel for all",
-      "C": "Exclusively luxury yacht construction",
-      "D": "Phasing out all roads"
+      "A": "Bahadur Shah Zafar (Mughal Emperor)",
+      "B": "Chandrashekhar Azad",
+      "C": "Nana Sahib",
+      "D": "Tatya Tope"
     },
-    "answer": ["A"]
+    "answer": ["A","C","D"]
   },
   {
     "id": 25,
-    "question": "निम्न में से कौन-सी घटना 2024 के इन-इयर समरी/Year-ender में भारत के लिए प्रमुख कारण बनी? / Which event featured prominently in India’s 2024 year-ender coverage?",
+    "question": "Tatya Tope का योगदान/भूमिका क्या थी? / What was Tatya Tope's role?",
     "options": {
-      "A": "General elections (Lok Sabha) and their outcomes",
-      "B": "India hosted Winter Olympics in 2024",
-      "C": "Entire country switched to a new calendar",
-      "D": "No major events occurred"
+      "A": "विद्रोही सेनाओं का सैन्य नेतृत्व और छापामारी (Military leadership and guerrilla warfare)",
+      "B": "ब्रिटिश प्रशासन के सहायक (Assistant to British administration)",
+      "C": "विद्रोह के बाद ब्रिटिश मंत्री बने (Became a British minister after revolt)",
+      "D": "शिक्षा सुधारक (Education reformer)"
     },
     "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "किस global sporting event ने 2024 में विश्व ध्यान खींचा और 2024–25 करंट-अफ़ेयर्स में इसके प्रभाव की चर्चा रही? / Which global sporting event in 2024 captured worldwide attention and remained discussed into 2024–25?",
+    "question": "जिस वर्ष के बाद ईस्ट इंडिया कंपनी का शासन समाप्त हुआ और British Crown ने शासन संभाला वह कौन-सा वर्ष था? / In which year did East India Company rule end and British Crown take over?",
     "options": {
-      "A": "Paris Summer Olympics 2024",
-      "B": "FIFA World Cup 1950",
-      "C": "Local school sports day only",
-      "D": "Regional chess club meet"
+      "A": "1858",
+      "B": "1848",
+      "C": "1901",
+      "D": "1877"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "निम्न में से कौन-सा अंतर्राष्ट्रीय संगठन आर्थिक स्थिरता, विकास और ऋण-विनियोजन में महत्त्वपूर्ण भूमिका निभाता है? / Which international body plays an important role in economic stability, development and lending?",
+    "question": "किसके नेतृत्व में Lucknow में लंबी घेराबंदी हुई और बाद में फिर से नियंत्रण कब लिया गया? / The prolonged siege at Lucknow was led under whose defence and when was it relieved?",
     "options": {
-      "A": "World Bank / IMF family",
-      "B": "World Wildlife Fund (WWF)",
-      "C": "Local cooperative bank",
-      "D": "FIFA"
+      "A": "Sir Henry Lawrence initially led defence; reliefs occurred in 1857–58",
+      "B": "Rani Lakshmibai led Lucknow defence solely",
+      "C": "It was never relieved",
+      "D": "It was relieved by Ottoman forces"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "किसे 2024–25 के दौर में वैश्विक ऊर्जा/कच्चे तेल की आपूर्ति-संबंधी चर्चाओं में मुख्य मुद्दा माना गया? / What was a central topic in 2024–25 energy/oil supply discussions?",
+    "question": "1857 के विद्रोह की स्मृति/यात्रा से जुड़ी कौन-सी संस्थाएँ आज पर्यटकों/अनुसंधानकर्ताओं के लिए उपयोगी हैं? / Which institutions/sites are useful for tourists/researchers studying 1857?",
     "options": {
-      "A": "Diversification of crude supply (including Russian supplies dynamics)",
-      "B": "Phasing out all renewables immediately",
-      "C": "Complete end of oil use in one week",
-      "D": "No debate on energy"
+      "A": "1857 Memorial Museum, Lucknow Residency",
+      "B": "UP prison department museum (recent exhibits) in Lucknow",
+      "C": "Kakori memorial (relating to 1925)",
+      "D": "Jhansi Fort"
     },
-    "answer": ["A"]
+    "answer": ["A","B","D"]
   },
   {
     "id": 29,
-    "question": "UP और केंद्र की योजनाओं पर आधारित—किस तरह की सरकारी प्रवृत्ति 2024–25 में स्पष्ट थी? / On schemes of UP and Centre—what administrative trend was visible in 2024–25?",
+    "question": "1857 विद्रोह के दौरान किसने मुग़ल सम्राट को प्रतीकात्मक नेतृत्व के रूप में अपनाया? / Who was adopted as symbolic leader by rebels during 1857?",
     "options": {
-      "A": "CapEx and infrastructure-led growth emphasis",
-      "B": "Complete withdrawal of public investment",
-      "C": "Only cultural festivals funded, nothing else",
-      "D": "No policy actions"
+      "A": "Bahadur Shah II (Bahadur Shah Zafar)",
+      "B": "Queen Victoria",
+      "C": "Tipu Sultan",
+      "D": "Ranjit Singh"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "किसे अंतरराष्ट्रीय शांति और सुरक्षा पर बहुपक्षीय वार्ताओं में 2024–25 के दौरान लगातार चर्चा का विषय माना गया? / What remained a continuous topic in multilateral peace & security talks in 2024–25?",
+    "question": "नीचे कौन से कारण 1857 के विद्रोह को वैधता देते हैं (ऐतिहासिक विश्लेषण के अनुसार)? / Which causes justify the legitimacy of the 1857 revolt (historical analysis)?",
     "options": {
-      "A": "Russia-Ukraine conflict and de-escalation dialogues",
-      "B": "Local street parking rules",
-      "C": "Only sports policies",
-      "D": "Fashion week schedules"
+      "A": "धार्मिक आक्रामक नीतियाँ (Perceived religious intrusion — e.g., cartridge controversy)",
+      "B": "स्थानीय शासकों का कट्टर समर्थन (Extreme support from local rulers to British)",
+      "C": "भूमि अधिकारों में हस्तक्षेप/अधिग्रहण (Interference in land/princely rights)",
+      "D": "अलग-अलग क्षेत्रीय आर्थिक संकट (Regional economic distress)"
     },
-    "answer": ["A"]
+    "answer": ["A","C","D"]
   },
   {
     "id": 31,
-    "question": "किसे 2024–25 में वैज्ञानिक समुदाय ने ऊर्जाक्षेत्र/बेटरी/क्लीन-टेक में प्रगति के रूप में प्रमुख माना? / Which area was seen as significant progress by scientists in 2024–25 (energy/tech)?",
+    "question": "कौन से संगठन/समूह 1857 के विद्रोह में शामिल नहीं थे? / Which group was NOT part of 1857 revolt?",
     "options": {
-      "A": "Battery tech and renewable integration advances",
-      "B": "Typewriter improvements",
-      "C": "No research in energy",
-      "D": "Only cosmetics innovation"
+      "A": "Hindustan Republican Association (HRA, active 1920s)",
+      "B": "Local princely forces (e.g., some taluqdars)",
+      "C": "Sepoys of Bengal Army",
+      "D": "Peasant groups in Awadh"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "निम्न में से कौन-सा किस्म का डेटा Budget at a Glance और State Budget Analysis में अक्सर दिया जाता है और नीति-निर्धारक उपयोग करते हैं? / Which type of data is typically present in 'Budget at a Glance' and state budget analysis and used by policymakers?",
+    "question": "किस वर्ष में Kakori train robbery हुई और वह किस प्रकार की घटना थी? / In which year did the Kakori train robbery occur and what was its nature?",
     "options": {
-      "A": "Revenue receipts, committed expenditure, fiscal deficit targets",
-      "B": "Only people’s personal diaries",
-      "C": "Individual grocery lists",
-      "D": "Random tweets"
+      "A": "1925 — revolutionary train robbery to fund HRA",
+      "B": "1857 — part of the Sepoy Mutiny",
+      "C": "1942 — Quit India protest",
+      "D": "1919 — Jallianwala Bagh related"
     },
     "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "निम्न में से कौन-सा global award/recognition 2024 में विज्ञान-तकनीक के लिए प्रसिद्ध रहा? / Which global recognition was prominent in science-tech in 2024?",
+    "question": "1857 के विद्रोह में किस तरह की सैन्य रणनीति प्रचलित रही? / What kinds of military tactics were common in 1857 revolt?",
     "options": {
-      "A": "Nobel Prizes (including recognition for ML foundations)",
-      "B": "Best bakery award",
-      "C": "Local music contest only",
-      "D": "No awards given"
+      "A": "घेराबंदी और शहर-युद्ध (Sieges and urban warfare)",
+      "B": "मोबाइल गुरिल्ला-स्टाइल छापे (Mobile guerrilla raids)",
+      "C": "आधुनिक टैंक युद्ध (Modern tank warfare)",
+      "D": "समुद्री ब्लॉकेड (Naval blockades)"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 34,
-    "question": "किसे 2024–25 में राष्ट्रीय खेल-घटनाओं/अंतरराष्ट्रीय पुरस्कारों के सन्दर्भ में ध्यान देने योग्य माना गया? / Which was notable in national sports/international awards context 2024–25?",
+    "question": "1857 विद्रोह पर ब्रिटिश प्रतिक्रिया में कौन-से बदलाव आए? / What changes occurred in British response/governance after 1857?",
     "options": {
-      "A": "India’s athletes performing on global stages (Olympics/World cups) and national honours",
-      "B": "No sports activities anywhere",
-      "C": "Only local kabaddi matches",
-      "D": "No awards given in sports"
+      "A": "भारतीय सेना की रिक्रूटमेंट नीतियों में बदलाव (Changes in recruitment policies of Indian army)",
+      "B": "ईस्ट इंडिया कंपनी का शासन समाप्त किया गया (Ended East India Company rule)",
+      "C": "ब्रिटिश-भारतीय सहयोग बढ़ाया गया (Increased British-Indian cooperation in governance uniformly)",
+      "D": "प्रवर्तित ब्रिटिश नीतियों में पूरी तरह हटावट (Complete reversal of British policies)"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 35,
-    "question": "निम्न में से कौन-सा अन्तरराष्ट्रीय समझौता/रणनीति जलवायु/ऊर्जा वार्ताओं का हिस्सा रहा? / Which international agreement/strategy featured in climate/energy talks?",
+    "question": "नीचे कौन-से स्थल/नायक 1857 के बाद के स्वतंत्रता आंदोलन (1920s) से संबंधित हैं? / Which of the following are associated with later freedom movements (1920s) rather than 1857?",
     "options": {
-      "A": "COP processes and national commitments (NDCs)",
-      "B": "Only inter-city football pacts",
-      "C": "No international processes",
-      "D": "Comic con schedules"
+      "A": "Ram Prasad Bismil",
+      "B": "Ashfaqullah Khan",
+      "C": "Mangal Pandey",
+      "D": "Rani Lakshmibai"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 36,
-    "question": "किसे 2024–25 के दौर में डिजिटल/AI नीति-विकास के लिए गंभीर चर्चा का विषय माना गया? / What was under intense debate for digital/AI policy development in 2024–25?",
+    "question": "इतिहासकार 1857 को कैसे पढ़ते/व्याख्यायित करते हैं — चुनें सही विकल्प: / How do historians interpret 1857? Select correct options:",
     "options": {
-      "A": "Regulation, safety, and responsible deployment of generative AI",
-      "B": "Banning all internet forever",
-      "C": "Only hardware import tariffs",
-      "D": "No AI policy discussion"
+      "A": "एक राष्ट्रिय स्वतंत्रता-संग्राम (A national war of independence)",
+      "B": "केवल एक सैन्य बगावत (Merely a military mutiny)",
+      "C": "एक जटिल मिश्रित आन्दोलन जिसमें सामाजिक, आर्थिक, धार्मिक व राजनीतिक कारण शामिल थे",
+      "D": "एक विदेशी शासन-विरोध के बाद का पूर्ण रूप से शासकीय बदलाव (A complete administrative revolution immediately producing self-rule)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 37,
-    "question": "किसे 2024–25 में वैश्विक आर्थिक परिदृश्य में भारत के लिए अवसर/चुनौती के रूप में बताया गया? / Which was seen as opportunity/challenge in 2024–25 global economic outlook for India?",
+    "question": "1857 से जुड़ी स्मृति/यादगारों के संरक्षण के लिए हालिया सालों में क्या कदम उठाये गये? (2024–25 संदर्भ) / Which recent steps (2024–25) have been taken to preserve 1857 memory?",
     "options": {
-      "A": "Supply chain realignments & increased private investment",
-      "B": "Isolation from global markets completely",
-      "C": "Only increase in stamp duty",
-      "D": "Total shutdown of exports"
+      "A": "UP prison department ने Lucknow में जेल म्यूज़ियम में स्वतंत्रता-संग्राम के आइटम प्रदर्शित किए।",
+      "B": "Kakori के शहीदों की याद में नई स्मारक-प्रशंसा नहीं हुई।",
+      "C": "राज्यस्तरीय कार्यक्रमों में काकोरी/कई क्रांतिकारियों को श्रद्धांजलि दी गई (recent state commemorations)",
+      "D": "कोई नई हालिया पहल नहीं हुई"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 38,
-    "question": "निम्न में से कौन-सा सरकारी दस्तावेज केन्द्र सरकार द्वारा बजट सत्र से पहले जारी किया जाता है और अर्थव्यवस्था की स्थिति बताता है? / Which government document is released before the budget session and indicates the economy’s status?",
+    "question": "नीचे दिए गए में से किसने 1857 के बाद अंग्रेजों के खिलाफ व्यापक विरोध/छापामारी जारी रखी और कई जगहों पर लड़ाई लड़ी? / Who continued widespread resistance after 1857 and fought in many places?",
     "options": {
-      "A": "Economic Survey",
-      "B": "Random social media posts",
-      "C": "Only cinema reviews",
-      "D": "Municipal tax bills"
+      "A": "Tatya Tope",
+      "B": "Chandrashekhar Azad (note: active later)",
+      "C": "Rani Lakshmibai",
+      "D": "Nana Sahib"
     },
-    "answer": ["A"]
+    "answer": ["A","C","D"]
   },
   {
     "id": 39,
-    "question": "किसे 2024–25 में अंतरराष्ट्रीय संगठन-शिखर सम्मेलन में बहुपक्षीय वित्त/ऊर्जा/कृषि पर चर्चा के संदर्भ में किंचित प्रभावी माना गया? / Which multilateral summit was influential on finance/energy/agriculture debates in 2024–25?",
+    "question": "1857 विद्रोह के अध्ययन/शोध के लिए प्रामाणिक स्रोतों में कौन-सी चीज़ें शामिल हैं? / Which are authentic sources for studying 1857?",
     "options": {
-      "A": "G20 (and related ministerial meetings)",
-      "B": "High school science fair",
-      "C": "Local music jam",
-      "D": "None"
+      "A": "Residency records, British dispatches, Indian eyewitness accounts",
+      "B": "आधुनिक नाटकीय फिल्मों के दृश्य (Modern film scenes)",
+      "C": "स्मृतिग्रंथ और स्थानीय कथाएं (Memoirs & local oral histories)",
+      "D": "कौटुंबिक गॉसिप (Family gossip)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 40,
-    "question": "निम्न में से कौन-सा तथ्य 2024–25 के करंट-अफ़ेयर्स में लागू है? / Which statement applies to 2024–25 current affairs?",
+    "question": "नीचे में से कौन-सा कथन सही है जब हम उत्तर प्रदेश की 1857 में भूमिका पर विचार करते हैं? / Which of the following is true regarding Uttar Pradesh's role in 1857?",
     "options": {
-      "A": "Major economies debated supply security and tech governance",
-      "B": "No international cooperation existed",
-      "C": "All countries had identical domestic policies",
-      "D": "Global diplomacy ceased"
+      "A": "UP (Awadh, Meerut, Kanpur, Jhansi) 1857 का मुख्य केन्द्र रहा और विद्रोह के कई निर्णायक मोर्चे यहाँ थे।",
+      "B": "UP का कोई प्रभाव नहीं था — विद्रोह केवल दक्षिण भारत तक सीमित रहा।",
+      "C": "Jhansi की रानी ने क्षेत्रीय नेतृत्व दिखाया और कई युद्ध लड़े।",
+      "D": "सबसे प्रमुख क्रांतिकारी सभी 1857 के बाद ही उभरे (All major revolutionaries emerged only after 1857)"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 41,
-    "question": "किसे 2024–25 में राष्ट्रीय और राज्य-स्तरीय बजट विश्लेषण में अक्सर प्राथमिकता के रूप में दिखाया गया? / What often appeared as a priority in national and state budget analyses in 2024–25?",
+    "question": "1857 के विद्रोह के दौरान कानपुर के विद्रोह का नेतृत्व किन-किन ने किया था?",
     "options": {
-      "A": "Committed expenditure control and capital outlay for infrastructure",
-      "B": "Only cultural parades with no budget",
-      "C": "Cutting all education spending",
-      "D": "No fiscal planning"
+      "A": "नाना साहेब",
+      "B": "तांत्या टोपे",
+      "C": "बख्त खान",
+      "D": "बेगम हज़रत महल"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 42,
-    "question": "निम्न में से कौन-सा वैश्विक संगठन व्यापार, स्वास्थ्य और शिक्षा के विभिन्न पहलुओं पर नीतिगत सहयोग के लिए जाना जाता है? / Which global organization is known for policy collaboration across trade, health and education?",
+    "question": "उत्तर प्रदेश में 1922 का प्रसिद्ध चौरी-चौरा कांड किन कारणों से घटित हुआ?",
     "options": {
-      "A": "United Nations family (UN agencies: WHO, UNESCO, UNCTAD etc.)",
-      "B": "Local sports club",
-      "C": "City library only",
-      "D": "None"
+      "A": "साइमन कमीशन के विरोध में",
+      "B": "असहयोग आंदोलन के दौरान पुलिस अत्याचार",
+      "C": "नमक सत्याग्रह",
+      "D": "खेती-किसानी से जुड़े कर वसूली"
     },
-    "answer": ["A"]
+    "answer": ["B", "D"]
   },
   {
     "id": 43,
-    "question": "किसे 2024–25 में भारत के लिए तकनीकी रणनीति के रूप में तेज़ी से उभरता हुआ माना गया? / Which technological strategy was emerging rapidly for India in 2024–25?",
+    "question": "राम प्रसाद बिस्मिल से संबंधित कौन-कौन से तथ्य सही हैं?",
     "options": {
-      "A": "AI adoption paired with regulation and skilling",
-      "B": "Only rotary phone revival",
-      "C": "Rejection of all digital payments",
-      "D": "No tech strategy"
+      "A": "वे काकोरी कांड के मुख्य नायक थे",
+      "B": "उनका संबंध हिंदुस्तान रिपब्लिकन एसोसिएशन से था",
+      "C": "उन्होंने 'सरफ़रोशी की तमन्ना' कविता लिखी",
+      "D": "उनका जन्म गोरखपुर जिले में हुआ था"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 44,
-    "question": "निम्न में से कौन-सी घटना 2024 में वैश्विक पुरस्कार-सूची (Nobel आदि) में विज्ञान/AI के योगदान के रूप में प्रमुख रही? / Which event in 2024 Nobel/awards list was notable for science/AI contributions?",
+    "question": "झांसी की रानी लक्ष्मीबाई से संबंधित सही कथन चुनें:",
     "options": {
-      "A": "Physics Nobel recognising work enabling machine learning",
-      "B": "Only culinary awards given",
-      "C": "No scientific awards in 2024",
-      "D": "Only fashion awards"
+      "A": "उन्होंने 1857 के विद्रोह में झांसी की रक्षा की",
+      "B": "उनका जन्म वाराणसी में हुआ था",
+      "C": "उनकी मृत्यु ग्वालियर में युद्ध के दौरान हुई",
+      "D": "वे काकोरी कांड से जुड़ी थीं"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 45,
-    "question": "किसे 2024–25 में अंतरराष्ट्रीय खेल/खिलाड़ियों के प्रदर्शन के संदर्भ में राष्ट्रीय नीतियों के लिये महत्वपूर्ण माना गया? / Which was considered significant for national policy in sports performance 2024–25?",
+    "question": "अशफ़ाक़ उल्ला खान के बारे में सही तथ्य कौन-से हैं?",
     "options": {
-      "A": "Investment in elite athlete development and sports infrastructure",
-      "B": "Only celebrations without training",
-      "C": "No role for policy in sports",
-      "D": "Banning all sporting events"
+      "A": "वे राम प्रसाद बिस्मिल के सहयोगी थे",
+      "B": "वे काकोरी कांड में शामिल थे",
+      "C": "उनका जन्म शाहजहांपुर में हुआ",
+      "D": "वे आज़ाद हिंद फौज के संस्थापक थे"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 46,
-    "question": "निम्न में से कौन-सा तथ्य Union Budget 2024–25 और State Budgets (जैसे UP) के विश्लेषण में स्पस्ट मिलता है? / Which fact is clear from analyzing Union and state budgets (like UP) for 2024–25?",
+    "question": "1857 में उत्तर प्रदेश के किन-किन शहरों ने विद्रोह में प्रमुख भूमिका निभाई?",
     "options": {
-      "A": "States manage committed expenditure while emphasising capital outlay growth",
-      "B": "States ignore fiscal discipline entirely",
-      "C": "States had zero revenue streams",
-      "D": "States abolished taxation"
+      "A": "मेरठ",
+      "B": "कानपुर",
+      "C": "लखनऊ",
+      "D": "अलीगढ़"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 47,
-    "question": "किसे 2024–25 में वैश्विक स्वास्थ्य नीति-ढांचे के संदर्भ में चर्चा का केंद्र माना गया? / What was central in global health policy discussions in 2024–25?",
+    "question": "निम्नलिखित में से किन आंदोलनों में उत्तर प्रदेश प्रमुख केंद्र रहा?",
     "options": {
-      "A": "Pandemic preparedness and strengthening WHO coordination",
-      "B": "Only sports medicine",
-      "C": "No health policy discussions",
-      "D": "Only local clinic openings"
+      "A": "असहयोग आंदोलन",
+      "B": "भारत छोड़ो आंदोलन",
+      "C": "नमक सत्याग्रह",
+      "D": "स्वदेशी आंदोलन (1905)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 48,
-    "question": "निम्न में से कौन-सा अंतरराष्ट्रीय संस्थान वैश्विक आर्थिक प्रक्षेपण और नीतिगत सलाह के लिए जाना जाता है? / Which international institution is known for global economic projections and policy advice?",
+    "question": "काकोरी कांड (1925) के बारे में सही कथन चुनें:",
     "options": {
-      "A": "International Monetary Fund (IMF)",
-      "B": "Local chamber of commerce only",
-      "C": "City council",
-      "D": "Neighborhood watch"
+      "A": "यह रेल डकैती की घटना थी",
+      "B": "इसका उद्देश्य अंग्रेज़ी खजाने को लूटना था",
+      "C": "यह उत्तर प्रदेश में हुई",
+      "D": "इसमें चंद्रशेखर आज़ाद गिरफ्तार हुए थे"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 49,
-    "question": "किसे 2024–25 में डेटा-आधारित नीति-निर्णय और अनुसंधान-रिपोर्टिंग के लिए अहम माना गया? / What was considered important for data-driven policymaking and research reporting in 2024–25?",
+    "question": "बेगम हज़रत महल के संदर्भ में सही कथन चुनें:",
     "options": {
-      "A": "Timely official statistics and budget documents (e.g., Economic Survey, Budget at a Glance)",
-      "B": "Only rumours",
-      "C": "Random blogs only",
-      "D": "Horoscopes"
+      "A": "उन्होंने लखनऊ में विद्रोह का नेतृत्व किया",
+      "B": "वे अवध के नवाब वाजिद अली शाह की पत्नी थीं",
+      "C": "उन्होंने अंग्रेजों से समझौता कर लिया था",
+      "D": "उन्होंने नेपाल में शरण ली थी"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 50,
-    "question": "निम्न में से कौन-सा मामला 2024–25 में वैश्विक सुरक्षा/डिप्लोमेसी चर्चाओं में बना रहा? / Which matter remained in global security/diplomacy talks in 2024–25?",
+    "question": "भारत छोड़ो आंदोलन (1942) के समय उत्तर प्रदेश में प्रमुख नेतृत्व किनके हाथों में था?",
     "options": {
-      "A": "Great power tensions (including diplomacy around Russia-Ukraine)",
-      "B": "Only inter-club rivalries",
-      "C": "No diplomatic interactions",
-      "D": "All nations merged"
+      "A": "जयप्रकाश नारायण",
+      "B": "डॉ. राम मनोहर लोहिया",
+      "C": "गांधी जी",
+      "D": "चंद्रशेखर आज़ाद"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 51,
-    "question": "किसे 2024–25 में भारत के आंतरिक-विकास और अंतरराष्ट्रीय भागीदारी के लिए एक समेकित प्राथमिकता माना गया? / What was an integrated priority for India’s internal development and international engagement in 2024–25?",
+    "question": "1857 के विद्रोह के दौरान अवध क्षेत्र में विद्रोही नेतृत्व किन-किन के पास था?",
     "options": {
-      "A": "Infrastructure-led growth combined with trade and tech partnerships",
-      "B": "Isolationist policies only",
-      "C": "Cutting all external ties",
-      "D": "Focus only on ancient crafts"
+      "A": "बेगम हज़रत महल",
+      "B": "मौलवी अहमदुल्लाह शाह",
+      "C": "तांत्या टोपे",
+      "D": "बख्त खान"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 52,
-    "question": "निम्न में से कौन-सा वैश्विक मंच आर्थिक पुनरुद्धार, निवेश और विकास पर बहुपक्षीय संवाद के लिए प्रचलित है? / Which global forum is prevalent for multilateral dialogue on economic recovery, investment and development?",
+    "question": "1857 के विद्रोह का तत्काल कारण किन में से था?",
     "options": {
-      "A": "G20",
-      "B": "Local book club",
-      "C": "Sports federation only",
-      "D": "No such forum"
+      "A": "सिपाहियों को नई एनफील्ड राइफल देना",
+      "B": "सैन्य वेतन में कटौती",
+      "C": "डॉक्ट्रिन ऑफ लैप्स नीति",
+      "D": "दिल्ली में अंग्रेज़ी हुकूमत का विरोध"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 53,
-    "question": "किसे 2024–25 में वैश्विक विज्ञान-समुदाय ने सक्रिय क्षेत्रों में से माना (उदा. AI, climate tech, battery research)? / Which were active scientific areas recognized by the global community in 2024–25?",
+    "question": "1857 के विद्रोह के दौरान बख्त खान की भूमिका क्या थी?",
     "options": {
-      "A": "AI, climate technology, battery & materials research",
-      "B": "Only candle making",
-      "C": "No active research areas",
-      "D": "Only medieval studies"
+      "A": "दिल्ली में विद्रोही फ़ौज का नेतृत्व",
+      "B": "अवध के नवाब के प्रधानमंत्री",
+      "C": "तोपखाने के अधिकारी",
+      "D": "अंग्रेजों से समझौता"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 54,
-    "question": "निम्न में से कौन-सा दस्तावेज UP Budget Analysis (PRS) जैसे स्रोतों में मिलता है और नीति-निर्णय को प्रभावित करता है? / Which document type appears in UP Budget Analysis (PRS) and influences policy?",
+    "question": "भारत छोड़ो आंदोलन 1942 के दौरान यूपी के किन जिलों में रेलवे लाइनों को नुकसान पहुँचाने की बड़ी घटनाएँ हुईं?",
     "options": {
-      "A": "Committed expenditure and revenue surplus/deficit estimates",
-      "B": "Celebrity gossip columns",
-      "C": "Random travel photos",
-      "D": "None"
+      "A": "बलिया",
+      "B": "आजमगढ़",
+      "C": "गाजीपुर",
+      "D": "इलाहाबाद"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 55,
-    "question": "किसे 2024–25 में अंतरराष्ट्रीय पुरस्कारों-सम्मानों ने विज्ञान और तकनीक के क्षेत्र में मान्यता दी (उदा. Nobel)? / Which international prizes/ceremonies recognized science & tech in 2024–25?",
+    "question": "गदर पार्टी के किन नेताओं का उत्तर प्रदेश से सीधा संबंध था?",
     "options": {
-      "A": "Nobel Prizes (Physics recognising ML foundations, 2024)",
-      "B": "Only local state fairs",
-      "C": "No prizes given for science",
-      "D": "Only culinary medals"
+      "A": "हरदयाल",
+      "B": "राम चंद्र",
+      "C": "राजा महेंद्र प्रताप",
+      "D": "श्यामजी कृष्ण वर्मा"
     },
-    "answer": ["A"]
+    "answer": ["B", "C"]
   },
   {
     "id": 56,
-    "question": "निम्न में से कौन-सा संकेतक एक देश/राज्य की आर्थिक नीति-लचीलापन दिखाने के लिए उपयोगी है? / Which indicator is useful to show fiscal flexibility of a country/state?",
+    "question": "काकोरी कांड के चार फाँसी पाए क्रांतिकारी कौन थे?",
     "options": {
-      "A": "Committed expenditure as % of revenue receipts",
-      "B": "Number of movie theatres",
-      "C": "Only number of festivals",
-      "D": "Phone brand preference"
+      "A": "राम प्रसाद बिस्मिल",
+      "B": "अशफ़ाक़ उल्ला खान",
+      "C": "राजेंद्र लाहिड़ी",
+      "D": "शचींद्रनाथ बख्शी"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 57,
-    "question": "किसे 2024–25 में विज्ञान-नीति के संदर्भ में वैश्विक स्तर पर मुख्य चिंता माना गया? / What was a major global science-policy concern in 2024–25?",
+    "question": "1857 में मेरठ की भूमिका के बारे में सही कथन चुनें:",
     "options": {
-      "A": "Responsible AI governance & safety",
-      "B": "Eliminating research completely",
-      "C": "No scientific issues existed",
-      "D": "Only art exhibitions"
+      "A": "यह विद्रोह का प्रारंभिक केंद्र था",
+      "B": "यहाँ सिपाहियों ने 10 मई को विद्रोह किया",
+      "C": "विद्रोह के तुरंत बाद दिल्ली की ओर कूच किया गया",
+      "D": "यहाँ नाना साहेब ने नेतृत्व किया"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 58,
-    "question": "निम्न में से कौन-सा तथ्य 2024–25 के करंट-अफेयर्स सेट में उपयुक्त है? / Which fact is appropriate in the 2024–25 current affairs set?",
+    "question": "स्वतंत्रता आंदोलन में बलिया जिले का योगदान किन घटनाओं से जुड़ा है?",
     "options": {
-      "A": "Multilateral forums (G20, COP processes, IMF/World Bank) continued shaping policy responses",
-      "B": "No multilateral activity existed",
-      "C": "Only national festivals mattered",
-      "D": "All countries adopted identical laws"
+      "A": "1942 में आज़ाद सरकार की घोषणा",
+      "B": "काकोरी कांड",
+      "C": "1857 विद्रोह",
+      "D": "साइमन कमीशन विरोध"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 59,
-    "question": "किसे 2024–25 में राष्ट्रीय-अन्तर्राष्ट्रीय स्तर पर प्रासंगिक माना गया—नीति और विज्ञान के अलावा—खेलों के संदर्भ में? / Apart from policy & science, what was relevant nationally/internationally in 2024–25 for sports?",
+    "question": "1857 के विद्रोह के दौरान लखनऊ में अंग्रेजों के खिलाफ मुख्य लड़ाई कहाँ लड़ी गई?",
     "options": {
-      "A": "Olympic performances and world-cup events influencing sports policy",
-      "B": "No sports events at all",
-      "C": "Only local gymkhana results",
-      "D": "Complete ban on sports"
+      "A": "रेज़ीडेंसी",
+      "B": "किंग जॉर्ज मेडिकल कॉलेज",
+      "C": "बड़ा इमामबाड़ा",
+      "D": "छोटा इमामबाड़ा"
     },
     "answer": ["A"]
   },
   {
     "id": 60,
-    "question": "निम्न में से कौन-सी व्यवहारिक सिफारिश (policy implication) 2024–25 के घटनाक्रमों से निकाली जा सकती है? / Which practical policy implication can be drawn from 2024–25 events?",
+    "question": "राम प्रसाद बिस्मिल की विचारधारा किन विचारधाराओं से प्रभावित थी?",
     "options": {
-      "A": "Balance between CapEx-led growth, social protection, and regulatory frameworks for tech/energy",
-      "B": "Total stop to public investment",
-      "C": "No need for data or budgets",
-      "D": "Isolate from global cooperation entirely"
+      "A": "अरबी-फ़ारसी साहित्य",
+      "B": "आर्य समाज",
+      "C": "क्रांतिकारी राष्ट्रवाद",
+      "D": "अहिंसावादी आंदोलन"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 61,
+    "question": "1857 के विद्रोह के दौरान झांसी के सहयोगी राज्य कौन-कौन थे?",
+    "options": {
+      "A": "ग्वालियर",
+      "B": "कालपी",
+      "C": "सागर",
+      "D": "लखनऊ"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 62,
+    "question": "भारत छोड़ो आंदोलन के दौरान यूपी में भूमिगत गतिविधियों में किनका योगदान प्रमुख था?",
+    "options": {
+      "A": "जयप्रकाश नारायण",
+      "B": "डॉ. राम मनोहर लोहिया",
+      "C": "विनोबा भावे",
+      "D": "अच्युत पटवर्धन"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 63,
+    "question": "1857 के विद्रोह में बरेली के नेता कौन थे?",
+    "options": {
+      "A": "खान बहादुर खान",
+      "B": "मौलवी अहमदुल्लाह शाह",
+      "C": "नाना साहेब",
+      "D": "तांत्या टोपे"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 64,
+    "question": "चंद्रशेखर आज़ाद के बारे में सही कथन चुनें:",
+    "options": {
+      "A": "उनका जन्म उन्नाव जिले में हुआ था",
+      "B": "वे हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन से जुड़े थे",
+      "C": "वे अल्फ्रेड पार्क में शहीद हुए",
+      "D": "वे काकोरी कांड के समय जेल में थे"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 65,
+    "question": "1857 के विद्रोह का दमन करने में ब्रिटिश सेना की रणनीतियों में क्या शामिल था?",
+    "options": {
+      "A": "विभाजित करो और राज करो",
+      "B": "स्थानीय राजाओं से गठबंधन",
+      "C": "तोप से उड़ा देना",
+      "D": "विद्रोहियों को अफ्रीका भेजना"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 66,
+    "question": "काकोरी कांड के मुकदमे में किन क्रांतिकारियों को आजीवन कारावास की सजा मिली?",
+    "options": {
+      "A": "सचिंद्रनाथ सान्याल",
+      "B": "राजकुमार शुक्ल",
+      "C": "लालबहादुर शास्त्री",
+      "D": "पं. गोविंद बल्लभ पंत"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 67,
+    "question": "1857 के विद्रोह के दौरान इलाहाबाद में प्रमुख घटनाएँ कौन-सी थीं?",
+    "options": {
+      "A": "विद्रोहियों द्वारा यूरोपीय निवासियों की हत्या",
+      "B": "अंग्रेजी कोषागार पर कब्जा",
+      "C": "विद्रोह का पूर्ण नियंत्रण विद्रोहियों के पास आना",
+      "D": "दिल्ली के सम्राट के लिए निष्ठा की घोषणा"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 68,
+    "question": "उत्तर प्रदेश में स्वतंत्रता संग्राम के दौरान सबसे पहले संगठित किसान आंदोलन कहाँ हुआ?",
+    "options": {
+      "A": "प्रयागराज",
+      "B": "बस्ती",
+      "C": "प्रतापगढ़",
+      "D": "हरदोई"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 69,
+    "question": "1857 के विद्रोह में कौन-कौन से वर्ग सक्रिय रूप से शामिल थे?",
+    "options": {
+      "A": "सिपाही",
+      "B": "जमींदार",
+      "C": "किसान",
+      "D": "व्यापारी वर्ग"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 70,
+    "question": "राम प्रसाद बिस्मिल की कविताओं में प्रमुख विषय क्या थे?",
+    "options": {
+      "A": "देशभक्ति",
+      "B": "आध्यात्मिकता",
+      "C": "अहिंसा",
+      "D": "क्रांति"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 71,
+    "question": "1857 के विद्रोह में अलीगढ़ की भूमिका के बारे में सही कथन चुनें:",
+    "options": {
+      "A": "यह एक सैन्य छावनी थी",
+      "B": "यहाँ विद्रोह जल्दी दबा दिया गया",
+      "C": "यहाँ के विद्रोही दिल्ली की ओर बढ़े",
+      "D": "यहाँ बेगम हज़रत महल ने नेतृत्व किया"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 72,
+    "question": "1920 के दशक में यूपी में किन-किन ने किसान आंदोलनों में भाग लिया?",
+    "options": {
+      "A": "बाबा रामचंद्र",
+      "B": "मदारी पासी",
+      "C": "सूर्यकांत त्रिपाठी 'निराला'",
+      "D": "जवाहरलाल नेहरू"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 73,
+    "question": "1857 के विद्रोह के बाद अवध में अंग्रेजों ने कौन-से कदम उठाए?",
+    "options": {
+      "A": "जमींदारी प्रथा को मजबूत किया",
+      "B": "विद्रोही परिवारों की ज़मीन जब्त की",
+      "C": "अवध को सीधे ब्रिटिश शासन के अधीन किया",
+      "D": "नवाब वाजिद अली शाह को पुनः सत्ता दी"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 74,
+    "question": "काकोरी कांड में शामिल लेकिन फाँसी से बच गए नेता कौन थे?",
+    "options": {
+      "A": "चंद्रशेखर आज़ाद",
+      "B": "भगत सिंह",
+      "C": "सचिंद्रनाथ सान्याल",
+      "D": "राजेंद्र लाहिड़ी"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 75,
+    "question": "1857 के विद्रोह का सबसे बड़ा सामाजिक-आर्थिक कारण कौन-सा था?",
+    "options": {
+      "A": "जमींदारी प्रथा",
+      "B": "नौकरी से असंतोष",
+      "C": "भारी कराधान",
+      "D": "धार्मिक हस्तक्षेप"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 76,
+    "question": "भारत छोड़ो आंदोलन के दौरान बलिया में 'अस्थायी सरकार' का नेतृत्व किसने किया?",
+    "options": {
+      "A": "चittu पांडेय",
+      "B": "राजेंद्र प्रसाद",
+      "C": "जयप्रकाश नारायण",
+      "D": "राम मनोहर लोहिया"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 77,
+    "question": "1857 में अवध के विद्रोही किसके नेतृत्व में लखनऊ में संगठित हुए?",
+    "options": {
+      "A": "बेगम हज़रत महल",
+      "B": "मौलवी अहमदुल्लाह शाह",
+      "C": "तांत्या टोपे",
+      "D": "बख्त खान"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 78,
+    "question": "उत्तर प्रदेश में आज़ाद हिंद फौज के समर्थन में किस वर्ष बड़े जनसमर्थन कार्यक्रम हुए?",
+    "options": {
+      "A": "1942",
+      "B": "1945",
+      "C": "1930",
+      "D": "1925"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 79,
+    "question": "1857 में शाहजहांपुर के विद्रोह का नेतृत्व किनके पास था?",
+    "options": {
+      "A": "अशफ़ाक़ उल्ला खान",
+      "B": "नाना साहेब",
+      "C": "मौलवी अहमदुल्लाह शाह",
+      "D": "बख्त खान"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 80,
+    "question": "उत्तर प्रदेश में स्वतंत्रता संग्राम की प्रमुख गुप्त प्रेसें कौन-सी थीं?",
+    "options": {
+      "A": "स्वराज प्रेस, कानपुर",
+      "B": "आजाद प्रेस, झांसी",
+      "C": "प्रभा प्रेस, वाराणसी",
+      "D": "गणेश प्रेस, इलाहाबाद"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 81,
+    "question": "Assertion (A): 1857 के विद्रोह में अवध क्षेत्र का योगदान निर्णायक था।\nReason (R): अवध में अंग्रेज़ों की ज़मींदारी नीति और बेगम हज़रत महल के नेतृत्व ने जनता को संगठित किया।\nसही विकल्प चुनें:",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 82,
+    "question": "Assertion (A): मंगल पांडे की घटना ने 1857 के विद्रोह की चिंगारी सुलगाई।\nReason (R): उन्होंने ग्रीस-लेपित कारतूसों का उपयोग करने से इंकार किया और अंग्रेज़ अफ़सर पर गोली चलाई।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 83,
+    "question": "निम्नलिखित में से कौन-सी घटनाएँ उत्तर प्रदेश में 1920–1942 के बीच हुईं? (2024 UPSC डेटा अनुसार)",
+    "options": {
+      "A": "चौरी-चौरा घटना",
+      "B": "काकोरी कांड",
+      "C": "भारत छोड़ो आंदोलन",
+      "D": "साइमन कमीशन का आगमन"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 84,
+    "question": "Assertion (A): चंद्रशेखर आज़ाद ने कभी अंग्रेज़ों के हाथों आत्मसमर्पण नहीं किया।\nReason (R): 1931 में इलाहाबाद के अल्फ्रेड पार्क में उन्होंने स्वयं को गोली मार ली।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 85,
+    "question": "1857 के विद्रोह में उत्तर प्रदेश के कौन-से स्थान अंग्रेजों के पुनः नियंत्रण में आने में सबसे अधिक समय लगे? (विश्लेषण-आधारित)",
+    "options": {
+      "A": "झांसी",
+      "B": "लखनऊ",
+      "C": "कानपुर",
+      "D": "बरेली"
+    },
+    "answer": ["B", "D"]
+  },
+  {
+    "id": 86,
+    "question": "Assertion (A): काकोरी कांड का मुख्य उद्देश्य हथियार खरीदने के लिए धन जुटाना था।\nReason (R): हिंदुस्तान रिपब्लिकन एसोसिएशन उस समय हथियारों की भारी कमी से जूझ रही थी।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 87,
+    "question": "निम्न में से किन नेताओं का जन्म वर्तमान उत्तर प्रदेश की सीमाओं के भीतर हुआ था? (सही सभी विकल्प चुनें)",
+    "options": {
+      "A": "अशफ़ाक़ उल्ला खान",
+      "B": "सुभाष चंद्र बोस",
+      "C": "राम प्रसाद बिस्मिल",
+      "D": "चंद्रशेखर आज़ाद"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 88,
+    "question": "Assertion (A): चौरी-चौरा कांड के बाद गांधीजी ने असहयोग आंदोलन वापस ले लिया।\nReason (R): गांधीजी हिंसा के किसी भी रूप के विरोधी थे और इस घटना में पुलिसकर्मियों की हत्या हुई थी।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 89,
+    "question": "1857 के विद्रोह में उत्तर प्रदेश के विद्रोही केंद्रों को उनके नेताओं से मिलाएँ:\n1. बरेली  \n2. कानपुर  \n3. लखनऊ  \n4. झांसी\n\nA. नाना साहेब  \nB. बेगम हज़रत महल  \nC. खान बहादुर खान  \nD. रानी लक्ष्मीबाई",
+    "options": {
+      "A": "1–C, 2–A, 3–B, 4–D",
+      "B": "1–B, 2–A, 3–C, 4–D",
+      "C": "1–C, 2–B, 3–A, 4–D",
+      "D": "1–A, 2–C, 3–B, 4–D"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 90,
+    "question": "Assertion (A): बेगम हज़रत महल ने नेपाल में निर्वासन के दौरान भी अंग्रेजों के खिलाफ प्रचार जारी रखा।\nReason (R): वे 1857 के बाद अंग्रेजों से पूरी तरह समझौता कर चुकी थीं।",
+    "options": {
+      "A": "A सही है लेकिन R गलत है",
+      "B": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "C": "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं करता",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 91,
+    "question": "Assertion (A): 1857 के विद्रोह को सिर्फ सैन्य बगावत मानना अनुचित होगा।\nReason (R): विद्रोह में धार्मिक, सामाजिक, आर्थिक और राजनीतिक कारणों का जटिल संयोजन था।\nसही विकल्प चुनें:",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 92,
+    "question": "Assertion (A): 'Doctrine of Lapse' नीतियों ने 1857 से ठीक पहले कई रियासतों को प्रभावित किया।\nReason (R): इन नीतियों ने रियासतों के उत्तराधिकार और सत्ता के मामलों में हस्तक्षेप बढ़ाया, जिससे स्थानीय शासकों में असंतोष बढ़ा।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 93,
+    "question": "निम्न में से कौन-से तत्व 1857 को 'नैश्नल मूवमेंट' की ओर ले जाने में योगदान कर सकते हैं? (सही सभी चुनें)",
+    "options": {
+      "A": "राजपूत/ठाकुरों द्वारा क्षेत्रीय प्रतिरोध",
+      "B": "सिपाहियों और स्थानीय जनता का अस्थायी गठबंधन",
+      "C": "आधुनिक राष्ट्रीय विचारों का व्यापक प्रचार",
+      "D": "मुगल सम्राट को प्रतीकात्मक नेता मानना"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 94,
+    "question": "Assertion (A): लखनऊ रेजीडेंसी की घेराबंदी ने ब्रिटिश पॉलिसी में तत्काल बदलावों को प्रेरित किया।\nReason (R): घेराबंदी की हिंसा और ब्रिटिश नागरिकों की बड़ी संख्या में हताहतियों ने लंदन को कड़े सैन्य और प्रशासकीय उपायों के लिए प्रेरित किया।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 95,
+    "question": "निम्नलिखित में से किन कारणों से 1857 के विद्रोह का अध्ययन आज भी द्विविधा उत्पन्न करता है? (सही सभी चुनें)",
+    "options": {
+      "A": "विभिन्न स्रोतों (ब्रिटिश, भारतीय, स्थानीय मौखिक) में भिन्न वृतांत",
+      "B": "केंद्रीकृत राष्ट्रीयता बनाम स्थानीय/क्षेत्रीय उद्देश्यों की बहस",
+      "C": "अंतरराष्ट्रीय प्रभावों का पूर्ण अभाव",
+      "D": "यानि यह सिर्फ़ एक सैन्य बगावत था"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 96,
+    "question": "Assertion (A): तात्या टोपे का युद्धक कला में योगदान मुख्यतः गतिशील गुरिल्ला-युद्ध के रूप में देखा गया।\nReason (R): उन्होंने खुला मैदान युद्ध छोड़कर मोबाइल छापामारी, ग़दरनुमा लड़ाइयाँ और भागदौड़ वाली रणनीतियाँ अपनाईं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 97,
+    "question": "निम्न में से किन-किन पहलुओं ने उत्तर प्रदेश में 1857 के विद्रोह को विशेष रूप से तीव्र बनाया? (सही सभी चुनें)",
+    "options": {
+      "A": "अवध का हालिया विलय और नवाब का निष्कासन",
+      "B": "कैंटोनमेंटों में अधिक तादाद में भारतीय सैनिकों की तैनाती",
+      "C": "समुद्री तटों पर विद्रोह का प्रभाव",
+      "D": "स्थानीय जमींदारों (तलुकार) का सक्रिय समर्थन/विरोध"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 98,
+    "question": "Assertion (A): रानी लक्ष्मीबाई का नेतृत्व केवल प्रतीकात्मक था और वास्तविक सैन्य योग्यता न के बराबर थी।\nReason (R): ऐतिहासिक स्रोतों में उनके घुड़सवार युद्ध कौशल और मोर्चा संचालन का उल्लेख मिलता है।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 99,
+    "question": "निम्नलिखित कथनों में से कौन-सा/से 1857 के बाद ब्रिटिश नीतिगत बदलाव के उदाहरण हैं? (सही सभी चुनें)",
+    "options": {
+      "A": "ईस्ट इंडिया कंपनी के शासकीय अधिकारों का समाप्त होना",
+      "B": "भारतीय सिपाहियों के भर्ती पैटर्न में बदलाव",
+      "C": "ब्रिटिश ने सभी भारतीय शासकों को सशक्त किया",
+      "D": "मिश्रित प्रशासनिक सुधारों और निगरानी तंत्र का निर्माण"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 100,
+    "question": "Assertion (A): काकोरी कांड को केवल डाक-डकैती नहीं कहा जा सकता क्योंकि उसका लक्ष्य राजनैतिक था।\nReason (R): काकोरी का उद्देश्य क्रांतिकारियों के लिए आर्थिक एवं संगठनात्मक सहायता जुटाना और ब्रिटिश अर्थव्यवस्था को प्रत्यक्ष क्षति पहुँचाना था।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 101,
+    "question": "निम्न में से किन-किन कारणों ने उत्तर प्रदेश में स्वतंत्रता आंदोलन के बाद चरणबद्ध राजनैतिक, सामाजिक परिवर्तन प्रेरित किए? (सही सभी चुनें)",
+    "options": {
+      "A": "कानूनी और कर-नीतियों में परिवर्तन",
+      "B": "स्थानीय नेतृत्व का राष्ट्रीय मंच पर उभरना",
+      "C": "समूची अर्थव्यवस्था का तत्क्षण स्वदेशीकरण",
+      "D": "शैक्षिक पुनर्गठन और सांस्कृतिक जागरण"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 102,
+    "question": "Assertion (A): 1857 के विद्रोह के अध्ययन में 'मौखिक इतिहास' (oral histories) व्यावहारिक और उपयोगी स्रोत हैं।\nReason (R): मौखिक कथाएँ स्थानीय घटनाक्रम, महिलाओं/निहित समूहों की भूमिकाओं और अनुपस्थित दस्तावेज़ों की परतों को प्रकट करती हैं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 103,
+    "question": "निम्नलिखित में से कौन-से तर्क यह दर्शाते हैं कि 1857 ने 'ब्रिटिश राज' की प्रकृति बदल दी? (सही सभी चुनें)",
+    "options": {
+      "A": "प्रत्यक्ष ताज शासन की स्थापना (Crown rule)",
+      "B": "ब्रिटिश नीतियों का नरम पड़ जाना",
+      "C": "अधिक सैन्य नियंत्रण और संशोधित भर्ती नीतियाँ",
+      "D": "प्रशासनिक विन্যাস और सूक्ष्म-नियंत्रण में वृद्धि"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 104,
+    "question": "Assertion (A): बेगम हज़रत महल की भूमिका को केवल 'स्थानीय विद्रोही महिला' तक सीमित नहीं किया जाना चाहिए।\nReason (R): उन्होंने नेताओं का समन्वय किया, लखनऊ में प्रतिरोध संगठित किया और बाद में देशभक्ति के प्रतीक के रूप में राजनीतिक स्मृति में जगह पायीं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 105,
+    "question": "निम्न में से किन-किन घटनाओं को उत्तर प्रदेश में 20वीं सदी के आरम्भिक वर्षों में राजनैतिक सक्रियता बढ़ाने वाला कारक माना जा सकता है? (सही सभी चुनें)",
+    "options": {
+      "A": "काकोरी (1925) और उसके बाद की क्रांतिकारी गतिविधियाँ",
+      "B": "ग्राम स्तर पर कांग्रेस और किसान आंदोलनों का प्रसार",
+      "C": "अंग्रेज़ी शिक्षा का पूर्ण बहिष्कार",
+      "D": "देशी प्रेस और गुप्त प्रेस का विकास"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 106,
+    "question": "Assertion (A): 1857 के विद्रोह ने औपनिवेशिक सैन्य संरचना में एक दीर्घकालिक अविश्वास पैदा किया।\nReason (R): विद्रोह के बाद ब्रिटिश ने सेना में 'नफ़्सी' भर्ती (communal balancing) और 'रिप्रेसिव' प्रावधान लागू किए।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 107,
+    "question": "निम्न में से किन-किन स्रोतों पर आधारित तुलनात्मक अध्ययन 1857 का बहु-पक्षीय चित्र प्रस्तुत कर सकता है? (सही सभी चुनें)",
+    "options": {
+      "A": "ब्रिटिश सैन्य रिपोर्ट और संवाद",
+      "B": "भारतीय स्वतंत्र संस्मरण और अख़बार",
+      "C": "स्थानीय मौखिक परंपराएँ और लोककथाएँ",
+      "D": "आधुनिक नाटकीय फिल्में और उपन्यास"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 108,
+    "question": "Assertion (A): 1857 के विद्रोह की स्मृति-निर्माण (memorialization) में राज्य की भूमिका संदर्भानुसार बदलती रही है।\nReason (R): विभिन्न राजनीतिक-ऐतिहासिक कालों में स्मारक, पाठ्य-पुस्तकें और सार्वजनिक कार्यक्रम अलग-अलग अर्थ-निर्धारण कर चुके हैं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 109,
+    "question": "निम्न में से कौन-सा तर्क यह दर्शाता है कि 1857 का विद्रोह पूरे भारत में संतुलित/समान रूप से प्रसारित नहीं था? (सही सभी चुनें)",
+    "options": {
+      "A": "विद्रोह के केंद्र विशेष रूप से उत्तरी और पूर्वी प्रान्तों में थे",
+      "B": "दक्षिण और पश्चिम में व्यवस्थित राष्ट्रीय विद्रोह कम था",
+      "C": "सभी रियासतें और प्रांत समान रूप से शामिल थीं",
+      "D": "क्षेत्रीय राजनीति और स्थानीय नेतृत्व का प्रभाव भिन्न था"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 110,
+    "question": "Assertion (A): काकोरी कांड तथा 1857 दोनों में 'कानूनी दंड' का उपयोग ब्रिटिश प्रशासन द्वारा क्रांतिकारियों को रोकने के लिए किया गया।\nReason (R): ब्रिटिश अदालतों ने कठोर सज़ाएँ दीं और कई अभियुक्तों को सार्वजनिक रूप से दंडित किया गया ताकि अन्यायियों में भय उत्पन्न हो।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 111,
+    "question": "निम्न में से कौन-से तत्व 1857 के विद्रोह के देसी-तर्क (indigenous rationale) के हिस्से रहे? (सही सभी चुनें)",
+    "options": {
+      "A": "धार्मिक आज्ञाओं का उल्लंघन (perceived)",
+      "B": "राजनैतिक स्वायत्तता की चाह",
+      "C": "बाहरी साम्राज्यवादी शक्ति का समर्थन",
+      "D": "स्थानीय सामाजिक अनुशासन का बचाव"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 112,
+    "question": "Assertion (A): काकोरी तथा बाद की क्रांतिकारी घटनाओं ने ग्रामीण उत्तर प्रदेश में युवा राजनीतिक सक्रियता बढ़ाई।\nReason (R): ये घटनाएँ अध्ययन, साहित्य और लोक-यादों के माध्यम से प्रेरणा का स्रोत बनीं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 113,
+    "question": "निम्न में से कौन-सी नीति/प्रथा 1857 के बाद ब्रिटिश प्रशासन ने अपनाई ताकि पुनरावृत्ति रोकी जा सके? (सही सभी चुनें)",
+    "options": {
+      "A": "प्रिंसीपल ऑफ़ कम्युनल बैलेंसिंग — सेना में समुदायों का संतुलन",
+      "B": "रियासतों को और अधिक स्वायत्तता देना",
+      "C": "लोक-नेताओं के साथ अधिक गठबंधन",
+      "D": "सेंसरशिप/प्रेस नियंत्रण में कड़ाई"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 114,
+    "question": "Assertion (A): 1857 के विद्रोह की महिलाएँ (जैसे बेगम हज़रत महल, रानी लक्ष्मीबाई) केवल पुरुष नेतृत्व का समर्थन करने वाली सहायक थीं।\nReason (R): ऐतिहासिक दस्तावेज़ उनसे सक्रिय सैन्य और प्रशासनिक भूमिकाएँ भी दर्शाते हैं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 115,
+    "question": "निम्नलिखित में से कौन-से तर्क यह दर्शाते हैं कि 1857 का विद्रोह आधुनिक राष्ट्रीयता की ओर पहला कदम था? (सही सभी चुनें)",
+    "options": {
+      "A": "ब्रिटिश वर्चस्व के खिलाफ साझा असंतोष का उदय",
+      "B": "एकल व पूर्ण रूप से समन्वित राष्ट्रीय नेतृत्व का अभाव",
+      "C": "प्रतीकात्मक नेता (मुगल सम्राट) के तहत विभिन्न समुदायों का अस्थायी एकीकरण",
+      "D": "सभी क्षेत्रीय संघर्षों का तत्काल समापन"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 116,
+    "question": "Assertion (A): 1857 के विद्रोह के सन्दर्भ में प्रासंगिकता आज भी बनी हुई है क्योंकि यह औपनिवेशिक नीतियों का पहला बड़ा विरोध था।\nReason (R): 21वीं सदी में भी यह आंदोलन इतिहासकारों तथा सार्वजनिक स्मृति नीतियों के लिए स्रोत बना हुआ है।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A गलत है लेकिन R सही है"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 117,
+    "question": "निम्न में से किन कारणों से उत्तर प्रदेश का 1857 में भू-राजनीतिक महत्व बढ़ गया था? (सही सभी चुनें)",
+    "options": {
+      "A": "राजमार्ग एवं रेल मार्गों का संगम",
+      "B": "कई रियासतों और सांस्कृतिक-धार्मिक केंद्रों का होना",
+      "C": "दक्षिणी समुद्री डोमेन का केंद्रीय नियंत्रण",
+      "D": "कैंटोनमेंटों में ब्रिटिश व भारतीय सैनिकों की निर्णायक उपस्थिति"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 118,
+    "question": "Assertion (A): 1857 के विद्रोह के बाद ब्रिटिशों ने संवैधानिक सुधारों की तत्काल शुरुआत कर दी।\nReason (R): विद्रोह के बाद ही व्यापक रूप से भारतीय प्रतिनिधित्व बढ़ाने वाली नीतियाँ लागू कर दीं गईं।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A और R दोनों गलत हैं"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 119,
+    "question": "निम्नलिखित में से कौन-सी रणनीतियाँ 1857 के विद्रोहियों द्वारा अपनायीं गयीं जो आधुनिक gerilla/insurgent युद्ध-सिद्धान्तों से मेल खाती हैं? (सही सभी चुनें)",
+    "options": {
+      "A": "संघटनात्मक गतिशीलता और आश्रय-स्थल बदलना",
+      "B": "अप्रत्यक्ष एवं संकुचित आपूर्ति लाइनों पर आक्रमण",
+      "C": "युद्ध में भारी तोपखाने का एकमात्र प्रयोग",
+      "D": "स्थानीय समर्थन-पठ का उपयोग (food, shelter, intelligence)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 120,
+    "question": "Assertion (A): 1857 विद्रोह की ऐतिहासिक व्याख्या में 'पोस्ट-कोलोनियल' दृष्टिकोण ने नई अंतर्दृष्टि दी है।\nReason (R): पोस्ट-कोलोनियल अध्ययन ने विद्रोह के स्थानीय अनुभवों, स्मृति और सामर्थ्य की बहुलता को उजागर किया है।",
+    "options": {
+      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
+      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
+      "C": "A सही है लेकिन R गलत है",
+      "D": "A और R दोनों गलत हैं"
     },
     "answer": ["A"]
   }
