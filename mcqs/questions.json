@@ -1,1322 +1,665 @@
 [
   {
     "id": 1,
-    "question": "1857 का विद्रोह किस घटना/श्रेणी के रूप में अक्सर वर्णित होता है? / How is the 1857 uprising commonly described?",
+    "question": "राजा राम मोहन राय का मुख्य उद्देश्य क्या था? / What was the main objective of Raja Ram Mohan Roy?",
     "options": {
-      "A": "पहला स्वतंत्रता संग्राम (First War of Independence)",
-      "B": "सिपाही बगावत (Sepoy Mutiny)",
-      "C": "रिजनल किसान आंदोलन (Regional Peasant Movement)",
-      "D": "औद्योगिक श्रमिक हड़ताल (Industrial Workers' Strike)"
+      "A": "सती प्रथा का उन्मूलन / Abolition of Sati",
+      "B": "ब्रह्म समाज की स्थापना / Establishment of Brahmo Samaj",
+      "C": "जातिवाद को बढ़ावा देना / Promoting Caste System",
+      "D": "अंग्रेज़ों के साथ मिलकर राज करना / Collaborating with British"
     },
-    "answer": ["A","B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 2,
-    "question": "नीचे किस-किस स्थान को 1857 के विद्रोह के प्रमुख केंद्र माना जाता है? / Which of the following were main centres of the 1857 revolt?",
+    "question": "ब्रह्म समाज की कौन-सी विशेषता सही है? / Which of the following are characteristics of Brahmo Samaj?",
     "options": {
-      "A": "Meerut",
-      "B": "Lucknow",
-      "C": "Kolkata",
-      "D": "Kanpur"
+      "A": "वेदों का साक्षात्कार करना / Accepting authority of Vedas",
+      "B": "एकेश्वरवाद पर विश्वास / Belief in Monotheism",
+      "C": "सती प्रथा का समर्थन / Supporting Sati Practice",
+      "D": "धार्मिक सुधारों पर जोर / Emphasis on Religious Reforms"
     },
-    "answer": ["A","B","D"]
+    "answer": ["B", "D"]
   },
   {
     "id": 3,
-    "question": "‘1857 के विद्रोह’ का तत्काल सरल कारण किसको माना जाता है? / Which immediate cause is commonly cited for the 1857 rebellion?",
+    "question": "आर्य समाज की स्थापना किसने और कब की? / Who founded Arya Samaj and when?",
     "options": {
-      "A": "Enfield rifle cartridges controversy (greased cartridges)",
-      "B": "भूमिहीन किसानों का कर विरोध (Peasant land tax protest)",
-      "C": "ब्रिटिश-प्रशासनिक भ्रष्टाचार (British administrative corruption)",
-      "D": "रेलवे निर्माण के चलते विस्थापन (Displacement due to railways)"
+      "A": "स्वामी दयानंद सरस्वती, 1875 / Swami Dayanand Saraswati, 1875",
+      "B": "महात्मा गांधी, 1920 / Mahatma Gandhi, 1920",
+      "C": "ज्वाला प्रसाद शर्मा, 1890 / Jwala Prasad Sharma, 1890",
+      "D": "गोपाल कृष्ण गोखले, 1905 / Gopal Krishna Gokhale, 1905"
     },
     "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "नाना साहब किस स्थान से संबंधित थे और उन्होंने किस शहर पर प्रमुख प्रभाव डाला? / Nana Sahib was associated with which region and influenced which city prominently?",
+    "question": "प्रार्थना समाज का मुख्य केंद्र कहाँ था? / What was the main center of Prarthana Samaj?",
     "options": {
-      "A": "Kanpur",
-      "B": "Meerut",
-      "C": "Lucknow",
-      "D": "Jhansi"
+      "A": "कोलकाता / Kolkata",
+      "B": "मुंबई / Mumbai",
+      "C": "पुणे / Pune",
+      "D": "दिल्ली / Delhi"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "रानी लक्ष्मीबाई (Rani of Jhansi) के बारे में सही-गलत चुनें: (1) वे झांसी की रानी थीं, (2) उन्होंने अंग्रेजों के खिलाफ 1858 में भी लड़ाई की। / Select correct statements about Rani Lakshmibai:",
+    "question": "थियोसोफिकल सोसाइटी का उद्देश्य क्या था? / What was the objective of Theosophical Society?",
     "options": {
-      "A": "वे झांसी की रानी थीं (She was Rani of Jhansi)",
-      "B": "वे 1857-58 के विद्रोह में अग्रणी सैन्य नेता रहीं (She was a leading military figure in 1857-58)",
-      "C": "उनकी मृत्यु 1920 में हुई थी (She died in 1920)",
-      "D": "वे अंग्रेजों के साथ समझौता कर बैठ गईं (She made a settlement with British)"
+      "A": "धार्मिक रहस्यों की खोज / Investigation of religious mysteries",
+      "B": "अशांत क्षेत्रों में शिक्षा फैलाना / Spreading education in conflict zones",
+      "C": "अंधविश्वास को बढ़ावा देना / Promoting superstitions",
+      "D": "धार्मिक सहिष्णुता और एकता / Religious tolerance and unity"
     },
-    "answer": ["A","B"]
+    "answer": ["A", "D"]
   },
   {
     "id": 6,
-    "question": "Meerut का 1857 में क्या महत्व था? / What was Meerut's significance in 1857?",
+    "question": "अलीगढ़ आंदोलन का नेतृत्व किसने किया? / Who led the Aligarh Movement?",
     "options": {
-      "A": "विद्रोह की शुरुआत के लिए प्रमुख स्थल (Major flashpoint where revolt began)",
-      "B": "ब्रिटिश गवर्नर का निवास (Residence of British Governor)",
-      "C": "नौसेना का आधार (Naval base)",
-      "D": "वाणिज्यिक बंदरगाह (Commercial port)"
+      "A": "मौलाना अबुल कलाम आज़ाद / Maulana Abul Kalam Azad",
+      "B": "सर सैयद अहमद खान / Sir Syed Ahmed Khan",
+      "C": "बशीर उद-दीन / Basheer Uddin",
+      "D": "मोहम्मद अली जिन्ना / Mohammad Ali Jinnah"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "किस घटना के बाद दिल्ली पर विद्रोहियों का कब्ज़ा हुआ और इसे प्रतीकात्मक रूप से कौन-सा बदलाव माना जाता है? / After which event did rebels take Delhi and what symbolic change did it represent?",
+    "question": "महिला सुधार आंदोलन के तहत कौन से मुद्दे प्रमुख थे? / Which issues were prominent in the Women Reform Movement?",
     "options": {
-      "A": "दिल्ली पर काबू — शाह की सत्ता में चुनौती (Capture of Delhi — challenge to Mughal/imperial authority)",
-      "B": "दिल्ली पर काबू — ब्रिटिश संसद का पतन (Capture of Delhi — fall of British Parliament)",
-      "C": "दिल्ली पर काबू — व्यापारिक हानि (Capture of Delhi — commercial loss)",
-      "D": "दिल्ली पर काबू — नोकरशाही उभरना (Capture of Delhi — bureaucratic rise)"
+      "A": "बाल विवाह का विरोध / Opposition to child marriage",
+      "B": "महिला शिक्षा का प्रचार / Promotion of women's education",
+      "C": "सती प्रथा का समर्थन / Support of Sati practice",
+      "D": "विवाह विच्छेद की अनुमति / Legalizing divorce"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 8,
+    "question": "राजा राम मोहन राय ने किस वर्ष में ब्रह्म समाज की स्थापना की? / In which year did Raja Ram Mohan Roy establish Brahmo Samaj?",
+    "options": {
+      "A": "1828",
+      "B": "1857",
+      "C": "1885",
+      "D": "1905"
     },
     "answer": ["A"]
   },
   {
-    "id": 8,
-    "question": "1857 के विद्रोह के लंबी अवधि के प्रमुख नतीजों में कौन-कौन से शामिल हैं? / Which long-term outcomes followed the 1857 revolt?",
-    "options": {
-      "A": "ईस्ट इंडिया कंपनी का अंत और ब्रिटिश ताज का शासन (End of East India Company; start of direct British Crown rule)",
-      "B": "भारत की तत्काल स्वतंत्रता (Immediate independence of India)",
-      "C": "भारतीय सिपाहियों की नीतियों में बदलाव (Changes in recruitment of Indian sepoys)",
-      "D": "देश की कृषि व्यवस्था का पूर्ण विनाश (Total destruction of agrarian system)"
-    },
-    "answer": ["A","C"]
-  },
-  {
     "id": 9,
-    "question": "नीचे दिए गए कौन-से नेता 1857 में सक्रिय थे? / Which of the following leaders were active in 1857?",
+    "question": "ब्रह्म समाज ने किन-किन सामाजिक बुराइयों का विरोध किया? / Which social evils did Brahmo Samaj oppose?",
     "options": {
-      "A": "Rani Lakshmibai",
-      "B": "Mangal Pandey",
-      "C": "Ram Prasad Bismil",
-      "D": "Nana Sahib"
+      "A": "सती प्रथा / Sati practice",
+      "B": "जातिवाद / Caste system",
+      "C": "बुंदेलखंड की खदानें / Bundelkhand mines",
+      "D": "संबंधित धार्मिक मूर्तिपूजा / Idol worship"
     },
-    "answer": ["A","B","D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 10,
-    "question": "Mangal Pandey का संबंध किस घटना/घटना-स्थल से है? / Mangal Pandey is associated with which event/location?",
+    "question": "थियोसोफिकल सोसाइटी की स्थापना किसने की थी? / Who founded Theosophical Society?",
     "options": {
-      "A": "Barrackpore — उसने अंग्रेज अफ़सरों पर हमला किया (Barrackpore — attacked British officers)",
-      "B": "Lucknow — Residency की रक्षा (Lucknow Residency defence)",
-      "C": "Kakori — 1925 ट्रेन डकैती (Kakori 1925 train robbery)",
-      "D": "Poona — 1857 के बाद का आंदोलन (Poona activities post 1857)"
+      "A": "हेलेना ब्लावात्स्की और हेनरी स्टील ओल्कट / Helena Blavatsky & Henry Steel Olcott",
+      "B": "स्वामी दयानंद सरस्वती / Swami Dayanand Saraswati",
+      "C": "सर सैयद अहमद खान / Sir Syed Ahmed Khan",
+      "D": "रवींद्रनाथ टैगोर / Rabindranath Tagore"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "Ram Prasad Bismil और Ashfaqullah Khan किस घटना से जुड़े थे? / Ram Prasad Bismil & Ashfaqullah Khan are associated with which event?",
+    "question": "राजा राम मोहन राय ने कौन-सी प्रमुख पुस्तक लिखी? / Which major book was written by Raja Ram Mohan Roy?",
     "options": {
-      "A": "Kakori Train Robbery (1925)",
-      "B": "1857 Indian Rebellion",
-      "C": "Non-Cooperation Movement",
-      "D": "Quit India Movement"
+      "A": "‘Precepts of Jesus’",
+      "B": "‘An Appeal to the Christians of India’",
+      "C": "‘The Satyarth Prakash’",
+      "D": "‘The Discovery of India’"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 12,
-    "question": "Lucknow Residency किस लिए प्रसिद्ध है? / What is Lucknow Residency famous for?",
+    "question": "स्वामी दयानंद सरस्वती द्वारा लिखी गई प्रमुख पुस्तक कौन-सी है? / Which is a major book written by Swami Dayanand Saraswati?",
     "options": {
-      "A": "1857 के दौरान घेराबंदी और रक्षा (Siege and defence during 1857)",
-      "B": "मुगल शाही अदालत (Mughal royal court)",
-      "C": "ब्रिटिश वाणिज्यिक केंद्र (British commercial hub)",
-      "D": "समकालीन विश्वविद्यालय (Modern university)"
+      "A": "‘Satyarth Prakash’ (The Light of Truth)",
+      "B": "‘Gita Rahasya’",
+      "C": "‘Anandmath’",
+      "D": "‘Hindu Dharma’"
     },
     "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "Kanpur (Cawnpore) में किस प्रमुख घटना ने 1857 को असर दिया? / Which major event in Kanpur affected the 1857 revolt?",
+    "question": "गोपाल कृष्ण गोखले ने कौन-सी प्रसिद्ध पुस्तक लिखी? / Which famous book was authored by Gopal Krishna Gokhale?",
     "options": {
-      "A": "Kanpur massacre (massacre at Satichaura Ghat and Bibighar)",
-      "B": "Major naval battle",
-      "C": "Signing of treaty with British",
-      "D": "Dandi March"
+      "A": "‘Speeches and Writings of Gopal Krishna Gokhale’",
+      "B": "‘India Divided’",
+      "C": "‘Annihilation of Caste’",
+      "D": "‘Hind Swaraj’"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "1857 के विद्रोह में कौन-सी सामाजिक/धार्मिक प्रवृत्तियाँ मिलीं? / Which social/religious tendencies were involved in 1857?",
+    "question": "पंडिता रमाबाई द्वारा लिखित पुस्तक कौन-सी है? / Which book was written by Pandita Ramabai?",
     "options": {
-      "A": "मुस्लिम-मिश्रित और हिन्दू नेतृत्व (Combined Muslim and Hindu leadership)",
-      "B": "सिर्फ राजपूतों का संघर्ष (Only Rajput resistance)",
-      "C": "स्थानीय राजाओं और सिपाहियों का गठबंधन (Alliances of local rulers and sepoys)",
-      "D": "विदेशी समर्थित विद्रोह (Foreign-backed insurgency)"
+      "A": "‘The High Caste Hindu Woman’",
+      "B": "‘My Experiments with Truth’",
+      "C": "‘Indulekha’",
+      "D": "‘Women and Social Reform’"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "‘Doctrine of Lapse’ (लैप्स नीति) का 1857 में क्या रोल था? / What role did the Doctrine of Lapse play related to 1857?",
+    "question": "स्वामी विवेकानंद की कौन-सी पुस्तक सामाजिक सुधारों के लिए प्रसिद्ध है? / Which book by Swami Vivekananda is famous for social reforms?",
     "options": {
-      "A": "रियासतों के विलय/हटाने से असंतोष बढ़ा (Annexation of princely states caused resentment)",
-      "B": "ब्रिटिश शिक्षा नीतियों में बदलाव लाया (Affected British education policies)",
-      "C": "कृषि कर घटाया गया (Reduction in land tax)",
-      "D": "भारतीय सैनिकों को ऊँची पदवी दी गई (Higher ranks for Indian soldiers)"
+      "A": "‘Lectures from Colombo to Almora’",
+      "B": "‘Raja Yoga’",
+      "C": "‘Karma Yoga’",
+      "D": "‘Jnana Yoga’"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "किसने Lucknow में Residency का नेतृत्व करके अंग्रेजों से मुकाबला किया? / Who led the defence at Lucknow Residency against the British attackers?",
+    "question": "मौलाना अबुल कलाम आज़ाद द्वारा लिखित पुस्तक कौन-सी है? / Which book was written by Maulana Abul Kalam Azad?",
     "options": {
-      "A": "Sir Henry Lawrence (initially)",
-      "B": "William Peel (Sepoy leader)",
-      "C": "Nana Sahib",
-      "D": "Begums of Avadh were associated with resistance later"
+      "A": "‘India Wins Freedom’",
+      "B": "‘Ghubar-e-Khatir’",
+      "C": "‘The Discovery of India’",
+      "D": "‘My Experiments with Truth’"
     },
-    "answer": ["A","D"]
+    "answer": ["A", "B"]
   },
   {
     "id": 17,
-    "question": "1857 विद्रोह के दौरान अवध (Awadh) का क्या महत्व था? / What was Awadh's significance during the 1857 revolt?",
+    "question": "अननी बेसेंट ने कौन-सी पुस्तक लिखी जो महिला अधिकारों और सामाजिक सुधार पर केंद्रित है? / Which book by Annie Besant focuses on women's rights and social reform?",
     "options": {
-      "A": "अवध का ब्रिटिश द्वारा हाल ही में विलय (Annexation of Awadh provoked unrest)",
-      "B": "यह एक निरपेक्ष शांत राज्य था (It remained completely peaceful)",
-      "C": "यह विद्रोह का एक हॉटस्पॉट बना (It became a hotbed of rebellion)",
-      "D": "यह ब्रिटिश सैन्य मुख्यालय बना रहा (It became British military HQ)"
+      "A": "‘The Indian Path’",
+      "B": "‘Theosophy and Social Reform’",
+      "C": "‘Women and the Social Problem’",
+      "D": "‘Swaraj’"
     },
-    "answer": ["A","C"]
+    "answer": ["B", "C"]
   },
   {
     "id": 18,
-    "question": "नीचे में से कौन-सी बातें 1857 विद्रोह की आर्थिक उपज/प्रभाव बताती हैं? / Which of the following indicate economic causes/effects of the revolt?",
+    "question": "सुभाष चंद्र बोस की कौन-सी पुस्तक सामाजिक चेतना को बढ़ावा देती है? / Which book by Subhash Chandra Bose promotes social awareness?",
     "options": {
-      "A": "भारतीय किसानों पर भारी कर और ज़मीन संबंधी परेशानियाँ (Heavy taxation & land issues)",
-      "B": "विदेशी ट्रेड-सैन्य समझौते (Foreign trade-military pacts)",
-      "C": "नौकरशाही में भारतीयों की उन्नति (Promotion of Indians in bureaucracy)",
-      "D": "रियासतों की नीतियों में हस्तक्षेप (Interference in princely state policies)"
+      "A": "‘The Indian Struggle’",
+      "B": "‘Annihilation of Caste’",
+      "C": "‘Hind Swaraj’",
+      "D": "‘Gitanjali’"
     },
-    "answer": ["A","D"]
+    "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "1857 विद्रोह की शैक्षिक/साहित्यिक स्मृति में कौन-से स्थल आज दर्शनीय माने जाते हैं? / Which historical sites related to 1857 are tourist/heritage attractions today?",
+    "question": "गोपालकृष्ण गांधी ने किस प्रमुख नेता पर पुस्तक लिखी है? / Gopal Krishna Gandhi wrote a book on which prominent leader?",
     "options": {
-      "A": "Lucknow Residency and 1857 Memorial Museum",
-      "B": "Kakori station memorial (only 1925 related)",
-      "C": "Barrackpore cantonment sites",
-      "D": "Jhansi Fort"
+      "A": "Rajaji (C. Rajagopalachari)",
+      "B": "Mahatma Gandhi",
+      "C": "Jawaharlal Nehru",
+      "D": "Subhash Chandra Bose"
     },
-    "answer": ["A","C","D"]
+    "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "निम्न में से कौन-सा कथन सत्य है? (2024–25 से जुड़ा तथ्य)। / Which statement is true? (Related to 2024–25 developments)",
+    "question": "सर सैयद अहमद खान की कौन-सी पुस्तक शिक्षा सुधारों के लिए प्रसिद्ध है? / Which book of Sir Syed Ahmed Khan is famous for educational reforms?",
     "options": {
-      "A": "Uttar Pradesh prison department ने Lucknow में एक नया जेल म्यूज़ियम उद्घाटित किया जिसमें 1857/काकोरी युग के ऐतिहासिक आइटम भी प्रदर्शित हैं।",
-      "B": "2025 में Kakori घटना की पहली सदी मनाई गई (Kakori centenary celebrated in 2025).",
-      "C": "1857 Memorial Museum Lucknow Residency में अभी कोई प्रदर्शन नहीं है।",
-      "D": "Kakori के चौराहे पर नया रेलवे टर्मिनल 2024 में खोला गया।"
+      "A": "‘Asar-us-Sanadid’",
+      "B": "‘Tahzib-ul-Akhlaq’",
+      "C": "‘The Discovery of India’",
+      "D": "‘India Divided’"
     },
-    "answer": ["A","B"]
+    "answer": ["B"]
   },
   {
     "id": 21,
-    "question": "किसे 1857 के विद्रोह का नेतृत्वकारी 'दिल' माना जाता है—राजनैतिक/धार्मिक प्रतीक के रूप में? / Who emerged as a symbolic political/religious centre during 1857?",
+    "question": "जयप्रकाश नारायण ने कौन-सी पुस्तक लिखी जो सामाजिक सुधारों पर केंद्रित है? / Which book by Jayaprakash Narayan focuses on social reforms?",
     "options": {
-      "A": "Delhi under Bahadur Shah II (Shahanshah as symbolic leader)",
-      "B": "Calcutta Presidency",
-      "C": "Madras Presidency",
-      "D": "Bombay"
+      "A": "‘Prison Diary’",
+      "B": "‘An Autobiography’",
+      "C": "‘New Deal for India’",
+      "D": "‘The Discovery of India’"
     },
-    "answer": ["A"]
+    "answer": ["B", "C"]
   },
   {
     "id": 22,
-    "question": "1857 के विद्रोह में सैन्य और नागरिक सहयोग के उदाहरण कौन-सा हैं? / Examples of military and civilian cooperation in 1857 include:",
+    "question": "बाल गंगाधर तिलक की प्रमुख पुस्तक कौन-सी है? / What is the major book written by Bal Gangadhar Tilak?",
     "options": {
-      "A": "प्रवर्तित सिपाही + स्थानीय राजाओं का गठबंधन (Sepoys allying with local rulers)",
-      "B": "केवल विदेशी सेनाएँ (Only foreign armies)",
-      "C": "नागरिक सेना का गठन (Formation of civilian militias)",
-      "D": "किसी तरह का कोई सहयोग नहीं (No such cooperation)"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 23,
-    "question": "1857 विद्रोह किस वर्ष औपचारिकतः समाप्त माना जाता है (मुख्य सैन्य दबाव के बाद)? / Around which year is the 1857 revolt considered to have largely ended?",
-    "options": {
-      "A": "1858",
-      "B": "1865",
-      "C": "1847",
-      "D": "1871"
+      "A": "‘Gita Rahasya’",
+      "B": "‘The Discovery of India’",
+      "C": "‘Annihilation of Caste’",
+      "D": "‘Indian Struggle’"
     },
     "answer": ["A"]
   },
   {
-    "id": 24,
-    "question": "नीचे दिए गए कौन से संघर्षक 1857 के समय या ठीक बाद की स्थिति में सीधे जुड़े थे? / Which of these figures/events are directly linked to the 1857 period?",
+    "id": 23,
+    "question": "महात्मा गांधी की कौन-सी पुस्तक सामाजिक सुधारों पर महत्वपूर्ण मानी जाती है? / Which book by Mahatma Gandhi is considered important on social reforms?",
     "options": {
-      "A": "Bahadur Shah Zafar (Mughal Emperor)",
-      "B": "Chandrashekhar Azad",
-      "C": "Nana Sahib",
-      "D": "Tatya Tope"
+      "A": "‘Hind Swaraj’",
+      "B": "‘My Experiments with Truth’",
+      "C": "‘The Story of My Experiments’",
+      "D": "‘India of My Dreams’"
     },
-    "answer": ["A","C","D"]
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 24,
+    "question": "गोविंद बल्लभ पंत की कौन-सी पुस्तक राजनीतिक और सामाजिक सुधारों को दर्शाती है? / Which book by Govind Ballabh Pant reflects political and social reforms?",
+    "options": {
+      "A": "‘My Life and Times’",
+      "B": "‘The Discovery of India’",
+      "C": "‘The Indian Struggle’",
+      "D": "‘India Divided’"
+    },
+    "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "Tatya Tope का योगदान/भूमिका क्या थी? / What was Tatya Tope's role?",
+    "question": "मीराबाई द्वारा लिखी गई भक्ति कविताओं का संग्रह कौन-सा है? / Which is the collection of devotional poems written by Mirabai?",
     "options": {
-      "A": "विद्रोही सेनाओं का सैन्य नेतृत्व और छापामारी (Military leadership and guerrilla warfare)",
-      "B": "ब्रिटिश प्रशासन के सहायक (Assistant to British administration)",
-      "C": "विद्रोह के बाद ब्रिटिश मंत्री बने (Became a British minister after revolt)",
-      "D": "शिक्षा सुधारक (Education reformer)"
+      "A": "‘Padavali’",
+      "B": "‘Geet Govind’",
+      "C": "‘Bhagavad Gita’",
+      "D": "‘Ramcharitmanas’"
     },
     "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "जिस वर्ष के बाद ईस्ट इंडिया कंपनी का शासन समाप्त हुआ और British Crown ने शासन संभाला वह कौन-सा वर्ष था? / In which year did East India Company rule end and British Crown take over?",
+    "question": "कबीर दास की प्रमुख रचनाएँ कौन-सी हैं? / What are the major works of Kabir Das?",
     "options": {
-      "A": "1858",
-      "B": "1848",
-      "C": "1901",
-      "D": "1877"
+      "A": "‘Bijak’",
+      "B": "‘Ramcharitmanas’",
+      "C": "‘Sufi Poetry’",
+      "D": "‘Bhagavad Gita’"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "किसके नेतृत्व में Lucknow में लंबी घेराबंदी हुई और बाद में फिर से नियंत्रण कब लिया गया? / The prolonged siege at Lucknow was led under whose defence and when was it relieved?",
+    "question": "रामप्रसाद बिस्मिल की प्रमुख पुस्तक कौन-सी है? / What is the major book of Ram Prasad Bismil?",
     "options": {
-      "A": "Sir Henry Lawrence initially led defence; reliefs occurred in 1857–58",
-      "B": "Rani Lakshmibai led Lucknow defence solely",
-      "C": "It was never relieved",
-      "D": "It was relieved by Ottoman forces"
+      "A": "‘Sarfaroshi Ki Tamanna’",
+      "B": "‘Gitanjali’",
+      "C": "‘Anandmath’",
+      "D": "‘India Wins Freedom’"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "1857 के विद्रोह की स्मृति/यात्रा से जुड़ी कौन-सी संस्थाएँ आज पर्यटकों/अनुसंधानकर्ताओं के लिए उपयोगी हैं? / Which institutions/sites are useful for tourists/researchers studying 1857?",
+    "question": "डॉ. भीमराव अंबेडकर की कौन-सी पुस्तक सामाजिक सुधारों पर केंद्रित है? / Which book of Dr. Bhimrao Ambedkar focuses on social reforms?",
     "options": {
-      "A": "1857 Memorial Museum, Lucknow Residency",
-      "B": "UP prison department museum (recent exhibits) in Lucknow",
-      "C": "Kakori memorial (relating to 1925)",
-      "D": "Jhansi Fort"
+      "A": "‘Annihilation of Caste’",
+      "B": "‘The Buddha and His Dhamma’",
+      "C": "‘India Wins Freedom’",
+      "D": "‘The Discovery of India’"
     },
-    "answer": ["A","B","D"]
+    "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "1857 विद्रोह के दौरान किसने मुग़ल सम्राट को प्रतीकात्मक नेतृत्व के रूप में अपनाया? / Who was adopted as symbolic leader by rebels during 1857?",
+    "question": "महिला सुधार आंदोलन में सक्रिय कास्तूरीरंगाय्य की पुस्तक कौन-सी है? / Which book is by Kasturiranga related to Women’s Reform Movement?",
     "options": {
-      "A": "Bahadur Shah II (Bahadur Shah Zafar)",
-      "B": "Queen Victoria",
-      "C": "Tipu Sultan",
-      "D": "Ranjit Singh"
+      "A": "‘My Life’",
+      "B": "‘The Status of Women in India’",
+      "C": "‘Social Reforms in India’",
+      "D": "‘Women’s Rights in India’"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "नीचे कौन से कारण 1857 के विद्रोह को वैधता देते हैं (ऐतिहासिक विश्लेषण के अनुसार)? / Which causes justify the legitimacy of the 1857 revolt (historical analysis)?",
+    "question": "लाल बहादुर शास्त्री की कौन-सी पुस्तक सामाजिक सुधारों पर प्रकाश डालती है? / Which book by Lal Bahadur Shastri highlights social reforms?",
     "options": {
-      "A": "धार्मिक आक्रामक नीतियाँ (Perceived religious intrusion — e.g., cartridge controversy)",
-      "B": "स्थानीय शासकों का कट्टर समर्थन (Extreme support from local rulers to British)",
-      "C": "भूमि अधिकारों में हस्तक्षेप/अधिग्रहण (Interference in land/princely rights)",
-      "D": "अलग-अलग क्षेत्रीय आर्थिक संकट (Regional economic distress)"
+      "A": "‘Life and Work of Lal Bahadur Shastri’",
+      "B": "‘India of My Dreams’",
+      "C": "‘My Experiments with Truth’",
+      "D": "‘Hind Swaraj’"
     },
-    "answer": ["A","C","D"]
+    "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "कौन से संगठन/समूह 1857 के विद्रोह में शामिल नहीं थे? / Which group was NOT part of 1857 revolt?",
+    "question": "राजा राम मोहन राय की पुस्तक 'Precepts of Jesus' का उद्देश्य क्या था? / What was the objective of Raja Ram Mohan Roy's book 'Precepts of Jesus'?",
     "options": {
-      "A": "Hindustan Republican Association (HRA, active 1920s)",
-      "B": "Local princely forces (e.g., some taluqdars)",
-      "C": "Sepoys of Bengal Army",
-      "D": "Peasant groups in Awadh"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 32,
-    "question": "किस वर्ष में Kakori train robbery हुई और वह किस प्रकार की घटना थी? / In which year did the Kakori train robbery occur and what was its nature?",
-    "options": {
-      "A": "1925 — revolutionary train robbery to fund HRA",
-      "B": "1857 — part of the Sepoy Mutiny",
-      "C": "1942 — Quit India protest",
-      "D": "1919 — Jallianwala Bagh related"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "1857 के विद्रोह में किस तरह की सैन्य रणनीति प्रचलित रही? / What kinds of military tactics were common in 1857 revolt?",
-    "options": {
-      "A": "घेराबंदी और शहर-युद्ध (Sieges and urban warfare)",
-      "B": "मोबाइल गुरिल्ला-स्टाइल छापे (Mobile guerrilla raids)",
-      "C": "आधुनिक टैंक युद्ध (Modern tank warfare)",
-      "D": "समुद्री ब्लॉकेड (Naval blockades)"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 34,
-    "question": "1857 विद्रोह पर ब्रिटिश प्रतिक्रिया में कौन-से बदलाव आए? / What changes occurred in British response/governance after 1857?",
-    "options": {
-      "A": "भारतीय सेना की रिक्रूटमेंट नीतियों में बदलाव (Changes in recruitment policies of Indian army)",
-      "B": "ईस्ट इंडिया कंपनी का शासन समाप्त किया गया (Ended East India Company rule)",
-      "C": "ब्रिटिश-भारतीय सहयोग बढ़ाया गया (Increased British-Indian cooperation in governance uniformly)",
-      "D": "प्रवर्तित ब्रिटिश नीतियों में पूरी तरह हटावट (Complete reversal of British policies)"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 35,
-    "question": "नीचे कौन-से स्थल/नायक 1857 के बाद के स्वतंत्रता आंदोलन (1920s) से संबंधित हैं? / Which of the following are associated with later freedom movements (1920s) rather than 1857?",
-    "options": {
-      "A": "Ram Prasad Bismil",
-      "B": "Ashfaqullah Khan",
-      "C": "Mangal Pandey",
-      "D": "Rani Lakshmibai"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 36,
-    "question": "इतिहासकार 1857 को कैसे पढ़ते/व्याख्यायित करते हैं — चुनें सही विकल्प: / How do historians interpret 1857? Select correct options:",
-    "options": {
-      "A": "एक राष्ट्रिय स्वतंत्रता-संग्राम (A national war of independence)",
-      "B": "केवल एक सैन्य बगावत (Merely a military mutiny)",
-      "C": "एक जटिल मिश्रित आन्दोलन जिसमें सामाजिक, आर्थिक, धार्मिक व राजनीतिक कारण शामिल थे",
-      "D": "एक विदेशी शासन-विरोध के बाद का पूर्ण रूप से शासकीय बदलाव (A complete administrative revolution immediately producing self-rule)"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 37,
-    "question": "1857 से जुड़ी स्मृति/यादगारों के संरक्षण के लिए हालिया सालों में क्या कदम उठाये गये? (2024–25 संदर्भ) / Which recent steps (2024–25) have been taken to preserve 1857 memory?",
-    "options": {
-      "A": "UP prison department ने Lucknow में जेल म्यूज़ियम में स्वतंत्रता-संग्राम के आइटम प्रदर्शित किए।",
-      "B": "Kakori के शहीदों की याद में नई स्मारक-प्रशंसा नहीं हुई।",
-      "C": "राज्यस्तरीय कार्यक्रमों में काकोरी/कई क्रांतिकारियों को श्रद्धांजलि दी गई (recent state commemorations)",
-      "D": "कोई नई हालिया पहल नहीं हुई"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 38,
-    "question": "नीचे दिए गए में से किसने 1857 के बाद अंग्रेजों के खिलाफ व्यापक विरोध/छापामारी जारी रखी और कई जगहों पर लड़ाई लड़ी? / Who continued widespread resistance after 1857 and fought in many places?",
-    "options": {
-      "A": "Tatya Tope",
-      "B": "Chandrashekhar Azad (note: active later)",
-      "C": "Rani Lakshmibai",
-      "D": "Nana Sahib"
-    },
-    "answer": ["A","C","D"]
-  },
-  {
-    "id": 39,
-    "question": "1857 विद्रोह के अध्ययन/शोध के लिए प्रामाणिक स्रोतों में कौन-सी चीज़ें शामिल हैं? / Which are authentic sources for studying 1857?",
-    "options": {
-      "A": "Residency records, British dispatches, Indian eyewitness accounts",
-      "B": "आधुनिक नाटकीय फिल्मों के दृश्य (Modern film scenes)",
-      "C": "स्मृतिग्रंथ और स्थानीय कथाएं (Memoirs & local oral histories)",
-      "D": "कौटुंबिक गॉसिप (Family gossip)"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 40,
-    "question": "नीचे में से कौन-सा कथन सही है जब हम उत्तर प्रदेश की 1857 में भूमिका पर विचार करते हैं? / Which of the following is true regarding Uttar Pradesh's role in 1857?",
-    "options": {
-      "A": "UP (Awadh, Meerut, Kanpur, Jhansi) 1857 का मुख्य केन्द्र रहा और विद्रोह के कई निर्णायक मोर्चे यहाँ थे।",
-      "B": "UP का कोई प्रभाव नहीं था — विद्रोह केवल दक्षिण भारत तक सीमित रहा।",
-      "C": "Jhansi की रानी ने क्षेत्रीय नेतृत्व दिखाया और कई युद्ध लड़े।",
-      "D": "सबसे प्रमुख क्रांतिकारी सभी 1857 के बाद ही उभरे (All major revolutionaries emerged only after 1857)"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 41,
-    "question": "1857 के विद्रोह के दौरान कानपुर के विद्रोह का नेतृत्व किन-किन ने किया था?",
-    "options": {
-      "A": "नाना साहेब",
-      "B": "तांत्या टोपे",
-      "C": "बख्त खान",
-      "D": "बेगम हज़रत महल"
+      "A": "ईसाई धर्म के नैतिक सिद्धांतों को समझाना / To explain the moral principles of Christianity",
+      "B": "धार्मिक सहिष्णुता को बढ़ावा देना / To promote religious tolerance",
+      "C": "भारतीय रीति-रिवाजों का प्रचार / To promote Indian customs",
+      "D": "ब्रिटिश शासन का समर्थन करना / To support British rule"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 42,
-    "question": "उत्तर प्रदेश में 1922 का प्रसिद्ध चौरी-चौरा कांड किन कारणों से घटित हुआ?",
+    "id": 32,
+    "question": "स्वामी दयानंद सरस्वती की 'Satyarth Prakash' में किस विषय पर विशेष ध्यान दिया गया है? / What is the special focus of Swami Dayanand Saraswati's 'Satyarth Prakash'?",
     "options": {
-      "A": "साइमन कमीशन के विरोध में",
-      "B": "असहयोग आंदोलन के दौरान पुलिस अत्याचार",
-      "C": "नमक सत्याग्रह",
-      "D": "खेती-किसानी से जुड़े कर वसूली"
+      "A": "वेदों का प्रचार / Promotion of the Vedas",
+      "B": "धार्मिक अंधविश्वास का विरोध / Opposition to religious superstitions",
+      "C": "जातिवाद का समर्थन / Support for caste system",
+      "D": "वैदिक पुनरुत्थान / Revival of Vedic culture"
     },
-    "answer": ["B", "D"]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 33,
+    "question": "पंडिता रमाबाई की 'The High Caste Hindu Woman' में किस सामाजिक समस्या पर चर्चा की गई है? / What social issue is discussed in Pandita Ramabai's 'The High Caste Hindu Woman'?",
+    "options": {
+      "A": "महिला शिक्षा की कमी / Lack of women's education",
+      "B": "महिलाओं पर अत्याचार / Oppression of women",
+      "C": "जाति प्रथा / Caste system",
+      "D": "सती प्रथा का समर्थन / Support of Sati"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 34,
+    "question": "स्वामी विवेकानंद की 'Lectures from Colombo to Almora' में क्या विषय प्रमुख है? / What is the main theme in Swami Vivekananda's 'Lectures from Colombo to Almora'?",
+    "options": {
+      "A": "धर्म और दर्शन / Religion and philosophy",
+      "B": "राष्ट्रीय एकता / National unity",
+      "C": "सामाजिक सुधार / Social reform",
+      "D": "अंग्रेजी शासन की आलोचना / Criticism of British rule"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 35,
+    "question": "सर सैयद अहमद खान की 'Tahzib-ul-Akhlaq' का मुख्य उद्देश्य क्या था? / What was the main objective of Sir Syed Ahmed Khan's 'Tahzib-ul-Akhlaq'?",
+    "options": {
+      "A": "मुस्लिम समाज में सामाजिक सुधार / Social reform in Muslim society",
+      "B": "अंग्रेजी शिक्षा का प्रचार / Promotion of English education",
+      "C": "जाति प्रथा को बढ़ावा देना / Promoting caste system",
+      "D": "धार्मिक कट्टरता बढ़ाना / Increasing religious fanaticism"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 36,
+    "question": "अननी बेसेंट की 'Theosophy and Social Reform' किस विषय पर केंद्रित है? / What is the focus of Annie Besant's 'Theosophy and Social Reform'?",
+    "options": {
+      "A": "आध्यात्मिकता और सामाजिक सुधार / Spirituality and social reform",
+      "B": "राजनीतिक क्रांति / Political revolution",
+      "C": "धार्मिक कट्टरता / Religious fanaticism",
+      "D": "धार्मिक सहिष्णुता / Religious tolerance"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 37,
+    "question": "डॉ. भीमराव अंबेडकर की पुस्तक 'Annihilation of Caste' का मुख्य विषय क्या है? / What is the main subject of Dr. Bhimrao Ambedkar's 'Annihilation of Caste'?",
+    "options": {
+      "A": "जाति व्यवस्था का विरोध / Opposition to caste system",
+      "B": "धार्मिक सुधार / Religious reform",
+      "C": "शिक्षा सुधार / Education reform",
+      "D": "महिला अधिकार / Women’s rights"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 38,
+    "question": "महात्मा गांधी की 'Hind Swaraj' में किस विषय पर जोर दिया गया है? / What is emphasized in Mahatma Gandhi's 'Hind Swaraj'?",
+    "options": {
+      "A": "स्वदेशी आंदोलन / Swadeshi movement",
+      "B": "अहिंसा / Non-violence",
+      "C": "औद्योगिक क्रांति / Industrial revolution",
+      "D": "राजनीतिक स्वतंत्रता / Political independence"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 39,
+    "question": "जयप्रकाश नारायण की 'An Autobiography' किस प्रकार की जानकारी देती है? / What type of information does Jayaprakash Narayan's 'An Autobiography' provide?",
+    "options": {
+      "A": "उनका राजनीतिक जीवन / His political life",
+      "B": "सामाजिक सुधारों पर उनके विचार / His views on social reforms",
+      "C": "भारतीय स्वतंत्रता संग्राम / Indian freedom struggle",
+      "D": "विज्ञान और प्रौद्योगिकी / Science and technology"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 40,
+    "question": "पंडिता रमाबाई ने किस क्षेत्र में प्रमुख योगदान दिया? / In which field did Pandita Ramabai make significant contributions?",
+    "options": {
+      "A": "महिला शिक्षा / Women’s education",
+      "B": "धार्मिक पुनरुत्थान / Religious revival",
+      "C": "राजनीतिक आंदोलन / Political movement",
+      "D": "साहित्य / Literature"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 41,
+    "question": "स्वामी दयानंद सरस्वती की 'Satyarth Prakash' ने किसको चुनौती दी? / Whom did Swami Dayanand Saraswati's 'Satyarth Prakash' challenge?",
+    "options": {
+      "A": "धार्मिक अंधविश्वास / Religious superstitions",
+      "B": "ब्रिटिश शासन / British rule",
+      "C": "जातिवाद / Caste system",
+      "D": "विदेशी संस्कृति / Foreign culture"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 42,
+    "question": "सर सैयद अहमद खान की 'Asar-us-Sanadid' किस विषय पर है? / What is the subject of Sir Syed Ahmed Khan's 'Asar-us-Sanadid'?",
+    "options": {
+      "A": "दिल्ली के ऐतिहासिक स्मारक / Historical monuments of Delhi",
+      "B": "मुस्लिम समाज की शिक्षा / Education of Muslim society",
+      "C": "धार्मिक सुधार / Religious reforms",
+      "D": "राजनीतिक इतिहास / Political history"
+    },
+    "answer": ["A"]
   },
   {
     "id": 43,
-    "question": "राम प्रसाद बिस्मिल से संबंधित कौन-कौन से तथ्य सही हैं?",
+    "question": "अननी बेसेंट ने महिला सशक्तिकरण के लिए कौन-से कदम उठाए? / What steps did Annie Besant take for women empowerment?",
     "options": {
-      "A": "वे काकोरी कांड के मुख्य नायक थे",
-      "B": "उनका संबंध हिंदुस्तान रिपब्लिकन एसोसिएशन से था",
-      "C": "उन्होंने 'सरफ़रोशी की तमन्ना' कविता लिखी",
-      "D": "उनका जन्म गोरखपुर जिले में हुआ था"
+      "A": "महिला शिक्षा को बढ़ावा दिया / Promoted women's education",
+      "B": "महिला मताधिकार की मांग की / Demanded women's voting rights",
+      "C": "महिला श्रमिक संघ बनाए / Formed women workers’ unions",
+      "D": "महिला आर्थिक स्वतंत्रता पर काम किया / Worked for women's economic independence"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 44,
-    "question": "झांसी की रानी लक्ष्मीबाई से संबंधित सही कथन चुनें:",
+    "question": "महात्मा गांधी ने सामाजिक सुधार के लिए किस रणनीति को अपनाया? / Which strategy did Mahatma Gandhi adopt for social reform?",
     "options": {
-      "A": "उन्होंने 1857 के विद्रोह में झांसी की रक्षा की",
-      "B": "उनका जन्म वाराणसी में हुआ था",
-      "C": "उनकी मृत्यु ग्वालियर में युद्ध के दौरान हुई",
-      "D": "वे काकोरी कांड से जुड़ी थीं"
+      "A": "अहिंसा / Non-violence",
+      "B": "नस्ली भेदभाव / Racial discrimination",
+      "C": "स्वदेशी / Swadeshi",
+      "D": "सत्याग्रह / Satyagraha"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 45,
-    "question": "अशफ़ाक़ उल्ला खान के बारे में सही तथ्य कौन-से हैं?",
+    "question": "डॉ. भीमराव अंबेडकर ने किस वर्ष 'Annihilation of Caste' प्रकाशित की? / In which year did Dr. Bhimrao Ambedkar publish 'Annihilation of Caste'?",
     "options": {
-      "A": "वे राम प्रसाद बिस्मिल के सहयोगी थे",
-      "B": "वे काकोरी कांड में शामिल थे",
-      "C": "उनका जन्म शाहजहांपुर में हुआ",
-      "D": "वे आज़ाद हिंद फौज के संस्थापक थे"
+      "A": "1936",
+      "B": "1947",
+      "C": "1925",
+      "D": "1950"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 46,
-    "question": "1857 में उत्तर प्रदेश के किन-किन शहरों ने विद्रोह में प्रमुख भूमिका निभाई?",
+    "question": "पंडिता रमाबाई का सामाजिक सुधारों में योगदान किस रूप में रहा? / How did Pandita Ramabai contribute to social reforms?",
     "options": {
-      "A": "मेरठ",
-      "B": "कानपुर",
-      "C": "लखनऊ",
-      "D": "अलीगढ़"
+      "A": "महिला शिक्षा के प्रचार के रूप में / Through promotion of women’s education",
+      "B": "धार्मिक पुनरुद्धार के रूप में / Through religious revival",
+      "C": "राजनीतिक आंदोलन के रूप में / Through political movement",
+      "D": "साहित्यिक योगदान के रूप में / Through literary contributions"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 47,
-    "question": "निम्नलिखित में से किन आंदोलनों में उत्तर प्रदेश प्रमुख केंद्र रहा?",
+    "question": "स्वामी विवेकानंद की शिक्षा का मुख्य उद्देश्य क्या था? / What was the main aim of Swami Vivekananda’s teachings?",
     "options": {
-      "A": "असहयोग आंदोलन",
-      "B": "भारत छोड़ो आंदोलन",
-      "C": "नमक सत्याग्रह",
-      "D": "स्वदेशी आंदोलन (1905)"
+      "A": "आत्म-साक्षात्कार / Self-realization",
+      "B": "धार्मिक सहिष्णुता / Religious tolerance",
+      "C": "राष्ट्रीय एकता / National unity",
+      "D": "राजनीतिक स्वतंत्रता / Political freedom"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 48,
-    "question": "काकोरी कांड (1925) के बारे में सही कथन चुनें:",
+    "question": "राजा राम मोहन राय ने सती प्रथा को खत्म करने के लिए कौन-सी कार्रवाई की? / What action did Raja Ram Mohan Roy take to abolish Sati practice?",
     "options": {
-      "A": "यह रेल डकैती की घटना थी",
-      "B": "इसका उद्देश्य अंग्रेज़ी खजाने को लूटना था",
-      "C": "यह उत्तर प्रदेश में हुई",
-      "D": "इसमें चंद्रशेखर आज़ाद गिरफ्तार हुए थे"
+      "A": "ब्रिटिश सरकार को प्रस्ताव भेजा / Sent proposals to British government",
+      "B": "सामाजिक जागरूकता फैलाई / Spread social awareness",
+      "C": "धार्मिक मंच पर बहस की / Debated on religious platform",
+      "D": "सती प्रथा को बढ़ावा दिया / Promoted Sati"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 49,
-    "question": "बेगम हज़रत महल के संदर्भ में सही कथन चुनें:",
+    "question": "स्वामी दयानंद सरस्वती ने किन-किन बातों पर जोर दिया? / What were the key emphases of Swami Dayanand Saraswati?",
     "options": {
-      "A": "उन्होंने लखनऊ में विद्रोह का नेतृत्व किया",
-      "B": "वे अवध के नवाब वाजिद अली शाह की पत्नी थीं",
-      "C": "उन्होंने अंग्रेजों से समझौता कर लिया था",
-      "D": "उन्होंने नेपाल में शरण ली थी"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 50,
-    "question": "भारत छोड़ो आंदोलन (1942) के समय उत्तर प्रदेश में प्रमुख नेतृत्व किनके हाथों में था?",
-    "options": {
-      "A": "जयप्रकाश नारायण",
-      "B": "डॉ. राम मनोहर लोहिया",
-      "C": "गांधी जी",
-      "D": "चंद्रशेखर आज़ाद"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 51,
-    "question": "1857 के विद्रोह के दौरान अवध क्षेत्र में विद्रोही नेतृत्व किन-किन के पास था?",
-    "options": {
-      "A": "बेगम हज़रत महल",
-      "B": "मौलवी अहमदुल्लाह शाह",
-      "C": "तांत्या टोपे",
-      "D": "बख्त खान"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 52,
-    "question": "1857 के विद्रोह का तत्काल कारण किन में से था?",
-    "options": {
-      "A": "सिपाहियों को नई एनफील्ड राइफल देना",
-      "B": "सैन्य वेतन में कटौती",
-      "C": "डॉक्ट्रिन ऑफ लैप्स नीति",
-      "D": "दिल्ली में अंग्रेज़ी हुकूमत का विरोध"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 53,
-    "question": "1857 के विद्रोह के दौरान बख्त खान की भूमिका क्या थी?",
-    "options": {
-      "A": "दिल्ली में विद्रोही फ़ौज का नेतृत्व",
-      "B": "अवध के नवाब के प्रधानमंत्री",
-      "C": "तोपखाने के अधिकारी",
-      "D": "अंग्रेजों से समझौता"
+      "A": "वेदों का पुनरुद्धार / Revival of Vedas",
+      "B": "सती प्रथा का समर्थन / Support of Sati",
+      "C": "जातिवाद का विरोध / Opposition to casteism",
+      "D": "धार्मिक कट्टरता बढ़ाना / Increasing religious fanaticism"
     },
     "answer": ["A", "C"]
   },
   {
-    "id": 54,
-    "question": "भारत छोड़ो आंदोलन 1942 के दौरान यूपी के किन जिलों में रेलवे लाइनों को नुकसान पहुँचाने की बड़ी घटनाएँ हुईं?",
+    "id": 50,
+    "question": "महिला सुधार आंदोलन में कौन-सी पुस्तक ने महत्वपूर्ण भूमिका निभाई? / Which book played an important role in the Women’s Reform Movement?",
     "options": {
-      "A": "बलिया",
-      "B": "आजमगढ़",
-      "C": "गाजीपुर",
-      "D": "इलाहाबाद"
+      "A": "‘The High Caste Hindu Woman’ by Pandita Ramabai",
+      "B": "‘My Experiments with Truth’ by Mahatma Gandhi",
+      "C": "‘Satyarth Prakash’ by Swami Dayanand Saraswati",
+      "D": "‘Annihilation of Caste’ by Dr. B.R. Ambedkar"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
+  },
+  {
+    "id": 51,
+    "question": "1857 की क्रांति पर 'The Sepoy Mutiny' किसने लिखी? / Who authored 'The Sepoy Mutiny' on the 1857 revolt?",
+    "options": {
+      "A": "Karl Marx",
+      "B": "Vinayak Damodar Savarkar",
+      "C": "William Dalrymple",
+      "D": "R.C. Majumdar"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 52,
+    "question": "'The Indian Mutiny' पुस्तक किसने लिखी? / Who wrote the book 'The Indian Mutiny'?",
+    "options": {
+      "A": "Karl Marx",
+      "B": "John Kaye",
+      "C": "William Dalrymple",
+      "D": "Romesh Chunder Dutt"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 53,
+    "question": "'The Indian Mutiny' (1888) पुस्तक के लेखक कौन हैं? / Who is the author of the 1888 book 'The Indian Mutiny'?",
+    "options": {
+      "A": "John Kaye",
+      "B": "William Dalrymple",
+      "C": "Romesh Chunder Dutt",
+      "D": "Karl Marx"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 54,
+    "question": "'The Indian War of Independence 1857' किसने लिखा? / Who authored 'The Indian War of Independence 1857'?",
+    "options": {
+      "A": "Vinayak Damodar Savarkar",
+      "B": "R.C. Majumdar",
+      "C": "John Kaye",
+      "D": "Karl Marx"
+    },
+    "answer": ["A"]
   },
   {
     "id": 55,
-    "question": "गदर पार्टी के किन नेताओं का उत्तर प्रदेश से सीधा संबंध था?",
+    "question": "'1857: The Revolt and the Raj' किस लेखक की पुस्तक है? / Who wrote '1857: The Revolt and the Raj'?",
     "options": {
-      "A": "हरदयाल",
-      "B": "राम चंद्र",
-      "C": "राजा महेंद्र प्रताप",
-      "D": "श्यामजी कृष्ण वर्मा"
+      "A": "William Dalrymple",
+      "B": "R.C. Majumdar",
+      "C": "Romesh Chunder Dutt",
+      "D": "Vinayak Damodar Savarkar"
     },
-    "answer": ["B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 56,
-    "question": "काकोरी कांड के चार फाँसी पाए क्रांतिकारी कौन थे?",
+    "question": "'The Sepoy Rebellion 1857' के लेखक कौन हैं? / Who is the author of 'The Sepoy Rebellion 1857'?",
     "options": {
-      "A": "राम प्रसाद बिस्मिल",
-      "B": "अशफ़ाक़ उल्ला खान",
-      "C": "राजेंद्र लाहिड़ी",
-      "D": "शचींद्रनाथ बख्शी"
+      "A": "Karl Marx",
+      "B": "Romesh Chunder Dutt",
+      "C": "Vinayak Damodar Savarkar",
+      "D": "William Dalrymple"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 57,
-    "question": "1857 में मेरठ की भूमिका के बारे में सही कथन चुनें:",
+    "question": "'India’s First War of Independence' पुस्तक किसने लिखी? / Who authored 'India’s First War of Independence'?",
     "options": {
-      "A": "यह विद्रोह का प्रारंभिक केंद्र था",
-      "B": "यहाँ सिपाहियों ने 10 मई को विद्रोह किया",
-      "C": "विद्रोह के तुरंत बाद दिल्ली की ओर कूच किया गया",
-      "D": "यहाँ नाना साहेब ने नेतृत्व किया"
+      "A": "Vinayak Damodar Savarkar",
+      "B": "R.C. Majumdar",
+      "C": "William Dalrymple",
+      "D": "John Kaye"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 58,
-    "question": "स्वतंत्रता आंदोलन में बलिया जिले का योगदान किन घटनाओं से जुड़ा है?",
+    "question": "'Romesh Chunder Dutt' ने 1857 के किस पहलू पर लिखा? / Which aspect of 1857 did Romesh Chunder Dutt write about?",
     "options": {
-      "A": "1942 में आज़ाद सरकार की घोषणा",
-      "B": "काकोरी कांड",
-      "C": "1857 विद्रोह",
-      "D": "साइमन कमीशन विरोध"
+      "A": "The economic impact of 1857 revolt",
+      "B": "Military tactics",
+      "C": "British political strategy",
+      "D": "Religious causes"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"]
   },
   {
     "id": 59,
-    "question": "1857 के विद्रोह के दौरान लखनऊ में अंग्रेजों के खिलाफ मुख्य लड़ाई कहाँ लड़ी गई?",
+    "question": "'The Last Mughal' पुस्तक किसने लिखी है? / Who is the author of 'The Last Mughal'?",
     "options": {
-      "A": "रेज़ीडेंसी",
-      "B": "किंग जॉर्ज मेडिकल कॉलेज",
-      "C": "बड़ा इमामबाड़ा",
-      "D": "छोटा इमामबाड़ा"
+      "A": "William Dalrymple",
+      "B": "Vinayak Damodar Savarkar",
+      "C": "John Kaye",
+      "D": "Romesh Chunder Dutt"
     },
     "answer": ["A"]
   },
   {
     "id": 60,
-    "question": "राम प्रसाद बिस्मिल की विचारधारा किन विचारधाराओं से प्रभावित थी?",
+    "question": "1857 की क्रांति को किस नाम से भी जाना जाता है? / By which other name is the 1857 revolt known?",
     "options": {
-      "A": "अरबी-फ़ारसी साहित्य",
-      "B": "आर्य समाज",
-      "C": "क्रांतिकारी राष्ट्रवाद",
-      "D": "अहिंसावादी आंदोलन"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 61,
-    "question": "1857 के विद्रोह के दौरान झांसी के सहयोगी राज्य कौन-कौन थे?",
-    "options": {
-      "A": "ग्वालियर",
-      "B": "कालपी",
-      "C": "सागर",
-      "D": "लखनऊ"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 62,
-    "question": "भारत छोड़ो आंदोलन के दौरान यूपी में भूमिगत गतिविधियों में किनका योगदान प्रमुख था?",
-    "options": {
-      "A": "जयप्रकाश नारायण",
-      "B": "डॉ. राम मनोहर लोहिया",
-      "C": "विनोबा भावे",
-      "D": "अच्युत पटवर्धन"
+      "A": "First War of Indian Independence",
+      "B": "Sepoy Mutiny",
+      "C": "Indian National Revolution",
+      "D": "Great Revolt"
     },
     "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 63,
-    "question": "1857 के विद्रोह में बरेली के नेता कौन थे?",
-    "options": {
-      "A": "खान बहादुर खान",
-      "B": "मौलवी अहमदुल्लाह शाह",
-      "C": "नाना साहेब",
-      "D": "तांत्या टोपे"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 64,
-    "question": "चंद्रशेखर आज़ाद के बारे में सही कथन चुनें:",
-    "options": {
-      "A": "उनका जन्म उन्नाव जिले में हुआ था",
-      "B": "वे हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन से जुड़े थे",
-      "C": "वे अल्फ्रेड पार्क में शहीद हुए",
-      "D": "वे काकोरी कांड के समय जेल में थे"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 65,
-    "question": "1857 के विद्रोह का दमन करने में ब्रिटिश सेना की रणनीतियों में क्या शामिल था?",
-    "options": {
-      "A": "विभाजित करो और राज करो",
-      "B": "स्थानीय राजाओं से गठबंधन",
-      "C": "तोप से उड़ा देना",
-      "D": "विद्रोहियों को अफ्रीका भेजना"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 66,
-    "question": "काकोरी कांड के मुकदमे में किन क्रांतिकारियों को आजीवन कारावास की सजा मिली?",
-    "options": {
-      "A": "सचिंद्रनाथ सान्याल",
-      "B": "राजकुमार शुक्ल",
-      "C": "लालबहादुर शास्त्री",
-      "D": "पं. गोविंद बल्लभ पंत"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 67,
-    "question": "1857 के विद्रोह के दौरान इलाहाबाद में प्रमुख घटनाएँ कौन-सी थीं?",
-    "options": {
-      "A": "विद्रोहियों द्वारा यूरोपीय निवासियों की हत्या",
-      "B": "अंग्रेजी कोषागार पर कब्जा",
-      "C": "विद्रोह का पूर्ण नियंत्रण विद्रोहियों के पास आना",
-      "D": "दिल्ली के सम्राट के लिए निष्ठा की घोषणा"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 68,
-    "question": "उत्तर प्रदेश में स्वतंत्रता संग्राम के दौरान सबसे पहले संगठित किसान आंदोलन कहाँ हुआ?",
-    "options": {
-      "A": "प्रयागराज",
-      "B": "बस्ती",
-      "C": "प्रतापगढ़",
-      "D": "हरदोई"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 69,
-    "question": "1857 के विद्रोह में कौन-कौन से वर्ग सक्रिय रूप से शामिल थे?",
-    "options": {
-      "A": "सिपाही",
-      "B": "जमींदार",
-      "C": "किसान",
-      "D": "व्यापारी वर्ग"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 70,
-    "question": "राम प्रसाद बिस्मिल की कविताओं में प्रमुख विषय क्या थे?",
-    "options": {
-      "A": "देशभक्ति",
-      "B": "आध्यात्मिकता",
-      "C": "अहिंसा",
-      "D": "क्रांति"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 71,
-    "question": "1857 के विद्रोह में अलीगढ़ की भूमिका के बारे में सही कथन चुनें:",
-    "options": {
-      "A": "यह एक सैन्य छावनी थी",
-      "B": "यहाँ विद्रोह जल्दी दबा दिया गया",
-      "C": "यहाँ के विद्रोही दिल्ली की ओर बढ़े",
-      "D": "यहाँ बेगम हज़रत महल ने नेतृत्व किया"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 72,
-    "question": "1920 के दशक में यूपी में किन-किन ने किसान आंदोलनों में भाग लिया?",
-    "options": {
-      "A": "बाबा रामचंद्र",
-      "B": "मदारी पासी",
-      "C": "सूर्यकांत त्रिपाठी 'निराला'",
-      "D": "जवाहरलाल नेहरू"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 73,
-    "question": "1857 के विद्रोह के बाद अवध में अंग्रेजों ने कौन-से कदम उठाए?",
-    "options": {
-      "A": "जमींदारी प्रथा को मजबूत किया",
-      "B": "विद्रोही परिवारों की ज़मीन जब्त की",
-      "C": "अवध को सीधे ब्रिटिश शासन के अधीन किया",
-      "D": "नवाब वाजिद अली शाह को पुनः सत्ता दी"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 74,
-    "question": "काकोरी कांड में शामिल लेकिन फाँसी से बच गए नेता कौन थे?",
-    "options": {
-      "A": "चंद्रशेखर आज़ाद",
-      "B": "भगत सिंह",
-      "C": "सचिंद्रनाथ सान्याल",
-      "D": "राजेंद्र लाहिड़ी"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 75,
-    "question": "1857 के विद्रोह का सबसे बड़ा सामाजिक-आर्थिक कारण कौन-सा था?",
-    "options": {
-      "A": "जमींदारी प्रथा",
-      "B": "नौकरी से असंतोष",
-      "C": "भारी कराधान",
-      "D": "धार्मिक हस्तक्षेप"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 76,
-    "question": "भारत छोड़ो आंदोलन के दौरान बलिया में 'अस्थायी सरकार' का नेतृत्व किसने किया?",
-    "options": {
-      "A": "चittu पांडेय",
-      "B": "राजेंद्र प्रसाद",
-      "C": "जयप्रकाश नारायण",
-      "D": "राम मनोहर लोहिया"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 77,
-    "question": "1857 में अवध के विद्रोही किसके नेतृत्व में लखनऊ में संगठित हुए?",
-    "options": {
-      "A": "बेगम हज़रत महल",
-      "B": "मौलवी अहमदुल्लाह शाह",
-      "C": "तांत्या टोपे",
-      "D": "बख्त खान"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 78,
-    "question": "उत्तर प्रदेश में आज़ाद हिंद फौज के समर्थन में किस वर्ष बड़े जनसमर्थन कार्यक्रम हुए?",
-    "options": {
-      "A": "1942",
-      "B": "1945",
-      "C": "1930",
-      "D": "1925"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 79,
-    "question": "1857 में शाहजहांपुर के विद्रोह का नेतृत्व किनके पास था?",
-    "options": {
-      "A": "अशफ़ाक़ उल्ला खान",
-      "B": "नाना साहेब",
-      "C": "मौलवी अहमदुल्लाह शाह",
-      "D": "बख्त खान"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 80,
-    "question": "उत्तर प्रदेश में स्वतंत्रता संग्राम की प्रमुख गुप्त प्रेसें कौन-सी थीं?",
-    "options": {
-      "A": "स्वराज प्रेस, कानपुर",
-      "B": "आजाद प्रेस, झांसी",
-      "C": "प्रभा प्रेस, वाराणसी",
-      "D": "गणेश प्रेस, इलाहाबाद"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 81,
-    "question": "Assertion (A): 1857 के विद्रोह में अवध क्षेत्र का योगदान निर्णायक था।\nReason (R): अवध में अंग्रेज़ों की ज़मींदारी नीति और बेगम हज़रत महल के नेतृत्व ने जनता को संगठित किया।\nसही विकल्प चुनें:",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 82,
-    "question": "Assertion (A): मंगल पांडे की घटना ने 1857 के विद्रोह की चिंगारी सुलगाई।\nReason (R): उन्होंने ग्रीस-लेपित कारतूसों का उपयोग करने से इंकार किया और अंग्रेज़ अफ़सर पर गोली चलाई।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 83,
-    "question": "निम्नलिखित में से कौन-सी घटनाएँ उत्तर प्रदेश में 1920–1942 के बीच हुईं? (2024 UPSC डेटा अनुसार)",
-    "options": {
-      "A": "चौरी-चौरा घटना",
-      "B": "काकोरी कांड",
-      "C": "भारत छोड़ो आंदोलन",
-      "D": "साइमन कमीशन का आगमन"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 84,
-    "question": "Assertion (A): चंद्रशेखर आज़ाद ने कभी अंग्रेज़ों के हाथों आत्मसमर्पण नहीं किया।\nReason (R): 1931 में इलाहाबाद के अल्फ्रेड पार्क में उन्होंने स्वयं को गोली मार ली।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 85,
-    "question": "1857 के विद्रोह में उत्तर प्रदेश के कौन-से स्थान अंग्रेजों के पुनः नियंत्रण में आने में सबसे अधिक समय लगे? (विश्लेषण-आधारित)",
-    "options": {
-      "A": "झांसी",
-      "B": "लखनऊ",
-      "C": "कानपुर",
-      "D": "बरेली"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 86,
-    "question": "Assertion (A): काकोरी कांड का मुख्य उद्देश्य हथियार खरीदने के लिए धन जुटाना था।\nReason (R): हिंदुस्तान रिपब्लिकन एसोसिएशन उस समय हथियारों की भारी कमी से जूझ रही थी।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 87,
-    "question": "निम्न में से किन नेताओं का जन्म वर्तमान उत्तर प्रदेश की सीमाओं के भीतर हुआ था? (सही सभी विकल्प चुनें)",
-    "options": {
-      "A": "अशफ़ाक़ उल्ला खान",
-      "B": "सुभाष चंद्र बोस",
-      "C": "राम प्रसाद बिस्मिल",
-      "D": "चंद्रशेखर आज़ाद"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 88,
-    "question": "Assertion (A): चौरी-चौरा कांड के बाद गांधीजी ने असहयोग आंदोलन वापस ले लिया।\nReason (R): गांधीजी हिंसा के किसी भी रूप के विरोधी थे और इस घटना में पुलिसकर्मियों की हत्या हुई थी।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 89,
-    "question": "1857 के विद्रोह में उत्तर प्रदेश के विद्रोही केंद्रों को उनके नेताओं से मिलाएँ:\n1. बरेली  \n2. कानपुर  \n3. लखनऊ  \n4. झांसी\n\nA. नाना साहेब  \nB. बेगम हज़रत महल  \nC. खान बहादुर खान  \nD. रानी लक्ष्मीबाई",
-    "options": {
-      "A": "1–C, 2–A, 3–B, 4–D",
-      "B": "1–B, 2–A, 3–C, 4–D",
-      "C": "1–C, 2–B, 3–A, 4–D",
-      "D": "1–A, 2–C, 3–B, 4–D"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 90,
-    "question": "Assertion (A): बेगम हज़रत महल ने नेपाल में निर्वासन के दौरान भी अंग्रेजों के खिलाफ प्रचार जारी रखा।\nReason (R): वे 1857 के बाद अंग्रेजों से पूरी तरह समझौता कर चुकी थीं।",
-    "options": {
-      "A": "A सही है लेकिन R गलत है",
-      "B": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "C": "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं करता",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 91,
-    "question": "Assertion (A): 1857 के विद्रोह को सिर्फ सैन्य बगावत मानना अनुचित होगा।\nReason (R): विद्रोह में धार्मिक, सामाजिक, आर्थिक और राजनीतिक कारणों का जटिल संयोजन था।\nसही विकल्प चुनें:",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 92,
-    "question": "Assertion (A): 'Doctrine of Lapse' नीतियों ने 1857 से ठीक पहले कई रियासतों को प्रभावित किया।\nReason (R): इन नीतियों ने रियासतों के उत्तराधिकार और सत्ता के मामलों में हस्तक्षेप बढ़ाया, जिससे स्थानीय शासकों में असंतोष बढ़ा।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 93,
-    "question": "निम्न में से कौन-से तत्व 1857 को 'नैश्नल मूवमेंट' की ओर ले जाने में योगदान कर सकते हैं? (सही सभी चुनें)",
-    "options": {
-      "A": "राजपूत/ठाकुरों द्वारा क्षेत्रीय प्रतिरोध",
-      "B": "सिपाहियों और स्थानीय जनता का अस्थायी गठबंधन",
-      "C": "आधुनिक राष्ट्रीय विचारों का व्यापक प्रचार",
-      "D": "मुगल सम्राट को प्रतीकात्मक नेता मानना"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 94,
-    "question": "Assertion (A): लखनऊ रेजीडेंसी की घेराबंदी ने ब्रिटिश पॉलिसी में तत्काल बदलावों को प्रेरित किया।\nReason (R): घेराबंदी की हिंसा और ब्रिटिश नागरिकों की बड़ी संख्या में हताहतियों ने लंदन को कड़े सैन्य और प्रशासकीय उपायों के लिए प्रेरित किया।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 95,
-    "question": "निम्नलिखित में से किन कारणों से 1857 के विद्रोह का अध्ययन आज भी द्विविधा उत्पन्न करता है? (सही सभी चुनें)",
-    "options": {
-      "A": "विभिन्न स्रोतों (ब्रिटिश, भारतीय, स्थानीय मौखिक) में भिन्न वृतांत",
-      "B": "केंद्रीकृत राष्ट्रीयता बनाम स्थानीय/क्षेत्रीय उद्देश्यों की बहस",
-      "C": "अंतरराष्ट्रीय प्रभावों का पूर्ण अभाव",
-      "D": "यानि यह सिर्फ़ एक सैन्य बगावत था"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 96,
-    "question": "Assertion (A): तात्या टोपे का युद्धक कला में योगदान मुख्यतः गतिशील गुरिल्ला-युद्ध के रूप में देखा गया।\nReason (R): उन्होंने खुला मैदान युद्ध छोड़कर मोबाइल छापामारी, ग़दरनुमा लड़ाइयाँ और भागदौड़ वाली रणनीतियाँ अपनाईं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 97,
-    "question": "निम्न में से किन-किन पहलुओं ने उत्तर प्रदेश में 1857 के विद्रोह को विशेष रूप से तीव्र बनाया? (सही सभी चुनें)",
-    "options": {
-      "A": "अवध का हालिया विलय और नवाब का निष्कासन",
-      "B": "कैंटोनमेंटों में अधिक तादाद में भारतीय सैनिकों की तैनाती",
-      "C": "समुद्री तटों पर विद्रोह का प्रभाव",
-      "D": "स्थानीय जमींदारों (तलुकार) का सक्रिय समर्थन/विरोध"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 98,
-    "question": "Assertion (A): रानी लक्ष्मीबाई का नेतृत्व केवल प्रतीकात्मक था और वास्तविक सैन्य योग्यता न के बराबर थी।\nReason (R): ऐतिहासिक स्रोतों में उनके घुड़सवार युद्ध कौशल और मोर्चा संचालन का उल्लेख मिलता है।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 99,
-    "question": "निम्नलिखित कथनों में से कौन-सा/से 1857 के बाद ब्रिटिश नीतिगत बदलाव के उदाहरण हैं? (सही सभी चुनें)",
-    "options": {
-      "A": "ईस्ट इंडिया कंपनी के शासकीय अधिकारों का समाप्त होना",
-      "B": "भारतीय सिपाहियों के भर्ती पैटर्न में बदलाव",
-      "C": "ब्रिटिश ने सभी भारतीय शासकों को सशक्त किया",
-      "D": "मिश्रित प्रशासनिक सुधारों और निगरानी तंत्र का निर्माण"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 100,
-    "question": "Assertion (A): काकोरी कांड को केवल डाक-डकैती नहीं कहा जा सकता क्योंकि उसका लक्ष्य राजनैतिक था।\nReason (R): काकोरी का उद्देश्य क्रांतिकारियों के लिए आर्थिक एवं संगठनात्मक सहायता जुटाना और ब्रिटिश अर्थव्यवस्था को प्रत्यक्ष क्षति पहुँचाना था।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 101,
-    "question": "निम्न में से किन-किन कारणों ने उत्तर प्रदेश में स्वतंत्रता आंदोलन के बाद चरणबद्ध राजनैतिक, सामाजिक परिवर्तन प्रेरित किए? (सही सभी चुनें)",
-    "options": {
-      "A": "कानूनी और कर-नीतियों में परिवर्तन",
-      "B": "स्थानीय नेतृत्व का राष्ट्रीय मंच पर उभरना",
-      "C": "समूची अर्थव्यवस्था का तत्क्षण स्वदेशीकरण",
-      "D": "शैक्षिक पुनर्गठन और सांस्कृतिक जागरण"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 102,
-    "question": "Assertion (A): 1857 के विद्रोह के अध्ययन में 'मौखिक इतिहास' (oral histories) व्यावहारिक और उपयोगी स्रोत हैं।\nReason (R): मौखिक कथाएँ स्थानीय घटनाक्रम, महिलाओं/निहित समूहों की भूमिकाओं और अनुपस्थित दस्तावेज़ों की परतों को प्रकट करती हैं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 103,
-    "question": "निम्नलिखित में से कौन-से तर्क यह दर्शाते हैं कि 1857 ने 'ब्रिटिश राज' की प्रकृति बदल दी? (सही सभी चुनें)",
-    "options": {
-      "A": "प्रत्यक्ष ताज शासन की स्थापना (Crown rule)",
-      "B": "ब्रिटिश नीतियों का नरम पड़ जाना",
-      "C": "अधिक सैन्य नियंत्रण और संशोधित भर्ती नीतियाँ",
-      "D": "प्रशासनिक विन্যাস और सूक्ष्म-नियंत्रण में वृद्धि"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 104,
-    "question": "Assertion (A): बेगम हज़रत महल की भूमिका को केवल 'स्थानीय विद्रोही महिला' तक सीमित नहीं किया जाना चाहिए।\nReason (R): उन्होंने नेताओं का समन्वय किया, लखनऊ में प्रतिरोध संगठित किया और बाद में देशभक्ति के प्रतीक के रूप में राजनीतिक स्मृति में जगह पायीं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 105,
-    "question": "निम्न में से किन-किन घटनाओं को उत्तर प्रदेश में 20वीं सदी के आरम्भिक वर्षों में राजनैतिक सक्रियता बढ़ाने वाला कारक माना जा सकता है? (सही सभी चुनें)",
-    "options": {
-      "A": "काकोरी (1925) और उसके बाद की क्रांतिकारी गतिविधियाँ",
-      "B": "ग्राम स्तर पर कांग्रेस और किसान आंदोलनों का प्रसार",
-      "C": "अंग्रेज़ी शिक्षा का पूर्ण बहिष्कार",
-      "D": "देशी प्रेस और गुप्त प्रेस का विकास"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 106,
-    "question": "Assertion (A): 1857 के विद्रोह ने औपनिवेशिक सैन्य संरचना में एक दीर्घकालिक अविश्वास पैदा किया।\nReason (R): विद्रोह के बाद ब्रिटिश ने सेना में 'नफ़्सी' भर्ती (communal balancing) और 'रिप्रेसिव' प्रावधान लागू किए।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 107,
-    "question": "निम्न में से किन-किन स्रोतों पर आधारित तुलनात्मक अध्ययन 1857 का बहु-पक्षीय चित्र प्रस्तुत कर सकता है? (सही सभी चुनें)",
-    "options": {
-      "A": "ब्रिटिश सैन्य रिपोर्ट और संवाद",
-      "B": "भारतीय स्वतंत्र संस्मरण और अख़बार",
-      "C": "स्थानीय मौखिक परंपराएँ और लोककथाएँ",
-      "D": "आधुनिक नाटकीय फिल्में और उपन्यास"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 108,
-    "question": "Assertion (A): 1857 के विद्रोह की स्मृति-निर्माण (memorialization) में राज्य की भूमिका संदर्भानुसार बदलती रही है।\nReason (R): विभिन्न राजनीतिक-ऐतिहासिक कालों में स्मारक, पाठ्य-पुस्तकें और सार्वजनिक कार्यक्रम अलग-अलग अर्थ-निर्धारण कर चुके हैं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 109,
-    "question": "निम्न में से कौन-सा तर्क यह दर्शाता है कि 1857 का विद्रोह पूरे भारत में संतुलित/समान रूप से प्रसारित नहीं था? (सही सभी चुनें)",
-    "options": {
-      "A": "विद्रोह के केंद्र विशेष रूप से उत्तरी और पूर्वी प्रान्तों में थे",
-      "B": "दक्षिण और पश्चिम में व्यवस्थित राष्ट्रीय विद्रोह कम था",
-      "C": "सभी रियासतें और प्रांत समान रूप से शामिल थीं",
-      "D": "क्षेत्रीय राजनीति और स्थानीय नेतृत्व का प्रभाव भिन्न था"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 110,
-    "question": "Assertion (A): काकोरी कांड तथा 1857 दोनों में 'कानूनी दंड' का उपयोग ब्रिटिश प्रशासन द्वारा क्रांतिकारियों को रोकने के लिए किया गया।\nReason (R): ब्रिटिश अदालतों ने कठोर सज़ाएँ दीं और कई अभियुक्तों को सार्वजनिक रूप से दंडित किया गया ताकि अन्यायियों में भय उत्पन्न हो।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 111,
-    "question": "निम्न में से कौन-से तत्व 1857 के विद्रोह के देसी-तर्क (indigenous rationale) के हिस्से रहे? (सही सभी चुनें)",
-    "options": {
-      "A": "धार्मिक आज्ञाओं का उल्लंघन (perceived)",
-      "B": "राजनैतिक स्वायत्तता की चाह",
-      "C": "बाहरी साम्राज्यवादी शक्ति का समर्थन",
-      "D": "स्थानीय सामाजिक अनुशासन का बचाव"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 112,
-    "question": "Assertion (A): काकोरी तथा बाद की क्रांतिकारी घटनाओं ने ग्रामीण उत्तर प्रदेश में युवा राजनीतिक सक्रियता बढ़ाई।\nReason (R): ये घटनाएँ अध्ययन, साहित्य और लोक-यादों के माध्यम से प्रेरणा का स्रोत बनीं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 113,
-    "question": "निम्न में से कौन-सी नीति/प्रथा 1857 के बाद ब्रिटिश प्रशासन ने अपनाई ताकि पुनरावृत्ति रोकी जा सके? (सही सभी चुनें)",
-    "options": {
-      "A": "प्रिंसीपल ऑफ़ कम्युनल बैलेंसिंग — सेना में समुदायों का संतुलन",
-      "B": "रियासतों को और अधिक स्वायत्तता देना",
-      "C": "लोक-नेताओं के साथ अधिक गठबंधन",
-      "D": "सेंसरशिप/प्रेस नियंत्रण में कड़ाई"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 114,
-    "question": "Assertion (A): 1857 के विद्रोह की महिलाएँ (जैसे बेगम हज़रत महल, रानी लक्ष्मीबाई) केवल पुरुष नेतृत्व का समर्थन करने वाली सहायक थीं।\nReason (R): ऐतिहासिक दस्तावेज़ उनसे सक्रिय सैन्य और प्रशासनिक भूमिकाएँ भी दर्शाते हैं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 115,
-    "question": "निम्नलिखित में से कौन-से तर्क यह दर्शाते हैं कि 1857 का विद्रोह आधुनिक राष्ट्रीयता की ओर पहला कदम था? (सही सभी चुनें)",
-    "options": {
-      "A": "ब्रिटिश वर्चस्व के खिलाफ साझा असंतोष का उदय",
-      "B": "एकल व पूर्ण रूप से समन्वित राष्ट्रीय नेतृत्व का अभाव",
-      "C": "प्रतीकात्मक नेता (मुगल सम्राट) के तहत विभिन्न समुदायों का अस्थायी एकीकरण",
-      "D": "सभी क्षेत्रीय संघर्षों का तत्काल समापन"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 116,
-    "question": "Assertion (A): 1857 के विद्रोह के सन्दर्भ में प्रासंगिकता आज भी बनी हुई है क्योंकि यह औपनिवेशिक नीतियों का पहला बड़ा विरोध था।\nReason (R): 21वीं सदी में भी यह आंदोलन इतिहासकारों तथा सार्वजनिक स्मृति नीतियों के लिए स्रोत बना हुआ है।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A गलत है लेकिन R सही है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 117,
-    "question": "निम्न में से किन कारणों से उत्तर प्रदेश का 1857 में भू-राजनीतिक महत्व बढ़ गया था? (सही सभी चुनें)",
-    "options": {
-      "A": "राजमार्ग एवं रेल मार्गों का संगम",
-      "B": "कई रियासतों और सांस्कृतिक-धार्मिक केंद्रों का होना",
-      "C": "दक्षिणी समुद्री डोमेन का केंद्रीय नियंत्रण",
-      "D": "कैंटोनमेंटों में ब्रिटिश व भारतीय सैनिकों की निर्णायक उपस्थिति"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 118,
-    "question": "Assertion (A): 1857 के विद्रोह के बाद ब्रिटिशों ने संवैधानिक सुधारों की तत्काल शुरुआत कर दी।\nReason (R): विद्रोह के बाद ही व्यापक रूप से भारतीय प्रतिनिधित्व बढ़ाने वाली नीतियाँ लागू कर दीं गईं।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A और R दोनों गलत हैं"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 119,
-    "question": "निम्नलिखित में से कौन-सी रणनीतियाँ 1857 के विद्रोहियों द्वारा अपनायीं गयीं जो आधुनिक gerilla/insurgent युद्ध-सिद्धान्तों से मेल खाती हैं? (सही सभी चुनें)",
-    "options": {
-      "A": "संघटनात्मक गतिशीलता और आश्रय-स्थल बदलना",
-      "B": "अप्रत्यक्ष एवं संकुचित आपूर्ति लाइनों पर आक्रमण",
-      "C": "युद्ध में भारी तोपखाने का एकमात्र प्रयोग",
-      "D": "स्थानीय समर्थन-पठ का उपयोग (food, shelter, intelligence)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 120,
-    "question": "Assertion (A): 1857 विद्रोह की ऐतिहासिक व्याख्या में 'पोस्ट-कोलोनियल' दृष्टिकोण ने नई अंतर्दृष्टि दी है।\nReason (R): पोस्ट-कोलोनियल अध्ययन ने विद्रोह के स्थानीय अनुभवों, स्मृति और सामर्थ्य की बहुलता को उजागर किया है।",
-    "options": {
-      "A": "A और R दोनों सही हैं और R, A की सही व्याख्या करता है",
-      "B": "A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं करता",
-      "C": "A सही है लेकिन R गलत है",
-      "D": "A और R दोनों गलत हैं"
-    },
-    "answer": ["A"]
   }
 ]
+
+
+
