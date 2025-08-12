@@ -1,665 +1,1131 @@
 [
   {
     "id": 1,
-    "question": "राजा राम मोहन राय का मुख्य उद्देश्य क्या था? / What was the main objective of Raja Ram Mohan Roy?",
+    "question": "जैन धर्म के 24 तीर्थंकरों में प्रथम कौन हैं और अंतिम कौन? / Who are the first and the last Tirthankaras in Jainism?",
     "options": {
-      "A": "सती प्रथा का उन्मूलन / Abolition of Sati",
-      "B": "ब्रह्म समाज की स्थापना / Establishment of Brahmo Samaj",
-      "C": "जातिवाद को बढ़ावा देना / Promoting Caste System",
-      "D": "अंग्रेज़ों के साथ मिलकर राज करना / Collaborating with British"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 2,
-    "question": "ब्रह्म समाज की कौन-सी विशेषता सही है? / Which of the following are characteristics of Brahmo Samaj?",
-    "options": {
-      "A": "वेदों का साक्षात्कार करना / Accepting authority of Vedas",
-      "B": "एकेश्वरवाद पर विश्वास / Belief in Monotheism",
-      "C": "सती प्रथा का समर्थन / Supporting Sati Practice",
-      "D": "धार्मिक सुधारों पर जोर / Emphasis on Religious Reforms"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 3,
-    "question": "आर्य समाज की स्थापना किसने और कब की? / Who founded Arya Samaj and when?",
-    "options": {
-      "A": "स्वामी दयानंद सरस्वती, 1875 / Swami Dayanand Saraswati, 1875",
-      "B": "महात्मा गांधी, 1920 / Mahatma Gandhi, 1920",
-      "C": "ज्वाला प्रसाद शर्मा, 1890 / Jwala Prasad Sharma, 1890",
-      "D": "गोपाल कृष्ण गोखले, 1905 / Gopal Krishna Gokhale, 1905"
+      "A": "ऋषभदेव (Rishabhdev) और महावीर (Mahavir)",
+      "B": "परश्वनाथ (Parshwanath) और महावीर (Mahavir)",
+      "C": "बुद्ध (Buddha) और महावीर (Mahavir)",
+      "D": "ऋषभदेव (Rishabhdev) और पार्श्वनाथ (Parshwanath)"
     },
     "answer": ["A"]
   },
   {
-    "id": 4,
-    "question": "प्रार्थना समाज का मुख्य केंद्र कहाँ था? / What was the main center of Prarthana Samaj?",
+    "id": 2,
+    "question": "महावीर का जन्म कब और कहाँ हुआ था? / When and where was Mahavir born?",
     "options": {
-      "A": "कोलकाता / Kolkata",
-      "B": "मुंबई / Mumbai",
-      "C": "पुणे / Pune",
-      "D": "दिल्ली / Delhi"
+      "A": "लगभग 599 ईसा पूर्व, कुंडलगिरि (राजगृह)",
+      "B": "लगभग 540 ईसा पूर्व, लुम्बिनी",
+      "C": "लगभग 527 ईसा पूर्व, वाराणसी",
+      "D": "लगभग 563 ईसा पूर्व, काशी"
     },
-    "answer": ["C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 3,
+    "question": "महावीर ने ज्ञान की प्राप्ति कैसे की? / How did Mahavir attain Kevala Jnana (omniscience)?",
+    "options": {
+      "A": "संकल्प और कठोर तपस्या से",
+      "B": "गुरु से शिक्षा लेकर",
+      "C": "योग और ध्यान से",
+      "D": "शारीरिक युद्ध के माध्यम से"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 4,
+    "question": "महावीर के निर्वाण का क्या अर्थ है? / What does Mahavir's Nirvana signify?",
+    "options": {
+      "A": "मोह-माया का त्याग और मोक्ष प्राप्ति",
+      "B": "पुनर्जन्म का अंत",
+      "C": "संसार में फिर से जन्म लेना",
+      "D": "धर्म की स्थापना"
+    },
+    "answer": ["A", "B"]
   },
   {
     "id": 5,
-    "question": "थियोसोफिकल सोसाइटी का उद्देश्य क्या था? / What was the objective of Theosophical Society?",
+    "question": "महावीर और बुद्ध में कौन-कौन से समानताएँ हैं? / Which are the similarities between Mahavir and Buddha?",
     "options": {
-      "A": "धार्मिक रहस्यों की खोज / Investigation of religious mysteries",
-      "B": "अशांत क्षेत्रों में शिक्षा फैलाना / Spreading education in conflict zones",
-      "C": "अंधविश्वास को बढ़ावा देना / Promoting superstitions",
-      "D": "धार्मिक सहिष्णुता और एकता / Religious tolerance and unity"
+      "A": "त्याग और तपस्या",
+      "B": "अहिंसा का महत्व",
+      "C": "संसार की निंदा करना",
+      "D": "धार्मिक उपदेश देना"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 6,
+    "question": "महावीर और बुद्ध में कौन-कौन से अंतर हैं? / Which are the differences between Mahavir and Buddha?",
+    "options": {
+      "A": "महावीर जैन धर्म के प्रवर्तक थे, बुद्ध बौद्ध धर्म के",
+      "B": "महावीर ने कर्म की अवधारणा को अस्वीकार किया",
+      "C": "बुद्ध ने मध्य मार्ग का प्रचार किया",
+      "D": "महावीर का ध्यान आत्मा की शुद्धि पर था"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 7,
+    "question": "जैन धर्म में अहिंसा का क्या स्थान है? / What is the place of Ahimsa in Jainism?",
+    "options": {
+      "A": "मूलभूत सिद्धांत",
+      "B": "दूसरे स्थान पर",
+      "C": "धार्मिक अनुष्ठान",
+      "D": "व्यावहारिक नैतिकता"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 8,
+    "question": "महावीर के त्याग का अर्थ क्या है? / What does Mahavir's renunciation signify?",
+    "options": {
+      "A": "संसारिक सुखों का त्याग",
+      "B": "धर्म का परित्याग",
+      "C": "परिवार से दूर होना",
+      "D": "मौन रहना"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 9,
+    "question": "जैन और बौद्ध धर्म में किस प्रकार का जीवन आदर्श माना जाता है? / What kind of life is ideal in Jainism and Buddhism?",
+    "options": {
+      "A": "साधु-संत जैसा तपस्वी जीवन",
+      "B": "धन-सम्पदा से भरा जीवन",
+      "C": "सामाजिक और नैतिक जीवन",
+      "D": "निर्मोही और त्यागी जीवन"
     },
     "answer": ["A", "D"]
   },
   {
-    "id": 6,
-    "question": "अलीगढ़ आंदोलन का नेतृत्व किसने किया? / Who led the Aligarh Movement?",
-    "options": {
-      "A": "मौलाना अबुल कलाम आज़ाद / Maulana Abul Kalam Azad",
-      "B": "सर सैयद अहमद खान / Sir Syed Ahmed Khan",
-      "C": "बशीर उद-दीन / Basheer Uddin",
-      "D": "मोहम्मद अली जिन्ना / Mohammad Ali Jinnah"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 7,
-    "question": "महिला सुधार आंदोलन के तहत कौन से मुद्दे प्रमुख थे? / Which issues were prominent in the Women Reform Movement?",
-    "options": {
-      "A": "बाल विवाह का विरोध / Opposition to child marriage",
-      "B": "महिला शिक्षा का प्रचार / Promotion of women's education",
-      "C": "सती प्रथा का समर्थन / Support of Sati practice",
-      "D": "विवाह विच्छेद की अनुमति / Legalizing divorce"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 8,
-    "question": "राजा राम मोहन राय ने किस वर्ष में ब्रह्म समाज की स्थापना की? / In which year did Raja Ram Mohan Roy establish Brahmo Samaj?",
-    "options": {
-      "A": "1828",
-      "B": "1857",
-      "C": "1885",
-      "D": "1905"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 9,
-    "question": "ब्रह्म समाज ने किन-किन सामाजिक बुराइयों का विरोध किया? / Which social evils did Brahmo Samaj oppose?",
-    "options": {
-      "A": "सती प्रथा / Sati practice",
-      "B": "जातिवाद / Caste system",
-      "C": "बुंदेलखंड की खदानें / Bundelkhand mines",
-      "D": "संबंधित धार्मिक मूर्तिपूजा / Idol worship"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
     "id": 10,
-    "question": "थियोसोफिकल सोसाइटी की स्थापना किसने की थी? / Who founded Theosophical Society?",
+    "question": "महावीर ने किस प्रकार के नियम अपनाए? / What type of rules did Mahavir follow?",
     "options": {
-      "A": "हेलेना ब्लावात्स्की और हेनरी स्टील ओल्कट / Helena Blavatsky & Henry Steel Olcott",
-      "B": "स्वामी दयानंद सरस्वती / Swami Dayanand Saraswati",
-      "C": "सर सैयद अहमद खान / Sir Syed Ahmed Khan",
-      "D": "रवींद्रनाथ टैगोर / Rabindranath Tagore"
+      "A": "सख्त तपस्या और संयम",
+      "B": "सामाजिक सुधार",
+      "C": "राजनीतिक संघर्ष",
+      "D": "धार्मिक प्रचार"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 11,
-    "question": "राजा राम मोहन राय ने कौन-सी प्रमुख पुस्तक लिखी? / Which major book was written by Raja Ram Mohan Roy?",
+    "question": "महावीर का निर्वाण किस वर्ष माना जाता है? / In which year is Mahavir's Nirvana believed to have occurred?",
     "options": {
-      "A": "‘Precepts of Jesus’",
-      "B": "‘An Appeal to the Christians of India’",
-      "C": "‘The Satyarth Prakash’",
-      "D": "‘The Discovery of India’"
+      "A": "527 ईसा पूर्व",
+      "B": "599 ईसा पूर्व",
+      "C": "563 ईसा पूर्व",
+      "D": "540 ईसा पूर्व"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "स्वामी दयानंद सरस्वती द्वारा लिखी गई प्रमुख पुस्तक कौन-सी है? / Which is a major book written by Swami Dayanand Saraswati?",
+    "question": "जैन धर्म के मुख्य सिद्धांत कौन-कौन से हैं? / What are the main principles of Jainism?",
     "options": {
-      "A": "‘Satyarth Prakash’ (The Light of Truth)",
-      "B": "‘Gita Rahasya’",
-      "C": "‘Anandmath’",
-      "D": "‘Hindu Dharma’"
+      "A": "अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह",
+      "B": "दान, तपस्या, पूजा",
+      "C": "भक्ति, सेवा, ध्यान",
+      "D": "कर्मयोग, भक्ति योग"
     },
     "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "गोपाल कृष्ण गोखले ने कौन-सी प्रसिद्ध पुस्तक लिखी? / Which famous book was authored by Gopal Krishna Gokhale?",
+    "question": "महावीर का बौद्ध धर्म के साथ संबंध क्या था? / What was Mahavir's relation to Buddhism?",
     "options": {
-      "A": "‘Speeches and Writings of Gopal Krishna Gokhale’",
-      "B": "‘India Divided’",
-      "C": "‘Annihilation of Caste’",
-      "D": "‘Hind Swaraj’"
+      "A": "दोनों समकालीन धर्म थे",
+      "B": "महावीर बौद्ध थे",
+      "C": "बुद्ध जैन थे",
+      "D": "कोई संबंध नहीं"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "पंडिता रमाबाई द्वारा लिखित पुस्तक कौन-सी है? / Which book was written by Pandita Ramabai?",
+    "question": "महावीर ने कर्म की क्या अवधारणा दी? / What was Mahavir's concept of Karma?",
     "options": {
-      "A": "‘The High Caste Hindu Woman’",
-      "B": "‘My Experiments with Truth’",
-      "C": "‘Indulekha’",
-      "D": "‘Women and Social Reform’"
+      "A": "कर्म एक सूक्ष्म पदार्थ है जो आत्मा से चिपकता है",
+      "B": "कर्म केवल अच्छे कर्म होते हैं",
+      "C": "कर्म का कोई अस्तित्व नहीं",
+      "D": "कर्म केवल मानसिक क्रिया है"
     },
     "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "स्वामी विवेकानंद की कौन-सी पुस्तक सामाजिक सुधारों के लिए प्रसिद्ध है? / Which book by Swami Vivekananda is famous for social reforms?",
+    "question": "महावीर के अनुसार मोक्ष प्राप्ति का मार्ग कौन सा है? / According to Mahavir, which path leads to liberation?",
     "options": {
-      "A": "‘Lectures from Colombo to Almora’",
-      "B": "‘Raja Yoga’",
-      "C": "‘Karma Yoga’",
-      "D": "‘Jnana Yoga’"
+      "A": "तीन रत्न - सम्यक दर्शन, सम्यक ज्ञान, सम्यक चारित्र",
+      "B": "भक्ति और पूजा",
+      "C": "योग और ध्यान",
+      "D": "दान और तपस्या"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "मौलाना अबुल कलाम आज़ाद द्वारा लिखित पुस्तक कौन-सी है? / Which book was written by Maulana Abul Kalam Azad?",
+    "question": "महावीर के निर्वाण के बाद जैन धर्म का क्या विकास हुआ? / What development occurred in Jainism after Mahavir's Nirvana?",
     "options": {
-      "A": "‘India Wins Freedom’",
-      "B": "‘Ghubar-e-Khatir’",
-      "C": "‘The Discovery of India’",
-      "D": "‘My Experiments with Truth’"
+      "A": "धर्म की पुनर्स्थापना और प्रचार",
+      "B": "धर्म का लुप्त होना",
+      "C": "बौद्ध धर्म का विकास",
+      "D": "राजनीतिक सत्ता प्राप्ति"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 17,
-    "question": "अननी बेसेंट ने कौन-सी पुस्तक लिखी जो महिला अधिकारों और सामाजिक सुधार पर केंद्रित है? / Which book by Annie Besant focuses on women's rights and social reform?",
+    "question": "जैन धर्म में तपस्या का महत्व क्या है? / What is the importance of austerity in Jainism?",
     "options": {
-      "A": "‘The Indian Path’",
-      "B": "‘Theosophy and Social Reform’",
-      "C": "‘Women and the Social Problem’",
-      "D": "‘Swaraj’"
+      "A": "कर्मों को नष्ट करना",
+      "B": "धर्म प्रचार करना",
+      "C": "भक्ति प्रकट करना",
+      "D": "सामाजिक सुधार"
     },
-    "answer": ["B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 18,
-    "question": "सुभाष चंद्र बोस की कौन-सी पुस्तक सामाजिक चेतना को बढ़ावा देती है? / Which book by Subhash Chandra Bose promotes social awareness?",
+    "question": "महावीर और बुद्ध के बीच कौन सा सिद्धांत भिन्न है? / Which principle differs between Mahavir and Buddha?",
     "options": {
-      "A": "‘The Indian Struggle’",
-      "B": "‘Annihilation of Caste’",
-      "C": "‘Hind Swaraj’",
-      "D": "‘Gitanjali’"
+      "A": "आत्मा का अस्तित्व",
+      "B": "अहिंसा",
+      "C": "त्याग",
+      "D": "ध्यान"
     },
     "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "गोपालकृष्ण गांधी ने किस प्रमुख नेता पर पुस्तक लिखी है? / Gopal Krishna Gandhi wrote a book on which prominent leader?",
+    "question": "महावीर ने सामाजिक दृष्टि से क्या संदेश दिया? / What social message did Mahavir give?",
     "options": {
-      "A": "Rajaji (C. Rajagopalachari)",
-      "B": "Mahatma Gandhi",
-      "C": "Jawaharlal Nehru",
-      "D": "Subhash Chandra Bose"
+      "A": "सभी जीवों के प्रति समान दया",
+      "B": "राजनीतिक सत्ता की खोज",
+      "C": "धर्म के प्रचार में हिंसा",
+      "D": "धन और शक्ति का महत्व"
     },
     "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "सर सैयद अहमद खान की कौन-सी पुस्तक शिक्षा सुधारों के लिए प्रसिद्ध है? / Which book of Sir Syed Ahmed Khan is famous for educational reforms?",
+    "question": "महावीर के जीवन से जुड़ा कौन-सा कथन सही है? / Which statement related to Mahavir's life is correct?",
     "options": {
-      "A": "‘Asar-us-Sanadid’",
-      "B": "‘Tahzib-ul-Akhlaq’",
-      "C": "‘The Discovery of India’",
-      "D": "‘India Divided’"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 21,
-    "question": "जयप्रकाश नारायण ने कौन-सी पुस्तक लिखी जो सामाजिक सुधारों पर केंद्रित है? / Which book by Jayaprakash Narayan focuses on social reforms?",
-    "options": {
-      "A": "‘Prison Diary’",
-      "B": "‘An Autobiography’",
-      "C": "‘New Deal for India’",
-      "D": "‘The Discovery of India’"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 22,
-    "question": "बाल गंगाधर तिलक की प्रमुख पुस्तक कौन-सी है? / What is the major book written by Bal Gangadhar Tilak?",
-    "options": {
-      "A": "‘Gita Rahasya’",
-      "B": "‘The Discovery of India’",
-      "C": "‘Annihilation of Caste’",
-      "D": "‘Indian Struggle’"
+      "A": "उन्होंने परिवार और राजसत्ता को छोड़ दिया",
+      "B": "वे राजा बने",
+      "C": "उन्होंने युद्ध में भाग लिया",
+      "D": "उन्होंने पूजा- पाठ शुरू किया"
     },
     "answer": ["A"]
   },
   {
-    "id": 23,
-    "question": "महात्मा गांधी की कौन-सी पुस्तक सामाजिक सुधारों पर महत्वपूर्ण मानी जाती है? / Which book by Mahatma Gandhi is considered important on social reforms?",
+    "id": 21,
+    "question": "जैन धर्म के त्रिरत्न सिद्धांत में कौन-कौन शामिल हैं? / Which are included in the Jainism's Triratna (Three Jewels) principle?",
     "options": {
-      "A": "‘Hind Swaraj’",
-      "B": "‘My Experiments with Truth’",
-      "C": "‘The Story of My Experiments’",
-      "D": "‘India of My Dreams’"
+      "A": "सम्यक् श्रद्धा (Right Faith)",
+      "B": "सम्यक् ज्ञान (Right Knowledge)",
+      "C": "सम्यक् आचार (Right Conduct)",
+      "D": "अहिंसा (Non-violence)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 22,
+    "question": "पंच महाव्रत में कौन-कौन से नियम शामिल हैं? / Which vows are part of the Panch Mahavratas?",
+    "options": {
+      "A": "अहिंसा (Non-violence)",
+      "B": "सत्य (Truth)",
+      "C": "अस्तेय (Non-stealing)",
+      "D": "ध्यान (Meditation)",
+      "E": "ब्रह्मचर्य (Celibacy)",
+      "F": "अपरिग्रह (Non-possession)"
+    },
+    "answer": ["A", "B", "C", "E", "F"]
+  },
+  {
+    "id": 23,
+    "question": "स्याद्वाद का मुख्य उद्देश्य क्या है? / What is the main objective of Syadvada?",
+    "options": {
+      "A": "सत्य को सापेक्ष और अनेक दृष्टिकोण से समझना",
+      "B": "सत्य को एकमात्र माना जाना",
+      "C": "दूसरों की बातों को न मानना",
+      "D": "तर्क का परित्याग"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 24,
+    "question": "अन्य क्या-क्या सिद्धांत जैन दर्शन में महत्वपूर्ण हैं? / Which other principles are important in Jain philosophy?",
+    "options": {
+      "A": "अनेकांतवाद (Multiplicity of viewpoints)",
+      "B": "नयवाद (Doctrine of perspectives)",
+      "C": "अहिंसा (Non-violence)",
+      "D": "मोक्ष (Liberation)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 25,
+    "question": "जैन धर्म की मुख्य दो शाखाएँ कौन-कौन सी हैं? / What are the two main sects of Jainism?",
+    "options": {
+      "A": "दिगंबर (Digambar)",
+      "B": "श्वेतांबर (Shwetambar)",
+      "C": "बौद्ध (Buddhist)",
+      "D": "हिंदू (Hindu)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 24,
-    "question": "गोविंद बल्लभ पंत की कौन-सी पुस्तक राजनीतिक और सामाजिक सुधारों को दर्शाती है? / Which book by Govind Ballabh Pant reflects political and social reforms?",
-    "options": {
-      "A": "‘My Life and Times’",
-      "B": "‘The Discovery of India’",
-      "C": "‘The Indian Struggle’",
-      "D": "‘India Divided’"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 25,
-    "question": "मीराबाई द्वारा लिखी गई भक्ति कविताओं का संग्रह कौन-सा है? / Which is the collection of devotional poems written by Mirabai?",
-    "options": {
-      "A": "‘Padavali’",
-      "B": "‘Geet Govind’",
-      "C": "‘Bhagavad Gita’",
-      "D": "‘Ramcharitmanas’"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 26,
-    "question": "कबीर दास की प्रमुख रचनाएँ कौन-सी हैं? / What are the major works of Kabir Das?",
+    "question": "दिगंबर और श्वेतांबर में क्या मुख्य भेद हैं? / What are the main differences between Digambar and Shwetambar sects?",
     "options": {
-      "A": "‘Bijak’",
-      "B": "‘Ramcharitmanas’",
-      "C": "‘Sufi Poetry’",
-      "D": "‘Bhagavad Gita’"
+      "A": "दिगंबर नंगे होते हैं, श्वेतांबर वस्त्र पहनते हैं",
+      "B": "दिगंबर मूर्तियों में पूर्ण नग्नता, श्वेतांबर में कपड़े",
+      "C": "दिगंबर केवल पुरुष साधु होते हैं",
+      "D": "श्वेतांबर ग्रंथ स्वीकार करते हैं, दिगंबर नहीं"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 27,
-    "question": "रामप्रसाद बिस्मिल की प्रमुख पुस्तक कौन-सी है? / What is the major book of Ram Prasad Bismil?",
+    "question": "श्वेतांबर और दिगंबर के ग्रंथों में क्या भिन्नता है? / What is the difference in scriptures between Shwetambar and Digambar sects?",
     "options": {
-      "A": "‘Sarfaroshi Ki Tamanna’",
-      "B": "‘Gitanjali’",
-      "C": "‘Anandmath’",
-      "D": "‘India Wins Freedom’"
+      "A": "श्वेतांबर स्वीकार करते हैं आगम ग्रंथों को",
+      "B": "दिगंबर ग्रंथों को मान्यता नहीं देते",
+      "C": "दोनों समान ग्रंथ स्वीकार करते हैं",
+      "D": "दिगंबर ने कुछ ग्रंथ रचित किए"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 28,
-    "question": "डॉ. भीमराव अंबेडकर की कौन-सी पुस्तक सामाजिक सुधारों पर केंद्रित है? / Which book of Dr. Bhimrao Ambedkar focuses on social reforms?",
+    "question": "स्याद्वाद किस सिद्धांत पर आधारित है? / On which principle is Syadvada based?",
     "options": {
-      "A": "‘Annihilation of Caste’",
-      "B": "‘The Buddha and His Dhamma’",
-      "C": "‘India Wins Freedom’",
-      "D": "‘The Discovery of India’"
+      "A": "सत्य के विभिन्न दृष्टिकोणों को स्वीकारना",
+      "B": "एकमात्र सत्य की मान्यता",
+      "C": "तर्क का परित्याग",
+      "D": "सत्य को निराकार मानना"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "महिला सुधार आंदोलन में सक्रिय कास्तूरीरंगाय्य की पुस्तक कौन-सी है? / Which book is by Kasturiranga related to Women’s Reform Movement?",
+    "question": "अन्यायवाद (Nayavada) का उद्देश्य क्या है? / What is the purpose of Nayavada?",
     "options": {
-      "A": "‘My Life’",
-      "B": "‘The Status of Women in India’",
-      "C": "‘Social Reforms in India’",
-      "D": "‘Women’s Rights in India’"
+      "A": "वस्तु के विभिन्न पहलुओं को समझना",
+      "B": "सत्य को एक रूप में देखना",
+      "C": "सत्य को बहुलता में समझना",
+      "D": "धार्मिक प्रचार"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 30,
-    "question": "लाल बहादुर शास्त्री की कौन-सी पुस्तक सामाजिक सुधारों पर प्रकाश डालती है? / Which book by Lal Bahadur Shastri highlights social reforms?",
+    "question": "जैन धर्म में अपरिग्रह का क्या अर्थ है? / What does Aparigraha mean in Jainism?",
     "options": {
-      "A": "‘Life and Work of Lal Bahadur Shastri’",
-      "B": "‘India of My Dreams’",
-      "C": "‘My Experiments with Truth’",
-      "D": "‘Hind Swaraj’"
+      "A": "संपत्ति और आसक्ति से मुक्त होना",
+      "B": "धर्म प्रचार करना",
+      "C": "सत्य बोलना",
+      "D": "सामाजिक सेवा"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "राजा राम मोहन राय की पुस्तक 'Precepts of Jesus' का उद्देश्य क्या था? / What was the objective of Raja Ram Mohan Roy's book 'Precepts of Jesus'?",
+    "question": "जैन धर्म के अनुसार कौन-कौन से नियम तपस्वी के लिए अनिवार्य हैं? / According to Jainism, which vows are compulsory for ascetics?",
     "options": {
-      "A": "ईसाई धर्म के नैतिक सिद्धांतों को समझाना / To explain the moral principles of Christianity",
-      "B": "धार्मिक सहिष्णुता को बढ़ावा देना / To promote religious tolerance",
-      "C": "भारतीय रीति-रिवाजों का प्रचार / To promote Indian customs",
-      "D": "ब्रिटिश शासन का समर्थन करना / To support British rule"
+      "A": "पंच महाव्रत (Five Great Vows)",
+      "B": "नियम (Discipline)",
+      "C": "अहिंसा",
+      "D": "ध्यान"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 32,
+    "question": "दिगंबर और श्वेतांबर साधुओं के वेशभूषा में क्या अंतर है? / What is the difference in attire between Digambar and Shwetambar monks?",
+    "options": {
+      "A": "दिगंबर नग्न रहते हैं",
+      "B": "श्वेतांबर सफेद वस्त्र पहनते हैं",
+      "C": "दिगंबर रंगीन वस्त्र पहनते हैं",
+      "D": "श्वेतांबर नग्न रहते हैं"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 32,
-    "question": "स्वामी दयानंद सरस्वती की 'Satyarth Prakash' में किस विषय पर विशेष ध्यान दिया गया है? / What is the special focus of Swami Dayanand Saraswati's 'Satyarth Prakash'?",
-    "options": {
-      "A": "वेदों का प्रचार / Promotion of the Vedas",
-      "B": "धार्मिक अंधविश्वास का विरोध / Opposition to religious superstitions",
-      "C": "जातिवाद का समर्थन / Support for caste system",
-      "D": "वैदिक पुनरुत्थान / Revival of Vedic culture"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
     "id": 33,
-    "question": "पंडिता रमाबाई की 'The High Caste Hindu Woman' में किस सामाजिक समस्या पर चर्चा की गई है? / What social issue is discussed in Pandita Ramabai's 'The High Caste Hindu Woman'?",
+    "question": "जैन धर्म के सिद्धांतों में अनेकांतवाद का क्या महत्व है? / What is the importance of Anekantavada in Jain principles?",
     "options": {
-      "A": "महिला शिक्षा की कमी / Lack of women's education",
-      "B": "महिलाओं पर अत्याचार / Oppression of women",
-      "C": "जाति प्रथा / Caste system",
-      "D": "सती प्रथा का समर्थन / Support of Sati"
+      "A": "वस्तुओं के बहु-आयामी सत्य को स्वीकारना",
+      "B": "एकमात्र सत्य को मानना",
+      "C": "सत्य को केवल मानसिक मानना",
+      "D": "तर्क को अस्वीकारना"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 34,
-    "question": "स्वामी विवेकानंद की 'Lectures from Colombo to Almora' में क्या विषय प्रमुख है? / What is the main theme in Swami Vivekananda's 'Lectures from Colombo to Almora'?",
+    "question": "स्याद्वाद और अनेकांतवाद में क्या संबंध है? / What is the relationship between Syadvada and Anekantavada?",
     "options": {
-      "A": "धर्म और दर्शन / Religion and philosophy",
-      "B": "राष्ट्रीय एकता / National unity",
-      "C": "सामाजिक सुधार / Social reform",
-      "D": "अंग्रेजी शासन की आलोचना / Criticism of British rule"
+      "A": "स्याद्वाद अनेकांतवाद की व्याख्या है",
+      "B": "दोनों अलग-अलग सिद्धांत हैं",
+      "C": "स्याद्वाद का आधार अनेकांतवाद है",
+      "D": "कोई संबंध नहीं है"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 35,
-    "question": "सर सैयद अहमद खान की 'Tahzib-ul-Akhlaq' का मुख्य उद्देश्य क्या था? / What was the main objective of Sir Syed Ahmed Khan's 'Tahzib-ul-Akhlaq'?",
+    "question": "श्वेतांबर और दिगंबर में मूर्तियों के संदर्भ में क्या भेद है? / What is the difference in idols between Shwetambar and Digambar sects?",
     "options": {
-      "A": "मुस्लिम समाज में सामाजिक सुधार / Social reform in Muslim society",
-      "B": "अंग्रेजी शिक्षा का प्रचार / Promotion of English education",
-      "C": "जाति प्रथा को बढ़ावा देना / Promoting caste system",
-      "D": "धार्मिक कट्टरता बढ़ाना / Increasing religious fanaticism"
+      "A": "श्वेतांबर मूर्तियाँ वस्त्रधारी होती हैं",
+      "B": "दिगंबर मूर्तियाँ नग्न होती हैं",
+      "C": "दोनों की मूर्तियाँ समान होती हैं",
+      "D": "श्वेतांबर मूर्तियाँ बिना कपड़ों की होती हैं"
     },
     "answer": ["A", "B"]
   },
   {
     "id": 36,
-    "question": "अननी बेसेंट की 'Theosophy and Social Reform' किस विषय पर केंद्रित है? / What is the focus of Annie Besant's 'Theosophy and Social Reform'?",
+    "question": "जैन धर्म में ब्रह्मचर्य का क्या महत्व है? / What is the importance of Brahmacharya in Jainism?",
     "options": {
-      "A": "आध्यात्मिकता और सामाजिक सुधार / Spirituality and social reform",
-      "B": "राजनीतिक क्रांति / Political revolution",
-      "C": "धार्मिक कट्टरता / Religious fanaticism",
-      "D": "धार्मिक सहिष्णुता / Religious tolerance"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 37,
-    "question": "डॉ. भीमराव अंबेडकर की पुस्तक 'Annihilation of Caste' का मुख्य विषय क्या है? / What is the main subject of Dr. Bhimrao Ambedkar's 'Annihilation of Caste'?",
-    "options": {
-      "A": "जाति व्यवस्था का विरोध / Opposition to caste system",
-      "B": "धार्मिक सुधार / Religious reform",
-      "C": "शिक्षा सुधार / Education reform",
-      "D": "महिला अधिकार / Women’s rights"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 38,
-    "question": "महात्मा गांधी की 'Hind Swaraj' में किस विषय पर जोर दिया गया है? / What is emphasized in Mahatma Gandhi's 'Hind Swaraj'?",
-    "options": {
-      "A": "स्वदेशी आंदोलन / Swadeshi movement",
-      "B": "अहिंसा / Non-violence",
-      "C": "औद्योगिक क्रांति / Industrial revolution",
-      "D": "राजनीतिक स्वतंत्रता / Political independence"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 39,
-    "question": "जयप्रकाश नारायण की 'An Autobiography' किस प्रकार की जानकारी देती है? / What type of information does Jayaprakash Narayan's 'An Autobiography' provide?",
-    "options": {
-      "A": "उनका राजनीतिक जीवन / His political life",
-      "B": "सामाजिक सुधारों पर उनके विचार / His views on social reforms",
-      "C": "भारतीय स्वतंत्रता संग्राम / Indian freedom struggle",
-      "D": "विज्ञान और प्रौद्योगिकी / Science and technology"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 40,
-    "question": "पंडिता रमाबाई ने किस क्षेत्र में प्रमुख योगदान दिया? / In which field did Pandita Ramabai make significant contributions?",
-    "options": {
-      "A": "महिला शिक्षा / Women’s education",
-      "B": "धार्मिक पुनरुत्थान / Religious revival",
-      "C": "राजनीतिक आंदोलन / Political movement",
-      "D": "साहित्य / Literature"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 41,
-    "question": "स्वामी दयानंद सरस्वती की 'Satyarth Prakash' ने किसको चुनौती दी? / Whom did Swami Dayanand Saraswati's 'Satyarth Prakash' challenge?",
-    "options": {
-      "A": "धार्मिक अंधविश्वास / Religious superstitions",
-      "B": "ब्रिटिश शासन / British rule",
-      "C": "जातिवाद / Caste system",
-      "D": "विदेशी संस्कृति / Foreign culture"
+      "A": "कामवासना का त्याग",
+      "B": "धार्मिक पूजा",
+      "C": "तपस्या का अंग",
+      "D": "सामाजिक सेवा"
     },
     "answer": ["A", "C"]
   },
   {
-    "id": 42,
-    "question": "सर सैयद अहमद खान की 'Asar-us-Sanadid' किस विषय पर है? / What is the subject of Sir Syed Ahmed Khan's 'Asar-us-Sanadid'?",
+    "id": 37,
+    "question": "अहिंसा के संदर्भ में जैन धर्म और अन्य धर्मों में क्या विशेषता है? / What is special about non-violence in Jainism compared to other religions?",
     "options": {
-      "A": "दिल्ली के ऐतिहासिक स्मारक / Historical monuments of Delhi",
-      "B": "मुस्लिम समाज की शिक्षा / Education of Muslim society",
-      "C": "धार्मिक सुधार / Religious reforms",
-      "D": "राजनीतिक इतिहास / Political history"
+      "A": "पूर्ण और कठोर अहिंसा का पालन",
+      "B": "केवल मन, वचन तक सीमित",
+      "C": "सभी जीवों के प्रति दया",
+      "D": "राजनीतिक हिंसा का समर्थन"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
-    "id": 43,
-    "question": "अननी बेसेंट ने महिला सशक्तिकरण के लिए कौन-से कदम उठाए? / What steps did Annie Besant take for women empowerment?",
+    "id": 38,
+    "question": "श्वेतांबर और दिगंबर में धार्मिक ग्रंथों के प्रति दृष्टिकोण में क्या भेद है? / What is the difference in attitude towards scriptures between Shwetambar and Digambar sects?",
     "options": {
-      "A": "महिला शिक्षा को बढ़ावा दिया / Promoted women's education",
-      "B": "महिला मताधिकार की मांग की / Demanded women's voting rights",
-      "C": "महिला श्रमिक संघ बनाए / Formed women workers’ unions",
-      "D": "महिला आर्थिक स्वतंत्रता पर काम किया / Worked for women's economic independence"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 44,
-    "question": "महात्मा गांधी ने सामाजिक सुधार के लिए किस रणनीति को अपनाया? / Which strategy did Mahatma Gandhi adopt for social reform?",
-    "options": {
-      "A": "अहिंसा / Non-violence",
-      "B": "नस्ली भेदभाव / Racial discrimination",
-      "C": "स्वदेशी / Swadeshi",
-      "D": "सत्याग्रह / Satyagraha"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 45,
-    "question": "डॉ. भीमराव अंबेडकर ने किस वर्ष 'Annihilation of Caste' प्रकाशित की? / In which year did Dr. Bhimrao Ambedkar publish 'Annihilation of Caste'?",
-    "options": {
-      "A": "1936",
-      "B": "1947",
-      "C": "1925",
-      "D": "1950"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 46,
-    "question": "पंडिता रमाबाई का सामाजिक सुधारों में योगदान किस रूप में रहा? / How did Pandita Ramabai contribute to social reforms?",
-    "options": {
-      "A": "महिला शिक्षा के प्रचार के रूप में / Through promotion of women’s education",
-      "B": "धार्मिक पुनरुद्धार के रूप में / Through religious revival",
-      "C": "राजनीतिक आंदोलन के रूप में / Through political movement",
-      "D": "साहित्यिक योगदान के रूप में / Through literary contributions"
+      "A": "श्वेतांबर आगम ग्रंथों को मानते हैं",
+      "B": "दिगंबर ग्रंथों को अस्वीकार करते हैं",
+      "C": "दोनों ग्रंथों को समान महत्व देते हैं",
+      "D": "दिगंबर ने ग्रंथों का संकलन किया"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 47,
-    "question": "स्वामी विवेकानंद की शिक्षा का मुख्य उद्देश्य क्या था? / What was the main aim of Swami Vivekananda’s teachings?",
+    "id": 39,
+    "question": "अपरिग्रह के सिद्धांत में क्या शामिल है? / What is included in the principle of Aparigraha?",
     "options": {
-      "A": "आत्म-साक्षात्कार / Self-realization",
-      "B": "धार्मिक सहिष्णुता / Religious tolerance",
-      "C": "राष्ट्रीय एकता / National unity",
-      "D": "राजनीतिक स्वतंत्रता / Political freedom"
+      "A": "संपत्ति से मुक्त रहना",
+      "B": "मानसिक आसक्ति से मुक्त रहना",
+      "C": "सामाजिक कर्तव्य निभाना",
+      "D": "धार्मिक अनुष्ठान करना"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 40,
+    "question": "जैन धर्म के अनुसार नयवाद का क्या महत्व है? / What is the significance of Nayavada in Jainism?",
+    "options": {
+      "A": "वस्तु के विभिन्न पक्षों का ज्ञान",
+      "B": "एकपक्षीय सत्य को मानना",
+      "C": "तर्क और विवेचना को महत्व देना",
+      "D": "धार्मिक अनुष्ठानों को बढ़ावा देना"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 41,
+    "question": "दिगंबर और श्वेतांबर शाखाओं में वस्त्रों को लेकर क्या मुख्य भेद हैं? / What are the main differences between Digambar and Shwetambar sects regarding clothing?",
+    "options": {
+      "A": "दिगंबर साधु नग्न रहते हैं",
+      "B": "श्वेतांबर साधु सफेद वस्त्र पहनते हैं",
+      "C": "दिगंबर रंगीन वस्त्र पहनते हैं",
+      "D": "श्वेतांबर वस्त्र धारण नहीं करते"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 42,
+    "question": "दिगंबर और श्वेतांबर मूर्तियों में कौन-कौन से भेद पाए जाते हैं? / What differences exist between Digambar and Shwetambar idols?",
+    "options": {
+      "A": "दिगंबर मूर्तियाँ नग्न होती हैं",
+      "B": "श्वेतांबर मूर्तियाँ वस्त्रधारी होती हैं",
+      "C": "दोनों मूर्तियाँ समान होती हैं",
+      "D": "श्वेतांबर मूर्तियाँ बिना कपड़ों की होती हैं"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 43,
+    "question": "दिगंबर और श्वेतांबर के धार्मिक ग्रंथों में क्या अंतर है? / What is the difference in religious scriptures between Digambar and Shwetambar?",
+    "options": {
+      "A": "श्वेतांबर आगम ग्रंथ स्वीकार करते हैं",
+      "B": "दिगंबर आगम ग्रंथों को अस्वीकार करते हैं",
+      "C": "दोनों समान ग्रंथ स्वीकार करते हैं",
+      "D": "दिगंबर ने अपने ग्रंथ स्वयं रचे"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 44,
+    "question": "पाटलिपुत्र परिषद का क्या महत्व है? / What is the significance of the Patliputra Council?",
+    "options": {
+      "A": "यह दिगंबर मत की पहली परिषद थी",
+      "B": "इसमें जैन ग्रंथों का पुनर्गठन हुआ",
+      "C": "इस परिषद ने श्वेतांबर मत को मान्यता दी",
+      "D": "यह परिषद 2024 में पुनः आयोजित हुई"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 45,
+    "question": "वल्लभी परिषद के संदर्भ में क्या सही है? / Which is correct regarding the Vallabhi Council?",
+    "options": {
+      "A": "यह श्वेतांबर मत की परिषद थी",
+      "B": "इस परिषद ने जैन आगमों का संकलन किया",
+      "C": "इस परिषद का आयोजन 5वीं सदी में हुआ था",
+      "D": "यह परिषद दिगंबर मत की थी"
     },
     "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 46,
+    "question": "2024-2025 में जैन समुदाय में शाखाओं के बीच कौन से नए विवाद सामने आए? / What new disputes arose between Jain sects in 2024-2025?",
+    "options": {
+      "A": "ग्रंथों के अनुवाद को लेकर मतभेद",
+      "B": "धार्मिक अनुष्ठानों में अंतर",
+      "C": "साधुओं के वस्त्रों को लेकर बहस",
+      "D": "पारंपरिक त्योहारों की तिथियों पर विवाद"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 47,
+    "question": "दिगंबर मत में मूर्तियों की पूजा को लेकर क्या दृष्टिकोण है? / What is the Digambar sect's view on idol worship?",
+    "options": {
+      "A": "मूर्ति पूजा आवश्यक है",
+      "B": "मूर्ति पूर्ण नग्नता दर्शाती हैं",
+      "C": "मूर्ति पूजा अस्वीकार्य है",
+      "D": "मूर्ति के बिना पूजा स्वीकार है"
+    },
+    "answer": ["A", "B"]
   },
   {
     "id": 48,
-    "question": "राजा राम मोहन राय ने सती प्रथा को खत्म करने के लिए कौन-सी कार्रवाई की? / What action did Raja Ram Mohan Roy take to abolish Sati practice?",
+    "question": "श्वेतांबर मत की मूर्तियों के क्या विशेषताएँ हैं? / What are the characteristics of Shwetambar idols?",
     "options": {
-      "A": "ब्रिटिश सरकार को प्रस्ताव भेजा / Sent proposals to British government",
-      "B": "सामाजिक जागरूकता फैलाई / Spread social awareness",
-      "C": "धार्मिक मंच पर बहस की / Debated on religious platform",
-      "D": "सती प्रथा को बढ़ावा दिया / Promoted Sati"
+      "A": "सफेद वस्त्र पहने हुए",
+      "B": "मौनी मुद्रा में",
+      "C": "सज्जित मुकुट और आभूषणों से युक्त",
+      "D": "नग्न मूर्तियाँ"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 49,
-    "question": "स्वामी दयानंद सरस्वती ने किन-किन बातों पर जोर दिया? / What were the key emphases of Swami Dayanand Saraswati?",
+    "question": "पाटलिपुत्र परिषद के निर्णयों का जैन धर्म पर क्या प्रभाव पड़ा? / What impact did the Patliputra Council's decisions have on Jainism?",
     "options": {
-      "A": "वेदों का पुनरुद्धार / Revival of Vedas",
-      "B": "सती प्रथा का समर्थन / Support of Sati",
-      "C": "जातिवाद का विरोध / Opposition to casteism",
-      "D": "धार्मिक कट्टरता बढ़ाना / Increasing religious fanaticism"
+      "A": "दिगंबर मत की परंपराओं का संरक्षण",
+      "B": "श्वेतांबर मत को प्रभावित करना",
+      "C": "ग्रंथों का पुनः संकलन",
+      "D": "धार्मिक विभाजन बढ़ाना"
     },
     "answer": ["A", "C"]
   },
   {
     "id": 50,
-    "question": "महिला सुधार आंदोलन में कौन-सी पुस्तक ने महत्वपूर्ण भूमिका निभाई? / Which book played an important role in the Women’s Reform Movement?",
+    "question": "वल्लभी परिषद ने जैन आगमों के किस पहलू पर काम किया? / On what aspect did the Vallabhi Council work regarding Jain Agamas?",
     "options": {
-      "A": "‘The High Caste Hindu Woman’ by Pandita Ramabai",
-      "B": "‘My Experiments with Truth’ by Mahatma Gandhi",
-      "C": "‘Satyarth Prakash’ by Swami Dayanand Saraswati",
-      "D": "‘Annihilation of Caste’ by Dr. B.R. Ambedkar"
+      "A": "आगमों का लेखन और संकलन",
+      "B": "धार्मिक अनुष्ठानों का पुनर्निर्धारण",
+      "C": "साधु समुदाय का संगठन",
+      "D": "धार्मिक शिक्षा का प्रचार"
     },
     "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "1857 की क्रांति पर 'The Sepoy Mutiny' किसने लिखी? / Who authored 'The Sepoy Mutiny' on the 1857 revolt?",
+    "question": "श्वेतांबर मत के अनुसार भगवान महावीर की मूर्ति कैसे होती है? / According to Shwetambar sect, how is Lord Mahavir's idol depicted?",
     "options": {
-      "A": "Karl Marx",
-      "B": "Vinayak Damodar Savarkar",
-      "C": "William Dalrymple",
-      "D": "R.C. Majumdar"
+      "A": "सफेद वस्त्र में",
+      "B": "मौन मुद्रा में",
+      "C": "नग्न",
+      "D": "अस्त्रधारी"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 52,
-    "question": "'The Indian Mutiny' पुस्तक किसने लिखी? / Who wrote the book 'The Indian Mutiny'?",
+    "question": "दिगंबर साधुओं का वस्त्र रहित रहना किस उद्देश्य से है? / What is the purpose of Digambar monks remaining unclothed?",
     "options": {
-      "A": "Karl Marx",
-      "B": "John Kaye",
-      "C": "William Dalrymple",
-      "D": "Romesh Chunder Dutt"
+      "A": "असंग्रह और अहिंसा का प्रदर्शन",
+      "B": "साधु के उच्च आध्यात्मिक स्तर का संकेत",
+      "C": "धार्मिक नियमों का उल्लंघन",
+      "D": "शारीरिक तपस्या का अंग"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 53,
-    "question": "'The Indian Mutiny' (1888) पुस्तक के लेखक कौन हैं? / Who is the author of the 1888 book 'The Indian Mutiny'?",
+    "question": "2024-2025 के दौरान जैन धर्म की कौन सी परिषदों ने महत्वपूर्ण बैठकें कीं? / Which Jain councils held important meetings during 2024-2025?",
     "options": {
-      "A": "John Kaye",
-      "B": "William Dalrymple",
-      "C": "Romesh Chunder Dutt",
-      "D": "Karl Marx"
+      "A": "पाटलिपुत्र परिषद (दिगंबर मत)",
+      "B": "वल्लभी परिषद (श्वेतांबर मत)",
+      "C": "सांगली परिषद",
+      "D": "बौद्ध परिषद"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 54,
-    "question": "'The Indian War of Independence 1857' किसने लिखा? / Who authored 'The Indian War of Independence 1857'?",
+    "question": "जैन मत के विभाजन का क्या कारण माना जाता है? / What is considered the cause of the division in Jain sects?",
     "options": {
-      "A": "Vinayak Damodar Savarkar",
-      "B": "R.C. Majumdar",
-      "C": "John Kaye",
-      "D": "Karl Marx"
+      "A": "वस्त्र और मूर्ति पूजा के दृष्टिकोण में भेद",
+      "B": "धार्मिक ग्रंथों की व्याख्या",
+      "C": "भाषा और सांस्कृतिक अंतर",
+      "D": "आर्थिक हित"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 55,
-    "question": "'1857: The Revolt and the Raj' किस लेखक की पुस्तक है? / Who wrote '1857: The Revolt and the Raj'?",
+    "question": "स्याद्वाद और अनेकांतवाद किस प्रकार जैन दर्शन में विवाद को समाप्त करते हैं? / How do Syadvada and Anekantavada resolve disputes in Jain philosophy?",
     "options": {
-      "A": "William Dalrymple",
-      "B": "R.C. Majumdar",
-      "C": "Romesh Chunder Dutt",
-      "D": "Vinayak Damodar Savarkar"
+      "A": "सत्य को बहुआयामी दृष्टिकोण से समझकर",
+      "B": "एकमात्र सत्य को स्वीकार करके",
+      "C": "सभी मतों को समान रूप से महत्व देकर",
+      "D": "विवादों को अनदेखा करके"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 56,
-    "question": "'The Sepoy Rebellion 1857' के लेखक कौन हैं? / Who is the author of 'The Sepoy Rebellion 1857'?",
+    "question": "पाटलिपुत्र परिषद में कौन-कौन से प्रमुख विषय चर्चा के थे? / What were the main topics discussed in the Patliputra Council?",
     "options": {
-      "A": "Karl Marx",
-      "B": "Romesh Chunder Dutt",
-      "C": "Vinayak Damodar Savarkar",
-      "D": "William Dalrymple"
+      "A": "धार्मिक ग्रंथों का पुनर्गठन",
+      "B": "साधु-संप्रदाय के नियम",
+      "C": "श्वेतांबर मत को चुनौती देना",
+      "D": "धार्मिक पूजा विधियाँ"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 57,
-    "question": "'India’s First War of Independence' पुस्तक किसने लिखी? / Who authored 'India’s First War of Independence'?",
+    "question": "वल्लभी परिषद के जैन आगमों का संकलन किस भाषा में हुआ था? / In which language were Jain Agamas compiled during the Vallabhi Council?",
     "options": {
-      "A": "Vinayak Damodar Savarkar",
-      "B": "R.C. Majumdar",
-      "C": "William Dalrymple",
-      "D": "John Kaye"
+      "A": "प्राकृत",
+      "B": "संस्कृत",
+      "C": "पालि",
+      "D": "मगधी"
     },
     "answer": ["A"]
   },
   {
     "id": 58,
-    "question": "'Romesh Chunder Dutt' ने 1857 के किस पहलू पर लिखा? / Which aspect of 1857 did Romesh Chunder Dutt write about?",
+    "question": "दिगंबर और श्वेतांबर मत के बीच वस्त्र और मूर्ति विवाद का क्या समाधान खोजा गया है? / What solutions have been found for the clothing and idol disputes between Digambar and Shwetambar sects?",
     "options": {
-      "A": "The economic impact of 1857 revolt",
-      "B": "Military tactics",
-      "C": "British political strategy",
-      "D": "Religious causes"
+      "A": "स्वतंत्र रूप से परंपराओं का पालन",
+      "B": "साझा पूजा स्थल बनाना",
+      "C": "एक मत में विलय",
+      "D": "धार्मिक परिषदों द्वारा मध्यस्थता"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 59,
-    "question": "'The Last Mughal' पुस्तक किसने लिखी है? / Who is the author of 'The Last Mughal'?",
+    "question": "जैन धर्म में पंच महाव्रत का पालन कौन करता है? / Who follows the Panch Mahavratas in Jainism?",
     "options": {
-      "A": "William Dalrymple",
-      "B": "Vinayak Damodar Savarkar",
-      "C": "John Kaye",
-      "D": "Romesh Chunder Dutt"
+      "A": "साधु-संत",
+      "B": "गृहस्थ जीवन के अनुयायी",
+      "C": "आंशिक अनुयायी",
+      "D": "धार्मिक प्रचारक"
     },
     "answer": ["A"]
   },
   {
     "id": 60,
-    "question": "1857 की क्रांति को किस नाम से भी जाना जाता है? / By which other name is the 1857 revolt known?",
+    "question": "2024-2025 के दौरान दिगंबर मत ने कौन से नए धार्मिक प्रथाएँ अपनाई? / What new religious practices did the Digambar sect adopt during 2024-2025?",
     "options": {
-      "A": "First War of Indian Independence",
-      "B": "Sepoy Mutiny",
-      "C": "Indian National Revolution",
-      "D": "Great Revolt"
+      "A": "आधुनिक साधना विधियों को अपनाना",
+      "B": "परंपरागत नग्न तपस्या का पुनः प्रचार",
+      "C": "ग्रंथों का डिजिटल रूपांतरण",
+      "D": "सामाजिक सेवा गतिविधियों में वृद्धि"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 61,
+    "question": "तत्त्वार्थसूत्र के लेखक कौन हैं? / Who is the author of Tattvartha Sutra?",
+    "options": {
+      "A": "उमास्वाति / उमास्वामी (Umaswati/Umasvami)",
+      "B": "महावीर",
+      "C": "बुद्ध",
+      "D": "परश्वनाथ"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 62,
+    "question": "आगम साहित्य मुख्यतः किस भाषा में लिखा गया है? / In which languages is the Jain Agam literature primarily written?",
+    "options": {
+      "A": "अर्द्धमागधी (Ardhamagadhi)",
+      "B": "प्राकृत (Prakrit)",
+      "C": "संस्कृत (Sanskrit)",
+      "D": "पालि (Pali)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 63,
+    "question": "चंद्रगुप्त मौर्य ने किस शाखा से दीक्षा ली थी? / From which sect did Chandragupta Maurya take diksha (renunciation)?",
+    "options": {
+      "A": "जैन दिगंबर",
+      "B": "जैन श्वेतांबर",
+      "C": "बौद्ध",
+      "D": "हिंदू"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 64,
+    "question": "खारवेल का कौन सा राज्य जैन धर्म के संरक्षण के लिए प्रसिद्ध है? / Which kingdom ruled by Kharavela is famous for protecting Jainism?",
+    "options": {
+      "A": "कलिंग (Kalinga)",
+      "B": "मगध (Magadha)",
+      "C": "मौर्य (Maurya)",
+      "D": "गुप्त (Gupta)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 65,
+    "question": "जैन धर्म में तत्वार्थसूत्र का क्या महत्व है? / What is the importance of Tattvartha Sutra in Jainism?",
+    "options": {
+      "A": "जैन दर्शन का सार प्रस्तुत करता है",
+      "B": "धार्मिक अनुष्ठानों का संग्रह है",
+      "C": "मूल ग्रंथों में से एक है",
+      "D": "भौतिक विज्ञान का ग्रंथ है"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 66,
+    "question": "अर्द्धमागधी भाषा किस प्रकार की भाषा है? / What kind of language is Ardhamagadhi?",
+    "options": {
+      "A": "प्राचीन प्राकृत भाषा",
+      "B": "संस्कृत का रूप",
+      "C": "मगधी भाषा का रूपांतरण",
+      "D": "पुरानी हिंदी"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 67,
+    "question": "चंद्रगुप्त मौर्य के दीक्षा लेने के बाद क्या हुआ? / What happened after Chandragupta Maurya took diksha?",
+    "options": {
+      "A": "उन्होंने जैन मठ की स्थापना की",
+      "B": "राजनीति से संन्यास लिया",
+      "C": "धार्मिक ग्रंथों का अनुवाद करवाया",
+      "D": "बौद्ध धर्म अपनाया"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 68,
+    "question": "खारवेल ने किस प्रकार से जैन धर्म का समर्थन किया? / How did Kharavela support Jainism?",
+    "options": {
+      "A": "मठ और मंदिरों का निर्माण",
+      "B": "धार्मिक अनुष्ठानों का संरक्षण",
+      "C": "क्षत्रिय और व्यापारी वर्ग को प्रोत्साहन",
+      "D": "बौद्ध धर्म का विरोध"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 69,
+    "question": "जैन आगम साहित्य का संरक्षण किसके द्वारा मुख्य रूप से हुआ? / Who mainly preserved the Jain Agam literature?",
+    "options": {
+      "A": "जैन साधु-संत",
+      "B": "राजा और क्षत्रिय",
+      "C": "व्यापारी समुदाय",
+      "D": "बौद्ध साधु"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 70,
+    "question": "तत्त्वार्थसूत्र में जैन धर्म के कितने तत्व वर्णित हैं? / How many elements are described in Jainism in Tattvartha Sutra?",
+    "options": {
+      "A": "सात तत्व (Seven elements)",
+      "B": "पाँच तत्व (Five elements)",
+      "C": "तीन तत्व (Three elements)",
+      "D": "दस तत्व (Ten elements)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 71,
+    "question": "प्राकृत भाषा जैन धर्म के लिए क्यों महत्वपूर्ण है? / Why is the Prakrit language important for Jainism?",
+    "options": {
+      "A": "यह आगमों की भाषा थी",
+      "B": "जन-जन तक धर्म पहुंचाने में सहायक",
+      "C": "संस्कृत की तुलना में सरल",
+      "D": "बौद्ध ग्रंथों की भाषा"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 72,
+    "question": "चंद्रगुप्त मौर्य की दीक्षा लेने की घटना का काल किस सदी में माना जाता है? / In which century is Chandragupta Maurya's renunciation dated?",
+    "options": {
+      "A": "4ठी शताब्दी ईसा पूर्व",
+      "B": "3री शताब्दी ईसा पूर्व",
+      "C": "5वीं शताब्दी ईस्वी पूर्व",
+      "D": "2री शताब्दी ईसा पूर्व"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 73,
+    "question": "खारवेल के शासनकाल में कौन-से धार्मिक निर्माण हुए? / Which religious constructions were made during Kharavela's reign?",
+    "options": {
+      "A": "जैन मठ और स्तूप",
+      "B": "बौद्ध विहार",
+      "C": "हिंदू मंदिर",
+      "D": "मौर्य स्तम्भ"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 74,
+    "question": "तत्त्वार्थसूत्र का मुख्य विषय क्या है? / What is the main subject of Tattvartha Sutra?",
+    "options": {
+      "A": "धर्म और तत्वों का सार",
+      "B": "इतिहास का वर्णन",
+      "C": "काव्य और नाटक",
+      "D": "आध्यात्मिक साधनाएँ"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 75,
+    "question": "जैन धर्म के संरक्षण में क्षत्रिय वर्ग की भूमिका क्या थी? / What was the role of Kshatriya class in the preservation of Jainism?",
+    "options": {
+      "A": "धार्मिक संरक्षक के रूप में",
+      "B": "युद्धों में जैन धर्म की रक्षा",
+      "C": "धार्मिक अनुष्ठानों में भागीदारी",
+      "D": "धार्मिक ग्रंथों का लेखन"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 76,
+    "question": "जैन आगमों के संरक्षण में व्यापारी समुदाय की क्या भूमिका रही है? / What has been the role of the merchant community in the preservation of Jain Agamas?",
+    "options": {
+      "A": "धार्मिक स्थलों का निर्माण",
+      "B": "धर्म प्रचार में वित्तीय सहायता",
+      "C": "धार्मिक ग्रंथों का संरक्षण",
+      "D": "साधुओं की शिक्षा"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 77,
+    "question": "प्राचीन जैन ग्रंथों के अध्ययन के लिए कौन सी भाषा को प्राथमिकता दी जाती है? / Which language is primarily preferred for studying ancient Jain texts?",
+    "options": {
+      "A": "अर्द्धमागधी",
+      "B": "संस्कृत",
+      "C": "प्राकृत",
+      "D": "पालि"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 78,
+    "question": "चंद्रगुप्त मौर्य के दीक्षा लेने का प्रमुख धार्मिक प्रभाव क्या था? / What was the major religious impact of Chandragupta Maurya's renunciation?",
+    "options": {
+      "A": "जैन धर्म का विस्तार",
+      "B": "बौद्ध धर्म का पतन",
+      "C": "राजनीतिक स्थिरता",
+      "D": "धार्मिक संघर्ष"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 79,
+    "question": "खारवेल की शासन नीति में जैन धर्म का स्थान कैसा था? / How was Jainism placed in Kharavela's governance policy?",
+    "options": {
+      "A": "धार्मिक संरक्षण और प्रोत्साहन",
+      "B": "धार्मिक स्वतंत्रता",
+      "C": "बौद्ध धर्म का समर्थन",
+      "D": "धार्मिक अनदेखी"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 80,
+    "question": "तत्त्वार्थसूत्र में वर्णित सात तत्वों में कौन-कौन से शामिल हैं? / Which among the seven elements are described in Tattvartha Sutra?",
+    "options": {
+      "A": "जीव (Soul)",
+      "B": "अजीव (Non-soul)",
+      "C": "धर्म (Medium of motion)",
+      "D": "अधर्म (Medium of rest)",
+      "E": "काल (Time)",
+      "F": "पर्याय (Modes)",
+      "G": "पदार्थ (Matter)"
+    },
+    "answer": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  {
+    "id": 81,
+    "question": "दिलवाड़ा जैन मंदिर किस राज्य में स्थित है? / In which state is the Dilwara Jain Temple located?",
+    "options": {
+      "A": "राजस्थान / Rajasthan",
+      "B": "गुजरात / Gujarat",
+      "C": "मध्य प्रदेश / Madhya Pradesh",
+      "D": "महाराष्ट्र / Maharashtra"
+    },
+    "answer": ["B"],
+    "explanation": "दिलवाड़ा जैन मंदिर गुजरात राज्य में अरावली पर्वत श्रृंखला पर स्थित है।"
+  },
+  {
+    "id": 82,
+    "question": "रणकपुर जैन मंदिर किस नदी के पास स्थित है? / Near which river is the Ranakpur Jain Temple located?",
+    "options": {
+      "A": "बनास नदी / Banas River",
+      "B": "चम्बल नदी / Chambal River",
+      "C": "गोदावरी नदी / Godavari River",
+      "D": "साबरमती नदी / Sabarmati River"
+    },
+    "answer": ["A"],
+    "explanation": "रणकपुर जैन मंदिर राजस्थान में बनास नदी के किनारे स्थित है।"
+  },
+  {
+    "id": 83,
+    "question": "पालीताना जैन मंदिर किस राज्य में है? / In which state is the Palitana Jain Temple situated?",
+    "options": {
+      "A": "गुजरात / Gujarat",
+      "B": "राजस्थान / Rajasthan",
+      "C": "हरियाणा / Haryana",
+      "D": "महाराष्ट्र / Maharashtra"
+    },
+    "answer": ["A"],
+    "explanation": "पालीताना जैन मंदिर गुजरात राज्य में स्थित है और जैन धर्म का महत्वपूर्ण तीर्थ स्थल है।"
+  },
+  {
+    "id": 84,
+    "question": "उदयगिरि-खंडगिरि जैन गुफाएँ किस शहर के पास स्थित हैं? / Near which city are the Udayagiri-Khandagiri Jain caves located?",
+    "options": {
+      "A": "भुवनेश्वर / Bhubaneswar",
+      "B": "उज्जैन / Ujjain",
+      "C": "पाटन / Patan",
+      "D": "अजमेर / Ajmer"
+    },
+    "answer": ["A"],
+    "explanation": "उदयगिरि-खंडगिरि जैन गुफाएँ भुवनेश्वर, ओडिशा के पास स्थित हैं।"
+  },
+  {
+    "id": 85,
+    "question": "एलोरा की जैन गुफाएँ किस राज्य में हैं? / In which state are the Jain caves of Ellora located?",
+    "options": {
+      "A": "महाराष्ट्र / Maharashtra",
+      "B": "मध्य प्रदेश / Madhya Pradesh",
+      "C": "राजस्थान / Rajasthan",
+      "D": "कर्नाटक / Karnataka"
+    },
+    "answer": ["A"],
+    "explanation": "एलोरा की जैन गुफाएँ महाराष्ट्र राज्य में हैं।"
+  },
+  {
+    "id": 86,
+    "question": "गोम्मटेश्वर (श्रवणबेलगोला) कौन सी नदी के किनारे स्थित है? / Gomateshwara (Shravanabelagola) is situated near which river?",
+    "options": {
+      "A": "कृष्णा नदी / Krishna River",
+      "B": "तुंगभद्रा नदी / Tungabhadra River",
+      "C": "कावेरी नदी / Cauvery River",
+      "D": "मलप्पुरम नदी / Malapurram River"
+    },
+    "answer": ["B"],
+    "explanation": "गोम्मटेश्वर प्रतिमा कर्नाटक में तुंगभद्रा नदी के किनारे श्रवणबेलगोला में स्थित है।"
+  },
+  {
+    "id": 87,
+    "question": "दिलवाड़ा जैन मंदिर किस पर्वत श्रृंखला पर स्थित है? / Dilwara Jain Temple is located on which mountain range?",
+    "options": {
+      "A": "अरावली पर्वत / Aravalli Range",
+      "B": "विदर्भ पर्वत / Vidarbha Hills",
+      "C": "विंध्य पर्वत / Vindhya Range",
+      "D": "निलगिरी पर्वत / Nilgiri Hills"
+    },
+    "answer": ["A"],
+    "explanation": "दिलवाड़ा मंदिर अरावली पर्वत श्रृंखला पर स्थित है।"
+  },
+  {
+    "id": 88,
+    "question": "रणकपुर मंदिर का निर्माण किस शासक के शासनकाल में हुआ था? / During whose reign was the Ranakpur Temple built?",
+    "options": {
+      "A": "महाराणा प्रताप / Maharana Pratap",
+      "B": "महाराणा कुंभा / Maharana Kumbha",
+      "C": "अकबर / Akbar",
+      "D": "चंद्रगुप्त मौर्य / Chandragupta Maurya"
+    },
+    "answer": ["B"],
+    "explanation": "रणकपुर मंदिर का निर्माण 15वीं सदी में महाराणा कुंभा के शासनकाल में हुआ था।"
+  },
+  {
+    "id": 89,
+    "question": "पालीताना जैन तीर्थ किस नदी के पास स्थित है? / Palitana Jain pilgrimage is near which river?",
+    "options": {
+      "A": "साबरमती नदी / Sabarmati River",
+      "B": "तपती नदी / Tapi River",
+      "C": "गंगा नदी / Ganges River",
+      "D": "गोदावरी नदी / Godavari River"
+    },
+    "answer": ["A"],
+    "explanation": "पालीताना जैन तीर्थ साबरमती नदी के पास गुजरात में स्थित है।"
+  },
+  {
+    "id": 90,
+    "question": "उदयगिरि-खंडगिरि गुफाओं का निर्माण किस काल में हुआ था? / When were the Udayagiri-Khandagiri caves built?",
+    "options": {
+      "A": "मौर्य काल / Maurya Period",
+      "B": "गुप्त काल / Gupta Period",
+      "C": "मध्यकालीन काल / Medieval Period",
+      "D": "मुगल काल / Mughal Period"
+    },
+    "answer": ["A"],
+    "explanation": "उदयगिरि-खंडगिरि गुफाओं का निर्माण मौर्य काल में हुआ था।"
+  },
+  {
+    "id": 91,
+    "question": "एलोरा गुफाएँ किस धर्म के लिए प्रसिद्ध हैं? / Ellora Caves are famous for which religion?",
+    "options": {
+      "A": "हिंदू, बौद्ध और जैन / Hindu, Buddhist, and Jain",
+      "B": "इस्लाम / Islam",
+      "C": "सिख / Sikh",
+      "D": "क्रिश्चियनिटी / Christianity"
+    },
+    "answer": ["A"],
+    "explanation": "एलोरा गुफाएँ हिंदू, बौद्ध और जैन तीनों धर्मों की गुफाओं के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 92,
+    "question": "गोम्मटेश्वर की विशाल मूर्ति किस राज्य में स्थित है? / The huge statue of Gomateshwara is located in which state?",
+    "options": {
+      "A": "कर्नाटक / Karnataka",
+      "B": "तमिलनाडु / Tamil Nadu",
+      "C": "तेलंगाना / Telangana",
+      "D": "आंध्र प्रदेश / Andhra Pradesh"
+    },
+    "answer": ["A"],
+    "explanation": "गोम्मटेश्वर की मूर्ति कर्नाटक के श्रवणबेलगोला में स्थित है।"
+  },
+  {
+    "id": 93,
+    "question": "दिलवाड़ा मंदिर किस शिल्प शैली के लिए प्रसिद्ध है? / Dilwara Temple is famous for which style of craftsmanship?",
+    "options": {
+      "A": "मार्बल नक्काशी / Marble Carving",
+      "B": "काष्ठकला / Woodwork",
+      "C": "लोहे की कारीगरी / Ironwork",
+      "D": "पत्थर की मूर्तिकला / Stone Sculpture"
+    },
+    "answer": ["A"],
+    "explanation": "दिलवाड़ा मंदिर अपनी सुंदर मार्बल नक्काशी के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 94,
+    "question": "रणकपुर जैन मंदिर का मुख्य देवता कौन है? / Who is the main deity of Ranakpur Jain Temple?",
+    "options": {
+      "A": "महावीर स्वामी / Mahavira",
+      "B": "अरहंत पद्मनाथ / Arhat Padmanatha",
+      "C": "गोम्मटेश्वर / Gomateshwara",
+      "D": "भगवान पार्श्वनाथ / Lord Parshvanatha"
+    },
+    "answer": ["B"],
+    "explanation": "रणकपुर जैन मंदिर अरहंत पद्मनाथ को समर्पित है।"
+  },
+  {
+    "id": 95,
+    "question": "पालीताना जैन मंदिर समूह किस पर्वत पर स्थित है? / On which hill are the Palitana Jain temples located?",
+    "options": {
+      "A": "शतगिरि पर्वत / Shatrunjaya Hills",
+      "B": "अरावली पर्वत / Aravalli Range",
+      "C": "सतपुड़ा पर्वत / Satpura Range",
+      "D": "निलगिरी पर्वत / Nilgiri Hills"
+    },
+    "answer": ["A"],
+    "explanation": "पालीताना मंदिर समूह शतगिरि पर्वत पर स्थित है।"
+  },
+  {
+    "id": 96,
+    "question": "उदयगिरि-खंडगिरि गुफाएँ किस प्रकार की स्थापत्य शैली की उत्कृष्ट उदाहरण हैं? / Udayagiri-Khandagiri caves are excellent examples of which architectural style?",
+    "options": {
+      "A": "मौर्यकालीन गुफा वास्तुकला / Mauryan cave architecture",
+      "B": "गुप्तकालीन मंदिर शैली / Gupta temple style",
+      "C": "मध्यकालीन स्थापत्य / Medieval architecture",
+      "D": "हड़प्पा शैली / Harappan style"
+    },
+    "answer": ["A"],
+    "explanation": "उदयगिरि-खंडगिरि गुफाएँ मौर्यकालीन गुफा वास्तुकला की उत्कृष्ट उदाहरण हैं।"
+  },
+  {
+    "id": 97,
+    "question": "एलोरा जैन गुफाएँ किस कालखंड की हैं? / Ellora Jain caves belong to which period?",
+    "options": {
+      "A": "7वीं से 9वीं सदी / 7th to 9th century",
+      "B": "10वीं से 12वीं सदी / 10th to 12th century",
+      "C": "4वीं से 6वीं सदी / 4th to 6th century",
+      "D": "13वीं से 15वीं सदी / 13th to 15th century"
+    },
+    "answer": ["A"],
+    "explanation": "एलोरा की जैन गुफाएँ मुख्य रूप से 7वीं से 9वीं सदी के बीच बनीं।"
+  },
+  {
+    "id": 98,
+    "question": "गोम्मटेश्वर की मूर्ति की ऊंचाई लगभग कितनी है? / What is the approximate height of Gomateshwara statue?",
+    "options": {
+      "A": "17 मीटर / 17 meters",
+      "B": "25 मीटर / 25 meters",
+      "C": "10 मीटर / 10 meters",
+      "D": "30 मीटर / 30 meters"
+    },
+    "answer": ["A"],
+    "explanation": "गोम्मटेश्वर की मूर्ति लगभग 17 मीटर ऊँची है।"
+  },
+  {
+    "id": 99,
+    "question": "दिलवाड़ा मंदिर की निर्माण सामग्री मुख्यतः क्या है? / What is the main construction material of Dilwara Temple?",
+    "options": {
+      "A": "सफेद संगमरमर / White Marble",
+      "B": "रेतीला पत्थर / Sandstone",
+      "C": "ग्रेनाइट / Granite",
+      "D": "लकड़ी / Wood"
+    },
+    "answer": ["A"],
+    "explanation": "दिलवाड़ा मंदिर मुख्यतः सफेद संगमरमर से बना है।"
+  },
+  {
+    "id": 100,
+    "question": "रणकपुर मंदिर की स्थापत्य शैली किस प्रकार की है? / What is the architectural style of Ranakpur Temple?",
+    "options": {
+      "A": "राजस्थानी शिल्प कला / Rajasthani Craftsmanship",
+      "B": "मुगल स्थापत्य / Mughal Architecture",
+      "C": "दक्षिण भारतीय मंदिर शैली / South Indian Temple Style",
+      "D": "मौर्यकालीन स्थापत्य / Mauryan Architecture"
+    },
+    "answer": ["A"],
+    "explanation": "रणकपुर मंदिर राजस्थानी शिल्प कला के उत्कृष्ट उदाहरणों में से एक है।"
   }
 ]
+
 
 
 
