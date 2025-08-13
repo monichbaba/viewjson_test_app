@@ -1,1131 +1,1437 @@
 [
   {
     "id": 1,
-    "question": "जैन धर्म के 24 तीर्थंकरों में प्रथम कौन हैं और अंतिम कौन? / Who are the first and the last Tirthankaras in Jainism?",
+    "question": "अशोक के किस प्रकार के शिलालेखों को सबसे पहले खुदवाया गया था? / Which type of Ashokan edicts were engraved first?",
     "options": {
-      "A": "ऋषभदेव (Rishabhdev) और महावीर (Mahavir)",
-      "B": "परश्वनाथ (Parshwanath) और महावीर (Mahavir)",
-      "C": "बुद्ध (Buddha) और महावीर (Mahavir)",
-      "D": "ऋषभदेव (Rishabhdev) और पार्श्वनाथ (Parshwanath)"
+      "A": "पिलर एडिक्ट्स (Pillar Edicts)",
+      "B": "रॉक एडिक्ट्स (Rock Edicts)",
+      "C": "माइनर एडिक्ट्स (Minor Edicts)",
+      "D": "कुप्पम एडिक्ट्स (Kuppam Edicts)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक के शासनकाल में सबसे पहले पिलर और रॉक एडिक्ट्स खुदवाए गए थे जो उनके शासन के आधिकारिक सार्वजनिक संदेश थे। माइनर एडिक्ट्स बाद में कुछ सीमित क्षेत्रों में पाए गए।"
   },
   {
     "id": 2,
-    "question": "महावीर का जन्म कब और कहाँ हुआ था? / When and where was Mahavir born?",
+    "question": "अशोक के पिलर शिलालेखों का मुख्य उद्देश्य क्या था? / What was the main purpose of Ashoka’s Pillar Edicts?",
     "options": {
-      "A": "लगभग 599 ईसा पूर्व, कुंडलगिरि (राजगृह)",
-      "B": "लगभग 540 ईसा पूर्व, लुम्बिनी",
-      "C": "लगभग 527 ईसा पूर्व, वाराणसी",
-      "D": "लगभग 563 ईसा पूर्व, काशी"
+      "A": "धार्मिक उपदेश देना (Religious instructions)",
+      "B": "राज्य के नियम बताना (State laws)",
+      "C": "अहिंसा और धर्म प्रचार (Promotion of non-violence and dharma)",
+      "D": "व्यापार नियम बताना (Trade regulations)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक के पिलर शिलालेख मुख्यतः अहिंसा, धर्म और नैतिकता के प्रचार के लिए बनाए गए थे ताकि समाज में धार्मिक और सामाजिक सद्भाव स्थापित हो सके।"
   },
   {
     "id": 3,
-    "question": "महावीर ने ज्ञान की प्राप्ति कैसे की? / How did Mahavir attain Kevala Jnana (omniscience)?",
+    "question": "अशोक के शिलालेखों में प्रयुक्त प्रमुख भाषा कौन-सी थी? / What was the primary language used in Ashoka's edicts?",
     "options": {
-      "A": "संकल्प और कठोर तपस्या से",
-      "B": "गुरु से शिक्षा लेकर",
-      "C": "योग और ध्यान से",
-      "D": "शारीरिक युद्ध के माध्यम से"
+      "A": "संस्कृत (Sanskrit)",
+      "B": "प्राकृत (Prakrit)",
+      "C": "पारसी (Persian)",
+      "D": "पालि (Pali)"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"],
+    "explanation": "अशोक के शिलालेखों में मुख्य भाषा प्राकृत थी, जो उस समय आम जनता की भाषा थी, ताकि उनका संदेश सरलता से सभी तक पहुँच सके।"
   },
   {
     "id": 4,
-    "question": "महावीर के निर्वाण का क्या अर्थ है? / What does Mahavir's Nirvana signify?",
+    "question": "अशोक के शिलालेखों में सबसे ज्यादा इस्तेमाल होने वाली लिपि कौन-सी थी? / Which script was mostly used in Ashoka’s edicts?",
     "options": {
-      "A": "मोह-माया का त्याग और मोक्ष प्राप्ति",
-      "B": "पुनर्जन्म का अंत",
-      "C": "संसार में फिर से जन्म लेना",
-      "D": "धर्म की स्थापना"
+      "A": "ब्राह्मी लिपि (Brahmi script)",
+      "B": "खरोष्ठी लिपि (Kharosthi script)",
+      "C": "देवनागरी लिपि (Devanagari script)",
+      "D": "ग्रीक लिपि (Greek script)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "ब्राह्मी लिपि को अशोक के शिलालेखों में मुख्य रूप से उपयोग किया गया क्योंकि यह उस क्षेत्र की प्रमुख लिपि थी, और इस लिपि की खोज से प्राचीन भारतीय इतिहास की समझ मिली।"
   },
   {
     "id": 5,
-    "question": "महावीर और बुद्ध में कौन-कौन से समानताएँ हैं? / Which are the similarities between Mahavir and Buddha?",
+    "question": "अशोक के रॉक एडिक्ट्स का भौगोलिक विस्तार किस क्षेत्र में सबसे अधिक था? / Which region had the widest spread of Ashoka’s Rock Edicts?",
     "options": {
-      "A": "त्याग और तपस्या",
-      "B": "अहिंसा का महत्व",
-      "C": "संसार की निंदा करना",
-      "D": "धार्मिक उपदेश देना"
+      "A": "मगध और आसपास (Magadha and surroundings)",
+      "B": "दक्कन क्षेत्र (Deccan region)",
+      "C": "गंगा का मैदान (Gangetic plains)",
+      "D": "कश्मीर क्षेत्र (Kashmir region)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक के रॉक एडिक्ट्स मुख्यतः मगध और गंगा मैदानों में पाए जाते हैं, जो मौर्य साम्राज्य के केंद्र और प्रमुख आबादी वाले क्षेत्र थे।"
   },
   {
     "id": 6,
-    "question": "महावीर और बुद्ध में कौन-कौन से अंतर हैं? / Which are the differences between Mahavir and Buddha?",
+    "question": "अशोक के किस प्रकार के शिलालेखों में व्यक्तिगत रूप से राजा का संदेश मिलता है? / In which type of edicts is the personal message of the king found?",
     "options": {
-      "A": "महावीर जैन धर्म के प्रवर्तक थे, बुद्ध बौद्ध धर्म के",
-      "B": "महावीर ने कर्म की अवधारणा को अस्वीकार किया",
-      "C": "बुद्ध ने मध्य मार्ग का प्रचार किया",
-      "D": "महावीर का ध्यान आत्मा की शुद्धि पर था"
+      "A": "रॉक एडिक्ट्स (Rock Edicts)",
+      "B": "पिलर एडिक्ट्स (Pillar Edicts)",
+      "C": "माइनर एडिक्ट्स (Minor Edicts)",
+      "D": "ग्रैवेल एडिक्ट्स (Gravel Edicts)"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["B", "C"],
+    "explanation": "पिलर और माइनर एडिक्ट्स में अशोक का व्यक्तिगत संदेश मिलता है, जिसमें वे सीधे जनता को अपने विचार और निर्देश देते हैं।"
   },
   {
     "id": 7,
-    "question": "जैन धर्म में अहिंसा का क्या स्थान है? / What is the place of Ahimsa in Jainism?",
+    "question": "अशोक के माइनर एडिक्ट्स मुख्य रूप से किस क्षेत्र में पाए जाते हैं? / Where are Ashoka’s Minor Edicts mainly found?",
     "options": {
-      "A": "मूलभूत सिद्धांत",
-      "B": "दूसरे स्थान पर",
-      "C": "धार्मिक अनुष्ठान",
-      "D": "व्यावहारिक नैतिकता"
+      "A": "गांधार और पाकिस्तान क्षेत्र (Gandhara and Pakistan region)",
+      "B": "मगध क्षेत्र (Magadha region)",
+      "C": "दक्कन क्षेत्र (Deccan region)",
+      "D": "बंगाल क्षेत्र (Bengal region)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "माइनर एडिक्ट्स विशेषकर गांधार क्षेत्र (आज के पाकिस्तान के इलाके) में पाए जाते हैं, जहाँ खरोष्ठी लिपि का प्रयोग होता था।"
   },
   {
     "id": 8,
-    "question": "महावीर के त्याग का अर्थ क्या है? / What does Mahavir's renunciation signify?",
+    "question": "अशोक के पिलर एडिक्ट्स में सबसे लंबा शिलालेख कौन-सा है? / Which is the longest inscription among Ashoka’s Pillar Edicts?",
     "options": {
-      "A": "संसारिक सुखों का त्याग",
-      "B": "धर्म का परित्याग",
-      "C": "परिवार से दूर होना",
-      "D": "मौन रहना"
+      "A": "कालिंग एडिक्ट (Kalinga Edict)",
+      "B": "धम्म विज्ञान (Dhamma Vijanana)",
+      "C": "शासनादेश (Royal decree)",
+      "D": "धर्म प्रचार (Dharma Propagation)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"],
+    "explanation": "कालिंग युद्ध के बाद अशोक ने अहिंसा और शांति का संदेश फैलाने के लिए कालिंग एडिक्ट को सबसे विस्तृत रूप से लिखा।"
   },
   {
     "id": 9,
-    "question": "जैन और बौद्ध धर्म में किस प्रकार का जीवन आदर्श माना जाता है? / What kind of life is ideal in Jainism and Buddhism?",
+    "question": "अशोक के शिलालेखों में 'धम्म' शब्द किस अर्थ में प्रयोग हुआ है? / What does the term ‘Dhamma’ mean in Ashoka’s edicts?",
     "options": {
-      "A": "साधु-संत जैसा तपस्वी जीवन",
-      "B": "धन-सम्पदा से भरा जीवन",
-      "C": "सामाजिक और नैतिक जीवन",
-      "D": "निर्मोही और त्यागी जीवन"
+      "A": "धर्म और नैतिकता (Religion and morality)",
+      "B": "राजनीतिक शक्ति (Political power)",
+      "C": "आर्थिक नीति (Economic policy)",
+      "D": "युद्ध की रणनीति (War strategy)"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"],
+    "explanation": "'धम्म' शब्द का अर्थ अशोक के शिलालेखों में धर्म, नैतिकता, और सही आचरण से है, जो समाज में सदाचार बढ़ाने का मार्ग बताता है।"
   },
   {
     "id": 10,
-    "question": "महावीर ने किस प्रकार के नियम अपनाए? / What type of rules did Mahavir follow?",
+    "question": "अशोक के शिलालेखों में किन धर्मों का उल्लेख मिलता है? / Which religions are mentioned in Ashoka’s edicts?",
     "options": {
-      "A": "सख्त तपस्या और संयम",
-      "B": "सामाजिक सुधार",
-      "C": "राजनीतिक संघर्ष",
-      "D": "धार्मिक प्रचार"
+      "A": "बौद्ध धर्म (Buddhism)",
+      "B": "जैन धर्म (Jainism)",
+      "C": "हिंदू धर्म (Hinduism)",
+      "D": "सामान्य धार्मिक सहिष्णुता (General religious tolerance)"
     },
-    "answer": ["A", "D"]
+    "answer": ["A", "B", "D"],
+    "explanation": "अशोक के शिलालेखों में बौद्ध धर्म के प्रचार के साथ-साथ जैन धर्म और अन्य धर्मों के प्रति सहिष्णुता और धार्मिक स्वतंत्रता पर जोर दिया गया है।"
   },
   {
     "id": 11,
-    "question": "महावीर का निर्वाण किस वर्ष माना जाता है? / In which year is Mahavir's Nirvana believed to have occurred?",
+    "question": "अशोक के शिलालेखों की लिपि और भाषा क्षेत्र के अनुसार क्यों बदलती थी? / Why did the script and language of Ashoka’s edicts vary regionally?",
     "options": {
-      "A": "527 ईसा पूर्व",
-      "B": "599 ईसा पूर्व",
-      "C": "563 ईसा पूर्व",
-      "D": "540 ईसा पूर्व"
+      "A": "स्थानिक भाषा और लिपि के अनुसार (According to local language and script)",
+      "B": "राजनीतिक कारणों से (Due to political reasons)",
+      "C": "धार्मिक कारणों से (Due to religious reasons)",
+      "D": "सामाजिक वर्ग के अनुसार (According to social class)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक ने अपने संदेश को अधिक से अधिक लोगों तक पहुँचाने के लिए स्थानीय भाषाओं और लिपियों का प्रयोग किया, जिससे उनकी बात जनता तक आसानी से समझाई जा सके।"
   },
   {
     "id": 12,
-    "question": "जैन धर्म के मुख्य सिद्धांत कौन-कौन से हैं? / What are the main principles of Jainism?",
+    "question": "अशोक के कौन से शिलालेखों में ग्रीक और अरामाइक भाषाओं का प्रयोग पाया गया है? / In which Ashokan edicts are Greek and Aramaic languages found?",
     "options": {
-      "A": "अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह",
-      "B": "दान, तपस्या, पूजा",
-      "C": "भक्ति, सेवा, ध्यान",
-      "D": "कर्मयोग, भक्ति योग"
+      "A": "काबुल के माइनर एडिक्ट्स (Minor Edicts in Kabul)",
+      "B": "पिलर एडिक्ट्स (Pillar Edicts)",
+      "C": "रॉक एडिक्ट्स (Rock Edicts)",
+      "D": "मगध के शिलालेख (Magadha Inscriptions)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक के काबुल क्षेत्र में पाए जाने वाले माइनर एडिक्ट्स में ग्रीक और अरामाइक भाषाओं का उपयोग हुआ, जो उस क्षेत्र की बहुभाषिक संस्कृति को दर्शाता है।"
   },
   {
     "id": 13,
-    "question": "महावीर का बौद्ध धर्म के साथ संबंध क्या था? / What was Mahavir's relation to Buddhism?",
+    "question": "अशोक के शिलालेखों में कुल कितने प्रकार के एडिक्ट्स पाए जाते हैं? / How many types of Ashokan edicts are there?",
     "options": {
-      "A": "दोनों समकालीन धर्म थे",
-      "B": "महावीर बौद्ध थे",
-      "C": "बुद्ध जैन थे",
-      "D": "कोई संबंध नहीं"
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
     },
-    "answer": ["A"]
+    "answer": ["B"],
+    "explanation": "अशोक के तीन प्रकार के शिलालेख होते हैं - रॉक एडिक्ट्स, पिलर एडिक्ट्स, और माइनर एडिक्ट्स।"
   },
   {
     "id": 14,
-    "question": "महावीर ने कर्म की क्या अवधारणा दी? / What was Mahavir's concept of Karma?",
+    "question": "अशोक के पिलर एडिक्ट्स की सबसे प्रमुख विशेषता क्या है? / What is the most prominent feature of Ashoka’s Pillar Edicts?",
     "options": {
-      "A": "कर्म एक सूक्ष्म पदार्थ है जो आत्मा से चिपकता है",
-      "B": "कर्म केवल अच्छे कर्म होते हैं",
-      "C": "कर्म का कोई अस्तित्व नहीं",
-      "D": "कर्म केवल मानसिक क्रिया है"
+      "A": "शिलालेखों का बड़ी ऊंचाई पर खुदाई (Carved at great heights)",
+      "B": "शेर या अशोक चक्र की मूर्तियाँ शीर्ष पर (Lion or Ashoka Chakra sculptures on top)",
+      "C": "हर एक शिलालेख अलग भाषा में (Each inscription in a different language)",
+      "D": "गुप्त लिपि में लिखा हुआ (Written in Gupta script)"
     },
-    "answer": ["A"]
+    "answer": ["B"],
+    "explanation": "अशोक के स्तंभों के शीर्ष पर शेर की मूर्ति या अशोक चक्र होता है, जो उनके साम्राज्य और शक्ति का प्रतीक है।"
   },
   {
     "id": 15,
-    "question": "महावीर के अनुसार मोक्ष प्राप्ति का मार्ग कौन सा है? / According to Mahavir, which path leads to liberation?",
+    "question": "अशोक के रॉक एडिक्ट्स मुख्यतः किन स्थानों पर खुदवाए गए थे? / Where were Ashoka’s Rock Edicts primarily engraved?",
     "options": {
-      "A": "तीन रत्न - सम्यक दर्शन, सम्यक ज्ञान, सम्यक चारित्र",
-      "B": "भक्ति और पूजा",
-      "C": "योग और ध्यान",
-      "D": "दान और तपस्या"
+      "A": "पहाड़ी चट्टानों पर (On hill rocks)",
+      "B": "सड़क किनारे (Road sides)",
+      "C": "महलों की दीवारों पर (On palace walls)",
+      "D": "मंदिरों के अंदर (Inside temples)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक के रॉक एडिक्ट्स आमतौर पर पहाड़ियों की चट्टानों और सड़क किनारे पाए जाते हैं ताकि ज्यादा से ज्यादा लोग उन्हें पढ़ सकें।"
   },
   {
     "id": 16,
-    "question": "महावीर के निर्वाण के बाद जैन धर्म का क्या विकास हुआ? / What development occurred in Jainism after Mahavir's Nirvana?",
+    "question": "अशोक के शिलालेखों का सामाजिक महत्त्व क्या था? / What was the social significance of Ashoka’s edicts?",
     "options": {
-      "A": "धर्म की पुनर्स्थापना और प्रचार",
-      "B": "धर्म का लुप्त होना",
-      "C": "बौद्ध धर्म का विकास",
-      "D": "राजनीतिक सत्ता प्राप्ति"
+      "A": "सामाजिक एकता और नैतिकता को बढ़ावा देना (Promote social unity and morality)",
+      "B": "व्यापार में सहायता (Assist trade)",
+      "C": "धार्मिक कट्टरता बढ़ाना (Increase religious fanaticism)",
+      "D": "राज्य की सेना को मजबूत करना (Strengthen state army)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक के शिलालेखों का उद्देश्य समाज में अहिंसा, सहिष्णुता और नैतिकता का प्रचार कर सामाजिक एकता को बढ़ावा देना था।"
   },
   {
     "id": 17,
-    "question": "जैन धर्म में तपस्या का महत्व क्या है? / What is the importance of austerity in Jainism?",
+    "question": "अशोक के पिलर शिलालेखों में शेर की मूर्ति का क्या प्रतीक है? / What does the lion sculpture on Ashoka’s Pillars symbolize?",
     "options": {
-      "A": "कर्मों को नष्ट करना",
-      "B": "धर्म प्रचार करना",
-      "C": "भक्ति प्रकट करना",
-      "D": "सामाजिक सुधार"
+      "A": "राजसी शक्ति और साहस (Royal power and courage)",
+      "B": "धर्म और शांति (Dharma and peace)",
+      "C": "युद्ध की ताकत (War strength)",
+      "D": "राजनीतिक नियंत्रण (Political control)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "शेर की मूर्ति राजशक्ति और साहस का प्रतीक होने के साथ-साथ धर्म और शांति के संदेश को भी दर्शाती है।"
   },
   {
     "id": 18,
-    "question": "महावीर और बुद्ध के बीच कौन सा सिद्धांत भिन्न है? / Which principle differs between Mahavir and Buddha?",
+    "question": "अशोक के शिलालेखों का ऐतिहासिक महत्व क्या है? / What is the historical importance of Ashoka’s edicts?",
     "options": {
-      "A": "आत्मा का अस्तित्व",
-      "B": "अहिंसा",
-      "C": "त्याग",
-      "D": "ध्यान"
+      "A": "प्राचीन भारत के सामाजिक और धार्मिक जीवन का प्रमाण (Evidence of ancient Indian social and religious life)",
+      "B": "राजनीतिक व्यवस्था का दस्तावेज (Document of political system)",
+      "C": "व्यापारिक मार्गों की जानकारी (Information about trade routes)",
+      "D": "विदेशी आक्रमणों का विवरण (Details of foreign invasions)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक के शिलालेख प्राचीन भारत के सामाजिक, धार्मिक और राजनीतिक जीवन का महत्वपूर्ण प्रमाण हैं।"
   },
   {
     "id": 19,
-    "question": "महावीर ने सामाजिक दृष्टि से क्या संदेश दिया? / What social message did Mahavir give?",
+    "question": "अशोक के शिलालेखों में किस प्रकार की भाषा का उपयोग अहिंसा और सहिष्णुता के संदेश के लिए किया गया था? / What kind of language was used in Ashoka’s edicts to convey messages of non-violence and tolerance?",
     "options": {
-      "A": "सभी जीवों के प्रति समान दया",
-      "B": "राजनीतिक सत्ता की खोज",
-      "C": "धर्म के प्रचार में हिंसा",
-      "D": "धन और शक्ति का महत्व"
+      "A": "सरल और स्पष्ट भाषा (Simple and clear language)",
+      "B": "जटिल और काव्यात्मक भाषा (Complex and poetic language)",
+      "C": "धार्मिक भाषा (Religious language)",
+      "D": "सैन्य भाषा (Military language)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक ने अपने संदेश को सरल और स्पष्ट भाषा में लिखा ताकि सभी जनता उसे आसानी से समझ सके।"
   },
   {
     "id": 20,
-    "question": "महावीर के जीवन से जुड़ा कौन-सा कथन सही है? / Which statement related to Mahavir's life is correct?",
+    "question": "अशोक के शिलालेखों में कौन सा विषय सबसे अधिक बार आता है? / Which theme is most frequently found in Ashoka’s edicts?",
     "options": {
-      "A": "उन्होंने परिवार और राजसत्ता को छोड़ दिया",
-      "B": "वे राजा बने",
-      "C": "उन्होंने युद्ध में भाग लिया",
-      "D": "उन्होंने पूजा- पाठ शुरू किया"
+      "A": "धर्म और नैतिकता (Dharma and morality)",
+      "B": "युद्ध और विजय (War and conquest)",
+      "C": "व्यापार नीति (Trade policy)",
+      "D": "विज्ञान और तकनीक (Science and technology)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक के शिलालेखों में मुख्य रूप से धर्म, नैतिकता, और अहिंसा के विषयों पर जोर दिया गया है।"
   },
   {
     "id": 21,
-    "question": "जैन धर्म के त्रिरत्न सिद्धांत में कौन-कौन शामिल हैं? / Which are included in the Jainism's Triratna (Three Jewels) principle?",
+    "question": "अशोक के शिलालेखों में प्रयुक्त प्राकृत भाषा का स्वरूप किसका था? / What dialect of Prakrit was used in Ashoka’s edicts?",
     "options": {
-      "A": "सम्यक् श्रद्धा (Right Faith)",
-      "B": "सम्यक् ज्ञान (Right Knowledge)",
-      "C": "सम्यक् आचार (Right Conduct)",
-      "D": "अहिंसा (Non-violence)"
+      "A": "मगधी प्राकृत (Magadhi Prakrit)",
+      "B": "शौरसेनी प्राकृत (Shauraseni Prakrit)",
+      "C": "मौर्य प्राकृत (Maurya Prakrit)",
+      "D": "पंजाबी प्राकृत (Punjabi Prakrit)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "explanation": "अशोक के शिलालेखों में मगधी प्राकृत भाषा का उपयोग हुआ, जो उस क्षेत्र की स्थानीय बोली थी।"
   },
   {
     "id": 22,
-    "question": "पंच महाव्रत में कौन-कौन से नियम शामिल हैं? / Which vows are part of the Panch Mahavratas?",
+    "question": "अशोक के रॉक एडिक्ट्स में कुल कितने प्रमुख शिलालेख पाए गए हैं? / How many major Rock Edicts of Ashoka have been found?",
     "options": {
-      "A": "अहिंसा (Non-violence)",
-      "B": "सत्य (Truth)",
-      "C": "अस्तेय (Non-stealing)",
-      "D": "ध्यान (Meditation)",
-      "E": "ब्रह्मचर्य (Celibacy)",
-      "F": "अपरिग्रह (Non-possession)"
+      "A": "7",
+      "B": "14",
+      "C": "20",
+      "D": "21"
     },
-    "answer": ["A", "B", "C", "E", "F"]
+    "answer": ["B"],
+    "explanation": "अशोक के कुल 14 प्रमुख रॉक एडिक्ट्स पाए गए हैं जो उनके शासन के दौरान विभिन्न क्षेत्रों में खुदवाए गए थे।"
   },
   {
     "id": 23,
-    "question": "स्याद्वाद का मुख्य उद्देश्य क्या है? / What is the main objective of Syadvada?",
+    "question": "अशोक के पिलर एडिक्ट्स में भाषा के अलावा किन अन्य भाषाओं में भी लेख पाए गए हैं? / Besides the primary language, in which other languages are Ashoka’s inscriptions found?",
     "options": {
-      "A": "सत्य को सापेक्ष और अनेक दृष्टिकोण से समझना",
-      "B": "सत्य को एकमात्र माना जाना",
-      "C": "दूसरों की बातों को न मानना",
-      "D": "तर्क का परित्याग"
+      "A": "ग्रीक (Greek)",
+      "B": "अरामीक (Aramaic)",
+      "C": "संस्कृत (Sanskrit)",
+      "D": "फारसी (Persian)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक के शिलालेखों में ग्रीक और अरामीक भाषाएँ भी पाई गई हैं, विशेषकर पश्चिमी सीमाओं के क्षेत्रों में।"
   },
   {
     "id": 24,
-    "question": "अन्य क्या-क्या सिद्धांत जैन दर्शन में महत्वपूर्ण हैं? / Which other principles are important in Jain philosophy?",
+    "question": "अशोक के शिलालेखों में प्रयुक्त ब्राह्मी लिपि का किसने अनुवाद किया? / Who deciphered the Brahmi script used in Ashoka’s edicts?",
     "options": {
-      "A": "अनेकांतवाद (Multiplicity of viewpoints)",
-      "B": "नयवाद (Doctrine of perspectives)",
-      "C": "अहिंसा (Non-violence)",
-      "D": "मोक्ष (Liberation)"
+      "A": "जेम्स प्रिंसप (James Prinsep)",
+      "B": "विलियम जोन्स (William Jones)",
+      "C": "रोबर्ट ब्रूनेट (Robert Brünnet)",
+      "D": "थॉमस राल्फ होल्ट (Thomas Ralph Holtz)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "explanation": "जेम्स प्रिंसप ने 19वीं सदी में ब्राह्मी लिपि की खोज और अनुवाद किया, जिससे अशोक के शिलालेखों का अर्थ समझ में आया।"
   },
   {
     "id": 25,
-    "question": "जैन धर्म की मुख्य दो शाखाएँ कौन-कौन सी हैं? / What are the two main sects of Jainism?",
+    "question": "अशोक के शिलालेखों के संदेशों में प्रमुख रूप से किस प्रकार की नीति दिखती है? / What kind of policy is mainly reflected in Ashoka’s edicts?",
     "options": {
-      "A": "दिगंबर (Digambar)",
-      "B": "श्वेतांबर (Shwetambar)",
-      "C": "बौद्ध (Buddhist)",
-      "D": "हिंदू (Hindu)"
+      "A": "धर्म और नैतिकता पर आधारित नीति (Policy based on dharma and morality)",
+      "B": "सैन्य विस्तार की नीति (Policy of military expansion)",
+      "C": "व्यापार नीति (Trade policy)",
+      "D": "कृषि नीति (Agricultural policy)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक के शिलालेखों में अहिंसा, धर्म और नैतिकता पर आधारित शासन नीति को प्रमुखता दी गई है।"
   },
   {
     "id": 26,
-    "question": "दिगंबर और श्वेतांबर में क्या मुख्य भेद हैं? / What are the main differences between Digambar and Shwetambar sects?",
+    "question": "अशोक के किस शिलालेख में कलिंग युद्ध के बाद के अहिंसा और शांति का संदेश है? / Which edict contains message of non-violence and peace after Kalinga war?",
     "options": {
-      "A": "दिगंबर नंगे होते हैं, श्वेतांबर वस्त्र पहनते हैं",
-      "B": "दिगंबर मूर्तियों में पूर्ण नग्नता, श्वेतांबर में कपड़े",
-      "C": "दिगंबर केवल पुरुष साधु होते हैं",
-      "D": "श्वेतांबर ग्रंथ स्वीकार करते हैं, दिगंबर नहीं"
+      "A": "कलिंग एडिक्ट (Kalinga Edict)",
+      "B": "रॉक एडिक्ट नंबर 13 (Rock Edict No. 13)",
+      "C": "पिलर एडिक्ट नंबर 2 (Pillar Edict No. 2)",
+      "D": "माइनर एडिक्ट नंबर 4 (Minor Edict No. 4)"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"],
+    "explanation": "रॉक एडिक्ट नंबर 13 में अशोक ने कलिंग युद्ध की हिंसा और उसके बाद अहिंसा और धर्म के प्रचार की बात कही है।"
   },
   {
     "id": 27,
-    "question": "श्वेतांबर और दिगंबर के ग्रंथों में क्या भिन्नता है? / What is the difference in scriptures between Shwetambar and Digambar sects?",
+    "question": "अशोक के शिलालेखों में 'धम्म परिषद' का क्या महत्व है? / What is the significance of 'Dhamma Mahamatras' mentioned in Ashoka’s edicts?",
     "options": {
-      "A": "श्वेतांबर स्वीकार करते हैं आगम ग्रंथों को",
-      "B": "दिगंबर ग्रंथों को मान्यता नहीं देते",
-      "C": "दोनों समान ग्रंथ स्वीकार करते हैं",
-      "D": "दिगंबर ने कुछ ग्रंथ रचित किए"
+      "A": "धर्म के प्रचारक (Propagators of dharma)",
+      "B": "सैन्य अधिकारी (Military officers)",
+      "C": "राज्य के न्यायाधीश (State judges)",
+      "D": "व्यापार प्रबंधक (Trade managers)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "'धम्म परिषद' या 'धम्म महामात्र' अशोक के द्वारा नियुक्त अधिकारी थे जो धर्म प्रचार और सामाजिक सुधारों का कार्य करते थे।"
   },
   {
     "id": 28,
-    "question": "स्याद्वाद किस सिद्धांत पर आधारित है? / On which principle is Syadvada based?",
+    "question": "अशोक के शिलालेखों का मुख्य उद्देश्य क्या था? / What was the primary objective of Ashoka’s inscriptions?",
     "options": {
-      "A": "सत्य के विभिन्न दृष्टिकोणों को स्वीकारना",
-      "B": "एकमात्र सत्य की मान्यता",
-      "C": "तर्क का परित्याग",
-      "D": "सत्य को निराकार मानना"
+      "A": "राज्य की एकता और धर्म प्रचार (Unity of the state and propagation of dharma)",
+      "B": "व्यापारिक समझौते करना (Making trade agreements)",
+      "C": "विदेशी आक्रमणों का सामना करना (Facing foreign invasions)",
+      "D": "सैन्य शक्ति बढ़ाना (Increasing military strength)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक के शिलालेखों का मुख्य उद्देश्य साम्राज्य की एकता बनाए रखना और धर्म के माध्यम से सामाजिक सद्भाव फैलाना था।"
   },
   {
     "id": 29,
-    "question": "अन्यायवाद (Nayavada) का उद्देश्य क्या है? / What is the purpose of Nayavada?",
+    "question": "अशोक के शिलालेखों में किस प्रकार के सामाजिक सुधारों की बात की गई है? / What types of social reforms are mentioned in Ashoka’s edicts?",
     "options": {
-      "A": "वस्तु के विभिन्न पहलुओं को समझना",
-      "B": "सत्य को एक रूप में देखना",
-      "C": "सत्य को बहुलता में समझना",
-      "D": "धार्मिक प्रचार"
+      "A": "अहिंसा और सहिष्णुता (Non-violence and tolerance)",
+      "B": "जाति प्रथा को खत्म करना (Abolition of caste system)",
+      "C": "धार्मिक स्वतंत्रता (Religious freedom)",
+      "D": "महिला अधिकार (Women’s rights)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने अपने शिलालेखों में अहिंसा, सहिष्णुता और धार्मिक स्वतंत्रता पर जोर दिया, हालांकि जाति प्रथा या महिला अधिकारों का स्पष्ट उल्लेख नहीं है।"
   },
   {
     "id": 30,
-    "question": "जैन धर्म में अपरिग्रह का क्या अर्थ है? / What does Aparigraha mean in Jainism?",
+    "question": "अशोक के शिलालेखों में किस प्रकार के पशुओं के प्रति करुणा और संरक्षण का संदेश दिया गया है? / What message regarding animals is conveyed in Ashoka’s edicts?",
     "options": {
-      "A": "संपत्ति और आसक्ति से मुक्त होना",
-      "B": "धर्म प्रचार करना",
-      "C": "सत्य बोलना",
-      "D": "सामाजिक सेवा"
+      "A": "शिकार और मांसाहार का त्याग (Renunciation of hunting and meat-eating)",
+      "B": "सभी जानवरों का संरक्षण (Protection of all animals)",
+      "C": "केवल धार्मिक पशुओं की रक्षा (Only protection of religious animals)",
+      "D": "जंगली जानवरों को मारना जरूरी (Killing wild animals necessary)"
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 31,
-    "question": "जैन धर्म के अनुसार कौन-कौन से नियम तपस्वी के लिए अनिवार्य हैं? / According to Jainism, which vows are compulsory for ascetics?",
-    "options": {
-      "A": "पंच महाव्रत (Five Great Vows)",
-      "B": "नियम (Discipline)",
-      "C": "अहिंसा",
-      "D": "ध्यान"
-    },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने शिकार छोड़ने और सभी जानवरों के प्रति करुणा दिखाने का निर्देश दिया था, जो उनके अहिंसा सिद्धांत का हिस्सा था।"
   },
   {
     "id": 32,
-    "question": "दिगंबर और श्वेतांबर साधुओं के वेशभूषा में क्या अंतर है? / What is the difference in attire between Digambar and Shwetambar monks?",
+    "question": "अशोक के शिलालेखों में अहिंसा का क्या संदेश है? / What message of non-violence is conveyed in Ashoka’s edicts?",
     "options": {
-      "A": "दिगंबर नग्न रहते हैं",
-      "B": "श्वेतांबर सफेद वस्त्र पहनते हैं",
-      "C": "दिगंबर रंगीन वस्त्र पहनते हैं",
-      "D": "श्वेतांबर नग्न रहते हैं"
+      "A": "युद्ध और शिकार का त्याग (Renunciation of war and hunting)",
+      "B": "सभी जीवों के प्रति करुणा (Compassion for all beings)",
+      "C": "राजनीतिक विजय पर जोर (Emphasis on political conquest)",
+      "D": "सिर्फ धार्मिक जातियों की सुरक्षा (Protection of only religious animals)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने अपने शिलालेखों में युद्ध और शिकार का त्याग करने और सभी जीवों के प्रति करुणा दिखाने पर जोर दिया।"
   },
   {
     "id": 33,
-    "question": "जैन धर्म के सिद्धांतों में अनेकांतवाद का क्या महत्व है? / What is the importance of Anekantavada in Jain principles?",
+    "question": "अशोक के धर्म के अनुसार समाज में किसका विशेष महत्व है? / According to Ashoka’s Dhamma, which holds special importance in society?",
     "options": {
-      "A": "वस्तुओं के बहु-आयामी सत्य को स्वीकारना",
-      "B": "एकमात्र सत्य को मानना",
-      "C": "सत्य को केवल मानसिक मानना",
-      "D": "तर्क को अस्वीकारना"
+      "A": "सत्य और नैतिकता (Truth and morality)",
+      "B": "धार्मिक कट्टरता (Religious fanaticism)",
+      "C": "सामाजिक सद्भाव (Social harmony)",
+      "D": "आर्थिक लाभ (Economic profit)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने सत्य, नैतिकता और सामाजिक सद्भाव पर जोर दिया, धार्मिक कट्टरता या केवल आर्थिक लाभ को मुख्य लक्ष्य नहीं माना।"
   },
   {
     "id": 34,
-    "question": "स्याद्वाद और अनेकांतवाद में क्या संबंध है? / What is the relationship between Syadvada and Anekantavada?",
+    "question": "अशोक के धर्म में मित्रत्व और दया का संदेश किस प्रकार दिया गया है? / How is the message of friendship and compassion conveyed in Ashoka’s Dhamma?",
     "options": {
-      "A": "स्याद्वाद अनेकांतवाद की व्याख्या है",
-      "B": "दोनों अलग-अलग सिद्धांत हैं",
-      "C": "स्याद्वाद का आधार अनेकांतवाद है",
-      "D": "कोई संबंध नहीं है"
+      "A": "सभी प्राणियों के प्रति करुणा (Compassion towards all living beings)",
+      "B": "राज्य के बाहर के लोगों को शत्रु मानना (Considering outsiders as enemies)",
+      "C": "सामाजिक और धार्मिक सहिष्णुता (Social and religious tolerance)",
+      "D": "धर्म प्रचार के लिए बल प्रयोग (Use of force to propagate dharma)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने मित्रत्व और दया के सिद्धांतों को सभी प्राणियों के प्रति करुणा और सामाजिक/धार्मिक सहिष्णुता के माध्यम से प्रचारित किया।"
   },
   {
     "id": 35,
-    "question": "श्वेतांबर और दिगंबर में मूर्तियों के संदर्भ में क्या भेद है? / What is the difference in idols between Shwetambar and Digambar sects?",
+    "question": "अशोक के शिलालेखों में जंगली और वान्य जीवों की सुरक्षा के लिए कौन से नियम बताए गए हैं? / What rules are mentioned in Ashoka’s edicts for the protection of wild and forest animals?",
     "options": {
-      "A": "श्वेतांबर मूर्तियाँ वस्त्रधारी होती हैं",
-      "B": "दिगंबर मूर्तियाँ नग्न होती हैं",
-      "C": "दोनों की मूर्तियाँ समान होती हैं",
-      "D": "श्वेतांबर मूर्तियाँ बिना कपड़ों की होती हैं"
+      "A": "शिकार पर प्रतिबंध (Prohibition on hunting)",
+      "B": "वन्य जीवों के रहवास का संरक्षण (Protection of habitats)",
+      "C": "सिर्फ धार्मिक अनुष्ठानों में उनका उपयोग (Use only in rituals)",
+      "D": "पशुओं को खाने की अनुमति (Permission to eat animals)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने वन्य और जंगली जीवों के लिए शिकार पर रोक और उनके प्राकृतिक निवास स्थान के संरक्षण के नियम बनाए।"
   },
   {
     "id": 36,
-    "question": "जैन धर्म में ब्रह्मचर्य का क्या महत्व है? / What is the importance of Brahmacharya in Jainism?",
+    "question": "अशोक के धर्म के अनुसार शासन और नीति का मुख्य आधार क्या होना चाहिए? / According to Ashoka’s Dhamma, what should be the main basis of governance and policy?",
     "options": {
-      "A": "कामवासना का त्याग",
-      "B": "धार्मिक पूजा",
-      "C": "तपस्या का अंग",
-      "D": "सामाजिक सेवा"
+      "A": "अहिंसा और नैतिकता (Non-violence and morality)",
+      "B": "सैन्य शक्ति (Military power)",
+      "C": "व्यापार और संपत्ति (Trade and wealth)",
+      "D": "सत्य और न्याय (Truth and justice)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "D"],
+    "explanation": "अशोक के धर्म के अनुसार शासन का आधार अहिंसा, नैतिकता, सत्य और न्याय होना चाहिए, केवल सैन्य शक्ति या संपत्ति नहीं।"
   },
   {
     "id": 37,
-    "question": "अहिंसा के संदर्भ में जैन धर्म और अन्य धर्मों में क्या विशेषता है? / What is special about non-violence in Jainism compared to other religions?",
+    "question": "अशोक के शिलालेखों में किन गतिविधियों के प्रति रोकथाम बताई गई है? / Which activities are prohibited in Ashoka’s edicts?",
     "options": {
-      "A": "पूर्ण और कठोर अहिंसा का पालन",
-      "B": "केवल मन, वचन तक सीमित",
-      "C": "सभी जीवों के प्रति दया",
-      "D": "राजनीतिक हिंसा का समर्थन"
+      "A": "जंगली और पालतू जानवरों का शिकार (Hunting wild and domestic animals)",
+      "B": "धार्मिक विवाद में हिंसा (Violence in religious disputes)",
+      "C": "सत्य बोलने से इनकार (Refusal to speak truth)",
+      "D": "व्यापार में छल (Fraud in trade)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "C"],
+    "explanation": "अशोक के शिलालेखों में शिकार, धार्मिक हिंसा और सत्य का उल्लंघन न करने का निर्देश दिया गया।"
   },
   {
     "id": 38,
-    "question": "श्वेतांबर और दिगंबर में धार्मिक ग्रंथों के प्रति दृष्टिकोण में क्या भेद है? / What is the difference in attitude towards scriptures between Shwetambar and Digambar sects?",
+    "question": "अशोक के धर्म के अनुसार राज्य के नागरिकों के लिए कौन सा व्यवहार आवश्यक था? / What behavior was expected from the citizens according to Ashoka’s Dhamma?",
     "options": {
-      "A": "श्वेतांबर आगम ग्रंथों को मानते हैं",
-      "B": "दिगंबर ग्रंथों को अस्वीकार करते हैं",
-      "C": "दोनों ग्रंथों को समान महत्व देते हैं",
-      "D": "दिगंबर ने ग्रंथों का संकलन किया"
+      "A": "सत्य बोलना (Speaking truth)",
+      "B": "दूसरों के प्रति करुणा (Being compassionate to others)",
+      "C": "शिकार करना (Hunting)",
+      "D": "धार्मिक सहिष्णुता (Religious tolerance)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"],
+    "explanation": "अशोक ने अपने नागरिकों को सत्य बोलने, करुणा दिखाने और धार्मिक सहिष्णुता अपनाने की सलाह दी।"
   },
   {
     "id": 39,
-    "question": "अपरिग्रह के सिद्धांत में क्या शामिल है? / What is included in the principle of Aparigraha?",
+    "question": "अशोक के शिलालेखों में पशुओं के संरक्षण का मुख्य उद्देश्य क्या था? / What was the main purpose of animal protection in Ashoka’s edicts?",
     "options": {
-      "A": "संपत्ति से मुक्त रहना",
-      "B": "मानसिक आसक्ति से मुक्त रहना",
-      "C": "सामाजिक कर्तव्य निभाना",
-      "D": "धार्मिक अनुष्ठान करना"
+      "A": "अहिंसा के सिद्धांत का प्रचार (Propagation of non-violence)",
+      "B": "राजनीतिक लाभ (Political gain)",
+      "C": "धार्मिक अनुष्ठानों का पालन (Observance of religious rituals)",
+      "D": "व्यापारिक लाभ (Economic gain)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक ने जंगली और पालतू पशुओं के संरक्षण का मुख्य उद्देश्य अहिंसा और करुणा के संदेश का प्रचार किया।"
   },
   {
     "id": 40,
-    "question": "जैन धर्म के अनुसार नयवाद का क्या महत्व है? / What is the significance of Nayavada in Jainism?",
+    "question": "अशोक के शिलालेखों में किन गुणों को आदर्श नागरिक का माना गया? / Which qualities were considered ideal for a citizen in Ashoka’s edicts?",
     "options": {
-      "A": "वस्तु के विभिन्न पक्षों का ज्ञान",
-      "B": "एकपक्षीय सत्य को मानना",
-      "C": "तर्क और विवेचना को महत्व देना",
-      "D": "धार्मिक अनुष्ठानों को बढ़ावा देना"
+      "A": "सत्यनिष्ठा (Truthfulness)",
+      "B": "दयालुता (Compassion)",
+      "C": "साहसिक आक्रमण (Aggressive attack)",
+      "D": "धार्मिक सहिष्णुता (Religious tolerance)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "D"],
+    "explanation": "अशोक ने अपने नागरिकों में सत्यनिष्ठा, दया और धार्मिक सहिष्णुता को आदर्श गुण माना।"
   },
   {
     "id": 41,
-    "question": "दिगंबर और श्वेतांबर शाखाओं में वस्त्रों को लेकर क्या मुख्य भेद हैं? / What are the main differences between Digambar and Shwetambar sects regarding clothing?",
+    "question": "अशोक के धर्म का संदेश किन क्षेत्रों में सबसे अधिक प्रभावी था? / In which areas was Ashoka’s Dhamma most effective?",
     "options": {
-      "A": "दिगंबर साधु नग्न रहते हैं",
-      "B": "श्वेतांबर साधु सफेद वस्त्र पहनते हैं",
-      "C": "दिगंबर रंगीन वस्त्र पहनते हैं",
-      "D": "श्वेतांबर वस्त्र धारण नहीं करते"
+      "A": "सामाजिक और धार्मिक जीवन (Social and religious life)",
+      "B": "सैन्य और युद्ध नीति (Military and war policy)",
+      "C": "आर्थिक और वाणिज्यिक जीवन (Economic and trade life)",
+      "D": "विदेश नीति (Foreign policy)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक के धर्म का संदेश सामाजिक सद्भाव और धार्मिक सहिष्णुता पर सबसे अधिक प्रभाव डालता था।"
   },
   {
     "id": 42,
-    "question": "दिगंबर और श्वेतांबर मूर्तियों में कौन-कौन से भेद पाए जाते हैं? / What differences exist between Digambar and Shwetambar idols?",
+    "question": "अशोक ने जंगली जीवों की रक्षा के लिए कौन-कौन से कदम उठाए? / What steps did Ashoka take for protection of wild animals?",
     "options": {
-      "A": "दिगंबर मूर्तियाँ नग्न होती हैं",
-      "B": "श्वेतांबर मूर्तियाँ वस्त्रधारी होती हैं",
-      "C": "दोनों मूर्तियाँ समान होती हैं",
-      "D": "श्वेतांबर मूर्तियाँ बिना कपड़ों की होती हैं"
+      "A": "शिकार पर पूर्ण रोक (Complete ban on hunting)",
+      "B": "वन्य जीवों का आवास संरक्षित करना (Protecting habitats of wild animals)",
+      "C": "वन्य जीवों के व्यापार की अनुमति (Allow trade of wild animals)",
+      "D": "धार्मिक अनुष्ठान में उनका बल प्रयोग (Use in religious rituals)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने शिकार पर रोक लगाई और वन्य जीवों के प्राकृतिक आवास की सुरक्षा सुनिश्चित की।"
   },
   {
     "id": 43,
-    "question": "दिगंबर और श्वेतांबर के धार्मिक ग्रंथों में क्या अंतर है? / What is the difference in religious scriptures between Digambar and Shwetambar?",
+    "question": "अशोक का धर्म (Dhamma) और सामाजिक सुधारों के बीच क्या संबंध था? / What was the relation between Ashoka’s Dhamma and social reforms?",
     "options": {
-      "A": "श्वेतांबर आगम ग्रंथ स्वीकार करते हैं",
-      "B": "दिगंबर आगम ग्रंथों को अस्वीकार करते हैं",
-      "C": "दोनों समान ग्रंथ स्वीकार करते हैं",
-      "D": "दिगंबर ने अपने ग्रंथ स्वयं रचे"
+      "A": "धर्म सामाजिक सुधार का आधार था (Dhamma was the basis of social reform)",
+      "B": "धर्म केवल धार्मिक पूजा तक सीमित था (Dhamma limited to religious rituals)",
+      "C": "धर्म ने जाति और वर्ग भेद बढ़ाए (Dhamma increased caste distinctions)",
+      "D": "धर्म ने व्यापारिक नियम तय किए (Dhamma set trade rules)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक का धर्म समाज में नैतिकता, अहिंसा और सहिष्णुता फैलाने का माध्यम था और सामाजिक सुधारों का आधार बना।"
   },
   {
     "id": 44,
-    "question": "पाटलिपुत्र परिषद का क्या महत्व है? / What is the significance of the Patliputra Council?",
+    "question": "अशोक के शिलालेखों में अहिंसा और करुणा के संदेश का सबसे प्रमुख उदाहरण कौन सा है? / Which is the most prominent example of non-violence and compassion in Ashoka’s edicts?",
     "options": {
-      "A": "यह दिगंबर मत की पहली परिषद थी",
-      "B": "इसमें जैन ग्रंथों का पुनर्गठन हुआ",
-      "C": "इस परिषद ने श्वेतांबर मत को मान्यता दी",
-      "D": "यह परिषद 2024 में पुनः आयोजित हुई"
+      "A": "कलिंग युद्ध के बाद के संदेश (Message after Kalinga war)",
+      "B": "व्यापारिक समझौते (Trade agreements)",
+      "C": "सैन्य विजय विवरण (Military conquest details)",
+      "D": "राजसी उत्सव (Royal celebrations)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "कलिंग युद्ध के बाद अशोक ने हिंसा छोड़कर अहिंसा और करुणा का संदेश अपने शिलालेखों में सबसे प्रमुख रूप से दिया।"
   },
   {
     "id": 45,
-    "question": "वल्लभी परिषद के संदर्भ में क्या सही है? / Which is correct regarding the Vallabhi Council?",
+    "question": "अशोक के धर्म में किन प्राणियों के प्रति विशेष संवेदनशीलता दिखाई गई? / Which beings received special consideration in Ashoka’s Dhamma?",
     "options": {
-      "A": "यह श्वेतांबर मत की परिषद थी",
-      "B": "इस परिषद ने जैन आगमों का संकलन किया",
-      "C": "इस परिषद का आयोजन 5वीं सदी में हुआ था",
-      "D": "यह परिषद दिगंबर मत की थी"
+      "A": "मानव (Humans)",
+      "B": "पालतू और जंगली जानवर (Domestic and wild animals)",
+      "C": "केवल धार्मिक अनुष्ठान के जानवर (Only ritual animals)",
+      "D": "पक्षी और मछली (Birds and fish)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने मानवों और सभी पालतू तथा जंगली जानवरों के प्रति करुणा और संरक्षण का संदेश दिया।"
   },
   {
     "id": 46,
-    "question": "2024-2025 में जैन समुदाय में शाखाओं के बीच कौन से नए विवाद सामने आए? / What new disputes arose between Jain sects in 2024-2025?",
+    "question": "अशोक ने बौद्ध धर्म का समर्थन क्यों किया? / Why did Ashoka support Buddhism?",
     "options": {
-      "A": "ग्रंथों के अनुवाद को लेकर मतभेद",
-      "B": "धार्मिक अनुष्ठानों में अंतर",
-      "C": "साधुओं के वस्त्रों को लेकर बहस",
-      "D": "पारंपरिक त्योहारों की तिथियों पर विवाद"
+      "A": "अहिंसा और नैतिकता के सिद्धांतों को बढ़ावा देना (Promote principles of non-violence and morality)",
+      "B": "राजनीतिक लाभ के लिए (For political gain)",
+      "C": "सिर्फ धार्मिक समारोहों के लिए (Only for religious ceremonies)",
+      "D": "सैन्य विस्तार के लिए (For military expansion)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने बौद्ध धर्म का समर्थन अहिंसा, नैतिकता और सामाजिक सद्भाव फैलाने के लिए किया, साथ ही राजनीतिक रूप से साम्राज्य की स्थिरता के लिए भी।"
   },
   {
     "id": 47,
-    "question": "दिगंबर मत में मूर्तियों की पूजा को लेकर क्या दृष्टिकोण है? / What is the Digambar sect's view on idol worship?",
+    "question": "अशोक ने बौद्ध संघ (Sangha) को कैसे बढ़ावा दिया? / How did Ashoka promote the Buddhist Sangha?",
     "options": {
-      "A": "मूर्ति पूजा आवश्यक है",
-      "B": "मूर्ति पूर्ण नग्नता दर्शाती हैं",
-      "C": "मूर्ति पूजा अस्वीकार्य है",
-      "D": "मूर्ति के बिना पूजा स्वीकार है"
+      "A": "भवन और स्तूप निर्माण करके (By building monasteries and stupas)",
+      "B": "धर्माचार्यों को आर्थिक सहायता देकर (Providing financial support to monks)",
+      "C": "सैनिक बल के माध्यम से (Through military force)",
+      "D": "केवल उत्सवों में भाग लेकर (By participating in festivals)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने बौद्ध संघ को स्तूप, विहार आदि निर्माण और भिक्षुओं को आर्थिक सहायता देकर बढ़ावा दिया।"
   },
   {
     "id": 48,
-    "question": "श्वेतांबर मत की मूर्तियों के क्या विशेषताएँ हैं? / What are the characteristics of Shwetambar idols?",
+    "question": "अशोक ने किन बौद्ध तीर्थस्थलों पर योगदान दिया? / To which Buddhist pilgrimage sites did Ashoka contribute?",
     "options": {
-      "A": "सफेद वस्त्र पहने हुए",
-      "B": "मौनी मुद्रा में",
-      "C": "सज्जित मुकुट और आभूषणों से युक्त",
-      "D": "नग्न मूर्तियाँ"
+      "A": "बोधगया (Bodh Gaya)",
+      "B": "सारनाथ (Sarnath)",
+      "C": "कुशीनगर (Kushinagar)",
+      "D": "सिंहस्थ (Simhasth)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "C"],
+    "explanation": "अशोक ने बोधगया, सारनाथ और कुशीनगर जैसे बौद्ध तीर्थस्थलों पर स्तूप और विहार का निर्माण कराया।"
   },
   {
     "id": 49,
-    "question": "पाटलिपुत्र परिषद के निर्णयों का जैन धर्म पर क्या प्रभाव पड़ा? / What impact did the Patliputra Council's decisions have on Jainism?",
+    "question": "अशोक के धर्म और बौद्ध दर्शन का संबंध क्या था? / What was the relation between Ashoka’s Dhamma and Buddhist philosophy?",
     "options": {
-      "A": "दिगंबर मत की परंपराओं का संरक्षण",
-      "B": "श्वेतांबर मत को प्रभावित करना",
-      "C": "ग्रंथों का पुनः संकलन",
-      "D": "धार्मिक विभाजन बढ़ाना"
+      "A": "धर्म का आधार बौद्ध नैतिकता और अहिंसा थे (Dhamma was based on Buddhist morality and non-violence)",
+      "B": "धर्म केवल सैन्य नीति पर आधारित था (Dhamma based only on military policy)",
+      "C": "धर्म ने सामाजिक सद्भाव और सहिष्णुता को बढ़ावा दिया (Dhamma promoted social harmony and tolerance)",
+      "D": "धर्म का कोई बौद्ध तत्व नहीं था (No Buddhist element in Dhamma)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक का धर्म बौद्ध नैतिकता और अहिंसा पर आधारित था और समाज में सहिष्णुता एवं सद्भाव फैलाने में मदद करता था।"
   },
   {
     "id": 50,
-    "question": "वल्लभी परिषद ने जैन आगमों के किस पहलू पर काम किया? / On what aspect did the Vallabhi Council work regarding Jain Agamas?",
+    "question": "अशोक ने श्रीलंका में बौद्ध धर्म फैलाने के लिए किसे भेजा? / Whom did Ashoka send to spread Buddhism in Sri Lanka?",
     "options": {
-      "A": "आगमों का लेखन और संकलन",
-      "B": "धार्मिक अनुष्ठानों का पुनर्निर्धारण",
-      "C": "साधु समुदाय का संगठन",
-      "D": "धार्मिक शिक्षा का प्रचार"
+      "A": "महिंदा (Mahinda)",
+      "B": "संगमित्त (Sanghamitta)",
+      "C": "कुमारस्वामी (Kumaraswami)",
+      "D": "अरिष्ट (Arishta)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने अपने पुत्र महिंदा और पुत्री संगमित्त को श्रीलंका भेजा ताकि वहाँ बौद्ध धर्म का प्रचार हो सके।"
   },
   {
     "id": 51,
-    "question": "श्वेतांबर मत के अनुसार भगवान महावीर की मूर्ति कैसे होती है? / According to Shwetambar sect, how is Lord Mahavir's idol depicted?",
+    "question": "अशोक के अंतर्राष्ट्रीय संबंधों में हेलीनेस्टीक साम्राज्यों के साथ क्या मुख्य उद्देश्य था? / What was the main objective of Ashoka’s foreign relations with Hellenistic kingdoms?",
     "options": {
-      "A": "सफेद वस्त्र में",
-      "B": "मौन मुद्रा में",
-      "C": "नग्न",
-      "D": "अस्त्रधारी"
+      "A": "धर्म प्रचार (Propagation of Dhamma)",
+      "B": "व्यापारिक संबंध और राजनयिक संपर्क (Trade and diplomatic contacts)",
+      "C": "सैन्य आक्रमण (Military invasion)",
+      "D": "सांस्कृतिक आदान-प्रदान (Cultural exchange)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"],
+    "explanation": "अशोक ने हेलीनेस्टीक साम्राज्यों के साथ धर्म प्रचार, व्यापार और सांस्कृतिक आदान-प्रदान के लिए संबंध बनाए।"
   },
   {
     "id": 52,
-    "question": "दिगंबर साधुओं का वस्त्र रहित रहना किस उद्देश्य से है? / What is the purpose of Digambar monks remaining unclothed?",
+    "question": "अशोक ने बौद्ध धर्म के प्रचार के लिए किन तरीकों का प्रयोग किया? / What methods did Ashoka use to spread Buddhism?",
     "options": {
-      "A": "असंग्रह और अहिंसा का प्रदर्शन",
-      "B": "साधु के उच्च आध्यात्मिक स्तर का संकेत",
-      "C": "धार्मिक नियमों का उल्लंघन",
-      "D": "शारीरिक तपस्या का अंग"
+      "A": "शिलालेख और स्तंभों के माध्यम से (Through inscriptions and pillars)",
+      "B": "तीर्थस्थलों और विहारों का निर्माण (Building pilgrimage sites and monasteries)",
+      "C": "सैन्य विजय और जबरदस्ती धर्म परिवर्तन (Military conquest and forced conversion)",
+      "D": "राजदूत भेजकर विदेशों में प्रचार (Sending envoys to foreign countries)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "D"],
+    "explanation": "अशोक ने बौद्ध धर्म का प्रचार शिलालेख, स्तंभ, तीर्थस्थल निर्माण और राजदूत भेजकर किया; जबरदस्ती नहीं।"
   },
   {
     "id": 53,
-    "question": "2024-2025 के दौरान जैन धर्म की कौन सी परिषदों ने महत्वपूर्ण बैठकें कीं? / Which Jain councils held important meetings during 2024-2025?",
+    "question": "अशोक के शिलालेखों में धर्म प्रचार और सामाजिक सुधार के बीच क्या संबंध था? / What was the relation between Dhamma propagation and social reforms in Ashoka’s edicts?",
     "options": {
-      "A": "पाटलिपुत्र परिषद (दिगंबर मत)",
-      "B": "वल्लभी परिषद (श्वेतांबर मत)",
-      "C": "सांगली परिषद",
-      "D": "बौद्ध परिषद"
+      "A": "धर्म सामाजिक सुधार का माध्यम था (Dhamma was a means for social reform)",
+      "B": "धर्म केवल धार्मिक अनुष्ठानों तक सीमित था (Dhamma limited to rituals)",
+      "C": "धर्म ने अहिंसा और करुणा फैलायी (Dhamma promoted non-violence and compassion)",
+      "D": "धर्म ने सैन्य विजय पर जोर दिया (Dhamma emphasized military conquest)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक के धर्म का उद्देश्य सामाजिक सुधार करना था और अहिंसा, करुणा, और नैतिकता फैलाना था।"
   },
   {
     "id": 54,
-    "question": "जैन मत के विभाजन का क्या कारण माना जाता है? / What is considered the cause of the division in Jain sects?",
+    "question": "अशोक ने किस माध्यम से विदेशों में बौद्ध धर्म का प्रचार किया? / Through which means did Ashoka spread Buddhism abroad?",
     "options": {
-      "A": "वस्त्र और मूर्ति पूजा के दृष्टिकोण में भेद",
-      "B": "धार्मिक ग्रंथों की व्याख्या",
-      "C": "भाषा और सांस्कृतिक अंतर",
-      "D": "आर्थिक हित"
+      "A": "राजदूत भेजना (Sending ambassadors)",
+      "B": "सैन्य विजय (Military conquest)",
+      "C": "वाणिज्यिक समझौते (Trade agreements)",
+      "D": "धार्मिक उत्सव (Religious festivals)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक ने श्रीलंका और अन्य देशों में धर्म प्रचार के लिए महिंदा और संगमित्त जैसे राजदूत भेजे।"
   },
   {
     "id": 55,
-    "question": "स्याद्वाद और अनेकांतवाद किस प्रकार जैन दर्शन में विवाद को समाप्त करते हैं? / How do Syadvada and Anekantavada resolve disputes in Jain philosophy?",
+    "question": "अशोक के बौद्ध धर्म से जुड़े स्तूप और विहारों का क्या उद्देश्य था? / What was the purpose of stupas and monasteries built by Ashoka?",
     "options": {
-      "A": "सत्य को बहुआयामी दृष्टिकोण से समझकर",
-      "B": "एकमात्र सत्य को स्वीकार करके",
-      "C": "सभी मतों को समान रूप से महत्व देकर",
-      "D": "विवादों को अनदेखा करके"
+      "A": "धर्म प्रचार (Propagation of Dhamma)",
+      "B": "सैन्य ठिकाना (Military base)",
+      "C": "भिक्षुओं के रहने का स्थान (Residence for monks)",
+      "D": "व्यापारिक केंद्र (Trade center)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने स्तूप और विहार निर्माण कराया ताकि बौद्ध धर्म का प्रचार हो और भिक्षुओं को रहने की सुविधा मिले।"
   },
   {
     "id": 56,
-    "question": "पाटलिपुत्र परिषद में कौन-कौन से प्रमुख विषय चर्चा के थे? / What were the main topics discussed in the Patliputra Council?",
+    "question": "अशोक के द्वारा बौद्ध संघ को आर्थिक सहायता देने का कारण क्या था? / Why did Ashoka provide financial support to the Buddhist Sangha?",
     "options": {
-      "A": "धार्मिक ग्रंथों का पुनर्गठन",
-      "B": "साधु-संप्रदाय के नियम",
-      "C": "श्वेतांबर मत को चुनौती देना",
-      "D": "धार्मिक पूजा विधियाँ"
+      "A": "धर्म प्रचार को मजबूत करना (Strengthen propagation of Dhamma)",
+      "B": "सैन्य बल बढ़ाना (Increase military strength)",
+      "C": "सामाजिक सुधारों को लागू करना (Implement social reforms)",
+      "D": "राजनीतिक नियंत्रण स्थापित करना (Establish political control)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने आर्थिक सहायता देकर धर्म प्रचार और सामाजिक सुधारों को सुदृढ़ किया।"
   },
   {
     "id": 57,
-    "question": "वल्लभी परिषद के जैन आगमों का संकलन किस भाषा में हुआ था? / In which language were Jain Agamas compiled during the Vallabhi Council?",
+    "question": "अशोक के बौद्ध तीर्थ स्थलों पर योगदान का उद्देश्य क्या था? / What was the purpose of Ashoka’s contributions to Buddhist pilgrimage sites?",
     "options": {
-      "A": "प्राकृत",
-      "B": "संस्कृत",
-      "C": "पालि",
-      "D": "मगधी"
+      "A": "धर्म प्रचार और तीर्थ स्थलों की प्रतिष्ठा बढ़ाना (Promote Dhamma and prestige of pilgrimage sites)",
+      "B": "सैन्य मजबूती (Military strength)",
+      "C": "व्यापारिक लाभ (Trade profit)",
+      "D": "शिक्षा का प्रसार (Spread of education)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक ने स्तूप, विहार और अन्य संरचनाएं बनाकर धर्म प्रचार और तीर्थ स्थलों की प्रतिष्ठा बढ़ाई।"
   },
   {
     "id": 58,
-    "question": "दिगंबर और श्वेतांबर मत के बीच वस्त्र और मूर्ति विवाद का क्या समाधान खोजा गया है? / What solutions have been found for the clothing and idol disputes between Digambar and Shwetambar sects?",
+    "question": "महिंदा और संगमित्त की श्रीलंका यात्रा का मुख्य उद्देश्य क्या था? / What was the main purpose of Mahinda and Sanghamitta’s journey to Sri Lanka?",
     "options": {
-      "A": "स्वतंत्र रूप से परंपराओं का पालन",
-      "B": "साझा पूजा स्थल बनाना",
-      "C": "एक मत में विलय",
-      "D": "धार्मिक परिषदों द्वारा मध्यस्थता"
+      "A": "बौद्ध धर्म का प्रचार (Propagation of Buddhism)",
+      "B": "राजनीतिक संधि करना (Make political alliance)",
+      "C": "व्यापारिक समझौते करना (Establish trade agreements)",
+      "D": "सैन्य विजय (Military conquest)"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"],
+    "explanation": "महिंदा और संगमित्त को श्रीलंका भेजा गया ताकि वहाँ बौद्ध धर्म का प्रचार हो सके।"
   },
   {
     "id": 59,
-    "question": "जैन धर्म में पंच महाव्रत का पालन कौन करता है? / Who follows the Panch Mahavratas in Jainism?",
+    "question": "अशोक ने बौद्ध धर्म के प्रचार के लिए किस प्रकार के राजदूत भेजे? / What type of envoys did Ashoka send to spread Buddhism?",
     "options": {
-      "A": "साधु-संत",
-      "B": "गृहस्थ जीवन के अनुयायी",
-      "C": "आंशिक अनुयायी",
-      "D": "धार्मिक प्रचारक"
+      "A": "धार्मिक और सांस्कृतिक (Religious and cultural)",
+      "B": "सैन्य और आक्रमक (Military and aggressive)",
+      "C": "व्यापारिक (Commercial)",
+      "D": "कृषि विशेषज्ञ (Agricultural experts)"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "explanation": "अशोक ने धार्मिक और सांस्कृतिक उद्देश्य से राजदूत भेजे, जो बौद्ध धर्म का प्रचार करें।"
   },
   {
     "id": 60,
-    "question": "2024-2025 के दौरान दिगंबर मत ने कौन से नए धार्मिक प्रथाएँ अपनाई? / What new religious practices did the Digambar sect adopt during 2024-2025?",
+    "question": "अशोक के अंतर्राष्ट्रीय संबंधों का बौद्ध धर्म से क्या संबंध था? / How were Ashoka’s foreign relations linked to Buddhism?",
     "options": {
-      "A": "आधुनिक साधना विधियों को अपनाना",
-      "B": "परंपरागत नग्न तपस्या का पुनः प्रचार",
-      "C": "ग्रंथों का डिजिटल रूपांतरण",
-      "D": "सामाजिक सेवा गतिविधियों में वृद्धि"
+      "A": "धर्म प्रचार और सांस्कृतिक संपर्क (Promotion of Dhamma and cultural exchange)",
+      "B": "सैन्य विजय के लिए (For military conquest)",
+      "C": "व्यापारिक हितों के लिए (For trade interests)",
+      "D": "राजनीतिक दबाव बनाने के लिए (To exert political pressure)"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक के विदेशी संबंध बौद्ध धर्म प्रचार और व्यापारिक/सांस्कृतिक संपर्क दोनों के लिए थे, सैन्य आक्रमण मुख्य उद्देश्य नहीं था।"
   },
   {
     "id": 61,
-    "question": "तत्त्वार्थसूत्र के लेखक कौन हैं? / Who is the author of Tattvartha Sutra?",
+    "question": "अशोक ने हेलीनेस्टीक साम्राज्यों के साथ अपने संबंध किस उद्देश्य से बनाए? / Why did Ashoka establish relations with Hellenistic kingdoms?",
     "options": {
-      "A": "उमास्वाति / उमास्वामी (Umaswati/Umasvami)",
-      "B": "महावीर",
-      "C": "बुद्ध",
-      "D": "परश्वनाथ"
+      "A": "धर्म प्रचार (Propagation of Dhamma)",
+      "B": "व्यापार और सांस्कृतिक आदान-प्रदान (Trade and cultural exchange)",
+      "C": "सैन्य विजय (Military conquest)",
+      "D": "राजनीतिक दबाव (Political pressure)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने हेलीनेस्टीक साम्राज्यों के साथ धर्म प्रचार और व्यापार/सांस्कृतिक आदान-प्रदान के उद्देश्य से संबंध बनाए।"
   },
   {
     "id": 62,
-    "question": "आगम साहित्य मुख्यतः किस भाषा में लिखा गया है? / In which languages is the Jain Agam literature primarily written?",
+    "question": "अशोक ने श्रीलंका में बौद्ध धर्म फैलाने के लिए किसे भेजा? / Whom did Ashoka send to spread Buddhism in Sri Lanka?",
     "options": {
-      "A": "अर्द्धमागधी (Ardhamagadhi)",
-      "B": "प्राकृत (Prakrit)",
-      "C": "संस्कृत (Sanskrit)",
-      "D": "पालि (Pali)"
+      "A": "महिंदा (Mahinda)",
+      "B": "संगमित्त (Sanghamitta)",
+      "C": "अजातशत्रु (Ajatashatru)",
+      "D": "कुमारस्वामी (Kumaraswami)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने अपने पुत्र महिंदा और पुत्री संगमित्त को श्रीलंका भेजा ताकि वहाँ बौद्ध धर्म का प्रचार हो सके।"
   },
   {
     "id": 63,
-    "question": "चंद्रगुप्त मौर्य ने किस शाखा से दीक्षा ली थी? / From which sect did Chandragupta Maurya take diksha (renunciation)?",
+    "question": "मौर्य साम्राज्य के मुख्य भाग कौन-कौन से थे? / What were the main regions of the Maurya Empire?",
     "options": {
-      "A": "जैन दिगंबर",
-      "B": "जैन श्वेतांबर",
-      "C": "बौद्ध",
-      "D": "हिंदू"
+      "A": "पूर्वी भारत (Eastern India)",
+      "B": "पश्चिमी भारत (Western India)",
+      "C": "दक्षिणी भारत (Southern India)",
+      "D": "अफगानिस्तान और दक्षिण-पश्चिम एशिया के कुछ हिस्से (Parts of Afghanistan and southwest Asia)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"],
+    "explanation": "मौर्य साम्राज्य में पूर्वी और पश्चिमी भारत के अलावा अफगानिस्तान और दक्षिण-पश्चिम एशिया के कुछ हिस्से शामिल थे, जबकि दक्षिणी भारत सीमित रूप से ही साम्राज्य में था।"
   },
   {
     "id": 64,
-    "question": "खारवेल का कौन सा राज्य जैन धर्म के संरक्षण के लिए प्रसिद्ध है? / Which kingdom ruled by Kharavela is famous for protecting Jainism?",
+    "question": "अशोक के विजय और शांति काल के दौरान क्या विशेष था? / What was significant during Ashoka’s period of conquest and peace?",
     "options": {
-      "A": "कलिंग (Kalinga)",
-      "B": "मगध (Magadha)",
-      "C": "मौर्य (Maurya)",
-      "D": "गुप्त (Gupta)"
+      "A": "कलिंग युद्ध और पश्चात अहिंसा अपनाना (Kalinga war and subsequent adoption of non-violence)",
+      "B": "धार्मिक सहिष्णुता बढ़ाना (Increase religious tolerance)",
+      "C": "सैन्य विस्तार के लिए लगातार युद्ध (Continuous military expansion)",
+      "D": "सामाजिक और आर्थिक सुधार (Social and economic reforms)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"],
+    "explanation": "कलिंग युद्ध के बाद अशोक ने अहिंसा, धार्मिक सहिष्णुता और सामाजिक-आर्थिक सुधारों पर जोर दिया।"
   },
   {
     "id": 65,
-    "question": "जैन धर्म में तत्वार्थसूत्र का क्या महत्व है? / What is the importance of Tattvartha Sutra in Jainism?",
+    "question": "अशोक का धर्म (Dhamma) समाज में किस प्रकार का परिवर्तन लाना चाहता था? / What kind of social change did Ashoka’s Dhamma aim to bring?",
     "options": {
-      "A": "जैन दर्शन का सार प्रस्तुत करता है",
-      "B": "धार्मिक अनुष्ठानों का संग्रह है",
-      "C": "मूल ग्रंथों में से एक है",
-      "D": "भौतिक विज्ञान का ग्रंथ है"
+      "A": "सत्य और नैतिकता का प्रचार (Promotion of truth and morality)",
+      "B": "सामाजिक सद्भाव और करुणा (Social harmony and compassion)",
+      "C": "सैन्य विजय के लिए हिंसा (Violence for military conquest)",
+      "D": "धार्मिक कट्टरता (Religious fanaticism)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक का धर्म सामाजिक सद्भाव, करुणा और नैतिकता के प्रचार पर केंद्रित था, हिंसा और धार्मिक कट्टरता के लिए नहीं।"
   },
   {
     "id": 66,
-    "question": "अर्द्धमागधी भाषा किस प्रकार की भाषा है? / What kind of language is Ardhamagadhi?",
+    "question": "अशोक ने अंतरराष्ट्रीय संबंधों में किस माध्यम से बौद्ध धर्म का प्रचार किया? / How did Ashoka propagate Buddhism through international relations?",
     "options": {
-      "A": "प्राचीन प्राकृत भाषा",
-      "B": "संस्कृत का रूप",
-      "C": "मगधी भाषा का रूपांतरण",
-      "D": "पुरानी हिंदी"
+      "A": "राजदूत भेजकर (Sending ambassadors)",
+      "B": "सैन्य आक्रमण करके (Through military invasion)",
+      "C": "वाणिज्यिक समझौते करके (Through trade agreements)",
+      "D": "सांस्कृतिक आदान-प्रदान (Cultural exchange)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "D"],
+    "explanation": "अशोक ने राजदूत और सांस्कृतिक आदान-प्रदान के माध्यम से बौद्ध धर्म का प्रचार किया, सैन्य आक्रमण मुख्य तरीका नहीं था।"
   },
   {
     "id": 67,
-    "question": "चंद्रगुप्त मौर्य के दीक्षा लेने के बाद क्या हुआ? / What happened after Chandragupta Maurya took diksha?",
+    "question": "अशोक के अंतर्राष्ट्रीय संबंधों में किस प्रकार के संदेश प्रमुख थे? / What type of messages were prominent in Ashoka’s international relations?",
     "options": {
-      "A": "उन्होंने जैन मठ की स्थापना की",
-      "B": "राजनीति से संन्यास लिया",
-      "C": "धार्मिक ग्रंथों का अनुवाद करवाया",
-      "D": "बौद्ध धर्म अपनाया"
+      "A": "धर्म और अहिंसा का संदेश (Message of Dhamma and non-violence)",
+      "B": "सैन्य विजय और आक्रमण का संदेश (Message of military conquest)",
+      "C": "व्यापार और सांस्कृतिक आदान-प्रदान (Trade and cultural exchange)",
+      "D": "धार्मिक कट्टरता (Religious intolerance)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने अंतर्राष्ट्रीय स्तर पर धर्म और अहिंसा का संदेश फैलाया और व्यापार तथा सांस्कृतिक आदान-प्रदान को बढ़ावा दिया।"
   },
   {
     "id": 68,
-    "question": "खारवेल ने किस प्रकार से जैन धर्म का समर्थन किया? / How did Kharavela support Jainism?",
+    "question": "मौर्य साम्राज्य का विस्तार अशोक के शासन में किस प्रकार था? / How was the Maurya Empire’s expansion during Ashoka’s reign?",
     "options": {
-      "A": "मठ और मंदिरों का निर्माण",
-      "B": "धार्मिक अनुष्ठानों का संरक्षण",
-      "C": "क्षत्रिय और व्यापारी वर्ग को प्रोत्साहन",
-      "D": "बौद्ध धर्म का विरोध"
+      "A": "पूर्व, पश्चिम और उत्तर के अधिकांश भाग शामिल थे (Included most parts of east, west and north)",
+      "B": "दक्षिणी भारत का अधिकांश हिस्सा शामिल था (Included most of southern India)",
+      "C": "अफगानिस्तान के कुछ हिस्से शामिल थे (Included parts of Afghanistan)",
+      "D": "समुद्री द्वीप शामिल थे (Included maritime islands)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक के शासनकाल में मौर्य साम्राज्य में पूर्व, पश्चिम और उत्तर के हिस्से और अफगानिस्तान के कुछ क्षेत्र शामिल थे, दक्षिणी भारत सीमित था।"
   },
   {
     "id": 69,
-    "question": "जैन आगम साहित्य का संरक्षण किसके द्वारा मुख्य रूप से हुआ? / Who mainly preserved the Jain Agam literature?",
+    "question": "अशोक ने धर्म और शासन के बीच किस प्रकार का संतुलन स्थापित किया? / How did Ashoka balance Dhamma and governance?",
     "options": {
-      "A": "जैन साधु-संत",
-      "B": "राजा और क्षत्रिय",
-      "C": "व्यापारी समुदाय",
-      "D": "बौद्ध साधु"
+      "A": "शासन में नैतिकता और अहिंसा को शामिल किया (Incorporated morality and non-violence in governance)",
+      "B": "सिर्फ सैन्य शक्ति पर निर्भर रहा (Depended solely on military power)",
+      "C": "सामाजिक सुधारों को लागू किया (Implemented social reforms)",
+      "D": "धार्मिक कट्टरता को बढ़ावा दिया (Promoted religious fanaticism)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने शासन में नैतिकता और अहिंसा को शामिल किया और सामाजिक सुधार लागू किए, सैन्य शक्ति मुख्य आधार नहीं बनी।"
   },
   {
     "id": 70,
-    "question": "तत्त्वार्थसूत्र में जैन धर्म के कितने तत्व वर्णित हैं? / How many elements are described in Jainism in Tattvartha Sutra?",
+    "question": "अशोक ने कलिंग युद्ध के बाद कौन सी नीति अपनाई? / What policy did Ashoka adopt after Kalinga war?",
     "options": {
-      "A": "सात तत्व (Seven elements)",
-      "B": "पाँच तत्व (Five elements)",
-      "C": "तीन तत्व (Three elements)",
-      "D": "दस तत्व (Ten elements)"
+      "A": "अहिंसा और धर्म के सिद्धांतों को अपनाया (Adopted principles of non-violence and Dhamma)",
+      "B": "सैन्य विस्तार जारी रखा (Continued military expansion)",
+      "C": "धार्मिक सहिष्णुता बढ़ाई (Enhanced religious tolerance)",
+      "D": "राजनीतिक दबाव और युद्ध बढ़ाए (Increased political pressure and war)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "explanation": "कलिंग युद्ध के बाद अशोक ने अहिंसा, धर्म और धार्मिक सहिष्णुता पर जोर दिया।"
   },
   {
     "id": 71,
-    "question": "प्राकृत भाषा जैन धर्म के लिए क्यों महत्वपूर्ण है? / Why is the Prakrit language important for Jainism?",
+    "question": "अशोक ने बौद्ध संघ को आर्थिक और सामाजिक रूप से कैसे मजबूत किया? / How did Ashoka strengthen the Buddhist Sangha economically and socially?",
     "options": {
-      "A": "यह आगमों की भाषा थी",
-      "B": "जन-जन तक धर्म पहुंचाने में सहायक",
-      "C": "संस्कृत की तुलना में सरल",
-      "D": "बौद्ध ग्रंथों की भाषा"
+      "A": "विहार और स्तूप निर्माण करके (Building monasteries and stupas)",
+      "B": "भिक्षुओं को सहायता देकर (Providing support to monks)",
+      "C": "सैन्य बल के माध्यम से (Through military power)",
+      "D": "राजनीतिक दबाव द्वारा (By political pressure)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने भिक्षुओं को सहायता दी और विहार व स्तूप बनवाकर संघ को मजबूत किया।"
   },
   {
     "id": 72,
-    "question": "चंद्रगुप्त मौर्य की दीक्षा लेने की घटना का काल किस सदी में माना जाता है? / In which century is Chandragupta Maurya's renunciation dated?",
+    "question": "अशोक के धर्म का अंतरराष्ट्रीय प्रभाव किस प्रकार देखा गया? / How was the international impact of Ashoka’s Dhamma observed?",
     "options": {
-      "A": "4ठी शताब्दी ईसा पूर्व",
-      "B": "3री शताब्दी ईसा पूर्व",
-      "C": "5वीं शताब्दी ईस्वी पूर्व",
-      "D": "2री शताब्दी ईसा पूर्व"
+      "A": "हेलीनेस्टीक साम्राज्यों में संदेश भेजकर (Sending messages to Hellenistic kingdoms)",
+      "B": "धर्म प्रचार और सांस्कृतिक आदान-प्रदान (Dhamma propagation and cultural exchange)",
+      "C": "सैन्य आक्रमण करके (Through military conquest)",
+      "D": "व्यापारिक दबाव के माध्यम से (Through trade pressure)"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने हेलीनेस्टीक साम्राज्यों में संदेश भेजकर धर्म प्रचार और सांस्कृतिक आदान-प्रदान किया।"
   },
   {
     "id": 73,
-    "question": "खारवेल के शासनकाल में कौन-से धार्मिक निर्माण हुए? / Which religious constructions were made during Kharavela's reign?",
+    "question": "अशोक के धर्म के माध्यम से सामाजिक सुधार किस क्षेत्र में सबसे अधिक हुए? / In which area were social reforms most influenced by Ashoka’s Dhamma?",
     "options": {
-      "A": "जैन मठ और स्तूप",
-      "B": "बौद्ध विहार",
-      "C": "हिंदू मंदिर",
-      "D": "मौर्य स्तम्भ"
+      "A": "सत्य और नैतिकता (Truth and morality)",
+      "B": "अहिंसा और करुणा (Non-violence and compassion)",
+      "C": "सैन्य नीति (Military policy)",
+      "D": "व्यापारिक नियम (Trade regulations)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक का धर्म मुख्यतः सामाजिक नैतिकता, अहिंसा और करुणा को बढ़ावा देता था।"
   },
   {
     "id": 74,
-    "question": "तत्त्वार्थसूत्र का मुख्य विषय क्या है? / What is the main subject of Tattvartha Sutra?",
+    "question": "अशोक ने हेलीनेस्टीक साम्राज्यों के साथ राजदूत भेजने का मुख्य कारण क्या था? / What was the main reason for sending envoys to Hellenistic kingdoms?",
     "options": {
-      "A": "धर्म और तत्वों का सार",
-      "B": "इतिहास का वर्णन",
-      "C": "काव्य और नाटक",
-      "D": "आध्यात्मिक साधनाएँ"
+      "A": "धर्म प्रचार (Propagation of Dhamma)",
+      "B": "सैन्य आक्रमण (Military invasion)",
+      "C": "सांस्कृतिक और व्यापारिक संपर्क (Cultural and trade contact)",
+      "D": "राजनीतिक दबाव बनाना (Exert political pressure)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने हेलीनेस्टीक साम्राज्यों में धर्म प्रचार और सांस्कृतिक/व्यापारिक संपर्क के लिए राजदूत भेजे।"
   },
   {
     "id": 75,
-    "question": "जैन धर्म के संरक्षण में क्षत्रिय वर्ग की भूमिका क्या थी? / What was the role of Kshatriya class in the preservation of Jainism?",
+    "question": "अशोक के विजय और शांति काल में धर्म का क्या महत्व था? / What was the significance of Dhamma during Ashoka’s conquest and peace period?",
     "options": {
-      "A": "धार्मिक संरक्षक के रूप में",
-      "B": "युद्धों में जैन धर्म की रक्षा",
-      "C": "धार्मिक अनुष्ठानों में भागीदारी",
-      "D": "धार्मिक ग्रंथों का लेखन"
+      "A": "सामाजिक और धार्मिक सद्भाव बढ़ाना (Promote social and religious harmony)",
+      "B": "सैन्य शक्ति बढ़ाना (Enhance military power)",
+      "C": "राजनीतिक दबाव बनाना (Political leverage)",
+      "D": "व्यापार में लाभ (Profit in trade)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"],
+    "explanation": "अशोक के धर्म का मुख्य महत्व समाज में नैतिकता, अहिंसा और धार्मिक सहिष्णुता बढ़ाना था।"
   },
   {
     "id": 76,
-    "question": "जैन आगमों के संरक्षण में व्यापारी समुदाय की क्या भूमिका रही है? / What has been the role of the merchant community in the preservation of Jain Agamas?",
+    "question": "अशोक के धर्म और बौद्ध धर्म के बीच मुख्य समानता क्या थी? / What was the main similarity between Ashoka’s Dhamma and Buddhism?",
     "options": {
-      "A": "धार्मिक स्थलों का निर्माण",
-      "B": "धर्म प्रचार में वित्तीय सहायता",
-      "C": "धार्मिक ग्रंथों का संरक्षण",
-      "D": "साधुओं की शिक्षा"
+      "A": "अहिंसा और करुणा (Non-violence and compassion)",
+      "B": "धार्मिक कट्टरता (Religious fanaticism)",
+      "C": "सत्य और नैतिकता (Truth and morality)",
+      "D": "सैन्य विजय (Military conquest)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक का धर्म बौद्ध धर्म की तरह अहिंसा, करुणा और नैतिकता पर आधारित था।"
   },
   {
     "id": 77,
-    "question": "प्राचीन जैन ग्रंथों के अध्ययन के लिए कौन सी भाषा को प्राथमिकता दी जाती है? / Which language is primarily preferred for studying ancient Jain texts?",
+    "question": "अशोक के अंतर्राष्ट्रीय संदेशों में किन सिद्धांतों को प्रमुखता दी गई? / Which principles were emphasized in Ashoka’s international messages?",
     "options": {
-      "A": "अर्द्धमागधी",
-      "B": "संस्कृत",
-      "C": "प्राकृत",
-      "D": "पालि"
+      "A": "अहिंसा और धर्म (Non-violence and Dhamma)",
+      "B": "सैन्य विजय (Military conquest)",
+      "C": "सांस्कृतिक आदान-प्रदान (Cultural exchange)",
+      "D": "धार्मिक कट्टरता (Religious intolerance)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने अंतर्राष्ट्रीय स्तर पर अहिंसा और धर्म का संदेश फैलाया और सांस्कृतिक आदान-प्रदान को बढ़ावा दिया।"
   },
   {
     "id": 78,
-    "question": "चंद्रगुप्त मौर्य के दीक्षा लेने का प्रमुख धार्मिक प्रभाव क्या था? / What was the major religious impact of Chandragupta Maurya's renunciation?",
+    "question": "अशोक ने मौर्य साम्राज्य के किन हिस्सों में विशेष ध्यान दिया? / Which parts of Maurya Empire did Ashoka focus on particularly?",
     "options": {
-      "A": "जैन धर्म का विस्तार",
-      "B": "बौद्ध धर्म का पतन",
-      "C": "राजनीतिक स्थिरता",
-      "D": "धार्मिक संघर्ष"
+      "A": "पूर्व और पश्चिम (East and West)",
+      "B": "उत्तर और अफगान क्षेत्र (North and Afghan region)",
+      "C": "दक्षिणी भारत (Southern India)",
+      "D": "सागर द्वीप (Maritime islands)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक ने साम्राज्य के पूर्व, पश्चिम, उत्तर और अफगान क्षेत्रों में अधिक ध्यान दिया, दक्षिणी भारत सीमित रूप से शामिल था।"
   },
   {
     "id": 79,
-    "question": "खारवेल की शासन नीति में जैन धर्म का स्थान कैसा था? / How was Jainism placed in Kharavela's governance policy?",
+    "question": "अशोक के धर्म का समाज पर प्रभाव किस रूप में दिखाई दिया? / How was the impact of Ashoka’s Dhamma visible on society?",
     "options": {
-      "A": "धार्मिक संरक्षण और प्रोत्साहन",
-      "B": "धार्मिक स्वतंत्रता",
-      "C": "बौद्ध धर्म का समर्थन",
-      "D": "धार्मिक अनदेखी"
+      "A": "सत्य और नैतिकता (Truth and morality)",
+      "B": "सामाजिक सद्भाव और सहिष्णुता (Social harmony and tolerance)",
+      "C": "सैन्य आक्रमण (Military aggression)",
+      "D": "धार्मिक कट्टरता (Religious fanaticism)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "explanation": "अशोक के धर्म से समाज में नैतिकता, सत्य, सहिष्णुता और सामाजिक सद्भाव बढ़ा।"
   },
   {
     "id": 80,
-    "question": "तत्त्वार्थसूत्र में वर्णित सात तत्वों में कौन-कौन से शामिल हैं? / Which among the seven elements are described in Tattvartha Sutra?",
+    "question": "अशोक ने धर्म और सामाजिक सुधारों के माध्यम से किस प्रकार का शासन स्थापित किया? / What kind of governance did Ashoka establish through Dhamma and social reforms?",
     "options": {
-      "A": "जीव (Soul)",
-      "B": "अजीव (Non-soul)",
-      "C": "धर्म (Medium of motion)",
-      "D": "अधर्म (Medium of rest)",
-      "E": "काल (Time)",
-      "F": "पर्याय (Modes)",
-      "G": "पदार्थ (Matter)"
+      "A": "नैतिक और अहिंसात्मक शासन (Moral and non-violent governance)",
+      "B": "सिर्फ सैन्य शासन (Solely military governance)",
+      "C": "सामाजिक सुधारों पर आधारित शासन (Governance based on social reforms)",
+      "D": "राजनीतिक दबाव और भय पर शासन (Governance by political pressure and fear)"
     },
-    "answer": ["A", "B", "C", "D", "E", "F", "G"]
+    "answer": ["A", "C"],
+    "explanation": "अशोक ने धर्म और सामाजिक सुधारों के माध्यम से नैतिकता, अहिंसा और समाज कल्याण पर आधारित शासन स्थापित किया।"
   },
   {
     "id": 81,
-    "question": "दिलवाड़ा जैन मंदिर किस राज्य में स्थित है? / In which state is the Dilwara Jain Temple located?",
+    "question": "अशोक के बाद मौर्य साम्राज्य में सबसे बड़ी समस्या क्या थी? / What was the major issue in Maurya Empire after Ashoka?",
     "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "गुजरात / Gujarat",
-      "C": "मध्य प्रदेश / Madhya Pradesh",
-      "D": "महाराष्ट्र / Maharashtra"
+      "A": "सत्ता संघर्ष (Succession conflicts)",
+      "B": "सैन्य शक्ति का कमजोर होना (Weakening of military power)",
+      "C": "व्यापार और आर्थिक संकट (Trade and economic decline)",
+      "D": "धार्मिक असंतोष (Religious unrest)"
     },
-    "answer": ["B"],
-    "explanation": "दिलवाड़ा जैन मंदिर गुजरात राज्य में अरावली पर्वत श्रृंखला पर स्थित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "अशोक के बाद मौर्य साम्राज्य में उत्तराधिकारियों के बीच सत्ता संघर्ष, सैन्य शक्ति कमजोर होना और आर्थिक संकट प्रमुख समस्याएँ थीं।"
   },
   {
     "id": 82,
-    "question": "रणकपुर जैन मंदिर किस नदी के पास स्थित है? / Near which river is the Ranakpur Jain Temple located?",
+    "question": "अशोक के बाद मौर्य साम्राज्य के पतन में किन कारणों ने योगदान दिया? / Which factors contributed to the decline of Maurya Empire after Ashoka?",
     "options": {
-      "A": "बनास नदी / Banas River",
-      "B": "चम्बल नदी / Chambal River",
-      "C": "गोदावरी नदी / Godavari River",
-      "D": "साबरमती नदी / Sabarmati River"
+      "A": "अंतर-राजनीतिक संघर्ष (Internal political conflicts)",
+      "B": "सैन्य और प्रशासनिक कमजोरी (Military and administrative weakness)",
+      "C": "भ्रष्टाचार और कर प्रणाली का विफल होना (Corruption and failure of taxation)",
+      "D": "धार्मिक कट्टरता (Religious fanaticism)"
     },
-    "answer": ["A"],
-    "explanation": "रणकपुर जैन मंदिर राजस्थान में बनास नदी के किनारे स्थित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "अशोक के बाद साम्राज्य के पतन में आंतरिक संघर्ष, सैन्य व प्रशासनिक कमजोरी और भ्रष्टाचार मुख्य कारण थे।"
   },
   {
     "id": 83,
-    "question": "पालीताना जैन मंदिर किस राज्य में है? / In which state is the Palitana Jain Temple situated?",
+    "question": "अशोक के उत्तराधिकारी किस प्रकार के शासक थे? / What type of rulers were Ashoka’s successors?",
     "options": {
-      "A": "गुजरात / Gujarat",
-      "B": "राजस्थान / Rajasthan",
-      "C": "हरियाणा / Haryana",
-      "D": "महाराष्ट्र / Maharashtra"
+      "A": "कमजोर और अस्थिर (Weak and unstable)",
+      "B": "सक्षम और प्रभावी (Capable and efficient)",
+      "C": "सिर्फ धार्मिक नेता (Religious leaders only)",
+      "D": "सैन्य आक्रमक (Military aggressive)"
     },
     "answer": ["A"],
-    "explanation": "पालीताना जैन मंदिर गुजरात राज्य में स्थित है और जैन धर्म का महत्वपूर्ण तीर्थ स्थल है।"
+    "explanation": "अशोक के उत्तराधिकारी कमजोर और अस्थिर थे, जिससे साम्राज्य में पतन की प्रक्रिया तेज हुई।"
   },
   {
     "id": 84,
-    "question": "उदयगिरि-खंडगिरि जैन गुफाएँ किस शहर के पास स्थित हैं? / Near which city are the Udayagiri-Khandagiri Jain caves located?",
+    "question": "अशोक के शासन के बाद साम्राज्य में किन क्षेत्रों में नियंत्रण कम हुआ? / In which areas did control weaken after Ashoka’s reign?",
     "options": {
-      "A": "भुवनेश्वर / Bhubaneswar",
-      "B": "उज्जैन / Ujjain",
-      "C": "पाटन / Patan",
-      "D": "अजमेर / Ajmer"
+      "A": "सुदूर प्रांत (Distant provinces)",
+      "B": "राजधानियाँ (Capital regions)",
+      "C": "सैन्य चौकियाँ (Military outposts)",
+      "D": "धार्मिक केंद्र (Religious centers)"
     },
-    "answer": ["A"],
-    "explanation": "उदयगिरि-खंडगिरि जैन गुफाएँ भुवनेश्वर, ओडिशा के पास स्थित हैं।"
+    "answer": ["A", "C"],
+    "explanation": "अशोक के बाद सुदूर प्रांतों और सैन्य चौकियों में नियंत्रण कमजोर हुआ, जिससे साम्राज्य का प्रभाव कम हुआ।"
   },
   {
     "id": 85,
-    "question": "एलोरा की जैन गुफाएँ किस राज्य में हैं? / In which state are the Jain caves of Ellora located?",
+    "question": "अशोक के बाद मौर्य साम्राज्य कमजोर होने का मुख्य कारण क्या था? / What was the main reason for weakening of Maurya Empire after Ashoka?",
     "options": {
-      "A": "महाराष्ट्र / Maharashtra",
-      "B": "मध्य प्रदेश / Madhya Pradesh",
-      "C": "राजस्थान / Rajasthan",
-      "D": "कर्नाटक / Karnataka"
+      "A": "उत्तराधिकारियों के बीच संघर्ष (Conflict among successors)",
+      "B": "सैन्य विस्तार जारी रखना (Continued military expansion)",
+      "C": "प्रशासनिक ढाँचे में कमजोरी (Weak administrative structure)",
+      "D": "धार्मिक विवाद (Religious disputes)"
     },
-    "answer": ["A"],
-    "explanation": "एलोरा की जैन गुफाएँ महाराष्ट्र राज्य में हैं।"
+    "answer": ["A", "C"],
+    "explanation": "मुख्य कारण उत्तराधिकारियों के बीच संघर्ष और प्रशासनिक ढाँचे की कमजोरी थे।"
   },
   {
     "id": 86,
-    "question": "गोम्मटेश्वर (श्रवणबेलगोला) कौन सी नदी के किनारे स्थित है? / Gomateshwara (Shravanabelagola) is situated near which river?",
+    "question": "अशोक के बाद मौर्य साम्राज्य की आर्थिक स्थिति कैसी रही? / What was the economic condition of Maurya Empire after Ashoka?",
     "options": {
-      "A": "कृष्णा नदी / Krishna River",
-      "B": "तुंगभद्रा नदी / Tungabhadra River",
-      "C": "कावेरी नदी / Cauvery River",
-      "D": "मलप्पुरम नदी / Malapurram River"
+      "A": "मजबूत और स्थिर (Strong and stable)",
+      "B": "कमजोर और गिरती हुई (Weak and declining)",
+      "C": "व्यापार में वृद्धि (Growth in trade)",
+      "D": "संपत्ति वितरण में सुधार (Improvement in wealth distribution)"
     },
     "answer": ["B"],
-    "explanation": "गोम्मटेश्वर प्रतिमा कर्नाटक में तुंगभद्रा नदी के किनारे श्रवणबेलगोला में स्थित है।"
+    "explanation": "अशोक के बाद आर्थिक स्थिति कमजोर और गिरती हुई रही, जिससे साम्राज्य के पतन की प्रक्रिया तेज हुई।"
   },
   {
     "id": 87,
-    "question": "दिलवाड़ा जैन मंदिर किस पर्वत श्रृंखला पर स्थित है? / Dilwara Jain Temple is located on which mountain range?",
+    "question": "अशोक के बाद मौर्य साम्राज्य के पतन में प्रशासनिक कमजोरी का क्या योगदान था? / What was the role of administrative weakness in Maurya Empire’s decline after Ashoka?",
     "options": {
-      "A": "अरावली पर्वत / Aravalli Range",
-      "B": "विदर्भ पर्वत / Vidarbha Hills",
-      "C": "विंध्य पर्वत / Vindhya Range",
-      "D": "निलगिरी पर्वत / Nilgiri Hills"
+      "A": "सुदूर प्रांतों में नियंत्रण खोना (Loss of control in distant provinces)",
+      "B": "कर प्रणाली की विफलता (Failure of taxation system)",
+      "C": "सामाजिक सुधारों को लागू करना (Implement social reforms)",
+      "D": "धार्मिक सहिष्णुता बढ़ाना (Increase religious tolerance)"
     },
-    "answer": ["A"],
-    "explanation": "दिलवाड़ा मंदिर अरावली पर्वत श्रृंखला पर स्थित है।"
+    "answer": ["A", "B"],
+    "explanation": "प्रशासनिक कमजोरी के कारण सुदूर प्रांतों में नियंत्रण खो गया और कर प्रणाली विफल हो गई।"
   },
   {
     "id": 88,
-    "question": "रणकपुर मंदिर का निर्माण किस शासक के शासनकाल में हुआ था? / During whose reign was the Ranakpur Temple built?",
+    "question": "अशोक के बाद मौर्य साम्राज्य में कौन से उत्तराधिकारी सबसे कमजोर माने जाते हैं? / Which successors of Ashoka are considered weakest?",
     "options": {
-      "A": "महाराणा प्रताप / Maharana Pratap",
-      "B": "महाराणा कुंभा / Maharana Kumbha",
-      "C": "अकबर / Akbar",
-      "D": "चंद्रगुप्त मौर्य / Chandragupta Maurya"
+      "A": "संभवतः सम्राट सहश्रुवन (Likely Emperor Samprati)",
+      "B": "धर्मशासनिक शासक (Religious administrative rulers)",
+      "C": "अल्पकालिक और अस्थिर शासक (Short-lived and unstable rulers)",
+      "D": "सैन्य बल द्वारा सशक्त शासक (Military strong rulers)"
     },
-    "answer": ["B"],
-    "explanation": "रणकपुर मंदिर का निर्माण 15वीं सदी में महाराणा कुंभा के शासनकाल में हुआ था।"
+    "answer": ["C"],
+    "explanation": "अशोक के बाद कई उत्तराधिकारी अल्पकालिक और अस्थिर थे, जिससे साम्राज्य कमजोर हुआ।"
   },
   {
     "id": 89,
-    "question": "पालीताना जैन तीर्थ किस नदी के पास स्थित है? / Palitana Jain pilgrimage is near which river?",
+    "question": "अशोक के बाद मौर्य साम्राज्य के पतन में किस प्रकार की सामाजिक अस्थिरता आई? / What type of social instability occurred after Ashoka?",
     "options": {
-      "A": "साबरमती नदी / Sabarmati River",
-      "B": "तपती नदी / Tapi River",
-      "C": "गंगा नदी / Ganges River",
-      "D": "गोदावरी नदी / Godavari River"
+      "A": "किसानों और ग्रामीणों में असंतोष (Discontent among peasants and villagers)",
+      "B": "धार्मिक मतभेद (Religious differences)",
+      "C": "सैन्य विद्रोह (Military rebellion)",
+      "D": "विदेशी आक्रमण (Foreign invasion)"
     },
-    "answer": ["A"],
-    "explanation": "पालीताना जैन तीर्थ साबरमती नदी के पास गुजरात में स्थित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्तराधिकारियों की कमजोरी और प्रशासनिक ढाँचे में कमी से किसानों और सैनिकों में असंतोष और धार्मिक मतभेद बढ़े।"
   },
   {
     "id": 90,
-    "question": "उदयगिरि-खंडगिरि गुफाओं का निर्माण किस काल में हुआ था? / When were the Udayagiri-Khandagiri caves built?",
+    "question": "अशोक के बाद मौर्य साम्राज्य के पतन में मुख्य राजनीतिक कारण क्या था? / What was the main political reason for Maurya Empire’s decline after Ashoka?",
     "options": {
-      "A": "मौर्य काल / Maurya Period",
-      "B": "गुप्त काल / Gupta Period",
-      "C": "मध्यकालीन काल / Medieval Period",
-      "D": "मुगल काल / Mughal Period"
+      "A": "उत्तराधिकार संघर्ष (Succession disputes)",
+      "B": "सैन्य विस्तार की नीति (Policy of military expansion)",
+      "C": "साम्राज्य के भीतर अस्थिरता (Instability within empire)",
+      "D": "धार्मिक कट्टरता (Religious fanaticism)"
     },
-    "answer": ["A"],
-    "explanation": "उदयगिरि-खंडगिरि गुफाओं का निर्माण मौर्य काल में हुआ था।"
+    "answer": ["A", "C"],
+    "explanation": "मुख्य राजनीतिक कारण उत्तराधिकार संघर्ष और साम्राज्य के भीतर अस्थिरता थे।"
   },
   {
     "id": 91,
-    "question": "एलोरा गुफाएँ किस धर्म के लिए प्रसिद्ध हैं? / Ellora Caves are famous for which religion?",
+    "question": "मौर्य प्रशासन का केंद्रीय निकाय कौन सा था? / What was the central body of Mauryan administration?",
     "options": {
-      "A": "हिंदू, बौद्ध और जैन / Hindu, Buddhist, and Jain",
-      "B": "इस्लाम / Islam",
-      "C": "सिख / Sikh",
-      "D": "क्रिश्चियनिटी / Christianity"
+      "A": "मंत्रिपरिषद (Council of Ministers)",
+      "B": "धर्मशासन (Religious Court)",
+      "C": "राज्य सचिवालय (State Secretariat)",
+      "D": "सैनिक परिषद (Military Council)"
     },
-    "answer": ["A"],
-    "explanation": "एलोरा गुफाएँ हिंदू, बौद्ध और जैन तीनों धर्मों की गुफाओं के लिए प्रसिद्ध हैं।"
+    "answer": ["A", "C"],
+    "explanation": "मौर्य प्रशासन में केंद्रीय निकाय मंत्रिपरिषद और राज्य सचिवालय शामिल थे, जो नीति निर्माण और प्रशासनिक निर्णयों के लिए जिम्मेदार थे।"
   },
   {
     "id": 92,
-    "question": "गोम्मटेश्वर की विशाल मूर्ति किस राज्य में स्थित है? / The huge statue of Gomateshwara is located in which state?",
+    "question": "मौर्य साम्राज्य में प्रांतों का प्रशासन किस प्रकार किया जाता था? / How were provinces administered in Mauryan Empire?",
     "options": {
-      "A": "कर्नाटक / Karnataka",
-      "B": "तमिलनाडु / Tamil Nadu",
-      "C": "तेलंगाना / Telangana",
-      "D": "आंध्र प्रदेश / Andhra Pradesh"
+      "A": "महाराजाओं के अधीन स्थानीय राज्यपाल (Governors under emperor)",
+      "B": "स्वतंत्र शासक (Independent rulers)",
+      "C": "सैन्य और नागरिक प्रशासन अलग (Separate military and civil administration)",
+      "D": "धार्मिक नेताओं द्वारा प्रशासन (Administered by religious leaders)"
     },
-    "answer": ["A"],
-    "explanation": "गोम्मटेश्वर की मूर्ति कर्नाटक के श्रवणबेलगोला में स्थित है।"
+    "answer": ["A", "C"],
+    "explanation": "मौर्य साम्राज्य में प्रांतों का प्रशासन शासक द्वारा नियुक्त राज्यपाल और अलग सैन्य-नागरिक प्रशासन के माध्यम से किया जाता था।"
   },
   {
     "id": 93,
-    "question": "दिलवाड़ा मंदिर किस शिल्प शैली के लिए प्रसिद्ध है? / Dilwara Temple is famous for which style of craftsmanship?",
+    "question": "केंद्र और प्रांत के बीच सूचना और कर संग्रह का माध्यम क्या था? / What was the medium of communication and tax collection between center and provinces?",
     "options": {
-      "A": "मार्बल नक्काशी / Marble Carving",
-      "B": "काष्ठकला / Woodwork",
-      "C": "लोहे की कारीगरी / Ironwork",
-      "D": "पत्थर की मूर्तिकला / Stone Sculpture"
+      "A": "राजमार्ग और सड़क नेटवर्क (Royal roads and road network)",
+      "B": "सैनिक संदेशवाहक (Military couriers)",
+      "C": "स्थानीय ग्राम सभा (Local village council)",
+      "D": "सांस्कृतिक कार्यक्रम (Cultural events)"
     },
-    "answer": ["A"],
-    "explanation": "दिलवाड़ा मंदिर अपनी सुंदर मार्बल नक्काशी के लिए प्रसिद्ध है।"
+    "answer": ["A", "B"],
+    "explanation": "केंद्र और प्रांतों के बीच सूचना और कर संग्रह के लिए राजमार्ग और सैनिक संदेशवाहक महत्वपूर्ण माध्यम थे।"
   },
   {
     "id": 94,
-    "question": "रणकपुर जैन मंदिर का मुख्य देवता कौन है? / Who is the main deity of Ranakpur Jain Temple?",
+    "question": "मौर्य साम्राज्य में कर प्रणाली कैसे काम करती थी? / How did taxation work in Maurya Empire?",
     "options": {
-      "A": "महावीर स्वामी / Mahavira",
-      "B": "अरहंत पद्मनाथ / Arhat Padmanatha",
-      "C": "गोम्मटेश्वर / Gomateshwara",
-      "D": "भगवान पार्श्वनाथ / Lord Parshvanatha"
+      "A": "कृषि उपज और आय पर कर (Tax on agricultural produce and income)",
+      "B": "व्यापार और व्यापारिक वस्तुओं पर कर (Tax on trade and commercial goods)",
+      "C": "सैन्य सेवा पर कर (Tax on military service)",
+      "D": "धार्मिक दान पर कर (Tax on religious offerings)"
     },
-    "answer": ["B"],
-    "explanation": "रणकपुर जैन मंदिर अरहंत पद्मनाथ को समर्पित है।"
+    "answer": ["A", "B"],
+    "explanation": "मौर्य कर प्रणाली में मुख्य रूप से कृषि उपज और व्यापार पर कर लगाया जाता था।"
   },
   {
     "id": 95,
-    "question": "पालीताना जैन मंदिर समूह किस पर्वत पर स्थित है? / On which hill are the Palitana Jain temples located?",
+    "question": "कौन मौर्य साम्राज्य में न्याय और कानून का प्रमुख अधिकारी था? / Who was the chief officer of justice and law in Mauryan Empire?",
     "options": {
-      "A": "शतगिरि पर्वत / Shatrunjaya Hills",
-      "B": "अरावली पर्वत / Aravalli Range",
-      "C": "सतपुड़ा पर्वत / Satpura Range",
-      "D": "निलगिरी पर्वत / Nilgiri Hills"
+      "A": "धर्मराज (Dharmaraja)",
+      "B": "राज्य सचिव (State Secretary)",
+      "C": "सैनिक कमांडर (Military Commander)",
+      "D": "ग्राम प्रधान (Village Head)"
     },
     "answer": ["A"],
-    "explanation": "पालीताना मंदिर समूह शतगिरि पर्वत पर स्थित है।"
+    "explanation": "धर्मराज मौर्य साम्राज्य में न्याय और कानून का प्रमुख अधिकारी था।"
   },
   {
     "id": 96,
-    "question": "उदयगिरि-खंडगिरि गुफाएँ किस प्रकार की स्थापत्य शैली की उत्कृष्ट उदाहरण हैं? / Udayagiri-Khandagiri caves are excellent examples of which architectural style?",
+    "question": "मौर्य साम्राज्य में सैन्य संगठन किस प्रकार था? / How was the military organization in Mauryan Empire?",
     "options": {
-      "A": "मौर्यकालीन गुफा वास्तुकला / Mauryan cave architecture",
-      "B": "गुप्तकालीन मंदिर शैली / Gupta temple style",
-      "C": "मध्यकालीन स्थापत्य / Medieval architecture",
-      "D": "हड़प्पा शैली / Harappan style"
+      "A": "केंद्रीय और प्रांतीय कमान (Central and provincial command)",
+      "B": "स्थानीय और ग्राम स्तर पर सैनिक (Local village militias)",
+      "C": "विशेष प्रशिक्षित अंगरक्षक (Special trained guards)",
+      "D": "धार्मिक नेताओं द्वारा नेतृत्व (Led by religious leaders)"
     },
-    "answer": ["A"],
-    "explanation": "उदयगिरि-खंडगिरि गुफाएँ मौर्यकालीन गुफा वास्तुकला की उत्कृष्ट उदाहरण हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मौर्य सैन्य संगठन में केंद्रीय और प्रांतीय कमान, स्थानीय सैनिक और विशेष प्रशिक्षित अंगरक्षक शामिल थे।"
   },
   {
     "id": 97,
-    "question": "एलोरा जैन गुफाएँ किस कालखंड की हैं? / Ellora Jain caves belong to which period?",
+    "question": "अशोक की शिलालेख और स्तंभों का उद्देश्य क्या था? / What was the purpose of Ashoka’s edicts and pillars?",
     "options": {
-      "A": "7वीं से 9वीं सदी / 7th to 9th century",
-      "B": "10वीं से 12वीं सदी / 10th to 12th century",
-      "C": "4वीं से 6वीं सदी / 4th to 6th century",
-      "D": "13वीं से 15वीं सदी / 13th to 15th century"
+      "A": "धर्म और अहिंसा का संदेश (Message of Dhamma and non-violence)",
+      "B": "राजनीतिक और सैन्य आदेश (Political and military orders)",
+      "C": "सामाजिक सुधारों की घोषणा (Announcement of social reforms)",
+      "D": "कला और स्थापत्य कौशल का प्रदर्शन (Display of art and architecture)"
     },
-    "answer": ["A"],
-    "explanation": "एलोरा की जैन गुफाएँ मुख्य रूप से 7वीं से 9वीं सदी के बीच बनीं।"
+    "answer": ["A", "C", "D"],
+    "explanation": "अशोक की शिलालेख और स्तंभों के माध्यम से धर्म का संदेश, सामाजिक सुधारों की जानकारी और स्थापत्य कला का प्रदर्शन किया गया।"
   },
   {
     "id": 98,
-    "question": "गोम्मटेश्वर की मूर्ति की ऊंचाई लगभग कितनी है? / What is the approximate height of Gomateshwara statue?",
+    "question": "मौर्य कला के प्रमुख उदाहरण कौन से हैं? / What are major examples of Mauryan art?",
     "options": {
-      "A": "17 मीटर / 17 meters",
-      "B": "25 मीटर / 25 meters",
-      "C": "10 मीटर / 10 meters",
-      "D": "30 मीटर / 30 meters"
+      "A": "अशोक के स्तंभ और शिलालेख (Ashokan pillars and edicts)",
+      "B": "सांची स्तूप (Sanchi Stupa)",
+      "C": "अजंता गुफाएं (Ajanta Caves)",
+      "D": "महाबलीपुरम शिल्प (Mahabalipuram sculptures)"
     },
-    "answer": ["A"],
-    "explanation": "गोम्मटेश्वर की मूर्ति लगभग 17 मीटर ऊँची है।"
+    "answer": ["A", "B"],
+    "explanation": "मौर्य कला में अशोक के स्तंभ, शिलालेख और सांची स्तूप प्रमुख उदाहरण हैं।"
   },
   {
     "id": 99,
-    "question": "दिलवाड़ा मंदिर की निर्माण सामग्री मुख्यतः क्या है? / What is the main construction material of Dilwara Temple?",
+    "question": "मौर्य स्तंभों की पहचान किस लिए की जाती है? / What are Mauryan pillars identified for?",
     "options": {
-      "A": "सफेद संगमरमर / White Marble",
-      "B": "रेतीला पत्थर / Sandstone",
-      "C": "ग्रेनाइट / Granite",
-      "D": "लकड़ी / Wood"
+      "A": "स्मारकीय और धार्मिक संदेश (Commemorative and religious messages)",
+      "B": "सैन्य विजय का प्रदर्शन (Display of military victories)",
+      "C": "कला और स्थापत्य कौशल (Art and architectural skill)",
+      "D": "व्यापारिक गतिविधियाँ (Trade activities)"
     },
-    "answer": ["A"],
-    "explanation": "दिलवाड़ा मंदिर मुख्यतः सफेद संगमरमर से बना है।"
+    "answer": ["A", "C"],
+    "explanation": "मौर्य स्तंभ स्मारकीय और धार्मिक संदेश देने तथा स्थापत्य कला का प्रदर्शन करने के लिए प्रसिद्ध हैं।"
   },
   {
     "id": 100,
-    "question": "रणकपुर मंदिर की स्थापत्य शैली किस प्रकार की है? / What is the architectural style of Ranakpur Temple?",
+    "question": "सांची स्तूप का निर्माण किस उद्देश्य से हुआ था? / For what purpose was Sanchi Stupa built?",
     "options": {
-      "A": "राजस्थानी शिल्प कला / Rajasthani Craftsmanship",
-      "B": "मुगल स्थापत्य / Mughal Architecture",
-      "C": "दक्षिण भारतीय मंदिर शैली / South Indian Temple Style",
-      "D": "मौर्यकालीन स्थापत्य / Mauryan Architecture"
+      "A": "बौद्ध धर्म के प्रचार के लिए (Propagation of Buddhism)",
+      "B": "राजनीतिक नियंत्रण के लिए (Political control)",
+      "C": "धार्मिक अनुष्ठान और तीर्थ स्थल के लिए (Religious rituals and pilgrimage site)",
+      "D": "सैन्य शिविर के रूप में (As military camp)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "सांची स्तूप बौद्ध धर्म के प्रचार और धार्मिक अनुष्ठान, तीर्थ स्थल के लिए बनाया गया।"
+  },
+  {
+    "id": 101,
+    "question": "मौर्य कला में शिल्प का मुख्य विषय क्या था? / What was the main theme in Mauryan sculpture?",
+    "options": {
+      "A": "धार्मिक और नैतिक संदेश (Religious and moral messages)",
+      "B": "सैन्य युद्ध दृश्य (Military battle scenes)",
+      "C": "सामाजिक जीवन का चित्रण (Depiction of social life)",
+      "D": "प्राकृतिक दृश्य (Natural scenery)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मौर्य शिल्प में मुख्य रूप से धार्मिक, नैतिक संदेश और सामाजिक जीवन को चित्रित किया गया।"
+  },
+  {
+    "id": 102,
+    "question": "मौर्य प्रशासन में 'अमात्य' का कार्य क्या था? / What was the role of 'Amatya' in Mauryan administration?",
+    "options": {
+      "A": "राज्य के वित्त और कर प्रणाली का प्रबंधन (Managing state finance and taxation)",
+      "B": "सैन्य संचालन (Military operations)",
+      "C": "धार्मिक मामलों की देखरेख (Supervision of religious matters)",
+      "D": "ग्राम स्तर पर न्याय देना (Administer justice at village level)"
     },
     "answer": ["A"],
-    "explanation": "रणकपुर मंदिर राजस्थानी शिल्प कला के उत्कृष्ट उदाहरणों में से एक है।"
+    "explanation": "अमात्य मौर्य प्रशासन में वित्त और कर प्रणाली का प्रमुख प्रबंधक था।"
+  },
+  {
+    "id": 103,
+    "question": "मौर्य साम्राज्य में 'महामंत्री' का क्या कार्य था? / What was the function of 'Mahamatra' in Mauryan Empire?",
+    "options": {
+      "A": "धर्म और सामाजिक सुधारों की निगरानी (Monitoring Dhamma and social reforms)",
+      "B": "सैन्य अभियान का नेतृत्व (Leading military campaigns)",
+      "C": "व्यापार नियंत्रण (Trade control)",
+      "D": "स्थानीय प्रशासन का संचालन (Managing local administration)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "महामंत्री धर्म और सामाजिक सुधारों की निगरानी करता था और स्थानीय प्रशासन की देखरेख भी करता था।"
+  },
+  {
+    "id": 104,
+    "question": "मौर्य कला में अशोक के शेर स्तंभ का महत्व क्या था? / What is the significance of Ashoka’s Lion Capital?",
+    "options": {
+      "A": "राष्ट्रीय प्रतीक (National emblem)",
+      "B": "धार्मिक संदेश (Religious message)",
+      "C": "सैन्य विजय का प्रतीक (Symbol of military victory)",
+      "D": "वाणिज्यिक संकेत (Trade sign)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अशोक का शेर स्तंभ राष्ट्रीय प्रतीक और धार्मिक संदेश दोनों के लिए महत्वपूर्ण है।"
+  },
+  {
+    "id": 105,
+    "question": "मौर्य साम्राज्य में 'राजसूय' का क्या कार्य था? / What was the function of 'Rajasuya' in Mauryan Empire?",
+    "options": {
+      "A": "राजा की सत्ता की पुष्टि (Confirmation of king’s authority)",
+      "B": "धार्मिक अनुष्ठान (Religious ritual)",
+      "C": "सैन्य प्रशिक्षण (Military training)",
+      "D": "व्यापार अनुशासन (Trade regulation)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राजसूय समारोह राजा की सत्ता की पुष्टि और धार्मिक अनुष्ठान दोनों के लिए आयोजित किया जाता था।"
+  },
+  {
+    "id": 106,
+    "question": "मौर्य प्रशासन में 'सम्राट सचिवालय' का मुख्य कार्य क्या था? / What was the main function of ‘Imperial Secretariat’ in Mauryan administration?",
+    "options": {
+      "A": "राजनीतिक निर्णयों का प्रबंधन (Managing political decisions)",
+      "B": "सैन्य नेतृत्व (Military leadership)",
+      "C": "धार्मिक अनुष्ठान (Religious rituals)",
+      "D": "स्थानीय व्यापार नियंत्रण (Local trade control)"
+    },
+    "answer": ["A"],
+    "explanation": "सम्राट सचिवालय राज्य के राजनीतिक निर्णयों और प्रशासनिक कार्यों का प्रबंधन करता था।"
+  },
+  {
+    "id": 107,
+    "question": "मौर्य कला में स्तंभों और शिलालेखों के निर्माण में कौन सी तकनीक प्रमुख थी? / Which technique was prominent in Mauryan pillars and edicts?",
+    "options": {
+      "A": "स्थल खुदाई और पत्थर नक्काशी (Stone carving and polishing)",
+      "B": "लोहे का ढालना (Iron casting)",
+      "C": "कागज पर चित्रण (Painting on paper)",
+      "D": "मिट्टी का पोटरी (Clay pottery)"
+    },
+    "answer": ["A"],
+    "explanation": "मौर्य स्तंभ और शिलालेख उच्च गुणवत्ता की पत्थर नक्काशी और चिकनाई तकनीक के लिए प्रसिद्ध थे।"
+  },
+  {
+    "id": 108,
+    "question": "अशोक की राजधानी पाटलिपुत्र में प्रशासनिक केंद्र कौन सा था? / What was the administrative center in Ashoka’s capital Pataliputra?",
+    "options": {
+      "A": "सम्राट का महल और सचिवालय (King’s palace and secretariat)",
+      "B": "स्थानीय ग्राम पंचायत (Local village council)",
+      "C": "सैनिक छावनी (Military cantonment)",
+      "D": "धार्मिक केंद्र (Religious center)"
+    },
+    "answer": ["A"],
+    "explanation": "पाटलिपुत्र में प्रशासनिक केंद्र राजा का महल और सचिवालय था।"
+  },
+  {
+    "id": 109,
+    "question": "मौर्य साम्राज्य में ‘अमात्य मंडल’ का कार्य क्या था? / What was the function of 'Amatya Mandal' in Mauryan Empire?",
+    "options": {
+      "A": "वित्तीय और प्रशासनिक मामलों का निर्णय (Decision on financial and administrative matters)",
+      "B": "सैन्य अभियान का नेतृत्व (Military campaign leadership)",
+      "C": "धार्मिक अनुष्ठान (Religious ceremonies)",
+      "D": "सामाजिक सुधार कार्य (Social reforms)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "अमात्य मंडल वित्तीय, प्रशासनिक और सामाजिक सुधार कार्यों के लिए जिम्मेदार था।"
+  },
+  {
+    "id": 110,
+    "question": "मौर्य कला में बौद्ध स्तूपों का मुख्य उद्देश्य क्या था? / What was the main purpose of Buddhist stupas in Mauryan art?",
+    "options": {
+      "A": "धार्मिक ध्यान और तीर्थ स्थल (Religious meditation and pilgrimage)",
+      "B": "सैन्य शक्ति का प्रदर्शन (Demonstration of military power)",
+      "C": "सामाजिक मनोरंजन (Social entertainment)",
+      "D": "व्यापारिक गतिविधियाँ (Trade activities)"
+    },
+    "answer": ["A"],
+    "explanation": "बौद्ध स्तूपों का मुख्य उद्देश्य धार्मिक ध्यान और तीर्थ स्थल के रूप में सेवा करना था।"
+  },
+  {
+    "id": 111,
+    "question": "मौर्य कला में अशोक स्तंभों पर शेर प्रतीक का क्या महत्व था? / What is the significance of the lion symbol on Ashokan pillars?",
+    "options": {
+      "A": "राजकीय शक्ति और साहस का प्रतीक (Symbol of royal power and courage)",
+      "B": "धार्मिक अहिंसा का संदेश (Message of religious non-violence)",
+      "C": "सैन्य विजय का संकेत (Sign of military victory)",
+      "D": "व्यापारिक शक्ति का प्रतीक (Symbol of trade strength)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अशोक स्तंभों पर शेर प्रतीक राजकीय शक्ति, साहस और धार्मिक अहिंसा का संदेश देता है।"
+  },
+  {
+    "id": 112,
+    "question": "मौर्य प्रशासन में 'धर्ममंत्री' का क्या कार्य था? / What was the function of 'Dharmamitra' in Mauryan administration?",
+    "options": {
+      "A": "धार्मिक मामलों और न्याय का पर्यवेक्षण (Supervision of religious affairs and justice)",
+      "B": "सैन्य संचालन का नेतृत्व (Leading military operations)",
+      "C": "कर और वित्त का प्रबंधन (Management of taxes and finance)",
+      "D": "व्यापार नियंत्रण (Trade regulation)"
+    },
+    "answer": ["A"],
+    "explanation": "धर्ममंत्री धार्मिक मामलों और न्याय के पर्यवेक्षण के लिए नियुक्त था।"
+  },
+  {
+    "id": 113,
+    "question": "मौर्य कला में अशोक के स्तंभों की प्रमुख विशेषता क्या थी? / What was the main feature of Ashokan pillars in Mauryan art?",
+    "options": {
+      "A": "उच्च गुणवत्ता की पत्थर नक्काशी (High-quality stone carving)",
+      "B": "धातु मिश्रण का उपयोग (Use of metal alloy)",
+      "C": "सिरेमिक कला का प्रयोग (Use of ceramic art)",
+      "D": "चित्रकला पर केंद्रित (Focused on painting)"
+    },
+    "answer": ["A"],
+    "explanation": "अशोक के स्तंभ उच्च गुणवत्ता की पत्थर नक्काशी और उत्कृष्ट चिकनाई के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 114,
+    "question": "मौर्य प्रशासन में 'ग्राम अधिकारी' का मुख्य कार्य क्या था? / What was the main function of village officers in Mauryan administration?",
+    "options": {
+      "A": "स्थानीय कर संग्रह और न्याय व्यवस्था (Local tax collection and administration of justice)",
+      "B": "सैन्य प्रशिक्षण (Military training)",
+      "C": "धार्मिक अनुष्ठान का संचालन (Conducting religious rituals)",
+      "D": "व्यापारिक गतिविधियों का प्रबंधन (Managing trade activities)"
+    },
+    "answer": ["A"],
+    "explanation": "ग्राम अधिकारी स्थानीय कर संग्रह और न्याय व्यवस्था सुनिश्चित करते थे।"
+  },
+  {
+    "id": 115,
+    "question": "मौर्य कला में स्तूपों और शिलालेखों में मुख्य विषय कौन से थे? / What were the main themes in Mauryan stupas and inscriptions?",
+    "options": {
+      "A": "धार्मिक शिक्षा और अहिंसा (Religious teachings and non-violence)",
+      "B": "सामाजिक और राजनीतिक संदेश (Social and political messages)",
+      "C": "व्यापार और आर्थिक गतिविधियाँ (Trade and economic activities)",
+      "D": "सैन्य विजय और युद्ध (Military victory and war)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मौर्य स्तूप और शिलालेख धार्मिक शिक्षा, अहिंसा और सामाजिक-सांस्कृतिक संदेश देने के लिए बनाए गए थे।"
+  },
+  {
+    "id": 116,
+    "question": "मौर्य प्रशासन में 'सैनिक कमांडर' का मुख्य कार्य क्या था? / What was the main role of military commander in Mauryan administration?",
+    "options": {
+      "A": "सैन्य बल की योजना और नेतृत्व (Planning and leading military forces)",
+      "B": "स्थानीय प्रशासन का संचालन (Managing local administration)",
+      "C": "धार्मिक अनुष्ठान का संचालन (Conducting religious rituals)",
+      "D": "राज्य वित्त का प्रबंधन (Managing state finance)"
+    },
+    "answer": ["A"],
+    "explanation": "सैनिक कमांडर मौर्य साम्राज्य में सैन्य बल की योजना और संचालन का उत्तरदायी था।"
+  },
+  {
+    "id": 117,
+    "question": "मौर्य कला में स्तंभों और शिलालेखों की शैली किसके प्रभाव में थी? / The style of Mauryan pillars and inscriptions was influenced by?",
+    "options": {
+      "A": "स्थानीय भारतीय कलात्मक परंपरा (Local Indian artistic tradition)",
+      "B": "हेल्लेनिस्टिक कला (Hellenistic art)",
+      "C": "मुगल स्थापत्य (Mughal architecture)",
+      "D": "चिनियाँ कला (Chinese art)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मौर्य स्तंभों और शिलालेखों में स्थानीय भारतीय परंपरा और हेल्लेनिस्टिक कला के प्रभाव स्पष्ट हैं।"
+  },
+  {
+    "id": 118,
+    "question": "मौर्य साम्राज्य में 'महामंत्री' द्वारा किए जाने वाले कार्य क्या थे? / What functions were performed by 'Mahamatra' in Mauryan Empire?",
+    "options": {
+      "A": "धर्म और सामाजिक सुधारों की निगरानी (Monitoring Dhamma and social reforms)",
+      "B": "सैन्य अभियान का नेतृत्व (Leading military campaigns)",
+      "C": "कर संग्रह और वित्तीय देखरेख (Tax collection and financial supervision)",
+      "D": "स्थानीय व्यापार और वाणिज्य का प्रबंधन (Managing local trade and commerce)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "महामंत्री धर्म और सामाजिक सुधारों की निगरानी के साथ-साथ कर संग्रह और वित्तीय देखरेख का कार्य करता था।"
+  },
+  {
+    "id": 119,
+    "question": "मौर्य कला में अशोक स्तंभों पर लगे शेर और हाथी प्रतीक क्या दर्शाते हैं? / What do the lion and elephant symbols on Ashokan pillars signify?",
+    "options": {
+      "A": "राज्य शक्ति और सामाजिक न्याय (State power and social justice)",
+      "B": "धार्मिक और नैतिक संदेश (Religious and moral message)",
+      "C": "व्यापार और वाणिज्य (Trade and commerce)",
+      "D": "सैन्य विजय (Military victory)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शेर और हाथी प्रतीक मौर्य स्तंभों पर राज्य शक्ति और धार्मिक-सामाजिक नैतिक संदेश का प्रतिनिधित्व करते हैं।"
+  },
+  {
+    "id": 120,
+    "question": "मौर्य प्रशासन और कला का मुख्य योगदान क्या था? / What was the main contribution of Mauryan administration and art?",
+    "options": {
+      "A": "केंद्रीयकृत शासन और सुव्यवस्थित प्रशासन (Centralized governance and organized administration)",
+      "B": "धार्मिक और सामाजिक सुधारों का प्रचार (Promotion of religious and social reforms)",
+      "C": "स्थापत्य और शिल्प कला में नवाचार (Innovation in architecture and sculpture)",
+      "D": "विदेशी व्यापार और उपनिवेश विस्तार (Foreign trade and colonial expansion)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "मौर्य प्रशासन और कला ने केंद्रीयकृत शासन, धार्मिक-सामाजिक सुधारों और स्थापत्य एवं शिल्प कला में नवाचार का महत्वपूर्ण योगदान दिया।"
   }
 ]
 
 
 
+
+
+    
 
