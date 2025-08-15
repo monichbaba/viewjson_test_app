@@ -1,724 +1,483 @@
 [
   {
     "id": 1,
-    "question": "कालिदास का प्रसिद्ध नाटक 'अभिज्ञानशाकुन्तलम्' किस राजा और शाकुंतला की कहानी बताता है? / Kalidasa's famous drama 'Abhijnanasakuntalam' narrates the story of which king and Shakuntala?",
+    "question": "ममल्लपुरम स्मारक और यूनेस्को धरोहर स्थल के कौन-से उदाहरण हैं? / Which Mamallapuram monuments are recognized as UNESCO heritage sites?",
     "options": {
-      "A": "King Dushyanta",
-      "B": "King Agnimitra",
-      "C": "King Pururavas",
-      "D": "King Harsha"
+      "A": "शोर मंदिर / Shore Temple",
+      "B": "पैंथॉन गुफा मंदिर / Pantheon Cave Temple",
+      "C": "अरजुन की पेनल / Arjuna's Penance",
+      "D": "कांचीपेड़ मंदिर / Kanchipuram temple"
     },
-    "answer": ["A"],
-    "explanation": "'अभिज्ञानशाकुन्तलम्' में राजा दुष्यन्त और शाकुंतला की प्रेम कहानी का वर्णन है।"
+    "answer": ["A", "C"],
+    "explanation": "ममल्लपुरम का शोर मंदिर और अर्जुन की पेनल UNESCO विश्व धरोहर स्थल हैं, जो पाल्लव वास्तुकला का उत्कृष्ट उदाहरण हैं।"
   },
   {
     "id": 2,
-    "question": "कालिदास का महाकाव्य 'कुमारसंभवम्' किस देवता और देवी के विवाह का वर्णन करता है? / Kalidasa's epic 'Kumarasambhavam' narrates the marriage of which deity and goddess?",
+    "question": "पुलकेशिन द्वितीय और नरसिंहवर्मन प्रथम के बीच युद्ध का कौन-सा प्रमाण उपलब्ध है? / What evidence exists of the battle between Pulakeshin II and Narasimhavarman I?",
     "options": {
-      "A": "Lord Krishna & Rukmini",
-      "B": "Lord Shiva & Parvati",
-      "C": "Lord Vishnu & Lakshmi",
-      "D": "Lord Indra & Shachi"
+      "A": "अजन्ता गुफा शिलालेख / Ajanta cave inscriptions",
+      "B": "अहिच्छेत्र स्तंभलेख / Aihole inscription",
+      "C": "कोल्लम मचानम शिलालेख / Kollam Mecham inscriptions",
+      "D": "महाबलीपुरम शिलालेख / Mahabalipuram inscriptions"
     },
-    "answer": ["B"],
-    "explanation": "'कुमारसंभवम्' में भगवान शिव और पार्वती के विवाह का वर्णन है।"
+    "answer": ["B", "D"],
+    "explanation": "अहिच्छेत्र और महाबलीपुरम के शिलालेख पुलकेशिन II और नरसिंहवर्मन I के संघर्ष और विजय विवरण का प्रमाण हैं।"
   },
   {
     "id": 3,
-    "question": "भारवि के महाकाव्य 'कीरतर्जुनीयम्' में किस घटना का वर्णन है? / Bharavi's epic 'Kiratarjuniya' narrates which event?",
+    "question": "पाल्लवों का द्रविड़ मंदिर वास्तुकला में योगदान क्या था? / What was Pallava contribution to Dravidian temple architecture?",
     "options": {
-      "A": "Arjuna's encounter with Kirata (Lord Shiva)",
-      "B": "Krishna killing Shishupala",
-      "C": "Rama's exile in forest",
-      "D": "Urvashi and Pururavas love story"
+      "A": "गुफा मंदिरों का विकास / Development of rock-cut cave temples",
+      "B": "शोर और पंच रत्न मंदिर निर्माण / Shore and Pancha Rathas construction",
+      "C": "वेसरा शैली का विकास / Development of Vesara style",
+      "D": "सिर्फ स्तंभलेख / Only inscriptions"
     },
-    "answer": ["A"],
-    "explanation": "'कीरतर्जुनीयम्' में अर्जुन और भगवान शिव (किरात) के युद्ध और पराक्रम का वर्णन है।"
+    "answer": ["A", "B"],
+    "explanation": "पाल्लवों ने गुफा मंदिर, शोर मंदिर और पञ्च रत्न जैसी संरचनाओं का निर्माण किया, जो द्रविड़ शैली के आरंभिक उदाहरण हैं।"
   },
   {
     "id": 4,
-    "question": "माघ के महाकाव्य 'शिशुपालवध' का मुख्य विषय क्या है? / What is the main theme of Magha's epic 'Shishupala Vadha'?",
+    "question": "पाल्लव प्रशासन और सामंत संबंधों में कौन-से पहलू महत्वपूर्ण थे? / Which aspects were important in Pallava administration and feudal relations?",
     "options": {
-      "A": "Shishupala's defeat by Krishna",
-      "B": "Arjuna's battle with Kirata",
-      "C": "Shakuntala and Dushyanta story",
-      "D": "Pururavas and Urvashi love story"
+      "A": "भूमि दान और राजकीय स्वामित्व / Land grants and royal ownership",
+      "B": "सैनिकों को पुरस्कार / Rewards to soldiers",
+      "C": "सामंतों के साथ शक्ति साझा करना / Power-sharing with feudatories",
+      "D": "सिर्फ व्यापार नियंत्रण / Only trade regulation"
     },
-    "answer": ["A"],
-    "explanation": "'शिशुपालवध' में कृष्ण द्वारा शिशुपाल का वध का वर्णन किया गया है।"
+    "answer": ["A", "C"],
+    "explanation": "पाल्लव प्रशासन में भूमि दान और सामंतों के साथ शक्ति साझा करना मुख्य विशेषताएँ थीं।"
   },
   {
     "id": 5,
-    "question": "भास के कौन से नाटक में दुर्योधन का पतन दिखाया गया है? / Which of Bhasa's plays depicts the fall of Duryodhana?",
+    "question": "पाल्लवों का सांस्कृतिक और साहित्यिक संरक्षण किस प्रकार था? / How did Pallavas patronize culture and literature?",
     "options": {
-      "A": "Svapnavasavadattam",
-      "B": "Urubhanga",
-      "C": "Pratijnayaugandharayanam",
-      "D": "Mudrarakshasa"
+      "A": "साहित्यकारों को संरक्षण / Patronage to poets and scholars",
+      "B": "नाट्य और संगीत प्रोत्साहन / Promotion of drama and music",
+      "C": "वास्तुकला और मूर्तिकला / Support for architecture and sculpture",
+      "D": "केवल धार्मिक ग्रंथों का निर्माण / Only religious texts creation"
     },
-    "answer": ["B"],
-    "explanation": "'उरुभंग' में दुर्योधन के पतन का चित्रण है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लवों ने साहित्य, नाट्य, संगीत, वास्तुकला और मूर्तिकला सभी क्षेत्रों में संरक्षण प्रदान किया।"
   },
   {
     "id": 6,
-    "question": "विशाखदत्त का प्रसिद्ध नाटक 'मुद्राराक्षस' किस ऐतिहासिक पात्र पर आधारित है? / Vishakhadatta's famous play 'Mudrarakshasa' is based on which historical figure?",
+    "question": "पाल्लव-चालुक्य-चोल संबंधों में किस प्रकार के संबंध पाए गए? / What were the types of relations among Pallava, Chalukya, and Chola dynasties?",
     "options": {
-      "A": "Chandragupta Maurya",
-      "B": "King Dushyanta",
-      "C": "King Pururavas",
-      "D": "Lord Krishna"
+      "A": "युद्ध और संघर्ष / Warfare and conflict",
+      "B": "विवाह संबंध / Marital alliances",
+      "C": "सांस्कृतिक आदान-प्रदान / Cultural exchanges",
+      "D": "पूरे भारत पर साम्राज्य विस्तार / Empire expansion over entire India"
     },
-    "answer": ["A"],
-    "explanation": "'मुद्राराक्षस' चंद्रगुप्त मौर्य और चाणक्य की राजनीति पर आधारित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लव, चालुक्य और चोल साम्राज्यों के बीच युद्ध, विवाह और सांस्कृतिक आदान-प्रदान के माध्यम से संबंध बने।"
   },
   {
     "id": 7,
-    "question": "दंडिन का 'काव्यदर्शन' किस विषय पर लिखा गया है? / Dandin's 'Kavyadarsa' is written on which subject?",
+    "question": "ममल्लपुरम के पंच रत्न (Pancha Rathas) किस शैली में बनाए गए हैं? / In which style are the Pancha Rathas of Mamallapuram built?",
     "options": {
-      "A": "Sanskrit poetry and literary theory",
-      "B": "Historical accounts of Harsha",
-      "C": "Panchatantra fables",
-      "D": "King Pururavas stories"
+      "A": "द्रविड़ शैली / Dravidian style",
+      "B": "वेसरा शैली / Vesara style",
+      "C": "नागर शैली / Nagara style",
+      "D": "गुप्त शैली / Gupta style"
     },
     "answer": ["A"],
-    "explanation": "'काव्यदर्शन' संस्कृत काव्य शास्त्र पर लिखा गया है।"
+    "explanation": "ममल्लपुरम के पंच रत्न द्रविड़ शैली में बने हैं, जो पाल्लव स्थापत्य का उत्कृष्ट उदाहरण हैं।"
   },
   {
     "id": 8,
-    "question": "बाणभट्ट की रचना 'कादंबरी' किस प्रकार की कथा है? / Bana Bhatta's 'Kadambari' is what type of narrative?",
+    "question": "नरसिंहवर्मन प्रथम ने किस चालुक्य शासक को हराया? / Which Chalukya ruler was defeated by Narasimhavarman I?",
     "options": {
-      "A": "Love story and imaginative narrative",
-      "B": "Political history",
-      "C": "Epic about Lord Shiva",
-      "D": "Fable collection"
+      "A": "पुलकेशिन द्वितीय / Pulakeshin II",
+      "B": "कृष्ण प्रथम / Krishna I",
+      "C": "अर्जुनवर्मा / Arjunavarma",
+      "D": "देवपाल / Devapala"
     },
     "answer": ["A"],
-    "explanation": "'कादंबरी' एक प्रेम कथा और कल्पनात्मक वर्णन है।"
+    "explanation": "नरसिंहवर्मन प्रथम ने पुलकेशिन II को युद्ध में पराजित किया, जिसका उल्लेख शिलालेखों में मिलता है।"
   },
   {
     "id": 9,
-    "question": "सुबन्धु की रचना 'वासवदत्त' किस विषय पर आधारित है? / Subandhu's 'Vasavadatta' is based on which theme?",
+    "question": "पाल्लव वास्तुकला में कौन-सी विशेषता प्रमुख है? / What is a prominent feature of Pallava architecture?",
     "options": {
-      "A": "Love story and court life",
-      "B": "Political strategies",
-      "C": "Mythological war",
-      "D": "Fables and morals"
+      "A": "चट्टान काटकर मंदिर निर्माण / Rock-cut temples",
+      "B": "लंबे शिखर और विस्तृत गुम्बद / Tall shikhara and elaborate domes",
+      "C": "सिर्फ लकड़ी का मंदिर निर्माण / Only wooden structures",
+      "D": "गुफा मंदिरों में शिलालेख / Inscriptions in cave temples"
     },
-    "answer": ["A"],
-    "explanation": "'वासवदत्त' में प्रेम कहानी और दरबारी जीवन का वर्णन है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पाल्लव वास्तुकला में गुफा मंदिर, शिखर संरचना और शिलालेख प्रमुख विशेषताएँ हैं।"
   },
   {
     "id": 10,
-    "question": "कालिदास का नाटक 'मालविकाग्निमित्रम्' किस राजा और महिला के बीच प्रेम कहानी बताता है? / Kalidasa's drama 'Malavikagnimitram' narrates the love story of which king and woman?",
+    "question": "पाल्लव सामंत व्यवस्था में भूमि दान का उद्देश्य क्या था? / What was the purpose of land grants in Pallava feudal system?",
     "options": {
-      "A": "King Agnimitra & Malavika",
-      "B": "King Dushyanta & Shakuntala",
-      "C": "King Pururavas & Urvashi",
-      "D": "King Harsha & Rajyashree"
+      "A": "सैन्य और प्रशासनिक समर्थन / Military and administrative support",
+      "B": "सिर्फ धार्मिक अनुष्ठान / Only religious rituals",
+      "C": "सामंतों के लिए राजकीय सम्मान / Royal privileges to feudatories",
+      "D": "शहरों का निर्माण / Urban development"
     },
-    "answer": ["A"],
-    "explanation": "'मालविकाग्निमित्रम्' में राजा अग्निमित्र और मालविका के प्रेम का वर्णन है।"
+    "answer": ["A", "C"],
+    "explanation": "पाल्लवों ने सामंतों को भूमि दान देकर सैन्य और प्रशासनिक समर्थन सुनिश्चित किया और उन्हें सम्मान प्रदान किया।"
   },
   {
     "id": 11,
-    "question": "कालिदास के नाटक 'विक्रमोर्वशीयम्' में कौन-कौन से पात्र मुख्य हैं? / Who are the main characters in Kalidasa's play 'Vikramorvashiyam'?",
+    "question": "ममल्लपुरम शोर मंदिर की विशेषता क्या है? / What is the distinctive feature of Mamallapuram Shore Temple?",
     "options": {
-      "A": "King Pururavas",
-      "B": "Urvashi",
-      "C": "Shakuntala",
-      "D": "Malavika"
+      "A": "सागर के किनारे स्थित / Located on the seashore",
+      "B": "शिखर और मंडप शैली / Shikhara and mandapa style",
+      "C": "काष्ठ निर्माण / Wooden construction",
+      "D": "गुफा में नक्काशी / Carvings inside caves"
     },
     "answer": ["A", "B"],
-    "explanation": "'विक्रमोर्वशीयम्' में राजा पुरुरवा और अप्सरा उर्वशी के प्रेम कथा का वर्णन है।"
+    "explanation": "शोर मंदिर समुद्र के किनारे स्थित है और इसकी शिखर एवं मंडप शैली पाल्लव स्थापत्य की प्रमुख विशेषताएँ हैं।"
   },
   {
     "id": 12,
-    "question": "किस ग्रंथ में अर्जुन और भगवान शिव (किराता) का युद्ध वर्णित है? / Which text describes Arjuna's battle with Lord Shiva (Kirata)?",
+    "question": "अर्जुन की पेनल (Arjuna’s Penance) में किस प्रकार की कथाएँ दर्शाई गई हैं? / What kinds of stories are depicted in Arjuna’s Penance?",
     "options": {
-      "A": "Kiratarjuniya",
-      "B": "Shishupala Vadha",
-      "C": "Kumarasambhavam",
-      "D": "Vasavadatta"
+      "A": "महाकाव्य और पौराणिक कथाएँ / Epic and mythological stories",
+      "B": "राजा और युद्ध कथा / Kings and war stories",
+      "C": "सामंतों का प्रशासन / Administration of feudatories",
+      "D": "कृषि और व्यापार / Agriculture and trade"
     },
-    "answer": ["A"],
-    "explanation": "'कीरतर्जुनीयम्' में अर्जुन और भगवान शिव (किराता) का युद्ध और वीरता का वर्णन किया गया है।"
+    "answer": ["A", "B"],
+    "explanation": "अर्जुन की पेनल में महाकाव्य और पौराणिक कथाएँ तथा राजाओं और युद्ध की घटनाओं का चित्रण किया गया है।"
   },
   {
     "id": 13,
-    "question": "माघ के 'शिशुपालवध' में किन घटनाओं का समावेश है? / What events are included in Magha's 'Shishupala Vadha'?",
+    "question": "पाल्लव-चालुक्य युद्धों में पुलकेशिन II का कौन-सा अभियान प्रसिद्ध है? / Which campaign of Pulakeshin II is famous in Pallava-Chalukya wars?",
     "options": {
-      "A": "Shishupala's antagonism against Krishna",
-      "B": "Shishupala's death at Krishna's hands",
-      "C": "Arjuna's Kirata battle",
-      "D": "Raghuvamsa genealogy"
+      "A": "दक्षिण भारत विजय अभियान / Southern India campaign",
+      "B": "हर्ष के खिलाफ अभियान / Campaign against Harsha",
+      "C": "पूर्वी सीमाओं की रक्षा / Defense of eastern frontiers",
+      "D": "कश्मीर पर आक्रमण / Invasion of Kashmir"
     },
     "answer": ["A", "B"],
-    "explanation": "'शिशुपालवध' में शिशुपाल का कृष्ण के प्रति विरोध और उसके वध का वर्णन है।"
+    "explanation": "पुलकेशिन II ने दक्षिण भारत में कई युद्ध किए और हर्ष के खिलाफ सफल अभियान चलाया।"
   },
   {
     "id": 14,
-    "question": "भास के नाटकों में किस नाटक में स्वप्न और विवाह का महत्व है? / In Bhasa's plays, which play emphasizes dreams and marriage?",
+    "question": "महाबलीपुरम के शिलालेख हमें किस प्रकार की जानकारी देते हैं? / What information do Mahabalipuram inscriptions provide?",
     "options": {
-      "A": "Svapnavasavadattam",
-      "B": "Urubhanga",
-      "C": "Pratijnayaugandharayanam",
-      "D": "Mudrarakshasa"
+      "A": "पाल्लव शासकों की विजय / Victories of Pallava rulers",
+      "B": "मंदिर निर्माण और स्थापत्य / Temple construction and architecture",
+      "C": "सामंत और भूमि दान / Feudatories and land grants",
+      "D": "सिर्फ धार्मिक अनुष्ठान / Only religious rituals"
     },
-    "answer": ["A"],
-    "explanation": "'स्वप्नवासवदत्तम्' में विवाह और सपनों का केंद्रीय महत्व है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "महाबलीपुरम शिलालेख में पाल्लव शासकों की विजय, मंदिर निर्माण और सामंतों को दिए गए भूमि दान का उल्लेख मिलता है।"
   },
   {
     "id": 15,
-    "question": "विशाखदत्त का नाटक 'मुद्राराक्षस' किन ऐतिहासिक तत्वों पर आधारित है? / Vishakhadatta's 'Mudrarakshasa' is based on which historical elements?",
+    "question": "पाल्लव द्रविड़ मंदिरों में कौन-से तत्व सामान्य हैं? / Which elements are common in Pallava Dravidian temples?",
     "options": {
-      "A": "Chandragupta Maurya's rise",
-      "B": "Chanakya's political strategy",
-      "C": "Krishna's exploits",
-      "D": "King Harsha's empire"
+      "A": "गुफा मंदिर / Cave temples",
+      "B": "मंडप और शिखर / Mandapa and shikhara",
+      "C": "काष्ठ से शिल्प / Wooden sculptures",
+      "D": "स्तंभलेख / Inscriptions"
     },
-    "answer": ["A", "B"],
-    "explanation": "'मुद्राराक्षस' चंद्रगुप्त मौर्य और चाणक्य की राजनीति पर आधारित है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पाल्लव मंदिरों में गुफा मंदिर, मंडप और शिखर, तथा शिलालेख प्रमुख तत्व हैं।"
   },
   {
     "id": 16,
-    "question": "दंडिन के 'दशकुमारचरित' में किस प्रकार की घटनाएं प्रमुख हैं? / What type of events are prominent in Dandin's 'Dasakumaracharita'?",
+    "question": "पाल्लव सामंत व्यवस्था के तहत किस प्रकार के भूमि दान दिए गए थे? / What types of land grants were given under Pallava feudal system?",
     "options": {
-      "A": "Heroic adventures",
-      "B": "Romantic tales",
-      "C": "Political treaties",
-      "D": "Religious rituals"
+      "A": "भिक्षु और मंदिर हेतु / To monks and temples",
+      "B": "सैनिक और प्रशासनिक समर्थन हेतु / For military and administrative support",
+      "C": "सिर्फ व्यापारी / Only to merchants",
+      "D": "सामंतों को सम्मान हेतु / To feudatories for honor"
     },
-    "answer": ["A", "B"],
-    "explanation": "'दशकुमारचरित' में नायकों की वीरतापूर्ण और रोमांचक कथाएं प्रमुख हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पाल्लव सामंत व्यवस्था में भूमि दान मंदिरों, सैनिकों और सामंतों के लिए दिया गया।"
   },
   {
     "id": 17,
-    "question": "विश्णु शर्मा की 'पंचतंत्र' के प्रमुख उद्देश्य क्या थे? / What are the main objectives of Vishnu Sharma's 'Panchatantra'?",
+    "question": "पाल्लवों ने साहित्य और कला के किस क्षेत्र में योगदान दिया? / In which fields did Pallavas contribute to literature and arts?",
     "options": {
-      "A": "Moral instruction through stories",
-      "B": "Political strategy education",
-      "C": "Religious devotion",
-      "D": "Romantic poetry"
+      "A": "काव्य और नाटक / Poetry and drama",
+      "B": "संगीत और नृत्य / Music and dance",
+      "C": "वास्तुकला और मूर्तिकला / Architecture and sculpture",
+      "D": "केवल धार्मिक ग्रंथ / Only religious texts"
     },
-    "answer": ["A", "B"],
-    "explanation": "'पंचतंत्र' का उद्देश्य नैतिक शिक्षा और राजनीतिक बुद्धिमत्ता देना था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लवों ने काव्य, नाटक, संगीत, नृत्य, वास्तुकला और मूर्तिकला में संरक्षण और योगदान दिया।"
   },
   {
     "id": 18,
-    "question": "सुबन्धु की 'वासवदत्त' किस कालीन दरबार जीवन को दर्शाती है? / Which period of court life does Subandhu's 'Vasavadatta' depict?",
+    "question": "पाल्लव-चोल-चालुक्य संबंधों में विवाह संबंध का क्या महत्व था? / What was the significance of marital alliances in Pallava-Chola-Chalukya relations?",
     "options": {
-      "A": "Gupta period",
-      "B": "Post-Gupta period",
-      "C": "Mauryan period",
-      "D": "Harsha's period"
+      "A": "राजनीतिक स्थिरता / Political stability",
+      "B": "सांस्कृतिक आदान-प्रदान / Cultural exchange",
+      "C": "पूरे भारत पर प्रभुत्व / Supremacy over entire India",
+      "D": "व्यापारिक नियंत्रण / Control over trade"
     },
-    "answer": ["B"],
-    "explanation": "'वासवदत्त' में पश्चात्-गुप्तकालीन दरबारी जीवन और प्रेम कथा का चित्रण है।"
+    "answer": ["A", "B"],
+    "explanation": "विवाह संबंधों से राजनीतिक स्थिरता बनी और सांस्कृतिक आदान-प्रदान को बढ़ावा मिला।"
   },
   {
     "id": 19,
-    "question": "बाणभट्ट की 'हर्षचरित' किसका जीवन और शासनकाल वर्णित करता है? / Whose life and reign are described in Bana Bhatta's 'Harshacharita'?",
+    "question": "ममल्लपुरम शिलालेखों में किस प्रकार की जानकारी मिलती है? / What kind of information is found in Mamallapuram inscriptions?",
     "options": {
-      "A": "King Harsha",
-      "B": "King Dushyanta",
-      "C": "King Agnimitra",
-      "D": "King Pururavas"
+      "A": "पाल्लव शासकों की विजय / Victories of Pallava rulers",
+      "B": "मंदिर निर्माण और संरचना / Temple construction and structure",
+      "C": "सामंतों को भूमि दान / Land grants to feudatories",
+      "D": "सिर्फ धार्मिक अनुष्ठान / Only religious rituals"
     },
-    "answer": ["A"],
-    "explanation": "'हर्षचरित' में राजा हर्ष का जीवन और प्रशासनिक नीति का वर्णन किया गया है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "ममल्लपुरम शिलालेखों में पाल्लव शासकों की विजय, मंदिर निर्माण और सामंतों को दिए गए भूमि दान का उल्लेख मिलता है।"
   },
   {
     "id": 20,
-    "question": "कौन से लेखक का कार्य नाट्यशास्त्र और कविता दोनों पर केंद्रित है? / Which author's work is focused on both dramaturgy and poetry?",
+    "question": "पाल्लव स्थापत्य में गुफा मंदिरों का महत्व क्या था? / What was the significance of cave temples in Pallava architecture?",
     "options": {
-      "A": "Dandin",
-      "B": "Kalidasa",
-      "C": "Bharavi",
-      "D": "Magha"
+      "A": "वास्तुकला में नवीनता / Innovation in architecture",
+      "B": "धार्मिक अनुष्ठान / Religious rituals",
+      "C": "सामंत शक्ति का प्रदर्शन / Display of feudal power",
+      "D": "सिर्फ सजावटी उद्देश्यों के लिए / Only for decorative purposes"
     },
-    "answer": ["A", "B"],
-    "explanation": "दंडिन और कालिदास दोनों के कार्यों में नाटक और कविता दोनों का महत्व है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "गुफा मंदिर वास्तुकला में नवीनता दिखाते हैं, धार्मिक अनुष्ठान हेतु बनाए गए और सामंत शक्ति का प्रदर्शन भी करते थे।"
   },
   {
     "id": 21,
-    "question": "कालिदास के 'रघुवंश' का मुख्य विषय क्या है? / What is the main theme of Kalidasa's 'Raghuvamsa'?",
+    "question": "पाल्लव शासकों ने समुद्री व्यापार में किस प्रकार की भागीदारी दिखाई? / How did Pallava rulers participate in maritime trade?",
     "options": {
-      "A": "Lineage of Raghu dynasty",
-      "B": "Romantic tales",
-      "C": "Krishna's exploits",
-      "D": "Political treaties"
+      "A": "मालवाहन के लिए बंदरगाह विकसित / Developed ports for trade",
+      "B": "विदेशी व्यापारिक समुदायों को प्रोत्साहन / Encouraged foreign merchants",
+      "C": "सिर्फ स्थानीय व्यापार / Only local trade",
+      "D": "समुद्री युद्ध के लिए नौसेना निर्माण / Built navy for maritime wars"
     },
-    "answer": ["A"],
-    "explanation": "'रघुवंश' में राजा रघु और उनके वंश का वर्णन है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पाल्लव शासकों ने समुद्री व्यापार के लिए बंदरगाह बनाए, विदेशी व्यापार को प्रोत्साहित किया और नौसेना का विकास किया।"
   },
   {
     "id": 22,
-    "question": "'कुमारसंभवम्' और 'रघुवंश' में कौन से सामान्य तत्व पाए जाते हैं? / What common elements are found in 'Kumarasambhavam' and 'Raghuvamsa'?",
+    "question": "नरसिंहवर्मन प्रथम की विजय का उल्लेख कहाँ मिलता है? / Where is Narasimhavarman I’s victory recorded?",
     "options": {
-      "A": "Epic style (Mahakavya)",
-      "B": "Romantic elements",
-      "C": "Historical narratives",
-      "D": "Political treatises"
+      "A": "महाबलीपुरम शिलालेख / Mahabalipuram inscriptions",
+      "B": "अहिच्छेत्र स्तंभलेख / Aihole pillar inscription",
+      "C": "अजन्ता गुफा शिलालेख / Ajanta cave inscriptions",
+      "D": "कांचीपेड़ शिलालेख / Kanchipuram inscriptions"
     },
     "answer": ["A", "B"],
-    "explanation": "दोनों महाकाव्यों में महाकाव्य शैली और प्रेम-कथात्मक तत्व पाए जाते हैं।"
+    "explanation": "महाबलीपुरम और अहिच्छेत्र शिलालेखों में नरसिंहवर्मन प्रथम की विजय और पुलकेशिन II पर विजय का विवरण मिलता है।"
   },
   {
     "id": 23,
-    "question": "भास के कौन से नाटक में राजनीतिक चालाकी और राजनैतिक संघर्ष दिखाया गया है? / Which Bhasa play depicts political cunning and struggle?",
+    "question": "पाल्लव वास्तुकला में शिखर संरचना का क्या महत्व है? / What is the significance of shikhara in Pallava architecture?",
     "options": {
-      "A": "Pratijnayaugandharayanam",
-      "B": "Urubhanga",
-      "C": "Svapnavasavadattam",
-      "D": "Mudrarakshasa"
+      "A": "मंदिर की ऊँचाई और दिव्यता दर्शाना / Indicate temple height and divinity",
+      "B": "सिर्फ सजावटी उद्देश्य / Only decorative purpose",
+      "C": "धार्मिक अनुष्ठान के लिए केंद्र / Center for rituals",
+      "D": "सैनिक दृष्टि से गुप्त संरचना / Secret military structure"
     },
-    "answer": ["A"],
-    "explanation": "'प्रतिज्ञायौगन्धरायणम्' में राजनैतिक चाल और संघर्ष को दिखाया गया है।"
+    "answer": ["A", "C"],
+    "explanation": "शिखर संरचना मंदिर की ऊँचाई और दिव्यता दर्शाती है और धार्मिक अनुष्ठानों के लिए केंद्र के रूप में काम करती है।"
   },
   {
     "id": 24,
-    "question": "कालिदास के नाटकों में प्राकृतिक दृश्य और सौंदर्य का महत्व किस प्रकार प्रस्तुत होता है? / How is nature and aesthetics emphasized in Kalidasa's plays?",
+    "question": "पललेवों ने किस प्रकार की मूर्तिकला को बढ़ावा दिया? / What type of sculpture did Pallavas promote?",
     "options": {
-      "A": "Descriptive imagery",
-      "B": "Dialogue-driven narrative",
-      "C": "Minimalistic settings",
-      "D": "Philosophical discourse"
+      "A": "शिला मूर्तिकला / Stone sculpture",
+      "B": "काष्ठ मूर्तिकला / Wooden sculpture",
+      "C": "धातु मूर्तिकला / Metal sculpture",
+      "D": "सिर्फ चित्रकला / Only painting"
     },
-    "answer": ["A", "B"],
-    "explanation": "कालिदास में प्राकृतिक दृश्यों का चित्रण और संवादों के माध्यम से सौंदर्य का वर्णन प्रमुख है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लवों ने शिला, काष्ठ और धातु मूर्तिकला सभी को प्रोत्साहित किया।"
   },
   {
     "id": 25,
-    "question": "विशाखदत्त के 'मुद्राराक्षस' में कौन-कौन सी रणनीतियां दिखायी गई हैं? / Which strategies are shown in Vishakhadatta's 'Mudrarakshasa'?",
+    "question": "पल्लव सामंत व्यवस्था का प्रशासनिक महत्व क्या था? / What was the administrative significance of Pallava feudal system?",
     "options": {
-      "A": "Espionage and diplomacy",
-      "B": "Military conquest",
-      "C": "Romantic alliances",
-      "D": "Religious rituals"
+      "A": "सैन्य और स्थानीय प्रशासन में सहायता / Aid in military and local administration",
+      "B": "सिर्फ भूमि कर संग्रह / Only land revenue collection",
+      "C": "सामंतों के प्रति वफादारी सुनिश्चित / Ensure loyalty of feudatories",
+      "D": "सिर्फ धार्मिक उद्देश्यों के लिए / Only religious purposes"
     },
-    "answer": ["A", "B"],
-    "explanation": "'मुद्राराक्षस' में जासूसी, कूटनीति और सैन्य रणनीतियों का विस्तृत वर्णन है।"
+    "answer": ["A", "C"],
+    "explanation": "सामंत व्यवस्था सैन्य सहायता और प्रशासन में सहयोग देती थी तथा सामंतों की वफादारी सुनिश्चित करती थी।"
   },
   {
     "id": 26,
-    "question": "पंचतंत्र के किस उद्देश्य को राजनीतिक शिक्षा के लिए सबसे अधिक महत्व दिया गया है? / Which objective of Panchatantra is most emphasized for political education?",
+    "question": "पाल्लव साहित्यिक संरक्षण में किस प्रकार के ग्रंथ शामिल थे? / What types of texts were patronized by Pallavas?",
     "options": {
-      "A": "Strategy and intelligence in governance",
-      "B": "Moral instruction",
-      "C": "Religious rituals",
-      "D": "Poetic imagination"
+      "A": "काव्य और उपन्यास / Poetry and prose",
+      "B": "धार्मिक ग्रंथ / Religious texts",
+      "C": "नाट्य और संगीत रचनाएँ / Drama and musical compositions",
+      "D": "केवल प्रशासनिक दस्तावेज / Only administrative documents"
     },
-    "answer": ["A", "B"],
-    "explanation": "पंचतंत्र में नैतिक शिक्षा और राजनीतिक बुद्धिमत्ता को सबसे अधिक महत्व दिया गया है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लवों ने काव्य, धार्मिक ग्रंथ और नाट्य-संगीत रचनाओं का संरक्षण किया।"
   },
   {
     "id": 27,
-    "question": "कौन सा लेखक कालिदास से पहले का माना जाता है, पर गुप्त काल में प्रमुखता पाया? / Which author is considered pre-Kalidasa but gained prominence during Gupta period?",
+    "question": "पाल्लव-चोल-चालुक्य संघर्षों में कौन-सी रणनीति महत्वपूर्ण थी? / Which strategy was important in Pallava-Chola-Chalukya conflicts?",
     "options": {
-      "A": "Bhasa",
-      "B": "Vishakhadatta",
-      "C": "Magha",
-      "D": "Bharavi"
+      "A": "सैन्य गठबंधन / Military alliances",
+      "B": "विवाह और राजनीतिक संबंध / Marital and political alliances",
+      "C": "धार्मिक अनुष्ठानों द्वारा सत्ता का प्रदर्शन / Religious rituals to display power",
+      "D": "केवल व्यापारिक नीतियाँ / Only trade policies"
     },
     "answer": ["A", "B"],
-    "explanation": "भास और विशाखदत्त गुप्त काल में प्रमुख हुए, जबकि उनके प्रारंभिक कार्य पहले के थे।"
+    "explanation": "सैन्य और विवाहिक गठबंधन युद्ध में महत्वपूर्ण रणनीति के रूप में काम करते थे।"
   },
   {
     "id": 28,
-    "question": "कौन से ग्रंथ महाकाव्य शैली में लिखे गए हैं? / Which texts are written in epic (Mahakavya) style?",
+    "question": "ममल्लपुरम के शिलालेख किस प्रकार की सामाजिक जानकारी प्रदान करते हैं? / What social information is provided by Mamallapuram inscriptions?",
     "options": {
-      "A": "Raghuvamsa",
-      "B": "Kumarasambhavam",
-      "C": "Kiratarjuniya",
-      "D": "Shishupala Vadha"
+      "A": "सामंत और उनके अधिकार / Feudatories and their rights",
+      "B": "कृषि और भूमि वितरण / Agriculture and land allocation",
+      "C": "व्यापारिक अनुबंध / Trade agreements",
+      "D": "सिर्फ धार्मिक अनुष्ठान / Only religious rituals"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "ये सभी ग्रंथ महाकाव्य शैली में लिखे गए हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "शिलालेख सामंतों, कृषि, भूमि वितरण और व्यापारिक अनुबंध की जानकारी प्रदान करते हैं।"
   },
   {
     "id": 29,
-    "question": "कालिदास के नाटकों में हास्य तत्व और रोमांस कैसे जुड़े हैं? / How are humor and romance integrated in Kalidasa's plays?",
+    "question": "पाल्लव स्थापत्य में मंडप का क्या महत्व है? / What is the significance of mandapa in Pallava architecture?",
     "options": {
-      "A": "Through witty dialogues",
-      "B": "Through romantic subplots",
-      "C": "Through political narratives",
-      "D": "Through religious teachings"
+      "A": "भक्तों के लिए सभा स्थल / Assembly space for devotees",
+      "B": "धार्मिक अनुष्ठानों का केंद्र / Center for rituals",
+      "C": "सिर्फ सजावटी तत्व / Only decorative element",
+      "D": "सैनिक छिपने की जगह / Hiding place for soldiers"
     },
     "answer": ["A", "B"],
-    "explanation": "कालिदास के नाटकों में हास्य संवादों और प्रेम कथाओं के माध्यम से रोमांस और हास्य जुड़ा है।"
+    "explanation": "मंडप भक्तों के लिए सभा स्थल और धार्मिक अनुष्ठानों का केंद्र होता है।"
   },
   {
     "id": 30,
-    "question": "कौन सा लेखक प्रेम कथा और कल्पनात्मक कथा दोनों में निपुण था? / Which author excelled in both love stories and imaginative tales?",
+    "question": "पल्लव वास्तुकला में शिलालेखों की भूमिका क्या थी? / What was the role of inscriptions in Pallava architecture?",
     "options": {
-      "A": "Bana Bhatta",
-      "B": "Subandhu",
-      "C": "Kalidasa",
-      "D": "Dandin"
+      "A": "इतिहास और विजय विवरण / Record history and victories",
+      "B": "मंदिर निर्माण और दान / Document temple construction and donations",
+      "C": "सिर्फ धार्मिक मंत्र / Only religious mantras",
+      "D": "सामंतों की शक्ति दिखाना / Display power of feudatories"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "बाणभट्ट, सुबन्धु और कालिदास सभी प्रेम कथा और कल्पनात्मक कथाओं में निपुण थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "शिलालेख इतिहास, विजय, मंदिर निर्माण, दान और सामंतों की शक्ति दर्शाने का काम करते थे।"
   },
   {
     "id": 31,
-    "question": "गुप्त काल के साहित्य में किन विशेषताओं को प्रमुख माना जाता है? / What features are considered prominent in Gupta period literature?",
+    "question": "पाल्लवों ने विदेशी व्यापारियों को किस प्रकार प्रोत्साहित किया? / How did Pallavas encourage foreign merchants?",
     "options": {
-      "A": "Refined poetic style",
-      "B": "Courtly themes",
-      "C": "Historical narratives",
-      "D": "Scientific treatises"
+      "A": "बंदरगाहों का विकास / Development of ports",
+      "B": "कर में छूट / Tax exemptions",
+      "C": "सिर्फ स्थानीय व्यापार के लिए / Only local trade",
+      "D": "सैनिक सुरक्षा / Military protection"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त काल का साहित्य सुरुचिपूर्ण काव्य शैली, दरबारी विषय और ऐतिहासिक कथाओं में समृद्ध था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पाल्लवों ने बंदरगाह विकसित किए, कर में छूट दी और व्यापारी सुरक्षा सुनिश्चित की।"
   },
   {
     "id": 32,
-    "question": "कौन सा ग्रंथ नायक की वीरता और रोमांचक घटनाओं पर केंद्रित है? / Which text focuses on hero's valor and adventurous events?",
+    "question": "नरसिंहवर्मन प्रथम की विजय का प्रमुख परिणाम क्या था? / What was the main outcome of Narasimhavarman I’s victory?",
     "options": {
-      "A": "Dasakumaracharita",
-      "B": "Kiratarjuniya",
-      "C": "Vasavadatta",
-      "D": "Harshacharita"
+      "A": "पाल्लवों की प्रतिष्ठा में वृद्धि / Enhanced Pallava prestige",
+      "B": "चालुक्य साम्राज्य की हानि / Decline of Chalukya power",
+      "C": "सामंतों का प्रतिशोध / Feudatories’ retaliation",
+      "D": "सिर्फ सांस्कृतिक आदान-प्रदान / Only cultural exchange"
     },
     "answer": ["A", "B"],
-    "explanation": "'दशकुमारचरित' और 'कीरतर्जुनीयम्' में नायकों की वीरता और रोमांचक घटनाओं का वर्णन है।"
+    "explanation": "इस विजय से पाल्लवों की प्रतिष्ठा बढ़ी और चालुक्य साम्राज्य कमजोर हुआ।"
   },
   {
     "id": 33,
-    "question": "भास और विशाखदत्त के नाटकों में क्या समानता पाई जाती है? / What similarity is found in Bhasa and Vishakhadatta's plays?",
+    "question": "पाल्लव स्थापत्य में कौन-से धार्मिक तत्व प्रमुख हैं? / Which religious elements are prominent in Pallava architecture?",
     "options": {
-      "A": "Historical and political themes",
-      "B": "Romantic narratives",
-      "C": "Epic poetry",
-      "D": "Religious instructions"
+      "A": "शिव और विष्णु मंदिर / Shiva and Vishnu temples",
+      "B": "बुद्ध विहार / Buddhist viharas",
+      "C": "जैन गुफा / Jain caves",
+      "D": "केवल स्थानीय देवता / Only local deities"
     },
-    "answer": ["A"],
-    "explanation": "भास और विशाखदत्त के नाटकों में ऐतिहासिक और राजनीतिक विषय प्रमुख हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पाल्लव स्थापत्य में हिंदू, बौद्ध और जैन धार्मिक संरचनाएँ शामिल हैं।"
   },
   {
     "id": 34,
-    "question": "कौन से लेखक का साहित्य राजा और दरबारियों के जीवन पर केंद्रित है? / Which author's literature focuses on kings and courtly life?",
+    "question": "पाल्लव सामंत व्यवस्था में भूमि दान का प्राथमिक उद्देश्य क्या था? / What was the primary purpose of land grants in Pallava feudal system?",
     "options": {
-      "A": "Subandhu",
-      "B": "Bana Bhatta",
-      "C": "Kalidasa",
-      "D": "Bharavi"
+      "A": "सैन्य और प्रशासनिक समर्थन / Military and administrative support",
+      "B": "सिर्फ धार्मिक पूजा / Only religious rituals",
+      "C": "सामंतों के प्रति वफादारी / Loyalty of feudatories",
+      "D": "सिर्फ कर संग्रह / Only tax collection"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "सुबन्धु, बाणभट्ट और कालिदास के साहित्य में राजा और दरबारियों का जीवन प्रमुख रूप से वर्णित है।"
+    "answer": ["A", "C"],
+    "explanation": "भूमि दान से सैन्य और प्रशासनिक समर्थन प्राप्त होता था और सामंतों की वफादारी सुनिश्चित होती थी।"
   },
   {
     "id": 35,
-    "question": "कालिदास के नाटक में कौन सा तत्व रोमांस और प्रकृति का सुंदर मिश्रण देता है? / Which element in Kalidasa's plays provides a blend of romance and nature?",
+    "question": "पाल्लव-चोल-चालुक्य संबंधों में सांस्कृतिक आदान-प्रदान के उदाहरण क्या हैं? / Examples of cultural exchanges among Pallava, Chola, Chalukya?",
     "options": {
-      "A": "Setting descriptions",
-      "B": "Character dialogues",
-      "C": "Political discussions",
-      "D": "Religious chants"
+      "A": "संगीत और नृत्य / Music and dance",
+      "B": "साहित्यिक रचनाएँ / Literary works",
+      "C": "धार्मिक अनुष्ठान / Religious rituals",
+      "D": "केवल सैन्य सहयोग / Only military support"
     },
-    "answer": ["A", "B"],
-    "explanation": "कालिदास के नाटकों में प्राकृतिक दृश्यों का वर्णन और पात्र संवाद रोमांस के साथ मिश्रित हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "सांस्कृतिक आदान-प्रदान में संगीत, नृत्य, साहित्य और धार्मिक अनुष्ठान शामिल थे।"
   },
   {
     "id": 36,
-    "question": "किस ग्रंथ में धार्मिक, नैतिक और राजनीतिक शिक्षा का मिश्रण है? / Which text combines religious, moral, and political education?",
+    "question": "पाल्लव स्थापत्य में पंच रत्न मंदिर का क्या महत्व है? / What is the significance of Pancha Rathas in Pallava architecture?",
     "options": {
-      "A": "Panchatantra",
-      "B": "Mudrarakshasa",
-      "C": "Dasakumaracharita",
-      "D": "Kiratarjuniya"
+      "A": "द्रविड़ शैली का प्रारंभिक उदाहरण / Early example of Dravidian style",
+      "B": "गुफा मंदिरों का विकास / Development of cave temples",
+      "C": "सिर्फ सजावटी उद्देश्य / Only decorative purpose",
+      "D": "सैन्य दृष्टि से महत्व / Military significance"
     },
     "answer": ["A", "B"],
-    "explanation": "'पंचतंत्र' और 'मुद्राराक्षस' में नैतिक, धार्मिक और राजनीतिक शिक्षा का मिश्रण मिलता है।"
+    "explanation": "पंच रत्न द्रविड़ शैली के प्रारंभिक उदाहरण और गुफा मंदिर विकास का प्रतीक हैं।"
   },
   {
     "id": 37,
-    "question": "बाणभट्ट की 'कादंबरी' और 'हर्षचरित' में कौन सा सामान्य विषय है? / What common theme is found in Bana Bhatta's 'Kadambari' and 'Harshacharita'?",
+    "question": "महाबलीपुरम शिलालेखों में किस प्रकार की विजय का उल्लेख मिलता है? / What kind of victories are mentioned in Mahabalipuram inscriptions?",
     "options": {
-      "A": "Courtly life",
-      "B": "Romantic narrative",
-      "C": "Historical accounts",
-      "D": "Epic poetry"
+      "A": "पुलकेशिन II पर विजय / Victory over Pulakeshin II",
+      "B": "हर्ष के खिलाफ युद्ध / Wars against Harsha",
+      "C": "केवल सामंतों के युद्ध / Only feudatories' wars",
+      "D": "सिर्फ स्थानीय विद्रोह / Only local rebellions"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "'कादंबरी' और 'हर्षचरित' में दरबारी जीवन, प्रेम कथाएँ और ऐतिहासिक वर्णन शामिल हैं।"
+    "answer": ["A"],
+    "explanation": "महाबलीपुरम शिलालेखों में नरसिंहवर्मन प्रथम की पुलकेशिन II पर विजय का उल्लेख मिलता है।"
   },
   {
     "id": 38,
-    "question": "कौन सा लेखक अपने महाकाव्य में भगवान और नायकों के आदर्श प्रस्तुत करता है? / Which author presents ideals of gods and heroes in his epic?",
+    "question": "पाल्लव वास्तुकला में शिखर और मंडप किस प्रकार जुड़े होते हैं? / How are shikhara and mandapa connected in Pallava architecture?",
     "options": {
-      "A": "Kalidasa",
-      "B": "Bharavi",
-      "C": "Magha",
-      "D": "Dandin"
+      "A": "मंडप मंदिर के प्रवेश द्वार के रूप में / Mandapa as entrance hall",
+      "B": "शिखर मुख्य देवता के ऊपर / Shikhara above main deity",
+      "C": "मंडप और शिखर स्वतंत्र / Mandapa and Shikhara independent",
+      "D": "केवल सजावटी उद्देश्यों के लिए / Only for decorative purpose"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "कालिदास, भारवि और माघ अपने महाकाव्यों में देवताओं और नायकों के आदर्श प्रस्तुत करते हैं।"
+    "answer": ["A", "B"],
+    "explanation": "मंडप प्रवेश के लिए और शिखर मुख्य देवता के ऊपर स्थित होता है।"
   },
   {
     "id": 39,
-    "question": "गुप्तकालीन साहित्य में कौन से तत्व शिक्षा और मनोरंजन दोनों के लिए प्रयुक्त हुए? / Which elements in Gupta period literature were used for both education and entertainment?",
+    "question": "पाल्लव सामंत व्यवस्था में सामंतों की भूमिका क्या थी? / What was the role of feudatories in Pallava feudal system?",
     "options": {
-      "A": "Fables",
-      "B": "Epic poetry",
-      "C": "Romantic subplots",
-      "D": "Political treatises"
+      "A": "सैन्य सहायता / Military support",
+      "B": "स्थानीय प्रशासन / Local administration",
+      "C": "सिर्फ धार्मिक अनुष्ठान / Only religious rituals",
+      "D": "माल और कर संग्रह / Collection of goods and taxes"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्तकालीन साहित्य में पंचतंत्र जैसी कथाएँ, महाकाव्य और प्रेमकथाएँ शिक्षा और मनोरंजन दोनों प्रदान करती हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "सामंत सैन्य, स्थानीय प्रशासन और कर संग्रह में योगदान देते थे।"
   },
   {
     "id": 40,
-    "question": "कालिदास और बाणभट्ट की काव्य शैली में क्या मुख्य अंतर है? / What is the main difference between Kalidasa and Bana Bhatta's poetic style?",
+    "question": "पाल्लवों की स्थापत्य और साहित्यिक विरासत का मुख्य उद्देश्य क्या था? / What was the main purpose of Pallava architectural and literary heritage?",
     "options": {
-      "A": "Kalidasa focuses on nature and emotions",
-      "B": "Bana Bhatta emphasizes imaginative narrative",
-      "C": "Kalidasa writes historical accounts",
-      "D": "Bana Bhatta writes religious poetry"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कालिदास प्रकृति और भावनाओं पर केंद्रित हैं, जबकि बाणभट्ट कल्पनात्मक कथा और कहानी में अधिक निपुण हैं।"
-  },
-  {
-    "id": 41,
-    "question": "आर्यभट के किस योगदान से शून्य (zero) और स्थान मान प्रणाली में सुधार हुआ? / Which contribution of Aryabhata improved the concept of zero and place value system?",
-    "options": {
-      "A": "Aryabhatiya",
-      "B": "Brihat Samhita",
-      "C": "Brahmasphutasiddhanta",
-      "D": "Pancha Siddhantika"
-    },
-    "answer": ["A"],
-    "explanation": "'आर्यभटीय' में स्थान मान प्रणाली और शून्य के प्रारंभिक विचार का वर्णन है।"
-  },
-  {
-    "id": 42,
-    "question": "आर्यभट ने पृथ्वी के किस पहलू पर प्रकाश डाला? / Which aspect of Earth did Aryabhata emphasize?",
-    "options": {
-      "A": "Earth's rotation on its axis",
-      "B": "Earth's orbit around the Sun",
-      "C": "Tectonic movements",
-      "D": "Magnetic field"
-    },
-    "answer": ["A"],
-    "explanation": "आर्यभट ने पृथ्वी के अक्ष पर घूमने और सूर्य तथा चंद्र ग्रहण की व्याख्या दी।"
-  },
-  {
-    "id": 43,
-    "question": "आर्यभट के योगदान में त्रिकोणमिति के कौन से पहलू शामिल हैं? / Which aspects of trigonometry are included in Aryabhata's contributions?",
-    "options": {
-      "A": "Sine tables",
-      "B": "Chord calculations",
-      "C": "Tangent functions",
-      "D": "Pi approximation"
-    },
-    "answer": ["A", "B"],
-    "explanation": "आर्यभट ने साइन तालिकाओं और रेखांश (chords) का उपयोग किया।"
-  },
-  {
-    "id": 44,
-    "question": "वराहमिहिर के 'बृहहत्संहिता' में किन विषयों का समावेश है? / Which subjects are included in Varahamihira's 'Brihat Samhita'?",
-    "options": {
-      "A": "Astronomy and planetary movements",
-      "B": "Meteorology and rainfall",
-      "C": "Astrology and eclipses",
-      "D": "Surgery techniques"
+      "A": "धार्मिक अनुष्ठान और पूजा / Religious rituals and worship",
+      "B": "राजनीतिक और सैन्य प्रतिष्ठा / Political and military prestige",
+      "C": "सांस्कृतिक और साहित्यिक आदान-प्रदान / Cultural and literary exchange",
+      "D": "केवल सजावटी उद्देश्य / Only decorative purpose"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "'बृहहत्संहिता' में खगोल, ग्रहण, मौसम और ज्योतिष संबंधी जानकारी दी गई है।"
-  },
-  {
-    "id": 45,
-    "question": "वराहमिहिर के 'पञ्चसिद्धान्तिका' का उद्देश्य क्या था? / What was the purpose of Varahamihira's 'Pancha Siddhantika'?",
-    "options": {
-      "A": "Summary of five astronomical treatises",
-      "B": "Medical and surgical techniques",
-      "C": "Poetic and dramatic works",
-      "D": "Mathematical proofs only"
-    },
-    "answer": ["A"],
-    "explanation": "'पञ्चसिद्धान्तिका' में पांच खगोलशास्त्र ग्रंथों का सार प्रस्तुत किया गया।"
-  },
-  {
-    "id": 46,
-    "question": "ब्रह्मगुप्त ने शून्य के किस पहलू को अंक के रूप में स्थापित किया? / Which aspect of zero did Brahmagupta establish?",
-    "options": {
-      "A": "Zero as a number",
-      "B": "Zero as a placeholder",
-      "C": "Zero in algebraic equations",
-      "D": "Zero in trigonometric tables"
-    },
-    "answer": ["A", "C"],
-    "explanation": "ब्रह्मगुप्त ने शून्य को पूर्णांक और बीजगणित में उपयोगी संख्या के रूप में स्थापित किया।"
-  },
-  {
-    "id": 47,
-    "question": "ब्रह्मगुप्त ने कौन से अंकगणित और बीजगणितीय नियम दिए? / Which arithmetic and algebraic rules did Brahmagupta provide?",
-    "options": {
-      "A": "Rules for negative numbers",
-      "B": "Rules for zero",
-      "C": "Pi approximation",
-      "D": "Sine tables"
-    },
-    "answer": ["A", "B"],
-    "explanation": "ब्रह्मगुप्त ने ऋणात्मक संख्याओं और शून्य के नियम दिए।"
-  },
-  {
-    "id": 48,
-    "question": "सुश्रुत का कौन सा योगदान आधुनिक सर्जरी में महत्वपूर्ण है? / Which contribution of Sushruta is significant in modern surgery?",
-    "options": {
-      "A": "Plastic surgery",
-      "B": "Cataract surgery",
-      "C": "Heart transplantation",
-      "D": "Disease classification"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "सुश्रुत ने प्लास्टिक और मोतियाबिंद सर्जरी के साथ रोगों का वर्गीकरण और उपचार दिए।"
-  },
-  {
-    "id": 49,
-    "question": "चरक संहिता का मुख्य उद्देश्य क्या है? / What is the main purpose of Charaka Samhita?",
-    "options": {
-      "A": "Ayurvedic internal medicine",
-      "B": "Surgical techniques",
-      "C": "Diagnostics and pharmacology",
-      "D": "Trigonometric calculations"
-    },
-    "answer": ["A", "C"],
-    "explanation": "'चरक संहिता' आयुर्वेद में निदान, औषध शास्त्र और उपचार के सिद्धांतों पर केंद्रित है।"
-  },
-  {
-    "id": 50,
-    "question": "आर्यभट और ब्रह्मगुप्त के बीच कौन सा मुख्य अंतर है? / What is the main difference between Aryabhata and Brahmagupta?",
-    "options": {
-      "A": "Aryabhata introduced place value system partially",
-      "B": "Brahmagupta formalized zero as a number",
-      "C": "Aryabhata worked in medicine",
-      "D": "Brahmagupta discovered sine tables"
-    },
-    "answer": ["A", "B"],
-    "explanation": "आर्यभट ने स्थान मान प्रणाली शुरू की, जबकि ब्रह्मगुप्त ने शून्य को पूर्णांक के रूप में स्थापित किया।"
-  },
-  {
-    "id": 51,
-    "question": "वराहमिहिर के कौन से योगदान मौसम और प्राकृतिक घटनाओं का अनुमान लगाने में सहायक हैं? / Which contributions of Varahamihira help in predicting weather and natural phenomena?",
-    "options": {
-      "A": "Brihat Samhita",
-      "B": "Pancha Siddhantika",
-      "C": "Aryabhatiya",
-      "D": "Brahmasphutasiddhanta"
-    },
-    "answer": ["A", "B"],
-    "explanation": "'बृहहत्संहिता' और 'पञ्चसिद्धान्तिका' मौसम और प्राकृतिक घटनाओं का पूर्वानुमान लगाने में मदद करती हैं।"
-  },
-  {
-    "id": 52,
-    "question": "कौन सा ग्रंथ ब्रह्मगुप्त के गणितीय योगदान को दर्शाता है? / Which text reflects Brahmagupta's mathematical contributions?",
-    "options": {
-      "A": "Brahmasphutasiddhanta",
-      "B": "Aryabhatiya",
-      "C": "Brihat Samhita",
-      "D": "Pancha Siddhantika"
-    },
-    "answer": ["A"],
-    "explanation": "'ब्रह्मस्फुटसिद्धांत' ब्रह्मगुप्त के शून्य, ऋणात्मक संख्या और बीजगणितीय नियमों को प्रस्तुत करता है।"
-  },
-  {
-    "id": 53,
-    "question": "आर्यभट ने π (pi) का किस प्रकार अनुमान लगाया? / How did Aryabhata approximate π (pi)?",
-    "options": {
-      "A": "Geometrical calculation",
-      "B": "Infinite series",
-      "C": "Trigonometric method",
-      "D": "Algebraic formula"
-    },
-    "answer": ["A", "C"],
-    "explanation": "आर्यभट ने π का अनुमान ज्यामितीय और त्रिकोणमितीय विधियों से लगाया।"
-  },
-  {
-    "id": 54,
-    "question": "सुश्रुत और चरक का कौन सा सामान्य उद्देश्य है? / What is the common purpose of Sushruta and Charaka?",
-    "options": {
-      "A": "Medical treatment and diagnostics",
-      "B": "Astronomical calculations",
-      "C": "Surgical procedures",
-      "D": "Mathematical proofs"
-    },
-    "answer": ["A", "C"],
-    "explanation": "सुश्रुत और चरक दोनों का मुख्य उद्देश्य चिकित्सा, निदान और सर्जरी में सुधार है।"
-  },
-  {
-    "id": 55,
-    "question": "किस ग्रंथ में ग्रहों की गति और भविष्यफल का अध्ययन किया गया है? / In which text are planetary motions and predictions studied?",
-    "options": {
-      "A": "Brihat Samhita",
-      "B": "Pancha Siddhantika",
-      "C": "Aryabhatiya",
-      "D": "Charaka Samhita"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "'बृहहत्संहिता', 'पञ्चसिद्धान्तिका' और 'आर्यभटीय' में ग्रहों की गति और ज्योतिषीय गणना शामिल हैं।"
-  },
-  {
-    "id": 56,
-    "question": "कौन से गणितज्ञ त्रिकोणमिति और बीजगणित में योगदान देने वाले थे? / Which mathematicians contributed to trigonometry and algebra?",
-    "options": {
-      "A": "Aryabhata",
-      "B": "Brahmagupta",
-      "C": "Varahamihira",
-      "D": "Khandakhadyaka"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "आर्यभट, ब्रह्मगुप्त और खंडाखाद्यक ने त्रिकोणमिति और बीजगणित में योगदान दिया।"
-  },
-  {
-    "id": 57,
-    "question": "वराहमिहिर का कौन सा योगदान भविष्यवाणी और गणना में महत्वपूर्ण है? / Which contribution of Varahamihira is significant for predictions and calculations?",
-    "options": {
-      "A": "Predictive astronomy",
-      "B": "Planetary calculations",
-      "C": "Surgical techniques",
-      "D": "Ayurvedic formulations"
-    },
-    "answer": ["A", "B"],
-    "explanation": "वराहमिहिर ने ग्रहों की गणना और भविष्यवाणी के लिए महत्वपूर्ण योगदान दिया।"
-  },
-  {
-    "id": 58,
-    "question": "ब्रह्मगुप्त और आर्यभट के कौन से गणितीय योगदान समान हैं? / Which mathematical contributions are common between Brahmagupta and Aryabhata?",
-    "options": {
-      "A": "Trigonometry",
-      "B": "Pi approximation",
-      "C": "Zero as number",
-      "D": "Algebraic rules"
-    },
-    "answer": ["A", "B"],
-    "explanation": "दोनों गणितज्ञों ने त्रिकोणमिति और π के अनुमान में योगदान दिया।"
-  },
-  {
-    "id": 59,
-    "question": "सुश्रुत संहिता और चरक संहिता में रोगों के अध्ययन और उपचार का कौन सा पहलू पाया जाता है? / Which aspect of disease study and treatment is found in Sushruta and Charaka Samhita?",
-    "options": {
-      "A": "Classification of diseases",
-      "B": "Surgical methods",
-      "C": "Astrological predictions",
-      "D": "Trigonometric tables"
-    },
-    "answer": ["A", "B"],
-    "explanation": "सुश्रुत और चरक संहिता में रोगों का वर्गीकरण और सर्जिकल उपचार का विवरण है।"
-  },
-  {
-    "id": 60,
-    "question": "आर्यभट, ब्रह्मगुप्त और वराहमिहिर की कौन सी विशेषता समान है? / What common feature is found among Aryabhata, Brahmagupta, and Varahamihira?",
-    "options": {
-      "A": "Mathematics and Astronomy expertise",
-      "B": "Contribution to Ayurveda",
-      "C": "Trigonometry knowledge",
-      "D": "Surgical innovations"
-    },
-    "answer": ["A", "C"],
-    "explanation": "तीनों गणित और खगोलशास्त्र में निपुण थे और त्रिकोणमिति में योगदान दिया।"
+    "explanation": "पाल्लव विरासत का उद्देश्य धार्मिक, राजनीतिक प्रतिष्ठा और सांस्कृतिक आदान-प्रदान सभी था।"
   }
 ]
-
 
