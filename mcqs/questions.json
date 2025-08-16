@@ -1,223 +1,242 @@
 [
-  {
-    "id": 1,
-    "question": "निम्नलिखित में से कौन-सा अधिकार भारतीय संविधान में मूल अधिकार नहीं है, किंतु न्यायपालिका द्वारा मौलिक अधिकार का स्वरूप दिया गया है?",
-    "options": {
-      "A": "राइट टू प्राइवेसी (Right to Privacy)",
-      "B": "राइट टू एजुकेशन (Right to Education)",
-      "C": "राइट टू इनफॉर्मेशन (Right to Information)",
-      "D": "राइट टू वर्क (Right to Work)"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 2,
-    "question": "मेनका गांधी बनाम भारत सरकार (1978) में सर्वोच्च न्यायालय ने किस अनुच्छेद की व्याख्या करते हुए 'नैसर्गिक न्याय' की अवधारणा को मूल अधिकारों में जोड़ा?",
-    "options": {
-      "A": "अनुच्छेद 19",
-      "B": "अनुच्छेद 21",
-      "C": "अनुच्छेद 22",
-      "D": "अनुच्छेद 32"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 3,
-    "question": "केसवानंद भारती बनाम केरल राज्य (1973) निर्णय के संबंध में कौन-सा कथन सत्य है?",
-    "options": {
-      "A": "संसद संविधान में किसी भी प्रकार का संशोधन कर सकती है।",
-      "B": "मूल अधिकार स्थायी नहीं होते।",
-      "C": "संविधान की मूल संरचना को संशोधित नहीं किया जा सकता।",
-      "D": "न्यायपालिका संविधान संशोधन को रद्द नहीं कर सकती।"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 4,
-    "question": "अनुच्छेद 15(3) और 15(4) के संदर्भ में किस संशोधन द्वारा राज्य को सामाजिक और शैक्षिक पिछड़े वर्गों के लिए विशेष उपबंध बनाने की अनुमति दी गई?",
-    "options": {
-      "A": "1st संशोधन",
-      "B": "42nd संशोधन",
-      "C": "93rd संशोधन",
-      "D": "86th संशोधन"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 5,
-    "question": "संपत्ति का अधिकार अब मूल अधिकार नहीं है। यह परिवर्तन किस संशोधन के माध्यम से किया गया?",
-    "options": {
-      "A": "42nd संशोधन",
-      "B": "44th संशोधन",
-      "C": "24th संशोधन",
-      "D": "86th संशोधन"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 6,
-    "question": "Right to Education को Fundamental Right कब घोषित किया गया?",
-    "options": {
-      "A": "1992 के बाद",
-      "B": "86th Amendment, 2002 के द्वारा",
-      "C": "P.A. Inamdar केस द्वारा",
-      "D": "Unnikrishnan Judgment (1993) के द्वारा"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 7,
-    "question": "Puttaswamy Judgment (2017) के अनुसार, Right to Privacy किस पर आधारित मौलिक अधिकार है?",
-    "options": {
-      "A": "19, 21 और 25",
-      "B": "19 और 22",
-      "C": "14, 19 और 21",
-      "D": "14 और 17"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 8,
-    "question": "संसद किस स्थिति में अनुच्छेद 13 के अंतर्गत मौलिक अधिकारों को शून्य कर सकती है?",
-    "options": {
-      "A": "केवल संविधान संशोधन के माध्यम से",
-      "B": "साधारण विधेयक से",
-      "C": "अंतरिम अध्यादेश द्वारा",
-      "D": "कोई भी तरीका नहीं है"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 9,
-    "question": "Doctrine of Eclipse का संबंध किससे है?",
-    "options": {
-      "A": "मूल संरचना सिद्धांत से",
-      "B": "पूर्ववर्ती कानूनों की वैधता से",
-      "C": "लोकतांत्रिक सिद्धांतों से",
-      "D": "आपातकालीन प्रावधानों से"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 10,
-    "question": "न्यायपालिका के अनुसार, 'Right to Marry' किस अनुच्छेद के अंतर्गत आता है?",
-    "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 25"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 11,
-    "question": "संविधान के किस भाग में मौलिक अधिकार वर्णित हैं?",
-    "options": {
-      "A": "भाग 2",
-      "B": "भाग 3",
-      "C": "भाग 4",
-      "D": "भाग 5"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 12,
-    "question": "किस अनुच्छेद के अंतर्गत राष्ट्रपति आपातकाल की स्थिति में मौलिक अधिकारों को निलंबित कर सकता है?",
-    "options": {
-      "A": "अनुच्छेद 356",
-      "B": "अनुच्छेद 360",
-      "C": "अनुच्छेद 352",
-      "D": "अनुच्छेद 359"
-    },
-    "answer": "D"
-  },
-  {
-    "id": 13,
-    "question": "Supreme Court ने Right to Die को किस आधार पर अस्वीकार किया?",
-    "options": {
-      "A": "यह Article 21 का उल्लंघन करता है।",
-      "B": "यह Article 19 का उल्लंघन करता है।",
-      "C": "यह नैतिक रूप से अनुचित है।",
-      "D": "कोई स्पष्ट निर्णय नहीं है।"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 14,
-    "question": "Equality before law and equal protection of laws किस अनुच्छेद में वर्णित है?",
-    "options": {
-      "A": "अनुच्छेद 14",
-      "B": "अनुच्छेद 16",
-      "C": "अनुच्छेद 19",
-      "D": "अनुच्छेद 21"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 15,
-    "question": "Nabam Rebia judgment का किस मौलिक सिद्धांत से संबंध है?",
-    "options": {
-      "A": "Freedom of speech",
-      "B": "Doctrine of Basic Structure",
-      "C": "Speaker की निष्पक्षता",
-      "D": "Right to Equality"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 16,
-    "question": "Kesavananda Bharati केस का परिणाम क्या था?",
-    "options": {
-      "A": "आपातकाल घोषित हुआ",
-      "B": "मूल संरचना सिद्धांत स्थापित हुआ",
-      "C": "RTI लागू हुआ",
-      "D": "संपत्ति का अधिकार हटाया गया"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "question": "कौन सा अधिकार केवल भारतीय नागरिकों को उपलब्ध है?",
-    "options": {
-      "A": "Right to Equality",
-      "B": "Freedom of Speech and Expression",
-      "C": "Right to Life",
-      "D": "Freedom of Religion"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 18,
-    "question": "न्यायालय ने 'Triple Talaq' को किस मौलिक अधिकार का उल्लंघन माना?",
-    "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 25",
-      "D": "Article 29"
-    },
-    "answer": "A"
-  },
-  {
-  "id": 19,
-  "question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
-  "options": {
-    "A": "Maneka Gandhi Case",
-    "B": "A.K. Gopalan Case",
-    "C": "K.S. Puttaswamy Case",
-    "D": "Minerva Mills Case"
-  },
-  "answer": "C"
+{
+"id": 1,
+"question": "निम्नलिखित में से कौन-सा अधिकार भारतीय संविधान में मूल अधिकार नहीं है, किंतु न्यायपालिका द्वारा मौलिक अधिकार का स्वरूप दिया गया है?",
+"options": {
+"A": "राइट टू प्राइवेसी (Right to Privacy)",
+"B": "राइट टू एजुकेशन (Right to Education)",
+"C": "राइट टू इनफॉर्मेशन (Right to Information)",
+"D": "राइट टू वर्क (Right to Work)"
+},
+"answer": "A",
+"explanation": "Right to Privacy संविधान के भाग III में मूल रूप से लिखित नहीं था; K.S. Puttaswamy (2017) की 9-न्यायाधीश पीठ ने इसे अनुच्छेद 14, 19 और 21 के भीतर जीवन व स्वतंत्रता का अभिन्न हिस्सा मानकर मौलिक अधिकार घोषित किया। RTE 86वें संशोधन (2002) से Article 21A के रूप में मूल अधिकार बना; RTI मुख्यतः 2005 के अधिनियम से लागू है, यद्यपि इसकी जड़ें अनु. 19(1)(a) में मानी गई हैं; Right to Work अनु. 41 (डीपीएसपी) में है, मौलिक अधिकार नहीं। / Privacy was not textually enumerated in Part III; a 9-judge bench in K.S. Puttaswamy (2017) held it intrinsic to Articles 14, 19 and 21, thus a Fundamental Right. RTE became a Fundamental Right via the 86th Amendment (Article 21A). RTI is primarily statutory (2005 Act) though derived from Article 19(1)(a). Right to Work is a DPSP under Article 41, not a Fundamental Right."
 },
 {
-  "id": 20,
-  "question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
-  "options": {
-    "A": "Maneka Gandhi Case",
-    "B": "A.K. Gopalan Case",
-    "C": "K.S. Puttaswamy Case",
-    "D": "Minerva Mills Case"
-  },
-  "answer": "C"
+"id": 2,
+"question": "मेनका गांधी बनाम भारत सरकार (1978) में सर्वोच्च न्यायालय ने किस अनुच्छेद की व्याख्या करते हुए 'नैसर्गिक न्याय' की अवधारणा को मूल अधिकारों में जोड़ा?",
+"options": {
+"A": "अनुच्छेद 19",
+"B": "अनुच्छेद 21",
+"C": "अनुच्छेद 22",
+"D": "अनुच्छेद 32"
+},
+"answer": "B",
+"explanation": "मेनका गांधी (1978) में अदालत ने कहा कि अनु. 21 के अंतर्गत 'कानून द्वारा स्थापित प्रक्रिया' मनमानी नहीं हो सकती; वह निष्पक्ष, उचित और न्यायसंगत (fair, just, reasonable) होनी चाहिए और नैसर्गिक न्याय के सिद्धांतों को समाहित करती है। साथ ही 14-19-21 का आपसी ‘इंटरलॉकिंग’ भी स्थापित हुआ। / In Maneka Gandhi (1978), the Court read Article 21’s “procedure established by law” to mean fair, just and reasonable, incorporating natural justice and linking Articles 14, 19 and 21."
+},
+{
+"id": 3,
+"question": "केसवानंद भारती बनाम केरल राज्य (1973) निर्णय के संबंध में कौन-सा कथन सत्य है?",
+"options": {
+"A": "संसद संविधान में किसी भी प्रकार का संशोधन कर सकती है।",
+"B": "मूल अधिकार स्थायी नहीं होते।",
+"C": "संविधान की मूल संरचना को संशोधित नहीं किया जा सकता।",
+"D": "न्यायपालिका संविधान संशोधन को रद्द नहीं कर सकती।"
+},
+"answer": "C",
+"explanation": "केसवानंद (1973) में ‘मूल संरचना सिद्धांत’ स्थापित हुआ—संसद अनु. 368 के तहत संशोधन कर सकती है परंतु संविधान की मूल संरचना (जैसे संवैधानिक सर्वोच्चता, न्यायिक समीक्षा, संघवाद, गणतंत्रात्मकता आदि) को नष्ट/परिवर्तित नहीं कर सकती। / Kesavananda Bharati (1973) propounded the Basic Structure doctrine: Parliament may amend under Article 368 but cannot alter/destroy the Constitution’s basic structure."
+},
+{
+"id": 4,
+"question": "अनुच्छेद 15(3) और 15(4) के संदर्भ में किस संशोधन द्वारा राज्य को सामाजिक और शैक्षिक पिछड़े वर्गों के लिए विशेष उपबंध बनाने की अनुमति दी गई?",
+"options": {
+"A": "1st संशोधन",
+"B": "42nd संशोधन",
+"C": "93rd संशोधन",
+"D": "86th संशोधन"
+},
+"answer": "A",
+"explanation": "प्रथम संशोधन, 1951 द्वारा अनु. 15(4) जोड़ा गया जिससे राज्य SEBCs/SCs/STs के शैक्षिक उन्नयन हेतु विशेष प्रावधान कर सके। अनु. 15(3) मूल रूप से महिलाओं व बच्चों के लिए विशेष उपबंध की अनुमति देता था; बाद में 93वां संशोधन (2005) ने 15(5) जोड़ा (शैक्षिक संस्थानों में आरक्षण)। / The First Amendment (1951) inserted Article 15(4) enabling special provisions for SEBCs/SCs/STs. Article 15(3) existed for women/children; later, the 93rd Amendment (2005) added 15(5) for reservations in educational institutions."
+},
+{
+"id": 5,
+"question": "संपत्ति का अधिकार अब मूल अधिकार नहीं है। यह परिवर्तन किस संशोधन के माध्यम से किया गया?",
+"options": {
+"A": "42nd संशोधन",
+"B": "44th संशोधन",
+"C": "24th संशोधन",
+"D": "86th संशोधन"
+},
+"answer": "B",
+"explanation": "44वें संशोधन (1978) ने अनु. 31 को हटाकर संपत्ति के अधिकार को मौलिक अधिकार से हटाया और अनु. 300A के रूप में संवैधानिक/कानूनी अधिकार बनाया—‘किसी व्यक्ति को विधि द्वारा प्राधिकृत किए बिना संपत्ति से वंचित नहीं किया जाएगा।’ / The 44th Amendment (1978) deleted Article 31, moving property from a Fundamental Right to a constitutional/legal right under Article 300A."
+},
+{
+"id": 6,
+"question": "Right to Education को Fundamental Right कब घोषित किया गया?",
+"options": {
+"A": "1992 के बाद",
+"B": "86th Amendment, 2002 के द्वारा",
+"C": "P.A. Inamdar केस द्वारा",
+"D": "Unnikrishnan Judgment (1993) के द्वारा"
+},
+"answer": "B",
+"explanation": "86वें संशोधन (2002) ने Article 21A जोड़ा, 6–14 वर्ष के बच्चों के लिए निशुल्क व अनिवार्य शिक्षा को मौलिक अधिकार बनाया। Unnikrishnan (1993) ने शिक्षा को अनु. 21 से जोड़कर मार्ग प्रशस्त किया था, पर संविधान में मूल अधिकार का दर्जा 2002 में मिला; RTE Act, 2009 से क्रियान्वयन हुआ। / The 86th Amendment (2002) inserted Article 21A making free and compulsory education for 6–14 a Fundamental Right; Unnikrishnan (1993) paved the way; the RTE Act (2009) operationalized it."
+},
+{
+"id": 7,
+"question": "Puttaswamy Judgment (2017) के अनुसार, Right to Privacy किस पर आधारित मौलिक अधिकार है?",
+"options": {
+"A": "19, 21 और 25",
+"B": "19 और 22",
+"C": "14, 19 और 21",
+"D": "14 और 17"
+},
+"answer": "C",
+"explanation": "K.S. Puttaswamy (2017) ने निजता को मानव गरिमा का आधार मानते हुए अनु. 14 (समता), 19 (स्वतंत्रताएँ) और 21 (जीवन व व्यक्तिगत स्वतंत्रता) से निकला मौलिक अधिकार माना। / The 9-judge bench held privacy is intrinsic to dignity and flows from Articles 14, 19 and 21."
+},
+{
+"id": 8,
+"question": "संसद किस स्थिति में अनुच्छेद 13 के अंतर्गत मौलिक अधिकारों को शून्य कर सकती है?",
+"options": {
+"A": "केवल संविधान संशोधन के माध्यम से",
+"B": "साधारण विधेयक से",
+"C": "अंतरिम अध्यादेश द्वारा",
+"D": "कोई भी तरीका नहीं है"
+},
+"answer": "A",
+"explanation": "अनु. 13(2) के तहत साधारण कानून यदि मौलिक अधिकारों के विपरीत है तो वह शून्य है; पर संविधान संशोधन (अनु. 368) को 24वें संशोधन व केसवानंद के बाद ‘कानून’ नहीं माना गया—अर्थात संसद Part III में संशोधन कर सकती है, पर ‘मूल संरचना’ का उल्लंघन नहीं। / Ordinary laws contrary to Part III are void under Article 13(2). Post the 24th Amendment and Kesavananda, constitutional amendments under Article 368 are not ‘law’ for Article 13, though they remain subject to the Basic Structure limit."
+},
+{
+"id": 9,
+"question": "Doctrine of Eclipse का संबंध किससे है?",
+"options": {
+"A": "मूल संरचना सिद्धांत से",
+"B": "पूर्ववर्ती कानूनों की वैधता से",
+"C": "लोकतांत्रिक सिद्धांतों से",
+"D": "आपातकालीन प्रावधानों से"
+},
+"answer": "B",
+"explanation": "Doctrine of Eclipse के अनुसार संविधान-पूर्व वे कानून जो मौलिक अधिकारों से असंगत हैं, वे पूर्णत: शून्य नहीं बल्कि ‘आच्छादित/निष्क्रिय’ माने जाते हैं और असंगति दूर होते ही पुनर्जीवित हो सकते हैं; यह सिद्धांत सामान्यतः प्री-कॉन्स्टिट्यूशन कानूनों पर लागू होता है। / Laws pre-dating the Constitution inconsistent with FRs are eclipsed (inoperative) rather than void ab initio and can revive if the inconsistency is removed; typically applicable to pre-constitutional laws."
+},
+{
+"id": 10,
+"question": "न्यायपालिका के अनुसार, 'Right to Marry' किस अनुच्छेद के अंतर्गत आता है?",
+"options": {
+"A": "Article 14",
+"B": "Article 19",
+"C": "Article 21",
+"D": "Article 25"
+},
+"answer": "C",
+"explanation": "विवाह का अधिकार, जीवन व व्यक्तिगत स्वतंत्रता (अनु. 21) से निकला अधिकार माना गया है—जैसे Lata Singh (2006), Shafin Jahan (2018) में वयस्कों की पसंद से विवाह/साथी चुनने के अधिकार की पुष्टि की गई। / Courts have held the right to marry/choose a partner is part of Article 21—see Lata Singh (2006), Shafin Jahan (2018)."
+},
+{
+"id": 11,
+"question": "संविधान के किस भाग में मौलिक अधिकार वर्णित हैं?",
+"options": {
+"A": "भाग 2",
+"B": "भाग 3",
+"C": "भाग 4",
+"D": "भाग 5"
+},
+"answer": "B",
+"explanation": "मौलिक अधिकार संविधान के भाग III (अनुच्छेद 12–35) में निहित हैं। / Fundamental Rights are contained in Part III (Articles 12–35) of the Constitution."
+},
+{
+"id": 12,
+"question": "किस अनुच्छेद के अंतर्गत राष्ट्रपति आपातकाल की स्थिति में मौलिक अधिकारों को निलंबित कर सकता है?",
+"options": {
+"A": "अनुच्छेद 356",
+"B": "अनुच्छेद 360",
+"C": "अनुच्छेद 352",
+"D": "अनुच्छेद 359"
+},
+"answer": "D",
+"explanation": "अनु. 359 के तहत राष्ट्रपति कुछ मौलिक अधिकारों के प्रवर्तन (enforcement) को निलंबित कर सकता है; 44वें संशोधन के बाद अनु. 20 व 21 का प्रवर्तन निलंबित नहीं किया जा सकता। अनु. 352 राष्ट्रीय आपातकाल घोषित करता है, 356 राज्य में राष्ट्रपति शासन और 360 वित्तीय आपातकाल; ये स्वयं प्रवर्तन-निलंबन का प्रावधान नहीं देते। / Under Article 359, the President may suspend enforcement of specified FRs during Emergency; after the 44th Amendment, Articles 20 and 21 cannot be suspended."
+},
+{
+"id": 13,
+"question": "Supreme Court ने Right to Die को किस आधार पर अस्वीकार किया?",
+"options": {
+"A": "यह Article 21 का उल्लंघन करता है।",
+"B": "यह Article 19 का उल्लंघन करता है।",
+"C": "यह नैतिक रूप से अनुचित है।",
+"D": "कोई स्पष्ट निर्णय नहीं है।"
+},
+"answer": "A",
+"explanation": "Gian Kaur (1996) में SC ने P. Rathinam (1994) को पलटते हुए कहा कि अनु. 21 ‘जीवन’ की रक्षा करता है, स्वेच्छा से जीवन-समापन का अधिकार इसमें निहित नहीं; अतः ‘राइट टू डाई’ अनु. 21 के विपरीत है। बाद में Common Cause (2018) ने गरिमापूर्ण मृत्यु/निष्क्रिय इच्छामृत्यु व ‘लिविंग विल’ को अनु. 21 के तहत स्वीकार किया। / In Gian Kaur (1996), the Court held Article 21 protects life, not its extinction; thus no general right to die under Article 21. Later, Common Cause (2018) recognized passive euthanasia and living wills as part of dignity under Article 21."
+},
+{
+"id": 14,
+"question": "Equality before law and equal protection of laws किस अनुच्छेद में वर्णित है?",
+"options": {
+"A": "अनुच्छेद 14",
+"B": "अनुच्छेद 16",
+"C": "अनुच्छेद 19",
+"D": "अनुच्छेद 21"
+},
+"answer": "A",
+"explanation": "अनुच्छेद 14 ‘कानून के समक्ष समानता’ और ‘कानूनों के समान संरक्षण’ की गारंटी देता है—मनमानी के विरुद्ध तर्कसंगत वर्गीकरण की कसौटी भी यहीं से विकसित हुई। / Article 14 guarantees equality before law and equal protection of the laws, forming the basis for tests against arbitrariness and reasonable classification."
+},
+{
+"id": 15,
+"question": "Nabam Rebia judgment का किस मौलिक सिद्धांत से संबंध है?",
+"options": {
+"A": "Freedom of speech",
+"B": "Doctrine of Basic Structure",
+"C": "Speaker की निष्पक्षता",
+"D": "Right to Equality"
+},
+"answer": "C",
+"explanation": "Nabam Rebia (2016, अरुणाचल प्रदेश) में SC ने कहा कि जब स्पीकर के विरुद्ध हटाने का प्रस्ताव लंबित हो, तो वे दोष-निर्धारण (Tenth Schedule) पर निर्णय नहीं ले सकते—यह स्पीकर की निष्पक्षता व संवैधानिक नैतिकता की रक्षा हेतु है। / The Court held that while a motion to remove the Speaker is pending, the Speaker cannot adjudicate disqualification petitions—reinforcing neutrality and constitutional morality."
+},
+{
+"id": 16,
+"question": "Kesavananda Bharati केस का परिणाम क्या था?",
+"options": {
+"A": "आपातकाल घोषित हुआ",
+"B": "मूल संरचना सिद्धांत स्थापित हुआ",
+"C": "RTI लागू हुआ",
+"D": "संपत्ति का अधिकार हटाया गया"
+},
+"answer": "B",
+"explanation": "केसवानंद (1973) का मुख्य निष्कर्ष—मूल संरचना सिद्धांत—संसद के संशोधनाधिकार को मानते हुए भी उसके सीमा-निर्धारण को स्थिर करता है। / The case established the Basic Structure doctrine, limiting Parliament’s amending power."
+},
+{
+"id": 17,
+"question": "कौन सा अधिकार केवल भारतीय नागरिकों को उपलब्ध है?",
+"options": {
+"A": "Right to Equality",
+"B": "Freedom of Speech and Expression",
+"C": "Right to Life",
+"D": "Freedom of Religion"
+},
+"answer": "B",
+"explanation": "अनु. 19 के अंतर्गत स्वतंत्रताएँ (जैसे अभिव्यक्ति की स्वतंत्रता) केवल ‘नागरिकों’ को मिलती हैं; जबकि अनु. 14 (समता), 21 (जीवन) और 25 (धर्म की स्वतंत्रता) ‘सभी व्यक्तियों’ पर लागू होते हैं। / Article 19 freedoms are for citizens only; Articles 14, 21 and 25 apply to all persons."
+},
+{
+"id": 18,
+"question": "न्यायालय ने 'Triple Talaq' को किस मौलिक अधिकार का उल्लंघन माना?",
+"options": {
+"A": "Article 14",
+"B": "Article 19",
+"C": "Article 25",
+"D": "Article 29"
+},
+"answer": "A",
+"explanation": "Shayara Bano (2017) में ‘तलाक-ए-बिद्दत’ को बहुमत ने असंवैधानिक ठहराया; इसे मनमाना बताते हुए समता (अनु. 14) के विरुद्ध माना गया और धार्मिक स्वतंत्रता (अनु. 25) के ‘आवश्यक धार्मिक प्रथा’ मानदंड पर भी प्रश्न उठा। / In Shayara Bano (2017), instant triple talaq was struck down as unconstitutional—arbitrary and violative of Article 14; it was also held not protected as an essential religious practice under Article 25."
+},
+{
+"id": 19,
+"question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
+"options": {
+"A": "Maneka Gandhi Case",
+"B": "A.K. Gopalan Case",
+"C": "K.S. Puttaswamy Case",
+"D": "Minerva Mills Case"
+},
+"answer": "C",
+"explanation": "K.S. Puttaswamy (2017) की 9-सदस्यीय पीठ ने निजता के अधिकार को मौलिक अधिकार घोषित किया—यह अनु. 14, 19, 21 से प्रवाहित होता है और गरिमा का केंद्र है। / The 9-judge bench in K.S. Puttaswamy (2017) affirmed privacy as a Fundamental Right flowing from Articles 14, 19 and 21."
+},
+{
+"id": 20,
+"question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
+"options": {
+"A": "Maneka Gandhi Case",
+"B": "A.K. Gopalan Case",
+"C": "K.S. Puttaswamy Case",
+"D": "Minerva Mills Case"
+},
+"answer": "C",
+"explanation": "यह भी K.S. Puttaswamy (2017) से संबंधित है—अदालत ने स्पष्ट किया कि निजता सूचना, शरीर, निर्णय और स्वायत्तता के विभिन्न पहलुओं में संरक्षित है और राज्य की किसी भी कार्रवाई को ‘वैध उद्देश्य—अनुपातिकता—वैधानिकता’ की कसौटी पर खरा उतरना होगा। / Again, K.S. Puttaswamy (2017): privacy spans informational, bodily and decisional autonomy; any State restriction must satisfy legality, legitimate aim and proportionality."
 }
 ]
-
