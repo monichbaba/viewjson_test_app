@@ -1,543 +1,858 @@
 [
-  {
-    "id": 1,
-    "question": "पाल वंश की स्थापना किसने की और इसका प्रमुख कारण क्या था? / Who founded the Pala dynasty and what was the main reason behind its establishment?",
-    "options": {
-      "A": "गोपाल – बंगाल में अराजकता समाप्त करने हेतु / Gopala – To end anarchy in Bengal",
-      "B": "धर्मपाल – कन्नौज विजय हेतु / Dharmapala – To conquer Kannauj",
-      "C": "विग्रहपाल – राजवंश की पुनःस्थापना हेतु / Vigrahapala – For restoration of dynasty",
-      "D": "देवपाल – तिब्बत अभियान हेतु / Devapala – For Tibet campaign"
+    {
+        "id": 1,
+        "question": "विजयनगर साम्राज्य की स्थापना किसने की थी? / Who founded the Vijayanagara Empire?",
+        "options": {
+            "A": "हरिहर I और बुक्का राय I / Harihara I and Bukka Raya I",
+            "B": "हरिहर II और बुक्का राय II / Harihara II and Bukka Raya II",
+            "C": "कृष्णदेवराय और अच्युतदेवराय / Krishnadevaraya and Achyuta Deva Raya",
+            "D": "देवराय I और देवराय II / Deva Raya I and Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "विजयनगर साम्राज्य की स्थापना 1336 में हरिहर I और उनके भाई बुक्का राय I ने की थी। / The Vijayanagara Empire was founded in 1336 by Harihara I and his brother Bukka Raya I."
     },
-    "answer": ["A"],
-    "explanation": "पाल वंश की स्थापना 8वीं शताब्दी में गोपाल ने की थी। बंगाल में लंबे समय तक अराजकता और छोटे-छोटे सरदारों की शक्ति को समाप्त करने हेतु जनता द्वारा चुना गया।"
-  },
-  {
-    "id": 2,
-    "question": "धर्मपाल के काल में पाल साम्राज्य की प्रमुख उपलब्धि क्या थी? / What was the major achievement of the Pala Empire under Dharmapala?",
-    "options": {
-      "A": "कन्नौज की त्रिपक्षीय संघर्ष में भागीदारी / Participation in Kannauj tripartite struggle",
-      "B": "नालंदा विश्वविद्यालय का उत्थान / Flourishment of Nalanda University",
-      "C": "गुजरात पर आक्रमण / Invasion of Gujarat",
-      "D": "प्रथम अरब आक्रमण का प्रतिकार / Repulsion of first Arab invasion"
+    {
+        "id": 2,
+        "question": "विजयनगर साम्राज्य के पहले शासक कौन थे? / Who was the first ruler of the Vijayanagara Empire?",
+        "options": {
+            "A": "संगमा वंश / Sangama Dynasty",
+            "B": "सलुवा वंश / Saluva Dynasty",
+            "C": "तुलुव वंश / Tuluva Dynasty",
+            "D": "अरविदु वंश / Aravidu Dynasty"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "संगमा वंश ने हरिहर I के साथ साम्राज्य की नींव रखी। / The Sangama Dynasty was the first to rule the Vijayanagara Empire, starting with Harihara I."
     },
-    "answer": ["A", "B"],
-    "explanation": "धर्मपाल ने कन्नौज के त्रिपक्षीय संघर्ष में हिस्सा लिया और नालंदा विश्वविद्यालय को विशेष संरक्षण दिया।"
-  },
-  {
-    "id": 3,
-    "question": "देवपाल की विजयों के संबंध में कौन-सा कथन सही है? / Which statements are correct regarding Devapala’s conquests?",
-    "options": {
-      "A": "उसने उड़ीसा और आसाम तक विस्तार किया / He expanded up to Odisha and Assam",
-      "B": "उसका प्रभाव तिब्बत और दक्षिण-पूर्व एशिया तक फैला / His influence reached Tibet and Southeast Asia",
-      "C": "उसने कन्नौज की गद्दी पर अधिकार कर लिया / He captured the throne of Kannauj",
-      "D": "उसने पाल साम्राज्य को चरमोत्कर्ष तक पहुँचाया / He brought the Pala Empire to its zenith"
+    {
+        "id": 3,
+        "question": "विजयनगर साम्राज्य अपने चरम पर किसके शासन में पहुंचा? / Under which ruler did the Vijayanagara Empire reach its peak?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय (1509–1529) के शासनकाल में साम्राज्य अपनी शक्ति और सांस्कृतिक समृद्धि के चरम पर पहुंचा। / Krishnadevaraya (1509–1529) is considered the most illustrious ruler of Vijayanagara Empire."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "देवपाल के काल में पाल साम्राज्य का विस्तार उड़ीसा, आसाम, तिब्बत और दक्षिण-पूर्व एशिया तक हुआ। इस समय पाल साम्राज्य अपने चरमोत्कर्ष पर था।"
-  },
-  {
-    "id": 4,
-    "question": "पाल वंश के सांस्कृतिक योगदान में कौन-कौन से पहलू प्रमुख हैं? / Which aspects were significant in the cultural contributions of the Pala dynasty?",
-    "options": {
-      "A": "पाली और संस्कृत साहित्य का संरक्षण / Patronage of Pali and Sanskrit literature",
-      "B": "वज्रयान बौद्ध धर्म का उत्कर्ष / Flourishment of Vajrayana Buddhism",
-      "C": "संगम साहित्य का विकास / Development of Sangam literature",
-      "D": "नालंदा और विक्रमशिला विश्वविद्यालय का निर्माण / Establishment of Nalanda and Vikramshila universities"
+    {
+        "id": 4,
+        "question": "नायकरा प्रणाली क्या थी? / What was the Nayankara system?",
+        "options": {
+            "A": "ब्राह्मणों को भूमि देने की प्रणाली / Land grants to Brahmins",
+            "B": "सैन्य-फ्यूडल प्रणाली / Military feudal system",
+            "C": "भूमि-राजस्व आधारित कर प्रणाली / Taxation based on land revenue",
+            "D": "वंशानुगत राजतंत्र / Hereditary monarchy"
+        },
+        "answer": [
+            "B"
+        ],
+        "explanation": "नायकरा प्रणाली में सैनिक कमांडरों को भूमि और सैन्य जिम्मेदारी दी जाती थी। / The Nayankara system granted land and military responsibilities to commanders (Nayaks) in exchange for loyalty."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पाल शासकों ने बौद्ध धर्म विशेषकर वज्रयान संप्रदाय को बढ़ावा दिया तथा नालंदा और विक्रमशिला जैसे विश्वविद्यालयों को संरक्षण दिया।"
-  },
-  {
-    "id": 5,
-    "question": "पाल साम्राज्य के पतन के कारणों में कौन-कौन से सही माने जाते हैं? / Which factors are considered correct for the decline of the Pala Empire?",
-    "options": {
-      "A": "उत्तरी भारत में राष्ट्रकूट और प्रतिहारों का दबाव / Pressure of Rashtrakutas and Pratiharas in North India",
-      "B": "अरब आक्रमण / Arab invasions",
-      "C": "राज्य की आंतरिक कमजोरी / Internal weakness of the state",
-      "D": "क्षेत्रीय सामंतों का विद्रोह / Revolt of regional feudatories"
+    {
+        "id": 5,
+        "question": "विजयनगर साम्राज्य के किस शासक ने तेलुगु साहित्य का संरक्षण किया? / Which ruler patronized Telugu literature?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय ने तेलुगु साहित्य का संरक्षण किया और 'अष्टदिग्गज' कवियों का समूह उनके समय में रहा। / Krishnadevaraya patronized Telugu literature and the group of eight eminent poets called Ashtadiggajas flourished during his reign."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "पाल साम्राज्य के पतन में राष्ट्रकूट व प्रतिहारों का दबाव, आंतरिक दुर्बलता और सामंतों के विद्रोह प्रमुख कारण थे।"
-  },
-  {
-    "id": 6,
-    "question": "पाल वंश की स्थापना के संबंध में कौन-से कथन सही हैं? / Which statements are correct regarding the foundation of the Pala dynasty?",
-    "options": {
-      "A": "गोपाल को बंगाल की जनता ने निर्वाचित किया / Gopala was elected by the people of Bengal",
-      "B": "पाल वंश की स्थापना 8वीं शताब्दी में हुई / The Pala dynasty was founded in the 8th century",
-      "C": "गोपाल का चयन प्रतिहारों की सहायता से हुआ / Gopala was chosen with the help of the Pratiharas",
-      "D": "गोपाल ने नालंदा विश्वविद्यालय की स्थापना की / Gopala founded Nalanda University"
+    {
+        "id": 6,
+        "question": "विजयनगर स्थापत्य शैली के लिए कौन सा तत्व विशिष्ट था? / Which is a distinctive element of Vijayanagara architecture?",
+        "options": {
+            "A": "गॉथिक शैली / Gothic style",
+            "B": "स्टेप वेल्स / Step wells",
+            "C": "डोम संरचना / Domed structures",
+            "D": "मस्जिदों में गुंबद / Arches in temples"
+        },
+        "answer": [
+            "B"
+        ],
+        "explanation": "विजयनगर साम्राज्य ने जल प्रबंधन के लिए बड़े स्टेप वेल्स (पुष्करिणी) का निर्माण किया। / The Vijayanagara Empire constructed large step wells (pushkarnis) to manage water resources."
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल वंश की स्थापना 8वीं शताब्दी में गोपाल ने की थी। उन्हें बंगाल की जनता ने अराजकता समाप्त करने हेतु निर्वाचित किया।"
-  },
-  {
-    "id": 7,
-    "question": "धर्मपाल के शासनकाल की विशेषताओं में से कौन-सी सही हैं? / Which were the features of Dharmapala’s reign?",
-    "options": {
-      "A": "कन्नौज के त्रिपक्षीय संघर्ष में सक्रिय भूमिका / Active role in Kannauj tripartite struggle",
-      "B": "विक्रमशिला विश्वविद्यालय की स्थापना / Establishment of Vikramshila University",
-      "C": "बौद्ध धर्म का संरक्षण / Patronage of Buddhism",
-      "D": "चालुक्यों पर निर्णायक विजय / Decisive victory over Chalukyas"
+    {
+        "id": 7,
+        "question": "विजयनगर साम्राज्य का पतन किस युद्ध के कारण हुआ? / Which battle led to the downfall of Vijayanagara Empire?",
+        "options": {
+            "A": "तालिकोटा युद्ध / Battle of Talikota",
+            "B": "पनिपत युद्ध / Battle of Panipat",
+            "C": "प्लासी युद्ध / Battle of Plassey",
+            "D": "बक्सर युद्ध / Battle of Buxar"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "1565 में तालिकोटा युद्ध में दक्कन के सुलतानताओं ने विजयनगर साम्राज्य को पराजित किया। / The Battle of Talikota (1565) led to the decisive defeat of Vijayanagara Empire by the Deccan Sultanates."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "धर्मपाल ने कन्नौज के त्रिपक्षीय संघर्ष में सक्रिय भूमिका निभाई, विक्रमशिला विश्वविद्यालय की स्थापना की और बौद्ध धर्म को संरक्षण दिया।"
-  },
-  {
-    "id": 7,
-    "question": "देवपाल की साम्राज्य विस्तार नीतियों से संबंधित कौन-से कथन सही हैं? / Which statements are correct regarding Devapala’s expansion policies?",
-    "options": {
-      "A": "उसका प्रभाव उड़ीसा और असम तक फैला / His influence spread up to Odisha and Assam",
-      "B": "उसने तिब्बत और दक्षिण-पूर्व एशिया तक संपर्क स्थापित किया / He established contacts with Tibet and Southeast Asia",
-      "C": "उसने प्रतिहारों को पूर्णतः पराजित किया / He completely defeated the Pratiharas",
-      "D": "उसने पाल साम्राज्य को चरमोत्कर्ष तक पहुँचाया / He brought the Pala Empire to its zenith"
+    {
+        "id": 8,
+        "question": "विजयनगर साम्राज्य में कौन सा धर्म प्रमुख था? / Which religion was prominent in Vijayanagara Empire?",
+        "options": {
+            "A": "वैष्णव धर्म / Vaishnavism",
+            "B": "शैव धर्म / Shaivism",
+            "C": "बौद्ध धर्म / Buddhism",
+            "D": "जैन धर्म / Jainism"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय के समय वैष्णव धर्म को राज्य धर्म के रूप में महत्व दिया गया। / Vaishnavism was the state religion during Krishnadevaraya's reign."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "देवपाल के समय पाल साम्राज्य का विस्तार उड़ीसा, असम, तिब्बत और दक्षिण-पूर्व एशिया तक हुआ और साम्राज्य अपने चरमोत्कर्ष पर पहुँचा।"
-  },
-  {
-    "id": 8,
-    "question": "पाल कालीन शिक्षा और संस्कृति से संबंधित कौन-से कथन सही हैं? / Which statements are correct regarding education and culture during the Pala period?",
-    "options": {
-      "A": "नालंदा और विक्रमशिला विश्वविद्यालय पाल काल में समृद्ध हुए / Nalanda and Vikramshila universities flourished during Pala period",
-      "B": "वज्रयान बौद्ध धर्म का उत्कर्ष हुआ / Vajrayana Buddhism flourished",
-      "C": "पाल शासकों ने पाली और संस्कृत साहित्य को संरक्षण दिया / Pala rulers patronised Pali and Sanskrit literature",
-      "D": "अजंता-एलोरा चित्रकला का निर्माण पाल काल में हुआ / Ajanta-Ellora paintings were created during Pala period"
+    {
+        "id": 9,
+        "question": "विजयनगर साम्राज्य में राजधानी का प्रशासन कौन संभालता था? / Who managed the administration of the capital city?",
+        "options": {
+            "A": "महाप्रधान / Mahapradhana",
+            "B": "नायक / Nayak",
+            "C": "अमात्य / Amatya",
+            "D": "मंडलीक / Mandalika"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "महाप्रधान राजधानी के प्रशासन के लिए जिम्मेदार था। / The Mahapradhana was responsible for administration of the capital."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शासकों ने वज्रयान बौद्ध धर्म को बढ़ावा दिया और नालंदा व विक्रमशिला विश्वविद्यालयों को संरक्षण दिया। अजंता-एलोरा चित्रकला गुप्त और बाद के समय की है।"
-  },
-  {
-    "id": 9,
-    "question": "पाल वंश के पतन के प्रमुख कारण कौन-से थे? / What were the major causes of decline of the Pala dynasty?",
-    "options": {
-      "A": "प्रतिहार और राष्ट्रकूटों का दबाव / Pressure from Pratiharas and Rashtrakutas",
-      "B": "आंतरिक दुर्बलता और उत्तराधिकारी संकट / Internal weakness and succession crisis",
-      "C": "सामंतों का विद्रोह / Revolt of feudatories",
-      "D": "दिल्ली सल्तनत का आक्रमण / Invasion by Delhi Sultanate"
+    {
+        "id": 10,
+        "question": "निम्न में से कौनसा विजयनगर साम्राज्य का प्रांत नहीं था? / Which of the following was NOT a province of Vijayanagara Empire?",
+        "options": {
+            "A": "राज्य / Rajya",
+            "B": "मंडल / Mandala",
+            "C": "नाडु / Nadu",
+            "D": "तलुका / Taluka"
+        },
+        "answer": [
+            "D"
+        ],
+        "explanation": "साम्राज्य को राज्यों में बांटा गया था, जिनमें मंडल और नाडु शामिल थे। तलुका बाद में उपयोग हुआ। / The empire was divided into Rajyas, further subdivided into Mandalas and Nadus. Taluka was a later administrative unit."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल वंश का पतन प्रतिहार और राष्ट्रकूटों के दबाव, आंतरिक दुर्बलता तथा सामंतों के विद्रोह से हुआ। दिल्ली सल्तनत का उदय बाद में हुआ।"
-  },
-  {
-    "id": 16,
-    "question": "पाल शासकों द्वारा संरक्षित विश्वविद्यालयों में कौन-से शामिल हैं? / Which universities were patronised by the Pala rulers?",
-    "options": {
-      "A": "नालंदा / Nalanda",
-      "B": "विक्रमशिला / Vikramshila",
-      "C": "ओदंतपुरी / Odantapuri",
-      "D": "तक्षशिला / Taxila"
+    {
+       "id": 11,
+       "question": "विजयनगर साम्राज्य के किस शासक ने 'अष्टदिग्गज' कवियों को संरक्षण दिया? / Which ruler of Vijayanagara Empire patronized the 'Ashtadiggajas' poets?",
+       "options": {
+           "A": "कृष्णदेवराय / Krishnadevaraya",
+           "B": "हरिहर I / Harihara I",
+           "C": "बुक्का राय I / Bukka Raya I",
+           "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अष्टदिग्गज' कवियों को संरक्षण दिया, जो तेलुगु साहित्य के महान कवि थे। / Krishnadevaraya patronized the 'Ashtadiggajas', who were great Telugu poets."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शासकों ने नालंदा, विक्रमशिला और ओदंतपुरी जैसे बौद्ध विश्वविद्यालयों को संरक्षण दिया। तक्षशिला प्राचीन काल में ही नष्ट हो चुकी थी।"
-  },
-  {
-    "id": 17,
-    "question": "धर्मपाल ने किन-किन क्षेत्रों में अपनी शक्ति स्थापित की थी? / Dharmapala had established his power in which regions?",
-    "options": {
-      "A": "बंगाल और बिहार / Bengal and Bihar",
-      "B": "कन्नौज / Kannauj",
-      "C": "पंजाब / Punjab",
-      "D": "गुजरात / Gujarat"
+    {
+        "id": 12,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B"],
-    "explanation": "धर्मपाल ने बंगाल, बिहार और कन्नौज क्षेत्र पर अपना अधिकार स्थापित किया। पंजाब और गुजरात पर उनका अधिकार नहीं था।"
-  },
-  {
-    "id": 18,
-    "question": "पाल कला (Pala Art) के संबंध में कौन-से कथन सही हैं? / Which statements are correct regarding Pala art?",
-    "options": {
-      "A": "मुख्यतः बौद्ध धर्म से संबंधित / Mainly related to Buddhism",
-      "B": "ब्लैक स्टोन मूर्तिकला की परंपरा / Tradition of black stone sculpture",
-      "C": "गुप्त कला से प्रभावित / Influenced by Gupta art",
-      "D": "दक्षिण भारत की द्रविड़ कला का सीधा प्रभाव / Direct influence of Dravidian art of South India"
+    {
+        "id": 13,
+        "question": "विजयनगर स्थापत्य शैली में किस प्रकार की संरचनाएँ प्रमुख थीं? / Which type of structures were prominent in Vijayanagara architectural style?",
+        "options": {
+            "A": "गोपुरम और मंडप / Gopuram and Mandapa",
+            "B": "डोम और मेहराब / Dome and Arch",
+            "C": "चबूतरे और मीनार / Chabutra and Minar",
+            "D": "कुंभ और स्तूप / Kumbha and Stupa"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "विजयनगर स्थापत्य शैली में गोपुरम और मंडप प्रमुख संरचनाएँ थीं, जो दक्षिण भारतीय मंदिरों की विशेषता हैं। / The Vijayanagara architectural style prominently featured Gopurams and Mandapas, which are characteristic of South Indian temples."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल कला बौद्ध धर्म केंद्रित थी, ब्लैक स्टोन मूर्तिकला की परंपरा विकसित हुई और यह गुप्त कला से प्रभावित रही। द्रविड़ कला का सीधा प्रभाव नहीं था।"
-  },
-  {
-    "id": 19,
-    "question": "पाल साम्राज्य किन संघर्षों में उलझा रहा? / In which conflicts was the Pala Empire engaged?",
-    "options": {
-      "A": "त्रिपक्षीय संघर्ष / Tripartite struggle",
-      "B": "चालुक्य-पल्लव युद्ध / Chalukya-Pallava wars",
-      "C": "प्रतिहारों से संघर्ष / Conflicts with Pratiharas",
-      "D": "राष्ट्रकूटों से संघर्ष / Conflicts with Rashtrakutas"
+    {
+        "id": 14,
+        "question": "विजयनगर साम्राज्य के किस युद्ध ने साम्राज्य के पतन की दिशा तय की? / Which battle determined the downfall of the Vijayanagara Empire?",
+        "options": {
+            "A": "तालिकोटा युद्ध / Battle of Talikota",
+            "B": "पानीपत युद्ध / Battle of Panipat",
+            "C": "प्लासी युद्ध / Battle of Plassey",
+            "D": "बक्सर युद्ध / Battle of Buxar"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "1565 में तालिकोटा युद्ध में दक्कन सुलतानों ने विजयनगर साम्राज्य को पराजित किया, जिससे साम्राज्य का पतन हुआ। / In 1565, the Battle of Talikota led to the defeat of the Vijayanagara Empire by the Deccan Sultanates, marking its downfall."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "पाल साम्राज्य त्रिपक्षीय संघर्ष में उलझा रहा और प्रतिहार व राष्ट्रकूटों से इसका लगातार युद्ध होता रहा। चालुक्य-पल्लव युद्ध दक्षिण भारत से संबंधित थे।"
-  },
-  {
-    "id": 20,
-    "question": "पाल प्रशासन के संबंध में कौन-से तथ्य सही हैं? / Which facts are correct regarding Pala administration?",
-    "options": {
-      "A": "राजा पूर्णतः निरंकुश था / The king was completely autocratic",
-      "B": "सामंत व्यवस्था महत्वपूर्ण थी / Feudal system was significant",
-      "C": "भूमि कर प्रमुख राजस्व स्रोत था / Land revenue was the main source of income",
-      "D": "ग्राम प्रशासन में स्थानीय स्वायत्तता थी / Local autonomy existed in village administration"
+    {
+        "id": 15,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली की शुरुआत की? / Which ruler of Vijayanagara Empire initiated the 'Nayankara' system?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "हरिहर I ने 'नायकरा' प्रणाली की शुरुआत की, जिसमें सैन्य अधिकारियों को भूमि और प्रशासनिक अधिकार दिए गए। / Harihara I initiated the 'Nayankara' system, granting military officials land and administrative powers."
     },
-    "answer": ["B", "C", "D"],
-    "explanation": "पाल प्रशासन सामंतवादी प्रकृति का था, भूमि कर प्रमुख आय स्रोत था और ग्राम प्रशासन में स्थानीय स्वायत्तता थी। राजा पूर्णतः निरंकुश नहीं था।"
-  },
-  {
-    "id": 21,
-    "question": "पाल वंश के प्रमुख धार्मिक योगदान कौन-से थे? / What were the major religious contributions of the Pala dynasty?",
-    "options": {
-      "A": "वज्रयान और तंत्रयान का संरक्षण / Patronage of Vajrayana and Tantrayana",
-      "B": "हिंदू धर्म का व्यापक प्रचार / Wide propagation of Hinduism",
-      "C": "बौद्ध मठों का निर्माण / Construction of Buddhist monasteries",
-      "D": "बौद्ध धर्म का विदेशी देशों में प्रसार / Spread of Buddhism to foreign lands"
+    {
+        "id": 16,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'शिवाजी' के नाम से प्रसिद्धि पाई? / Which ruler of Vijayanagara Empire became famous by the name 'Shivaji'?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय को 'शिवाजी' के नाम से प्रसिद्धि प्राप्त हुई, जो उनके वीरता और प्रशासनिक क्षमता का प्रतीक था। / Krishnadevaraya became famous by the name 'Shivaji', symbolizing his valor and administrative capabilities."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "पाल शासकों ने वज्रयान और तंत्रयान बौद्ध धर्म का संरक्षण किया, अनेक बौद्ध मठ बनाए और विदेशों में बौद्ध धर्म का प्रसार हुआ।"
-  },
-  {
-    "id": 22,
-    "question": "पाल साम्राज्य के पतन का सबसे प्रमुख कारण क्या था? / What was the most prominent cause of decline of the Pala Empire?",
-    "options": {
-      "A": "उपयुक्त उत्तराधिकारियों की कमी / Lack of able successors",
-      "B": "विदेशी आक्रमण / Foreign invasions",
-      "C": "अत्यधिक सामंतवाद / Excessive feudalism",
-      "D": "कृषि उत्पादन में गिरावट / Decline in agricultural production"
+    {
+        "id": 17,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "C"],
-    "explanation": "पाल साम्राज्य के पतन में सबसे बड़ा कारण अयोग्य उत्तराधिकारी और अत्यधिक सामंतवाद था।"
-  },
-  {
-    "id": 23,
-    "question": "पाल शासकों के विदेशी संबंधों के बारे में कौन-से कथन सही हैं? / Which statements are correct about foreign relations of the Palas?",
-    "options": {
-      "A": "तिब्बत से घनिष्ठ संबंध / Close relations with Tibet",
-      "B": "श्रीलंका के बौद्ध शासकों से संपर्क / Contact with Buddhist rulers of Sri Lanka",
-      "C": "अरब व्यापारियों से संपर्क / Contact with Arab traders",
-      "D": "यूरोप के ईसाई शासकों से संबंध / Relations with Christian rulers of Europe"
+    {
+        "id": 18,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'कृष्णदेव राय' के नाम से प्रसिद्धि पाई? / Which ruler of Vijayanagara Empire became famous by the name 'Krishnadev Raya'?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय को 'कृष्णदेव राय' के नाम से प्रसिद्धि प्राप्त हुई, जो उनके शासनकाल की महानता का प्रतीक था। / Krishnadevaraya became famous by the name 'Krishnadev Raya', symbolizing the grandeur of his reign."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शासकों ने तिब्बत, श्रीलंका और अरब व्यापारियों से संबंध बनाए। यूरोप से संबंध नहीं थे।"
-  },
-  {
-    "id": 24,
-    "question": "पाल शासकों ने किस प्रकार की मूर्तिकला को सबसे अधिक बढ़ावा दिया? / Which type of sculpture was most promoted by the Pala rulers?",
-    "options": {
-      "A": "कांस्य मूर्तिकला / Bronze sculpture",
-      "B": "काला पत्थर मूर्तिकला / Black stone sculpture",
-      "C": "मरमर मूर्तिकला / Marble sculpture",
-      "D": "बालू पत्थर मूर्तिकला / Sandstone sculpture"
+    {
+        "id": 19,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का राय I / Bukka Raya I",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल कला की विशेषता कांस्य और काले पत्थर की मूर्तिकला थी।"
-  },
-  {
-    "id": 25,
-    "question": "पाल साम्राज्य के महत्वपूर्ण प्रतिद्वंद्वी कौन थे? / Who were the major rivals of the Pala Empire?",
-    "options": {
-      "A": "प्रतिहार / Pratiharas",
-      "B": "राष्ट्रकूट / Rashtrakutas",
-      "C": "चोल / Cholas",
-      "D": "चालुक्य / Chalukyas"
+    {
+        "id": 20,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल साम्राज्य के प्रमुख प्रतिद्वंद्वी प्रतिहार और राष्ट्रकूट थे। चोल और चालुक्य मुख्यतः दक्षिण भारत से संबंधित थे।"
-  },
-  {
-    "id": 26,
-    "question": "पाल साम्राज्य की अर्थव्यवस्था के कौन-से पहलू प्रमुख थे? / Which aspects were significant in the economy of the Pala Empire?",
-    "options": {
-      "A": "कृषि पर आधारित / Agriculture based",
-      "B": "स्थानीय और अंतर्राष्ट्रीय व्यापार / Local and international trade",
-      "C": "सामंतों की कर व्यवस्था / Taxation system of feudatories",
-      "D": "सिक्कों का प्रचलन / Circulation of coins"
+    {
+        "id": 21,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "पाल साम्राज्य की अर्थव्यवस्था कृषि आधारित थी, अंतर्राष्ट्रीय व्यापार भी होता था। सामंत कर वसूलते थे और सिक्कों का प्रचलन था।"
-  },
-  {
-    "id": 27,
-    "question": "पाल काल की साहित्यिक उपलब्धियों में कौन-से ग्रंथ महत्वपूर्ण हैं? / Which works are significant literary achievements of the Pala period?",
-    "options": {
-      "A": "रामचरित / Ramcharita",
-      "B": "मञ्जुश्रिमूलकल्प / Manjushrimulakalpa",
-      "C": "गीतगोविंद / Geeta Govinda",
-      "D": "सन्दर्भ संग्रह / Sandarbha Samgraha"
+    {
+        "id": 22,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल कालीन साहित्य में संध्या कर द्वारा लिखित 'रामचरित' और बौद्ध ग्रंथ 'मञ्जुश्रिमूलकल्प' महत्वपूर्ण हैं।"
-  },
-  {
-    "id": 28,
-    "question": "पाल वंश की राजधानी कौन-सी थी? / Which was the capital of the Pala dynasty?",
-    "options": {
-      "A": "पाटलिपुत्र / Pataliputra",
-      "B": "मुंगेर / Munger",
-      "C": "गौड़ / Gauda",
-      "D": "कन्नौज / Kannauj"
+    {
+        "id": 23,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["C"],
-    "explanation": "पाल वंश की प्रमुख राजधानी गौड़ थी, जबकि कभी-कभी राजधानी पाटलिपुत्र भी मानी जाती थी।"
-  },
-  {
-    "id": 29,
-    "question": "पाल साम्राज्य का पतन किस शासक के समय सर्वाधिक स्पष्ट हुआ? / During whose reign was the decline of the Pala Empire most visible?",
-    "options": {
-      "A": "गोपाल / Gopala",
-      "B": "धर्मपाल / Dharmapala",
-      "C": "देवपाल / Devapala",
-      "D": "विग्रहपाल / Vigrahapala"
+    {
+        "id": 24,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["D"],
-    "explanation": "विग्रहपाल और उसके उत्तराधिकारियों के समय पाल साम्राज्य का पतन स्पष्ट रूप से दिखाई देने लगा।"
-  },
-  {
-    "id": 30,
-    "question": "पाल शासकों के शासन का स्वरूप क्या था? / What was the nature of the rule of the Pala rulers?",
-    "options": {
-      "A": "सामंतवादी / Feudalistic",
-      "B": "केंद्रीकृत / Centralised",
-      "C": "जनतांत्रिक / Democratic",
-      "D": "सैन्य प्रधान / Militaristic"
+    {
+        "id": 25,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "D"],
-    "explanation": "पाल शासन सामंतवादी प्रकृति का था और सैन्य शक्ति पर आधारित था।"
-  },
-  {
-    "id": 31,
-    "question": "पाल वंश के संबंध में निम्नलिखित में से कौन-सा सही है? / Which of the following is correct regarding the Pala dynasty?",
-    "options": {
-      "A": "पाल शासक बौद्ध धर्म के संरक्षक थे / Pala rulers were patrons of Buddhism",
-      "B": "पालों ने हिन्दू धर्म को राज्यधर्म घोषित किया / Palas declared Hinduism as the state religion",
-      "C": "पाल शासकों का संबंध वज्रयान बौद्ध धर्म से था / Pala rulers were associated with Vajrayana Buddhism",
-      "D": "पालों का साम्राज्य केवल बंगाल तक सीमित था / Pala Empire was confined only to Bengal"
+    {
+        "id": 26,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "C"],
-    "explanation": "पाल शासक बौद्ध धर्म विशेषकर वज्रयान परंपरा के संरक्षक थे। उनका साम्राज्य बंगाल से परे बिहार, असम और ओडिशा तक फैला था।"
-  },
-  {
-    "id": 32,
-    "question": "पाल शासकों द्वारा संरक्षित विश्वविद्यालयों में कौन-से प्रमुख थे? / Which universities were prominent under the patronage of the Palas?",
-    "options": {
-      "A": "विक्रमशिला / Vikramshila",
-      "B": "ओदंतपुरी / Odantapuri",
-      "C": "नालंदा / Nalanda",
-      "D": "वल्लभी / Vallabhi"
+    {
+        "id": 27,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शासकों ने नालंदा, विक्रमशिला और ओदंतपुरी विश्वविद्यालयों को संरक्षण दिया।"
-  },
-  {
-    "id": 33,
-    "question": "धर्मपाल की कन्नौज नीति के संदर्भ में कौन-से कथन सही हैं? / Which statements are correct regarding Dharmapala’s Kannauj policy?",
-    "options": {
-      "A": "उसने कन्नौज के शासक को कठपुतली बनाया / He made the ruler of Kannauj a puppet",
-      "B": "कन्नौज पर प्रतिहार और राष्ट्रकूटों का भी दावा था / Both Pratiharas and Rashtrakutas claimed Kannauj",
-      "C": "धर्मपाल ने कन्नौज को अपनी राजधानी बना लिया / Dharmapala made Kannauj his capital",
-      "D": "यह नीति त्रिपक्षीय संघर्ष का हिस्सा थी / This policy was part of the Tripartite struggle"
+    {
+        "id": 28,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "धर्मपाल ने कन्नौज में कठपुतली शासक बैठाया। कन्नौज पर प्रतिहार और राष्ट्रकूटों का दावा था। यह संघर्ष त्रिपक्षीय युद्ध का हिस्सा था।"
-  },
-  {
-    "id": 34,
-    "question": "पाल कालीन मूर्तिकला की विशेषताएँ क्या थीं? / What were the features of Pala sculpture?",
-    "options": {
-      "A": "काले पत्थर की मूर्तियाँ / Black stone sculptures",
-      "B": "धार्मिक बौद्ध विषय / Religious Buddhist themes",
-      "C": "अत्यधिक अलंकरण / Heavy ornamentation",
-      "D": "कांस्य धातु का प्रयोग / Use of bronze metal"
+    {
+        "id": 29,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पाल मूर्तिकला मुख्यतः बौद्ध विषयों पर आधारित थी, काले पत्थर और कांस्य धातु का प्रयोग हुआ।"
-  },
-  {
-    "id": 35,
-    "question": "पाल वंश का राजनीतिक क्षेत्र किन-किन जगहों तक फैला था? / Up to which regions did the Pala dynasty extend politically?",
-    "options": {
-      "A": "बंगाल और बिहार / Bengal and Bihar",
-      "B": "असम और उड़ीसा / Assam and Odisha",
-      "C": "पंजाब और सिंध / Punjab and Sindh",
-      "D": "तिब्बत के साथ संबंध / Relations with Tibet"
+    {
+        "id": 30,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पाल साम्राज्य बंगाल, बिहार, असम और उड़ीसा तक फैला और तिब्बत से संपर्क स्थापित था।"
-  },
-  {
-    "id": 36,
-    "question": "देवपाल के समय पाल साम्राज्य के चरमोत्कर्ष का प्रमाण कौन-सा है? / Which is the proof of the zenith of the Pala Empire during Devapala’s reign?",
-    "options": {
-      "A": "असम और उड़ीसा तक विजय / Victories up to Assam and Odisha",
-      "B": "तिब्बत और दक्षिण-पूर्व एशिया तक संपर्क / Contact with Tibet and Southeast Asia",
-      "C": "कन्नौज पर स्थायी अधिकार / Permanent control over Kannauj",
-      "D": "बौद्ध धर्म का विदेशों में प्रसार / Spread of Buddhism abroad"
+    {
+        "id": 21,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "देवपाल ने असम और उड़ीसा तक विजय प्राप्त की, तिब्बत और दक्षिण-पूर्व एशिया तक संपर्क स्थापित किया और बौद्ध धर्म का विदेशों में प्रसार किया।"
-  },
-  {
-    "id": 37,
-    "question": "पाल प्रशासन की विशेषताओं में कौन-से सही हैं? / Which are correct features of Pala administration?",
-    "options": {
-      "A": "सामंतवादी ढांचा / Feudal framework",
-      "B": "भूमि कर पर आधारित अर्थव्यवस्था / Economy based on land revenue",
-      "C": "ग्राम पंचायतों की भूमिका / Role of village councils",
-      "D": "पूरी तरह केंद्रीकृत प्रशासन / Fully centralised administration"
+    {
+        "id": 22,
+        "question": "विजयनगर साम्राज्य के किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल प्रशासन सामंतवादी ढांचे पर आधारित था, भूमि कर प्रमुख आय स्रोत था और ग्राम पंचायतों को भी भूमिका दी गई।"
-  },
-  {
-    "id": 38,
-    "question": "पाल साम्राज्य और बौद्ध धर्म के बीच संबंधों के संदर्भ में कौन-से कथन सही हैं? / Which statements are correct regarding the relation between Pala Empire and Buddhism?",
-    "options": {
-      "A": "पालों ने महायान और वज्रयान दोनों का संरक्षण किया / Palas patronised both Mahayana and Vajrayana",
-      "B": "बौद्ध मठों और विश्वविद्यालयों का निर्माण कराया / They built Buddhist monasteries and universities",
-      "C": "पाल काल में बौद्ध धर्म का क्षय हो गया / Buddhism declined during the Pala period",
-      "D": "पाल काल में बौद्ध धर्म का विदेशों में प्रसार हुआ / Buddhism spread abroad during the Pala period"
+    {
+        "id": 23,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पाल शासकों ने महायान और वज्रयान दोनों का संरक्षण किया, बौद्ध मठ बनाए और धर्म का विदेशों में प्रसार किया।"
-  },
-  {
-    "id": 39,
-    "question": "पाल कला की पहचान किससे की जाती है? / Pala art is identified by which features?",
-    "options": {
-      "A": "काले पत्थर की मूर्तियाँ / Black stone sculptures",
-      "B": "सुलेख और पांडुलिपियाँ / Calligraphy and manuscripts",
-      "C": "धातु मूर्तियाँ / Metal sculptures",
-      "D": "गुप्तकालीन चित्रकला / Gupta period paintings"
+    {
+        "id": 24,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल कला में काले पत्थर की मूर्तियाँ, कांस्य मूर्तियाँ और अलंकृत पांडुलिपियाँ विशेष पहचान थीं।"
-  },
-  {
-    "id": 40,
-    "question": "पाल साम्राज्य के पतन के ऐतिहासिक कारण क्या थे? / What were the historical reasons for the decline of the Pala Empire?",
-    "options": {
-      "A": "अयोग्य उत्तराधिकारी / Incompetent successors",
-      "B": "सामंतों का विद्रोह / Revolt of feudatories",
-      "C": "प्रतिहार और राष्ट्रकूटों का दबाव / Pressure of Pratiharas and Rashtrakutas",
-      "D": "अरब व्यापारियों का दबाव / Pressure of Arab traders"
+    {
+        "id": 25,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल साम्राज्य के पतन में अयोग्य उत्तराधिकारी, सामंतों का विद्रोह और बाहरी शक्तियों का दबाव शामिल था।"
-  },
-  {
-    "id": 41,
-    "question": "पाल वंश के प्रमुख साहित्यकारों में कौन-से शामिल थे? / Which were the major literary figures of the Pala dynasty?",
-    "options": {
-      "A": "संध्याकर नंदी / Sandhyakar Nandi",
-      "B": "वाग्भट / Vagbhata",
-      "C": "असंग / Asanga",
-      "D": "धर्मकीर्ति / Dharmakirti"
+    {
+        "id": 26,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "D"],
-    "explanation": "संध्याकर नंदी ने ‘रामचरित’ लिखा और धर्मकीर्ति बौद्ध विद्वान थे।"
-  },
-  {
-    "id": 42,
-    "question": "पाल काल में निर्मित प्रमुख बौद्ध विहार कौन-से थे? / Which were the prominent Buddhist viharas built during the Pala period?",
-    "options": {
-      "A": "विक्रमशिला / Vikramshila",
-      "B": "ओदंतपुरी / Odantapuri",
-      "C": "सोमनाथ / Somnath",
-      "D": "जगद्दल / Jagaddal"
+    {
+        "id": 27,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पाल काल में विक्रमशिला, ओदंतपुरी और जगद्दल जैसे विहार बने।"
-  },
-  {
-    "id": 43,
-    "question": "पाल वंश के शिलालेखों से कौन-से तथ्य ज्ञात होते हैं? / Which facts are known from the inscriptions of the Pala dynasty?",
-    "options": {
-      "A": "सामंत व्यवस्था / Feudal system",
-      "B": "बौद्ध धर्म का संरक्षण / Patronage of Buddhism",
-      "C": "सैन्य संगठन / Military organisation",
-      "D": "नालंदा विश्वविद्यालय की स्थापना / Foundation of Nalanda University"
+    {
+        "id": 28,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शिलालेख सामंत व्यवस्था, बौद्ध धर्म और सैन्य संगठन के बारे में जानकारी देते हैं। नालंदा की स्थापना गुप्त काल में हुई थी।"
-  },
-  {
-    "id": 44,
-    "question": "पाल वंश के समय अंतर्राष्ट्रीय व्यापार किससे जुड़ा था? / International trade during the Pala dynasty was linked with which regions?",
-    "options": {
-      "A": "दक्षिण-पूर्व एशिया / Southeast Asia",
-      "B": "तिब्बत / Tibet",
-      "C": "अरब व्यापारी / Arab traders",
-      "D": "यूरोप / Europe"
+    {
+        "id": 29,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल कालीन व्यापार तिब्बत, दक्षिण-पूर्व एशिया और अरब व्यापारियों से जुड़ा था।"
-  },
-  {
-    "id": 45,
-    "question": "पाल वंश के संस्थापक गोपाल के संबंध में कौन-सा कथन सही है? / Which statement is correct regarding Gopala, founder of Pala dynasty?",
-    "options": {
-      "A": "उन्हें जनता ने निर्वाचित किया / He was elected by the people",
-      "B": "उन्होंने विक्रमशिला विश्वविद्यालय की स्थापना की / He founded Vikramshila University",
-      "C": "उन्होंने साम्राज्य की राजधानी कन्नौज बनाई / He made Kannauj the capital",
-      "D": "उन्होंने बंगाल की अराजकता समाप्त की / He ended the anarchy in Bengal"
+    {
+        "id": 30,
+        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
+        "options": {
+            "A": "कृष्णदेवराय / Krishnadevaraya",
+            "B": "हरिहर I / Harihara I",
+            "C": "बुक्का राय I / Bukka Raya I",
+            "D": "देवराय II / Deva Raya II"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
     },
-    "answer": ["A", "D"],
-    "explanation": "गोपाल को जनता ने चुना और उन्होंने बंगाल की अराजकता समाप्त कर पाल वंश की स्थापना की।"
-  },
-  {
-    "id": 46,
-    "question": "पाल वंश के सिक्कों के बारे में क्या सही है? / What is correct about the coins of the Pala dynasty?",
-    "options": {
-      "A": "मुख्यतः चांदी और तांबे के / Mainly of silver and copper",
-      "B": "धर्म और राजनीति दोनों के प्रतीक अंकित / Symbols of religion and politics inscribed",
-      "C": "अत्यधिक परिष्कृत और कलात्मक / Highly refined and artistic",
-      "D": "स्वर्ण मुद्राओं का प्रचलन / Circulation of gold coins"
+    {
+        "id": 31,
+        "question": "विजयनगर साम्राज्य के संस्थापक कौन थे और उनकी प्रमुख उपलब्धियाँ क्या थीं? / Who were the founders of Vijayanagar Empire and their major achievements?",
+        "options": {
+            "A": "हरिहर I (Harihara I)",
+            "B": "बुक्का (Bukka)",
+            "C": "कृष्णदेवराय (Krishnadevaraya)",
+            "D": "अशोक (Ashoka)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "हरिहर I और बुक्का ने विजयनगर साम्राज्य की स्थापना की और प्रशासनिक ढाँचा मजबूत किया। कृष्णदेवराय बाद में शासनकर्ता बने।"
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल सिक्के चांदी और तांबे के बने और उन पर धार्मिक-राजनीतिक प्रतीक अंकित थे।"
-  },
-  {
-    "id": 47,
-    "question": "पाल साम्राज्य की सैन्य व्यवस्था कैसी थी? / What was the nature of the military system of the Pala Empire?",
-    "options": {
-      "A": "हाथी सेना का प्रमुख स्थान / Elephants had a prominent place",
-      "B": "सामंतों पर निर्भरता / Dependence on feudatories",
-      "C": "स्थायी सेना का गठन / Formation of a standing army",
-      "D": "नौसेना का व्यापक उपयोग / Extensive use of navy"
+    {
+        "id": 32,
+        "question": "नायक प्रणाली (Nayankara system) का मुख्य उद्देश्य क्या था? / What was the main purpose of Nayankara system?",
+        "options": {
+            "A": "प्रांतीय प्रशासन में सैन्य और आर्थिक नियंत्रण / Military and economic control in provincial administration",
+            "B": "धार्मिक विस्तार / Religious expansion",
+            "C": "साहित्यिक विकास / Literary development",
+            "D": "व्यापार और शहरों का प्रबंधन / Trade and urban management"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "नायक प्रणाली के तहत नायक को प्रांतीय क्षेत्र में सैन्य और आर्थिक नियंत्रण दिया गया था।"
     },
-    "answer": ["A", "B"],
-    "explanation": "पाल सेना में हाथियों का महत्व था और सामंतों पर निर्भरता रही। स्थायी सेना और नौसेना का व्यापक उपयोग नहीं था।"
-  },
-  {
-    "id": 48,
-    "question": "पाल वंश के धार्मिक सहिष्णुता के प्रमाण क्या हैं? / What are the proofs of religious tolerance of the Palas?",
-    "options": {
-      "A": "बौद्ध धर्म का संरक्षण / Patronage of Buddhism",
-      "B": "शैव और वैष्णव मंदिरों का निर्माण / Construction of Shaiva and Vaishnava temples",
-      "C": "जैन धर्म को भी संरक्षण / Patronage to Jainism as well",
-      "D": "धर्म परिवर्तन का आदेश / Order of forced conversions"
+    {
+        "id": 33,
+        "question": "कृष्णदेवराय के काल में कौन-सी भाषाओं में साहित्य को प्रोत्साहन मिला? / Which languages received patronage during Krishnadevaraya's reign?",
+        "options": {
+            "A": "संस्कृत / Sanskrit",
+            "B": "तेलुगु / Telugu",
+            "C": "तमिल / Tamil",
+            "D": "कन्नड़ / Kannada"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "कृष्णदेवराय ने संस्कृत, तेलुगु और कन्नड़ साहित्य को प्रोत्साहन दिया। तमिल में कुछ सीमित योगदान था।"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल शासकों ने बौद्ध धर्म का संरक्षण किया, शैव-वैष्णव मंदिर भी बनवाए और जैन धर्म को भी सहारा दिया।"
-  },
-  {
-    "id": 49,
-    "question": "पाल काल की पांडुलिपि कला किससे प्रसिद्ध थी? / Pala manuscript art was famous for what?",
-    "options": {
-      "A": "पाम पत्ती पर लेखन / Writing on palm leaves",
-      "B": "अत्यधिक चित्रांकन / Extensive illustrations",
-      "C": "धार्मिक ग्रंथों का अलंकरण / Ornamentation of religious texts",
-      "D": "कागज़ पर चित्रण / Painting on paper"
+    {
+        "id": 34,
+        "question": "तलिकोटा युद्ध (Battle of Talikota) के कारण क्या थे? / What were the causes of Battle of Talikota?",
+        "options": {
+            "A": "काकतीय साम्राज्यों का विरोध / Opposition from Deccan sultanates",
+            "B": "धार्मिक संघर्ष / Religious conflict",
+            "C": "विजयनगर साम्राज्य की विस्तार नीति / Expansion policy of Vijayanagar",
+            "D": "अंग्रेजों का हस्तक्षेप / British interference"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "तलिकोटा युद्ध काकतीय साम्राज्यों की असंतोष और विजयनगर की विस्तार नीति के कारण हुआ।"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल काल की पांडुलिपियाँ पाम पत्ती पर लिखी जाती थीं, जिनमें चित्रांकन और धार्मिक ग्रंथों का अलंकरण होता था।"
-  },
-  {
-    "id": 50,
-    "question": "पाल साम्राज्य का महत्व किन कारणों से था? / What were the reasons for the significance of the Pala Empire?",
-    "options": {
-      "A": "भारत में बौद्ध धर्म का अंतिम महान संरक्षक / Last great patron of Buddhism in India",
-      "B": "अंतर्राष्ट्रीय व्यापार और सांस्कृतिक संबंध / International trade and cultural relations",
-      "C": "त्रिपक्षीय संघर्ष में भूमिका / Role in the Tripartite struggle",
-      "D": "दक्षिण भारत में स्थायी विजय / Permanent victory in South India"
+    {
+        "id": 35,
+        "question": "तलिकोटा युद्ध के परिणाम क्या हुए? / What were the consequences of Battle of Talikota?",
+        "options": {
+            "A": "विजयनगर का पतन / Decline of Vijayanagar",
+            "B": "दक्षिण भारत में मुस्लिम सुल्तानतों का प्रभुत्व / Dominance of Deccan Sultanates",
+            "C": "साहित्यिक विकास में वृद्धि / Growth in literature",
+            "D": "व्यापारिक गतिविधियों में कमी / Decline in trade activities"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "युद्ध के बाद विजयनगर का पतन हुआ, सुल्तानों का प्रभुत्व बढ़ा और व्यापारिक गतिविधियाँ प्रभावित हुई।"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पाल साम्राज्य भारत में बौद्ध धर्म का अंतिम महान संरक्षक था, अंतर्राष्ट्रीय व्यापार-संबंध रखता था और त्रिपक्षीय संघर्ष में महत्वपूर्ण भूमिका निभाता था।"
-  }
+    {
+        "id": 36,
+        "question": "विजयनगर साम्राज्य में किसने मंदिर निर्माण और स्थापत्य कला को बढ़ावा दिया? / Who promoted temple construction and architectural art in Vijayanagar Empire?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का / Bukka",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "अशोक / Ashoka"
+        },
+        "answer": [
+            "B",
+            "C"
+        ],
+        "explanation": "बुक्का और कृष्णदेवराय ने मंदिर निर्माण और स्थापत्य कला में विशेष योगदान दिया।"
+    },
+    {
+        "id": 37,
+        "question": "विजयनगर साम्राज्य का प्रमुख व्यापारिक केंद्र कौन था? / What was the main trade center of Vijayanagar Empire?",
+        "options": {
+            "A": "हंपी / Hampi",
+            "B": "मद्रास / Madras",
+            "C": "बीजापुर / Bijapur",
+            "D": "बंगलुरु / Bangalore"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "हंपी विजयनगर साम्राज्य का प्रमुख व्यापारिक और सांस्कृतिक केंद्र था।"
+    },
+    {
+        "id": 38,
+        "question": "विजयनगर साम्राज्य की अर्थव्यवस्था किस पर आधारित थी? / On what was the economy of Vijayanagar Empire based?",
+        "options": {
+            "A": "कृषि / Agriculture",
+            "B": "हस्तशिल्प / Handicrafts",
+            "C": "व्यापार / Trade",
+            "D": "सैनिक खर्च / Military expenditure"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "विजयनगर की अर्थव्यवस्था कृषि, हस्तशिल्प और व्यापार पर आधारित थी।"
+    },
+    {
+        "id": 39,
+        "question": "नायक प्रणाली में नायक को कौन-सी जिम्मेदारी दी जाती थी? / What responsibility was given to Nayak in Nayankara system?",
+        "options": {
+            "A": "सैन्य नेतृत्व / Military leadership",
+            "B": "कर संग्रह / Revenue collection",
+            "C": "धार्मिक अनुष्ठान / Religious ceremonies",
+            "D": "साहित्यिक विकास / Literary development"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "नायक को सैन्य नेतृत्व और कर संग्रह की जिम्मेदारी दी जाती थी।"
+    },
+    {
+        "id": 40,
+        "question": "कृष्णदेवराय की प्रशासनिक नीति का प्रमुख उद्देश्य क्या था? / What was the main purpose of Krishnadevaraya's administrative policy?",
+        "options": {
+            "A": "साम्राज्य के स्थायित्व को सुनिश्चित करना / Ensuring stability of empire",
+            "B": "धार्मिक असहमति बढ़ाना / Increasing religious dissent",
+            "C": "साहित्यिक गतिविधियों को रोकना / Restricting literary activities",
+            "D": "व्यापारिक संबंधों में बाधा डालना / Obstructing trade relations"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "कृष्णदेवराय की प्रशासनिक नीति का मुख्य उद्देश्य साम्राज्य के स्थायित्व और विकास को सुनिश्चित करना था।"
+    },
+    {
+        "id": 41,
+        "question": "विजयनगर साम्राज्य में कौन-सी प्रमुख वास्तुकला शैली देखने को मिलती थी? / What was the prominent architectural style in Vijayanagar Empire?",
+        "options": {
+            "A": "हंपी शैली / Hampi Style",
+            "B": "चोल शैली / Chola Style",
+            "C": "पल्लव शैली / Pallava Style",
+            "D": "मौर्य शैली / Maurya Style"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "विजयनगर साम्राज्य में हंपी शैली की वास्तुकला प्रमुख थी।"
+    },
+    {
+        "id": 42,
+        "question": "विजयनगर साम्राज्य में कृषि उत्पादन के लिए कौन-से सुधार किए गए? / What reforms were made for agricultural production in Vijayanagar Empire?",
+        "options": {
+            "A": "सिंचाई व्यवस्था / Irrigation system",
+            "B": "बीज सुधार / Seed improvement",
+            "C": "कराधान वृद्धि / Tax increase",
+            "D": "सैनिक भर्ती / Military recruitment"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "कृष्णदेवराय और उनके शासनकाल में सिंचाई और बीज सुधार पर ध्यान दिया गया।"
+    },
+    {
+        "id": 43,
+        "question": "कृष्णदेवराय के समय कौन-सी आर्थिक गतिविधियाँ प्रमुख थीं? / Which economic activities were prominent during Krishnadevaraya's time?",
+        "options": {
+            "A": "कृषि / Agriculture",
+            "B": "हस्तशिल्प / Handicrafts",
+            "C": "विदेशी व्यापार / Foreign trade",
+            "D": "सैनिक प्रशिक्षण / Military training"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "कृषि, हस्तशिल्प और विदेशी व्यापार प्रमुख आर्थिक गतिविधियाँ थीं।"
+    },
+    {
+        "id": 44,
+        "question": "विजयनगर साम्राज्य में किसने मंदिरों का संरक्षण किया? / Who patronized temples in Vijayanagar Empire?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का / Bukka",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "शेरशाह सूरी / Sher Shah Suri"
+        },
+        "answer": [
+            "B",
+            "C"
+        ],
+        "explanation": "बुक्का और कृष्णदेवराय ने मंदिर निर्माण और संरक्षण में महत्वपूर्ण योगदान दिया।"
+    },
+    {
+        "id": 45,
+        "question": "विजयनगर साम्राज्य में व्यापार का प्रमुख केंद्र कौन सा था? / Which was the main trade hub of Vijayanagar Empire?",
+        "options": {
+            "A": "हंपी / Hampi",
+            "B": "बीजापुर / Bijapur",
+            "C": "मद्रास / Madras",
+            "D": "गोलकोंडा / Golconda"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "हंपी व्यापार और सांस्कृतिक गतिविधियों का प्रमुख केंद्र था।"
+    },
+    {
+        "id": 46,
+        "question": "नायक प्रणाली के तहत नायक को कितनी भूमि और कर संग्रह का अधिकार था? / Under Nayankara system, how much land and revenue control did Nayak have?",
+        "options": {
+            "A": "संपूर्ण प्रांत / Entire province",
+            "B": "एक क्षेत्रीय भाग / A territorial unit",
+            "C": "सिर्फ सैन्य नियंत्रण / Only military control",
+            "D": "सिर्फ कर संग्रह / Only revenue collection"
+        },
+        "answer": [
+            "B"
+        ],
+        "explanation": "नायक को एक क्षेत्रीय भाग का सैन्य और आर्थिक नियंत्रण दिया जाता था।"
+    },
+    {
+        "id": 47,
+        "question": "कृष्णदेवराय के शासनकाल में साहित्यिक योगदान किसे समर्पित था? / Whose literary contributions were patronized during Krishnadevaraya's reign?",
+        "options": {
+            "A": "तेलुगु कवि / Telugu poets",
+            "B": "संस्कृत कवि / Sanskrit poets",
+            "C": "तमिल कवि / Tamil poets",
+            "D": "कन्नड़ कवि / Kannada poets"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "कृष्णदेवराय ने तेलुगु, संस्कृत और कन्नड़ कवियों का संरक्षण किया।"
+    },
+    {
+        "id": 48,
+        "question": "तलिकोटा युद्ध के बाद विजयनगर की राजधानी कहाँ स्थित थी? / After Battle of Talikota, where was Vijayanagar capital located?",
+        "options": {
+            "A": "हंपी / Hampi",
+            "B": "बंगलुरु / Bangalore",
+            "C": "मद्रास / Madras",
+            "D": "बीजापुर / Bijapur"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "युद्ध के बाद भी हंपी को मुख्य रूप से सांस्कृतिक केंद्र के रूप में जाना गया।"
+    },
+    {
+        "id": 49,
+        "question": "विजयनगर साम्राज्य में किसने प्रशासनिक सुधार किए? / Who implemented administrative reforms in Vijayanagar Empire?",
+        "options": {
+            "A": "हरिहर I / Harihara I",
+            "B": "बुक्का / Bukka",
+            "C": "कृष्णदेवराय / Krishnadevaraya",
+            "D": "अशोक / Ashoka"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "कृष्णदेवराय ने प्रशासनिक सुधार और प्रांतीय नियंत्रण को सुदृढ़ किया।"
+    },
+    {
+        "id": 50,
+        "question": "विजयनगर साम्राज्य के पतन के बाद किसकी प्रभुसत्ता बढ़ी? / After decline of Vijayanagar Empire, whose dominance increased?",
+        "options": {
+            "A": "दक्षिण भारत के सुल्तान / Deccan Sultanates",
+            "B": "ब्रिटिश ईस्ट इंडिया कंपनी / British East India Company",
+            "C": "मुगल साम्राज्य / Mughal Empire",
+            "D": "पोर्तुगीज / Portuguese"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "विजयनगर के पतन के बाद दक्षिण भारत में सुल्तानों की प्रभुसत्ता बढ़ गई।"
+    }
 ]
-
