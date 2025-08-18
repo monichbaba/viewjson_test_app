@@ -1,858 +1,1247 @@
 [
-    {
-        "id": 1,
-        "question": "विजयनगर साम्राज्य की स्थापना किसने की थी? / Who founded the Vijayanagara Empire?",
-        "options": {
-            "A": "हरिहर I और बुक्का राय I / Harihara I and Bukka Raya I",
-            "B": "हरिहर II और बुक्का राय II / Harihara II and Bukka Raya II",
-            "C": "कृष्णदेवराय और अच्युतदेवराय / Krishnadevaraya and Achyuta Deva Raya",
-            "D": "देवराय I और देवराय II / Deva Raya I and Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "विजयनगर साम्राज्य की स्थापना 1336 में हरिहर I और उनके भाई बुक्का राय I ने की थी। / The Vijayanagara Empire was founded in 1336 by Harihara I and his brother Bukka Raya I."
+  {
+    "id": 1,
+    "question": "1526 में कौन-सा युद्ध हुआ था और इसके परिणामस्वरूप कौन सत्ता में आया? / Which battle took place in 1526 and who emerged as the ruler as a result?",
+    "options": {
+      "A": "Panipat – Babur ने विजय प्राप्त की / Panipat – Babur emerged victorious",
+      "B": "Chausa – Sher Shah Suri ने विजय प्राप्त की / Chausa – Sher Shah Suri emerged victorious",
+      "C": "Kannauj – Humayun ने विजय प्राप्त की / Kannauj – Humayun emerged victorious",
+      "D": "Haldighati – Maharana Pratap ने विजय प्राप्त की / Haldighati – Maharana Pratap emerged victorious"
     },
-    {
-        "id": 2,
-        "question": "विजयनगर साम्राज्य के पहले शासक कौन थे? / Who was the first ruler of the Vijayanagara Empire?",
-        "options": {
-            "A": "संगमा वंश / Sangama Dynasty",
-            "B": "सलुवा वंश / Saluva Dynasty",
-            "C": "तुलुव वंश / Tuluva Dynasty",
-            "D": "अरविदु वंश / Aravidu Dynasty"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "संगमा वंश ने हरिहर I के साथ साम्राज्य की नींव रखी। / The Sangama Dynasty was the first to rule the Vijayanagara Empire, starting with Harihara I."
+    "answer": ["A"],
+    "explanation": "1526 में पहला पानीपत युद्ध हुआ था जिसमें बाबर ने इब्राहिम लोदी को हराकर दिल्ली सल्तनत और लोधी वंश का अंत किया और मुग़ल साम्राज्य की नींव रखी।"
+  },
+  {
+    "id": 2,
+    "question": "Chausa का युद्ध किसने लड़ा और किसके खिलाफ? / Who fought the Battle of Chausa and against whom?",
+    "options": {
+      "A": "Sher Shah Suri ने Humayun के खिलाफ / Sher Shah Suri against Humayun",
+      "B": "Babur ने Ibrahim Lodi के खिलाफ / Babur against Ibrahim Lodi",
+      "C": "Mughal सेना ने Rajput सेना के खिलाफ / Mughal army against Rajput army",
+      "D": "Akbar ने Afghans के खिलाफ / Akbar against Afghans"
     },
-    {
-        "id": 3,
-        "question": "विजयनगर साम्राज्य अपने चरम पर किसके शासन में पहुंचा? / Under which ruler did the Vijayanagara Empire reach its peak?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय (1509–1529) के शासनकाल में साम्राज्य अपनी शक्ति और सांस्कृतिक समृद्धि के चरम पर पहुंचा। / Krishnadevaraya (1509–1529) is considered the most illustrious ruler of Vijayanagara Empire."
+    "answer": ["A"],
+    "explanation": "Chausa का युद्ध 1539 में हुआ जिसमें शेर शाह सूरी ने हुमायूं को हराया और अपनी सत्ता स्थापित की। यह युद्ध रणनीति और घातक हमलों के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 3,
+    "question": "1540 में Kannauj का युद्ध किसके कारण हुआ और इसके परिणाम क्या रहे? / Why did the Battle of Kannauj occur in 1540 and what were its outcomes?",
+    "options": {
+      "A": "Humayun ने Sher Shah Suri के खिलाफ / Humayun against Sher Shah Suri",
+      "B": "Babur ने Ibrahim Lodi के खिलाफ / Babur against Ibrahim Lodi",
+      "C": "Akbar ने Rajput राज्यों के खिलाफ / Akbar against Rajput states",
+      "D": "Mughal सेना ने Afghan सेना के खिलाफ / Mughal army against Afghan army"
     },
-    {
-        "id": 4,
-        "question": "नायकरा प्रणाली क्या थी? / What was the Nayankara system?",
-        "options": {
-            "A": "ब्राह्मणों को भूमि देने की प्रणाली / Land grants to Brahmins",
-            "B": "सैन्य-फ्यूडल प्रणाली / Military feudal system",
-            "C": "भूमि-राजस्व आधारित कर प्रणाली / Taxation based on land revenue",
-            "D": "वंशानुगत राजतंत्र / Hereditary monarchy"
-        },
-        "answer": [
-            "B"
-        ],
-        "explanation": "नायकरा प्रणाली में सैनिक कमांडरों को भूमि और सैन्य जिम्मेदारी दी जाती थी। / The Nayankara system granted land and military responsibilities to commanders (Nayaks) in exchange for loyalty."
+    "answer": ["A"],
+    "explanation": "1540 में कन्नौज का युद्ध हुआ जिसमें हुमायूं शेर शाह सूरी से हार गया। इससे हुमायूं को भारत से निर्वासित होना पड़ा और शेर शाह सूरी ने अपनी सत्ता मजबूत की।"
+  },
+  {
+    "id": 4,
+    "question": "Haldighati युद्ध कब हुआ और इसका प्रमुख नेतृत्व कौन कर रहा था? / When was the Battle of Haldighati fought and who led it?",
+    "options": {
+      "A": "1576 – Maharana Pratap ने नेतृत्व किया / 1576 – led by Maharana Pratap",
+      "B": "1526 – Babur ने नेतृत्व किया / 1526 – led by Babur",
+      "C": "1539 – Sher Shah Suri ने नेतृत्व किया / 1539 – led by Sher Shah Suri",
+      "D": "1540 – Humayun ने नेतृत्व किया / 1540 – led by Humayun"
     },
-    {
-        "id": 5,
-        "question": "विजयनगर साम्राज्य के किस शासक ने तेलुगु साहित्य का संरक्षण किया? / Which ruler patronized Telugu literature?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय ने तेलुगु साहित्य का संरक्षण किया और 'अष्टदिग्गज' कवियों का समूह उनके समय में रहा। / Krishnadevaraya patronized Telugu literature and the group of eight eminent poets called Ashtadiggajas flourished during his reign."
+    "answer": ["A"],
+    "explanation": "Haldighati का युद्ध 1576 में हुआ जिसमें महाराणा प्रताप ने अकबर की मुग़ल सेना के खिलाफ नेतृत्व किया। यह युद्ध राजपूतों की वीरता और अकबर के सामरिक कौशल का प्रतीक माना जाता है।"
+  },
+  {
+    "id": 5,
+    "question": "इन युद्धों में से किस युद्ध ने मुग़ल साम्राज्य की नींव रखी? / Which of these battles laid the foundation of the Mughal Empire?",
+    "options": {
+      "A": "Panipat (1526)",
+      "B": "Chausa (1539)",
+      "C": "Kannauj (1540)",
+      "D": "Haldighati (1576)"
     },
-    {
-        "id": 6,
-        "question": "विजयनगर स्थापत्य शैली के लिए कौन सा तत्व विशिष्ट था? / Which is a distinctive element of Vijayanagara architecture?",
-        "options": {
-            "A": "गॉथिक शैली / Gothic style",
-            "B": "स्टेप वेल्स / Step wells",
-            "C": "डोम संरचना / Domed structures",
-            "D": "मस्जिदों में गुंबद / Arches in temples"
-        },
-        "answer": [
-            "B"
-        ],
-        "explanation": "विजयनगर साम्राज्य ने जल प्रबंधन के लिए बड़े स्टेप वेल्स (पुष्करिणी) का निर्माण किया। / The Vijayanagara Empire constructed large step wells (pushkarnis) to manage water resources."
+    "answer": ["A"],
+    "explanation": "1526 में पहला पानीपत युद्ध बाबर द्वारा लड़ा गया, जिसने इब्राहिम लोदी को हराकर दिल्ली पर कब्जा किया और मुग़ल साम्राज्य की स्थापना की।"
+  },
+  {
+    "id": 6,
+    "question": "Chausa और Kannauj युद्धों का प्रमुख परिणाम क्या था? / What was the main outcome of Chausa and Kannauj battles?",
+    "options": {
+      "A": "Sher Shah Suri का सत्ता में आगमन / Rise of Sher Shah Suri",
+      "B": "Humayun का भारत से निर्वासन / Humayun's exile from India",
+      "C": "Babur का विजय प्राप्त करना / Babur's victory",
+      "D": "Mughal साम्राज्य का विस्तार / Expansion of Mughal Empire"
     },
-    {
-        "id": 7,
-        "question": "विजयनगर साम्राज्य का पतन किस युद्ध के कारण हुआ? / Which battle led to the downfall of Vijayanagara Empire?",
-        "options": {
-            "A": "तालिकोटा युद्ध / Battle of Talikota",
-            "B": "पनिपत युद्ध / Battle of Panipat",
-            "C": "प्लासी युद्ध / Battle of Plassey",
-            "D": "बक्सर युद्ध / Battle of Buxar"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "1565 में तालिकोटा युद्ध में दक्कन के सुलतानताओं ने विजयनगर साम्राज्य को पराजित किया। / The Battle of Talikota (1565) led to the decisive defeat of Vijayanagara Empire by the Deccan Sultanates."
+    "answer": ["A", "B"],
+    "explanation": "Chausa (1539) और Kannauj (1540) युद्धों में शेर शाह सूरी ने हुमायूं को हराकर सत्ता में कब्जा किया। हुमायूं को भारत से निर्वासित होना पड़ा। ये युद्ध मुग़ल साम्राज्य की अस्थिरता को दर्शाते हैं।"
+  },
+  {
+    "id": 7,
+    "question": "Haldighati युद्ध का मुख्य उद्देश्य क्या था? / What was the main objective of the Battle of Haldighati?",
+    "options": {
+      "A": "Akbar की मुग़ल सेना का क्षेत्रीय विस्तार / Territorial expansion of Akbar's Mughal army",
+      "B": "Rajput राज्यों की स्वतंत्रता बनाए रखना / Preserve independence of Rajput states",
+      "C": "Sher Shah Suri की शक्ति को चुनौती देना / Challenge Sher Shah Suri's power",
+      "D": "Babur की विजय को पुनर्स्थापित करना / Reinstate Babur's victory"
     },
-    {
-        "id": 8,
-        "question": "विजयनगर साम्राज्य में कौन सा धर्म प्रमुख था? / Which religion was prominent in Vijayanagara Empire?",
-        "options": {
-            "A": "वैष्णव धर्म / Vaishnavism",
-            "B": "शैव धर्म / Shaivism",
-            "C": "बौद्ध धर्म / Buddhism",
-            "D": "जैन धर्म / Jainism"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय के समय वैष्णव धर्म को राज्य धर्म के रूप में महत्व दिया गया। / Vaishnavism was the state religion during Krishnadevaraya's reign."
+    "answer": ["A", "B"],
+    "explanation": "Haldighati युद्ध 1576 में अकबर के मुग़ल सेना और महाराणा प्रताप की राजपूत सेना के बीच हुआ। अकबर का उद्देश्य क्षेत्रीय विस्तार था, जबकि महाराणा प्रताप ने स्वतंत्रता बनाए रखने के लिए लड़ा।"
+  },
+  {
+    "id": 8,
+    "question": "Panipat (1526) युद्ध में Babur की विजय के प्रमुख कारण क्या थे? / What were the main reasons for Babur's victory in Panipat (1526)?",
+    "options": {
+      "A": "उन्नत तोपखाना और घातक रणनीति / Advanced artillery and tactical planning",
+      "B": "Ibrahim Lodi की कमजोर सैन्य तैयारी / Ibrahim Lodi's weak military preparation",
+      "C": "Babur की cavalry की तेज गति / Babur's fast-moving cavalry",
+      "D": "Mughal सेना की संख्या अधिक होना / Mughal army numerical superiority"
     },
-    {
-        "id": 9,
-        "question": "विजयनगर साम्राज्य में राजधानी का प्रशासन कौन संभालता था? / Who managed the administration of the capital city?",
-        "options": {
-            "A": "महाप्रधान / Mahapradhana",
-            "B": "नायक / Nayak",
-            "C": "अमात्य / Amatya",
-            "D": "मंडलीक / Mandalika"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "महाप्रधान राजधानी के प्रशासन के लिए जिम्मेदार था। / The Mahapradhana was responsible for administration of the capital."
+    "answer": ["A", "B", "C"],
+    "explanation": "Babur ने Panipat में आधुनिक तोपखाना, घातक रणनीति और तेज घुड़सवार सेना का प्रयोग किया। वहीं, इब्राहिम लोदी की तैयारियां कमजोर थीं। इन कारणों से बाबर ने निर्णायक विजय हासिल की।"
+  },
+  {
+    "id": 9,
+    "question": "इन युद्धों में से कौन-से युद्ध अकबर और राजपूतों के बीच संघर्ष का प्रतीक हैं? / Which of these battles symbolize the conflict between Akbar and the Rajputs?",
+    "options": {
+      "A": "Haldighati (1576)",
+      "B": "Chausa (1539)",
+      "C": "Kannauj (1540)",
+      "D": "Panipat (1526)"
     },
-    {
-        "id": 10,
-        "question": "निम्न में से कौनसा विजयनगर साम्राज्य का प्रांत नहीं था? / Which of the following was NOT a province of Vijayanagara Empire?",
-        "options": {
-            "A": "राज्य / Rajya",
-            "B": "मंडल / Mandala",
-            "C": "नाडु / Nadu",
-            "D": "तलुका / Taluka"
-        },
-        "answer": [
-            "D"
-        ],
-        "explanation": "साम्राज्य को राज्यों में बांटा गया था, जिनमें मंडल और नाडु शामिल थे। तलुका बाद में उपयोग हुआ। / The empire was divided into Rajyas, further subdivided into Mandalas and Nadus. Taluka was a later administrative unit."
+    "answer": ["A"],
+    "explanation": "Haldighati युद्ध 1576 में हुआ और यह अकबर और महाराणा प्रताप के नेतृत्व वाले राजपूतों के संघर्ष का प्रतीक है। इस युद्ध ने राजपूतों की वीरता और अकबर की सामरिक क्षमता को दर्शाया।"
+  },
+  {
+    "id": 10,
+    "question": "कौन-से युद्ध में भारतीय राजा को विदेशी आक्रमणकारियों ने हराया और सत्ता छीनी? / In which battle did an Indian king get defeated by a foreign invader?",
+    "options": {
+      "A": "Panipat (1526) – Ibrahim Lodi को Babur ने हराया / Babur defeated Ibrahim Lodi",
+      "B": "Chausa (1539) – Humayun को Sher Shah Suri ने हराया / Sher Shah Suri defeated Humayun",
+      "C": "Kannauj (1540) – Humayun को Sher Shah Suri ने हराया / Sher Shah Suri defeated Humayun",
+      "D": "Haldighati (1576) – Maharana Pratap को Akbar ने हराया / Akbar defeated Maharana Pratap"
     },
-    {
-       "id": 11,
-       "question": "विजयनगर साम्राज्य के किस शासक ने 'अष्टदिग्गज' कवियों को संरक्षण दिया? / Which ruler of Vijayanagara Empire patronized the 'Ashtadiggajas' poets?",
-       "options": {
-           "A": "कृष्णदेवराय / Krishnadevaraya",
-           "B": "हरिहर I / Harihara I",
-           "C": "बुक्का राय I / Bukka Raya I",
-           "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अष्टदिग्गज' कवियों को संरक्षण दिया, जो तेलुगु साहित्य के महान कवि थे। / Krishnadevaraya patronized the 'Ashtadiggajas', who were great Telugu poets."
+    "answer": ["A", "B", "C"],
+    "explanation": "Panipat, Chausa और Kannauj युद्धों में भारतीय राजाओं या मुग़ल शासक हुमायूं को विदेशी आक्रमणकारियों ने पराजित किया। केवल Haldighati में महाराणा प्रताप ने विजय प्राप्त नहीं की।"
+  },
+  {
+    "id": 11,
+    "question": "Chausa और Kannauj युद्धों से क्या संकेत मिलता है? / What do Chausa and Kannauj battles indicate?",
+    "options": {
+      "A": "सत्ता संघर्ष और अस्थिरता / Power struggle and instability",
+      "B": "शेर शाह सूरी की सामरिक दक्षता / Sher Shah Suri's military efficiency",
+      "C": "हुमायूं की कमजोर नेतृत्व क्षमता / Humayun's weak leadership",
+      "D": "Mughal साम्राज्य का विकास / Development of Mughal Empire"
     },
-    {
-        "id": 12,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A", "B", "C"],
+    "explanation": "Chausa और Kannauj युद्ध हुमायूं की हार और शेर शाह सूरी की सत्ता स्थापना को दर्शाते हैं। ये युद्ध सत्ता संघर्ष और सामरिक कुशलता को दिखाते हैं।"
+  },
+  {
+    "id": 12,
+    "question": "Haldighati युद्ध में अकबर की सेना ने किस प्रकार की रणनीति अपनाई थी? / What strategy did Akbar's army use in the Battle of Haldighati?",
+    "options": {
+      "A": "गोपनीय हमले और घेराबंदी / Surprise attacks and encirclement",
+      "B": "प्रत्यक्ष युद्ध और सामने से टकराना / Direct frontal assault",
+      "C": "घुड़सवार सेना का तेज हमला / Cavalry rapid charge",
+      "D": "तोपखाना और हथियारों का समन्वय / Coordination of artillery and weapons"
     },
-    {
-        "id": 13,
-        "question": "विजयनगर स्थापत्य शैली में किस प्रकार की संरचनाएँ प्रमुख थीं? / Which type of structures were prominent in Vijayanagara architectural style?",
-        "options": {
-            "A": "गोपुरम और मंडप / Gopuram and Mandapa",
-            "B": "डोम और मेहराब / Dome and Arch",
-            "C": "चबूतरे और मीनार / Chabutra and Minar",
-            "D": "कुंभ और स्तूप / Kumbha and Stupa"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "विजयनगर स्थापत्य शैली में गोपुरम और मंडप प्रमुख संरचनाएँ थीं, जो दक्षिण भारतीय मंदिरों की विशेषता हैं। / The Vijayanagara architectural style prominently featured Gopurams and Mandapas, which are characteristic of South Indian temples."
+    "answer": ["A", "C", "D"],
+    "explanation": "अकबर की सेना ने Haldighati में घेराबंदी, घुड़सवार सेना के तेज हमले और तोपखाना का समन्वय कर रणनीति अपनाई। इसके बावजूद महाराणा प्रताप की वीरता ने मुग़ल सेना को पूर्ण विजय नहीं दिलाई।"
+  },
+  {
+    "id": 13,
+    "question": "Panipat (1526) और Haldighati (1576) युद्धों में मुख्य अंतर क्या था? / What was the main difference between Panipat (1526) and Haldighati (1576)?",
+    "options": {
+      "A": "Panipat में विदेशी आक्रमणकारी ने जीत हासिल की / Foreign invader won at Panipat",
+      "B": "Haldighati में भारतीय राजा ने युद्ध का सम्मान बनाए रखा / Indian king preserved honor at Haldighati",
+      "C": "Panipat में आधुनिक तोपखाना प्रयोग हुआ / Use of modern artillery at Panipat",
+      "D": "Haldighati में सामरिक योजनाओं का अभाव था / Lack of strategic planning at Haldighati"
     },
-    {
-        "id": 14,
-        "question": "विजयनगर साम्राज्य के किस युद्ध ने साम्राज्य के पतन की दिशा तय की? / Which battle determined the downfall of the Vijayanagara Empire?",
-        "options": {
-            "A": "तालिकोटा युद्ध / Battle of Talikota",
-            "B": "पानीपत युद्ध / Battle of Panipat",
-            "C": "प्लासी युद्ध / Battle of Plassey",
-            "D": "बक्सर युद्ध / Battle of Buxar"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "1565 में तालिकोटा युद्ध में दक्कन सुलतानों ने विजयनगर साम्राज्य को पराजित किया, जिससे साम्राज्य का पतन हुआ। / In 1565, the Battle of Talikota led to the defeat of the Vijayanagara Empire by the Deccan Sultanates, marking its downfall."
+    "answer": ["A", "B", "C"],
+    "explanation": "Panipat में बाबर ने इब्राहिम लोदी को हराया और आधुनिक तोपखाना प्रयोग किया। Haldighati में महाराणा प्रताप ने अकबर के खिलाफ वीरता दिखाई और युद्ध का सम्मान बनाए रखा।"
+  },
+  {
+    "id": 14,
+    "question": "इन युद्धों के परिणामस्वरूप भारतीय उपमहाद्वीप में क्या बदलाव आए? / What changes occurred in the Indian subcontinent due to these battles?",
+    "options": {
+      "A": "Mughal साम्राज्य की स्थापना और विस्तार / Establishment and expansion of Mughal Empire",
+      "B": "Afghan सत्ता का अस्थायी क्षय / Temporary decline of Afghan power",
+      "C": "Rajput राज्यों की स्वतंत्रता में चुनौतियाँ / Challenges to Rajput independence",
+      "D": "युद्ध रणनीति और सैन्य तकनीक में नवाचार / Innovation in military strategy and techniques"
     },
-    {
-        "id": 15,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली की शुरुआत की? / Which ruler of Vijayanagara Empire initiated the 'Nayankara' system?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "हरिहर I ने 'नायकरा' प्रणाली की शुरुआत की, जिसमें सैन्य अधिकारियों को भूमि और प्रशासनिक अधिकार दिए गए। / Harihara I initiated the 'Nayankara' system, granting military officials land and administrative powers."
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "Panipat, Chausa, Kannauj और Haldighati युद्धों ने मुग़ल साम्राज्य के स्थापना और विस्तार, अफगानों की अस्थायी हार, राजपूतों की स्वतंत्रता पर प्रभाव और सैन्य तकनीक में नवाचार को दर्शाया।"
+  },
+  {
+    "id": 15,
+    "question": "कौन-से युद्ध ने Haryanai क्षेत्र और North India के राजनीतिक नक्शे को बदल दिया? / Which battle altered the political map of Haryana and North India?",
+    "options": {
+      "A": "Panipat (1526)",
+      "B": "Chausa (1539)",
+      "C": "Kannauj (1540)",
+      "D": "Haldighati (1576)"
     },
-    {
-        "id": 16,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'शिवाजी' के नाम से प्रसिद्धि पाई? / Which ruler of Vijayanagara Empire became famous by the name 'Shivaji'?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय को 'शिवाजी' के नाम से प्रसिद्धि प्राप्त हुई, जो उनके वीरता और प्रशासनिक क्षमता का प्रतीक था। / Krishnadevaraya became famous by the name 'Shivaji', symbolizing his valor and administrative capabilities."
+    "answer": ["A"],
+    "explanation": "1526 का पहला Panipat युद्ध ने हनुमानगढ़ और उत्तर भारत के राजनीतिक नक्शे को बदल दिया, इब्राहिम लोदी का अंत किया और बाबर को सत्ता में स्थापित किया।"
+  },
+  {
+    "id": 15,
+    "question": "मुगल साम्राज्य में केंद्रीय प्रशासन के प्रमुख अंग कौन-कौन थे? / Which were the main organs of central administration in the Mughal Empire?",
+    "options": {
+      "A": "Diwan-i-Ala",
+      "B": "Diwan-i-Ariz",
+      "C": "Subahs",
+      "D": "Wazir",
+      "E": "Mir Bakshi"
     },
-    {
-        "id": 17,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A", "B", "D", "E"],
+    "explanation": "केंद्रीय प्रशासन में Diwan-i-Ala (उच्च वित्त विभाग), Diwan-i-Ariz (सैन्य प्रशासन), Wazir (प्रधान मंत्री) और Mir Bakshi (सेना एवं खुफिया) शामिल थे। Subahs प्रांतीय प्रशासन से संबंधित थे।"
+  },
+  {
+    "id": 16,
+    "question": "निम्न में से कौन प्रांतीय प्रशासन के हिस्से थे? / Which among the following were part of provincial administration?",
+    "options": {
+      "A": "Subahs",
+      "B": "Sarkars",
+      "C": "Parganas",
+      "D": "Diwan-i-Ariz",
+      "E": "Wazir"
     },
-    {
-        "id": 18,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'कृष्णदेव राय' के नाम से प्रसिद्धि पाई? / Which ruler of Vijayanagara Empire became famous by the name 'Krishnadev Raya'?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय को 'कृष्णदेव राय' के नाम से प्रसिद्धि प्राप्त हुई, जो उनके शासनकाल की महानता का प्रतीक था। / Krishnadevaraya became famous by the name 'Krishnadev Raya', symbolizing the grandeur of his reign."
+    "answer": ["A", "B", "C"],
+    "explanation": "प्रांतीय प्रशासन में Subahs (प्रांत), Sarkars (जिला स्तर) और Parganas (तहसील स्तर) शामिल थे। Diwan-i-Ariz और Wazir केंद्रीय प्रशासन के अंग थे।"
+  },
+  {
+    "id": 17,
+    "question": "मुगल साम्राज्य में Diwan-i-Ariz की भूमिका क्या थी? / What was the role of Diwan-i-Ariz in the Mughal Empire?",
+    "options": {
+      "A": "सैन्य प्रशासन / Military Administration",
+      "B": "वित्तीय प्रशासन / Financial Administration",
+      "C": "प्रांतीय प्रशासन / Provincial Administration",
+      "D": "न्याय प्रशासन / Judicial Administration"
     },
-    {
-        "id": 19,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का राय I / Bukka Raya I",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A"],
+    "explanation": "Diwan-i-Ariz मुख्य रूप से सेना के प्रशासन और नियुक्तियों के लिए जिम्मेदार था। वित्तीय और न्यायिक प्रशासन अलग अंगों के अधीन थे।"
+  },
+  {
+    "id": 18,
+    "question": "Mir Bakshi का मुख्य कार्य क्या था? / What was the main function of Mir Bakshi?",
+    "options": {
+      "A": "सेना की भर्ती और वेतन / Recruitment and Pay of Army",
+      "B": "राजस्व संग्रह / Revenue Collection",
+      "C": "न्यायिक निर्णय / Judicial Decisions",
+      "D": "प्रांतीय प्रशासन / Provincial Administration"
     },
-    {
-        "id": 20,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Mir Bakshi सेना के कर्मियों की भर्ती, वेतन और सैन्य गतिविधियों के प्रबंधन के लिए जिम्मेदार था। राजस्व और न्यायिक कार्य अन्य विभाग संभालते थे।"
+  },
+  {
+    "id": 19,
+    "question": "केंद्रीय प्रशासन में Wazir और Diwan-i-Ala के बीच क्या अंतर था? / What was the difference between Wazir and Diwan-i-Ala in central administration?",
+    "options": {
+      "A": "Wazir = प्रधान मंत्री / Prime Minister",
+      "B": "Diwan-i-Ala = उच्च वित्त विभाग / High Finance Department",
+      "C": "Wazir = सैन्य प्रमुख / Military Chief",
+      "D": "Diwan-i-Ala = न्यायिक प्रमुख / Judicial Head"
     },
-    {
-        "id": 21,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A", "B"],
+    "explanation": "Wazir सरकार का प्रधान मंत्री था, जबकि Diwan-i-Ala वित्तीय मामलों का प्रमुख विभाग था। दोनों की भूमिकाएँ अलग और स्वतंत्र थीं।"
+  },
+  {
+    "id": 20,
+    "question": "प्रांतीय प्रशासन में Parganas की भूमिका क्या थी? / What was the role of Parganas in provincial administration?",
+    "options": {
+      "A": "छोटे प्रशासनिक और राजस्व इकाई / Small administrative and revenue unit",
+      "B": "सैन्य इकाई / Military Unit",
+      "C": "केंद्र सरकार के मंत्रालय / Central Government Department",
+      "D": "न्यायिक अपीलीय निकाय / Judicial appellate body"
     },
-    {
-        "id": 22,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Parganas सबसे छोटी प्रशासनिक इकाई थी, जो मुख्य रूप से राजस्व संग्रह और स्थानीय प्रशासन के लिए जिम्मेदार थी।"
+  },
+  {
+    "id": 21,
+    "question": "Sarkars प्रांतीय प्रशासन में किस स्तर पर आते थे? / At which level did Sarkars function in provincial administration?",
+    "options": {
+      "A": "जिला स्तर / District Level",
+      "B": "प्रांत स्तर / Provincial Level",
+      "C": "राज्य स्तर / State Level",
+      "D": "ग्राम स्तर / Village Level"
     },
-    {
-        "id": 23,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A"],
+    "explanation": "Sarkars प्रांतीय प्रशासन का जिला स्तर होते थे, जो कई Parganas को नियंत्रित करते थे।"
+  },
+  {
+    "id": 22,
+    "question": "केंद्रीय प्रशासन और प्रांतीय प्रशासन में कौन-कौन सी संस्थाएँ साझा नहीं थीं? / Which institutions were not common between central and provincial administration?",
+    "options": {
+      "A": "Wazir",
+      "B": "Mir Bakshi",
+      "C": "Subahs",
+      "D": "Diwan-i-Ariz"
     },
-    {
-        "id": 24,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A", "B", "D"],
+    "explanation": "Wazir, Mir Bakshi और Diwan-i-Ariz केवल केंद्रीय प्रशासन के अंग थे। Subahs प्रांतीय प्रशासन का हिस्सा थे।"
+  },
+  {
+    "id": 23,
+    "question": "मुगल प्रशासन में Subahdar की भूमिका क्या थी? / What was the role of Subahdar in Mughal administration?",
+    "options": {
+      "A": "प्रांतीय सरकार का प्रमुख / Head of provincial government",
+      "B": "सैन्य संचालन के लिए उत्तरदायी / Responsible for military operations",
+      "C": "राजस्व संग्रह / Revenue collection",
+      "D": "सभी ऊपर / All of the above"
     },
-    {
-        "id": 25,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["D"],
+    "explanation": "Subahdar प्रांत का प्रमुख होता था और वह सैन्य संचालन, राजस्व संग्रह और प्रशासनिक प्रबंधन सभी के लिए जिम्मेदार होता था।"
+  },
+  {
+    "id": 24,
+    "question": "Diwan-i-Ala और Diwan-i-Ariz दोनों के कार्य में क्या अंतर था? / What was the difference between the roles of Diwan-i-Ala and Diwan-i-Ariz?",
+    "options": {
+      "A": "Diwan-i-Ala = वित्त / Finance",
+      "B": "Diwan-i-Ariz = सैन्य / Military",
+      "C": "Diwan-i-Ala = न्याय / Judicial",
+      "D": "Diwan-i-Ariz = राजस्व / Revenue"
     },
-    {
-        "id": 26,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A", "B"],
+    "explanation": "Diwan-i-Ala वित्तीय प्रशासन संभालता था जबकि Diwan-i-Ariz सेना और सैन्य प्रशासन के लिए जिम्मेदार था।"
+  },
+  {
+    "id": 25,
+    "question": "केंद्र और प्रांतीय प्रशासन के बीच कौन-कौन सी जिम्मेदारियाँ साझा नहीं थीं? / Which responsibilities were not shared between central and provincial administration?",
+    "options": {
+      "A": "राजस्व संग्रह / Revenue collection",
+      "B": "सैन्य प्रशासन / Military administration",
+      "C": "स्थानीय न्याय / Local judiciary",
+      "D": "केंद्रीय मंत्रिपरिषद / Central Council"
     },
-    {
-        "id": 27,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["B", "D"],
+    "explanation": "सैन्य प्रशासन (Diwan-i-Ariz, Mir Bakshi) और केंद्रीय मंत्रिपरिषद (Wazir) केवल केंद्र में थे। राजस्व संग्रह और स्थानीय न्याय प्रांतीय प्रशासन में कार्यरत थे।"
+  },
+  {
+    "id": 26,
+    "question": "Mansabdari system में 'Zat' और 'Sawar' का क्या महत्व था? / What was the significance of 'Zat' and 'Sawar' in the Mansabdari system?",
+    "options": {
+      "A": "Zat सैनिक की निजी रैंक को दर्शाता था / Zat indicated the personal rank of a soldier",
+      "B": "Sawar घुड़सवारों की संख्या निर्धारित करता था / Sawar determined the number of cavalry",
+      "C": "Jagir की भूमि का आकार निर्धारित करता था / Determined the size of Jagir land",
+      "D": "राजस्व संग्रह की दर तय करता था / Determined revenue collection rate"
     },
-    {
-        "id": 28,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A", "B"],
+    "explanation": "Mansabdari system में Zat से सैनिक की निजी रैंक ज्ञात होती थी, और Sawar से उसकी cavalry strength तय होती थी। Jagir और revenue collection अलग प्रावधानों द्वारा संचालित होते थे।"
+  },
+  {
+    "id": 27,
+    "question": "Jagir system के तहत अधिकारियों को भूमि क्यों दी जाती थी? / Why were officials granted land under the Jagir system?",
+    "options": {
+      "A": "सैनिकों को वेतन देने के लिए / To pay soldiers",
+      "B": "राजस्व संग्रह के लिए / For revenue collection",
+      "C": "स्थानीय न्यायिक शक्तियों के लिए / For local judicial powers",
+      "D": "मुगल दरबार की सजावट के लिए / For Mughal court decoration"
     },
-    {
-        "id": 29,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A", "B"],
+    "explanation": "Jagir system में अधिकारियों को उनके सेवाओं के बदले land grant किया जाता था, जिससे वे अपनी जिम्मेदारियों के लिए revenue संग्रह कर सकें और सैनिकों को वेतन प्रदान कर सकें।"
+  },
+  {
+    "id": 28,
+    "question": "Zabti system (Ain-i-Akbari) का मुख्य उद्देश्य क्या था? / What was the main purpose of the Zabti system in Ain-i-Akbari?",
+    "options": {
+      "A": "कृषि उत्पाद पर कर निर्धारित करना / To fix tax on agricultural produce",
+      "B": "सैनिकों की भर्ती करना / To recruit soldiers",
+      "C": "सुधारित न्यायिक प्रणाली लागू करना / To implement judicial reforms",
+      "D": "सड़क और पुल निर्माण के लिए निधि जुटाना / To fund roads and bridges"
     },
-    {
-        "id": 30,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Zabti system में भूमि के प्रकार और उपज के आधार पर कर निर्धारित किया जाता था। इसका उद्देश्य Mughal राज्य के लिए स्थिर और नियमित revenue सुनिश्चित करना था।"
+  },
+  {
+    "id": 29,
+    "question": "Dastur-i-Amal का Mughal प्रशासन में क्या महत्व था? / What was the significance of Dastur-i-Amal in Mughal administration?",
+    "options": {
+      "A": "राजस्व संग्रह की प्रक्रिया को नियमित करना / Standardize revenue collection procedures",
+      "B": "सैनिकों की रैंक तय करना / Assign ranks to soldiers",
+      "C": "संसदीय कानून बनाना / Enact parliamentary laws",
+      "D": "राज्य में धार्मिक सुधार लागू करना / Implement religious reforms"
     },
-    {
-        "id": 21,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Dastur-i-Amal Mughal revenue system का guideline था जो ज़मीन के उत्पादन, कर निर्धारण और संग्रहण प्रक्रिया को व्यवस्थित करता था।"
+  },
+  {
+    "id": 30,
+    "question": "Mansabdari system में Jagirdar और Mansabdar के बीच क्या अंतर था? / What was the difference between a Jagirdar and a Mansabdar?",
+    "options": {
+      "A": "Mansabdar रैंक और सैन्य जिम्मेदारी का अधिकारी था / Mansabdar was officer of rank and military responsibility",
+      "B": "Jagirdar भूमि से राजस्व संग्रह करने वाला अधिकारी था / Jagirdar collected revenue from land",
+      "C": "Mansabdar हमेशा राजा के परिवार का सदस्य होता था / Mansabdar was always royal family member",
+      "D": "Jagirdar न्यायिक अधिकारी होता था / Jagirdar acted as judicial officer"
     },
-    {
-        "id": 22,
-        "question": "विजयनगर साम्राज्य के किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A", "B"],
+    "explanation": "Mansabdar Mughal प्रशासन में पद और सैन्य जिम्मेदारी के आधार पर होता था जबकि Jagirdar को ज़मीनी राजस्व संग्रह की जिम्मेदारी दी जाती थी। दोनों पद अक्सर overlap करते थे लेकिन मूल कार्य अलग थे।"
+  },
+  {
+    "id": 31,
+    "question": "Mughal Revenue System में Sawar की भूमिका क्या थी? / What was the role of Sawar in Mughal Revenue System?",
+    "options": {
+      "A": "सैनिक घुड़सवारों की संख्या निर्धारित करता था / Determined number of cavalry soldiers",
+      "B": "राजस्व दर तय करता था / Determined revenue rate",
+      "C": "सैनिकों को वेतन प्रदान करता था / Provided salary to soldiers",
+      "D": "स्थानीय न्यायिक मामलों को नियंत्रित करता था / Controlled local judicial matters"
     },
-    {
-        "id": 23,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A"],
+    "explanation": "Sawar का संकेत उस Mansabdar की cavalry strength को दर्शाता था, जो Mughal सेना की तैयारी और राजस्व वितरण के लिए महत्वपूर्ण था।"
+  },
+  {
+    "id": 32,
+    "question": "Zat rank का Mughal प्रशासन में मुख्य महत्व क्या था? / What was the main importance of Zat rank in Mughal administration?",
+    "options": {
+      "A": "सैनिक का व्यक्तिगत रैंक और अधिकार दिखाता था / Showed personal rank and privileges",
+      "B": "राजस्व संग्रह की दर तय करता था / Determined revenue collection rate",
+      "C": "सैनिक को Jagir प्रदान करता था / Assigned Jagir to soldier",
+      "D": "सैन्य अभियान की योजना बनाता था / Planned military campaigns"
     },
-    {
-        "id": 24,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Zat rank Mansabdar की व्यक्तिगत रैंक और अधिकार को निर्दिष्ट करता था, जबकि Sawar उसकी cavalry strength को दिखाता था।"
+  },
+  {
+    "id": 33,
+    "question": "Jagirdar को revenue collection के लिए किस आधार पर land grant की जाती थी? / On what basis was land granted to Jagirdars for revenue collection?",
+    "options": {
+      "A": "Mansabdar की रैंक और military strength / Mansabdar's rank and military strength",
+      "B": "स्थानीय किसानों की संख्या / Number of local farmers",
+      "C": "सैनिकों की भर्ती संख्या / Number of recruited soldiers",
+      "D": "धार्मिक योगदान / Religious contribution"
     },
-    {
-        "id": 25,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Jagirdars को land grant उनके Mansabdar rank और Sawar के आधार पर दिया जाता था ताकि वे अपने troops को maintain कर सकें और revenue efficiently collect कर सकें।"
+  },
+  {
+    "id": 34,
+    "question": "Ain-i-Akbari में Mansabdari और Revenue system को किस प्रकार document किया गया? / How were Mansabdari and Revenue systems documented in Ain-i-Akbari?",
+    "options": {
+      "A": "संपूर्ण प्रशासनिक विवरण और Jagir allocations / Complete administrative details and Jagir allocations",
+      "B": "सिर्फ सैन्य अभियान के रिकॉर्ड / Only military campaigns record",
+      "C": "धार्मिक समारोहों का विवरण / Description of religious ceremonies",
+      "D": "स्थानीय न्यायिक मामलों का विवरण / Local judicial matters record"
     },
-    {
-        "id": 26,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A"],
+    "explanation": "Ain-i-Akbari में Mansabdars की रैंक, Sawar, Zat, Jagir allocations और revenue procedures का विस्तृत विवरण दिया गया है, जिससे Mughal प्रशासन की organization स्पष्ट होती है।"
+  },
+  {
+    "id": 35,
+    "question": "Mansabdari system में किस प्रकार officers की पदोन्नति की जाती थी? / How were officers promoted in Mansabdari system?",
+    "options": {
+      "A": "सैनिक योग्यता और loyalty के आधार पर / Based on military merit and loyalty",
+      "B": "सिर्फ जाति और परिवार के आधार पर / Only on caste and family",
+      "C": "राजस्व संग्रह की दक्षता पर / Based on revenue collection efficiency",
+      "D": "धार्मिक योगदान के आधार पर / Based on religious contribution"
     },
-    {
-        "id": 27,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A", "C"],
+    "explanation": "Mansabdari system में पदोन्नति officers की सैन्य योग्यता, Sawar/Zat performance और revenue collection efficiency के आधार पर होती थी। केवल जाति या परिवार महत्वपूर्ण नहीं थे।"
+  },
+  {
+    "id": 36,
+    "question": "Todar Mal ka bandobast kis Mughal shasak ke samay hua tha? / During whose reign was Todar Mal's land revenue system introduced?",
+    "options": {
+      "A": "Akbar",
+      "B": "Humayun",
+      "C": "Jahangir",
+      "D": "Shah Jahan"
     },
-    {
-        "id": 28,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'राजसेखरचरित' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Rajasekhara Charitramu'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'राजसेखरचरित' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Rajasekhara Charitramu', which is an important work in Telugu literature."
+    "answer": ["A"],
+    "explanation": "Todar Mal ka bandobast, jo ki zabti system ke roop mein jaana jaata hai, Akbar ke shasan kaal mein lagu hua tha. Yeh land revenue ko uniform aur systematic banane ke liye design kiya gaya tha."
+  },
+  {
+    "id": 37,
+    "question": "Todar Mal ke zabti system ke mukhya tatva kaun se the? / What were the main features of Todar Mal's Zabti system?",
+    "options": {
+      "A": "Land measurement aur classification",
+      "B": "Fixed revenue assessment",
+      "C": "Use of revenue officials (amils)",
+      "D": "Inheritance-based tax collection"
     },
-    {
-        "id": 29,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'नायकरा' प्रणाली को सुदृढ़ किया? / Which ruler of Vijayanagara Empire strengthened the 'Nayankara' system?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'नायकरा' प्रणाली को सुदृढ़ किया, जिससे साम्राज्य की प्रशासनिक संरचना मजबूत हुई। / Krishnadevaraya strengthened the 'Nayankara' system, enhancing the administrative structure of the empire."
+    "answer": ["A", "B", "C"],
+    "explanation": "Zabti system mein zameen ko naap kar uske quality ke anusar classify kiya jata tha aur fixed revenue lagaya jata tha. Amils ya revenue officials ki niyukti is system ka ek mahatvapurn hissa tha. Lekin inheritance-based tax system iska part nahi tha."
+  },
+  {
+    "id": 38,
+    "question": "Mughal taxation policies mein Kharaj, Ushr aur Abwabs kis cheez ko darshate the? / What did Kharaj, Ushr, and Abwabs represent in Mughal taxation?",
+    "options": {
+      "A": "Land tax",
+      "B": "Tax on crops",
+      "C": "Trade tax",
+      "D": "Religious tithe"
     },
-    {
-        "id": 30,
-        "question": "विजयनगर साम्राज्य में किस शासक ने 'अमुक्तमाल्यदा' काव्य रचना की? / Which ruler of Vijayanagara Empire composed the epic 'Amuktamalyada'?",
-        "options": {
-            "A": "कृष्णदेवराय / Krishnadevaraya",
-            "B": "हरिहर I / Harihara I",
-            "C": "बुक्का राय I / Bukka Raya I",
-            "D": "देवराय II / Deva Raya II"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय ने 'अमुक्तमाल्यदा' काव्य रचना की, जो तेलुगु साहित्य का महत्वपूर्ण ग्रंथ है। / Krishnadevaraya composed the epic 'Amuktamalyada', which is an important work in Telugu literature."
+    "answer": ["A", "B"],
+    "explanation": "Kharaj aur Ushr mukhya roop se land aur crops par lagne wale taxes the. Abwabs mein chhote-chhote ancillary taxes shamil the. Trade tax aur religious tithe inme shamil nahi the."
+  },
+  {
+    "id": 39,
+    "question": "Todar Mal ke bandobast ne kis tarah raiyat aur zamindar ke roles ko prabhavit kiya? / How did Todar Mal's system affect the roles of raiyat and zamindar?",
+    "options": {
+      "A": "Raiyat ko fixed tax dena pada",
+      "B": "Zamindar ki authority centralized hui",
+      "C": "Raiyat ko tax-free exemption mili",
+      "D": "Zamindar aur state ke beech clear responsibility bani"
     },
-    {
-        "id": 31,
-        "question": "विजयनगर साम्राज्य के संस्थापक कौन थे और उनकी प्रमुख उपलब्धियाँ क्या थीं? / Who were the founders of Vijayanagar Empire and their major achievements?",
-        "options": {
-            "A": "हरिहर I (Harihara I)",
-            "B": "बुक्का (Bukka)",
-            "C": "कृष्णदेवराय (Krishnadevaraya)",
-            "D": "अशोक (Ashoka)"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "हरिहर I और बुक्का ने विजयनगर साम्राज्य की स्थापना की और प्रशासनिक ढाँचा मजबूत किया। कृष्णदेवराय बाद में शासनकर्ता बने।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Raiyat ko fixed revenue dena padta tha. Zamindar ke powers central authority ke under aa gaye aur state ke saath unke responsibilities define hui. Tax-free exemption nahi di gayi."
+  },
+  {
+    "id": 40,
+    "question": "Todar Mal ke zabti system ki khasiyat kya thi? / What was the uniqueness of Todar Mal's Zabti system?",
+    "options": {
+      "A": "Standardized measurement of land",
+      "B": "Revenue collection based on productivity",
+      "C": "Uniform monetary assessment",
+      "D": "No involvement of local officials"
     },
-    {
-        "id": 32,
-        "question": "नायक प्रणाली (Nayankara system) का मुख्य उद्देश्य क्या था? / What was the main purpose of Nayankara system?",
-        "options": {
-            "A": "प्रांतीय प्रशासन में सैन्य और आर्थिक नियंत्रण / Military and economic control in provincial administration",
-            "B": "धार्मिक विस्तार / Religious expansion",
-            "C": "साहित्यिक विकास / Literary development",
-            "D": "व्यापार और शहरों का प्रबंधन / Trade and urban management"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "नायक प्रणाली के तहत नायक को प्रांतीय क्षेत्र में सैन्य और आर्थिक नियंत्रण दिया गया था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Todar Mal ne zameen ko standard measure mein classify kiya, productivity ke anusar tax lagaya aur monetary assessment uniform banaya. Local officials (amils) ki involvement zaruri thi, isliye D galat hai."
+  },
+  {
+    "id": 41,
+    "question": "Kharaj aur Ushr mein mukhya antar kya tha? / What was the main difference between Kharaj and Ushr?",
+    "options": {
+      "A": "Kharaj land tax on non-Muslims",
+      "B": "Ushr tax on Muslims",
+      "C": "Kharaj fixed revenue",
+      "D": "Ushr variable revenue based on yield"
     },
-    {
-        "id": 33,
-        "question": "कृष्णदेवराय के काल में कौन-सी भाषाओं में साहित्य को प्रोत्साहन मिला? / Which languages received patronage during Krishnadevaraya's reign?",
-        "options": {
-            "A": "संस्कृत / Sanskrit",
-            "B": "तेलुगु / Telugu",
-            "C": "तमिल / Tamil",
-            "D": "कन्नड़ / Kannada"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "कृष्णदेवराय ने संस्कृत, तेलुगु और कन्नड़ साहित्य को प्रोत्साहन दिया। तमिल में कुछ सीमित योगदान था।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "Kharaj non-Muslim raiyaton se lagta tha aur aksar fixed amount tha. Ushr Muslim raiyaton par lagta tha aur yield ke hisaab se calculate hota tha. Dono ka tax basis aur rate alag tha."
+  },
+  {
+    "id": 42,
+    "question": "Abwabs ka pramukh uddeshya kya tha? / What was the main purpose of Abwabs?",
+    "options": {
+      "A": "Ancillary or additional taxes",
+      "B": "Main land revenue",
+      "C": "Control over zamindars",
+      "D": "Trade regulation"
     },
-    {
-        "id": 34,
-        "question": "तलिकोटा युद्ध (Battle of Talikota) के कारण क्या थे? / What were the causes of Battle of Talikota?",
-        "options": {
-            "A": "काकतीय साम्राज्यों का विरोध / Opposition from Deccan sultanates",
-            "B": "धार्मिक संघर्ष / Religious conflict",
-            "C": "विजयनगर साम्राज्य की विस्तार नीति / Expansion policy of Vijayanagar",
-            "D": "अंग्रेजों का हस्तक्षेप / British interference"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "तलिकोटा युद्ध काकतीय साम्राज्यों की असंतोष और विजयनगर की विस्तार नीति के कारण हुआ।"
+    "answer": ["A", "C"],
+    "explanation": "Abwabs chhote ancillary taxes the aur zamindars aur state ke beech control establish karte the. Main land revenue ya trade regulation directly nahi the."
+  },
+  {
+    "id": 43,
+    "question": "Todar Mal ke zabti system ko lagu karne mein kaun se officials important the? / Which officials were important for implementing Zabti system?",
+    "options": {
+      "A": "Amil",
+      "B": "Patwari",
+      "C": "Qanungo",
+      "D": "Subedar"
     },
-    {
-        "id": 35,
-        "question": "तलिकोटा युद्ध के परिणाम क्या हुए? / What were the consequences of Battle of Talikota?",
-        "options": {
-            "A": "विजयनगर का पतन / Decline of Vijayanagar",
-            "B": "दक्षिण भारत में मुस्लिम सुल्तानतों का प्रभुत्व / Dominance of Deccan Sultanates",
-            "C": "साहित्यिक विकास में वृद्धि / Growth in literature",
-            "D": "व्यापारिक गतिविधियों में कमी / Decline in trade activities"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "युद्ध के बाद विजयनगर का पतन हुआ, सुल्तानों का प्रभुत्व बढ़ा और व्यापारिक गतिविधियाँ प्रभावित हुई।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Amil, Patwari aur Qanungo zabti system ke implementation ke liye central the. Subedar ek military governor tha, iska direct relation nahi tha."
+  },
+  {
+    "id": 44,
+    "question": "Todar Mal ke bandobast ka sabse bada fayda kya tha? / What was the biggest benefit of Todar Mal's system?",
+    "options": {
+      "A": "Revenue predictability",
+      "B": "Raiyat aur zamindar ke roles clear hue",
+      "C": "Farming techniques improved",
+      "D": "Uniformity in taxation"
     },
-    {
-        "id": 36,
-        "question": "विजयनगर साम्राज्य में किसने मंदिर निर्माण और स्थापत्य कला को बढ़ावा दिया? / Who promoted temple construction and architectural art in Vijayanagar Empire?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का / Bukka",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "अशोक / Ashoka"
-        },
-        "answer": [
-            "B",
-            "C"
-        ],
-        "explanation": "बुक्का और कृष्णदेवराय ने मंदिर निर्माण और स्थापत्य कला में विशेष योगदान दिया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Todar Mal ke system se revenue predictable hua, roles aur responsibilities clear hue aur uniformity aayi. Farming techniques mein direct improvement nahi tha."
+  },
+  {
+    "id": 45,
+    "question": "Zabti system mein land classification kis basis par hota tha? / On what basis was land classified in Zabti system?",
+    "options": {
+      "A": "Soil fertility",
+      "B": "Irrigation facility",
+      "C": "Crop type",
+      "D": "Ownership lineage"
     },
-    {
-        "id": 37,
-        "question": "विजयनगर साम्राज्य का प्रमुख व्यापारिक केंद्र कौन था? / What was the main trade center of Vijayanagar Empire?",
-        "options": {
-            "A": "हंपी / Hampi",
-            "B": "मद्रास / Madras",
-            "C": "बीजापुर / Bijapur",
-            "D": "बंगलुरु / Bangalore"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "हंपी विजयनगर साम्राज्य का प्रमुख व्यापारिक और सांस्कृतिक केंद्र था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Zameen ko fertility, irrigation aur crop type ke basis par classify kiya jata tha. Ownership lineage ka isme role nahi tha."
+  },
+  {
+    "id": 46,
+    "question": "Todar Mal ke zabti system mein zamindar ka role kya tha? / What was the role of Zamindars in Zabti system?",
+    "options": {
+      "A": "Revenue collection from raiyats",
+      "B": "Land measurement",
+      "C": "Assessment of productivity",
+      "D": "Military administration"
     },
-    {
-        "id": 38,
-        "question": "विजयनगर साम्राज्य की अर्थव्यवस्था किस पर आधारित थी? / On what was the economy of Vijayanagar Empire based?",
-        "options": {
-            "A": "कृषि / Agriculture",
-            "B": "हस्तशिल्प / Handicrafts",
-            "C": "व्यापार / Trade",
-            "D": "सैनिक खर्च / Military expenditure"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "विजयनगर की अर्थव्यवस्था कृषि, हस्तशिल्प और व्यापार पर आधारित थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Zamindars revenue collect karte, land measure karte aur productivity assess karte the. Military administration ka unse sambandh nahi tha."
+  },
+  {
+    "id": 47,
+    "question": "Todar Mal ke zabti system mein revenue assessment ka main criterion kya tha? / What was the main criterion for revenue assessment?",
+    "options": {
+      "A": "Land fertility",
+      "B": "Crop yield",
+      "C": "Raiyat status",
+      "D": "Distance from market"
     },
-    {
-        "id": 39,
-        "question": "नायक प्रणाली में नायक को कौन-सी जिम्मेदारी दी जाती थी? / What responsibility was given to Nayak in Nayankara system?",
-        "options": {
-            "A": "सैन्य नेतृत्व / Military leadership",
-            "B": "कर संग्रह / Revenue collection",
-            "C": "धार्मिक अनुष्ठान / Religious ceremonies",
-            "D": "साहित्यिक विकास / Literary development"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "नायक को सैन्य नेतृत्व और कर संग्रह की जिम्मेदारी दी जाती थी।"
+    "answer": ["A", "B"],
+    "explanation": "Revenue assessment primarily land fertility aur crop yield par depend karta tha. Raiyat ka social status aur market distance secondary nahi the."
+  },
+  {
+    "id": 48,
+    "question": "Mughal taxation policies ke tehat Kharaj aur Ushr ke alawa kaun se taxes shamil the? / Besides Kharaj and Ushr, which other taxes were included?",
+    "options": {
+      "A": "Abwabs",
+      "B": "Jizya",
+      "C": "Octroi",
+      "D": "Custom duties"
     },
-    {
-        "id": 40,
-        "question": "कृष्णदेवराय की प्रशासनिक नीति का प्रमुख उद्देश्य क्या था? / What was the main purpose of Krishnadevaraya's administrative policy?",
-        "options": {
-            "A": "साम्राज्य के स्थायित्व को सुनिश्चित करना / Ensuring stability of empire",
-            "B": "धार्मिक असहमति बढ़ाना / Increasing religious dissent",
-            "C": "साहित्यिक गतिविधियों को रोकना / Restricting literary activities",
-            "D": "व्यापारिक संबंधों में बाधा डालना / Obstructing trade relations"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "कृष्णदेवराय की प्रशासनिक नीति का मुख्य उद्देश्य साम्राज्य के स्थायित्व और विकास को सुनिश्चित करना था।"
+    "answer": ["A", "B"],
+    "explanation": "Abwabs chhote additional taxes the, Jizya non-Muslims par lagta tha. Octroi aur custom duties central Mughal taxation ka part nahi the."
+  },
+  {
+    "id": 49,
+    "question": "Todar Mal ne revenue collection system ko kaise uniform banaya? / How did Todar Mal make revenue collection uniform?",
+    "options": {
+      "A": "Standard measurement of land",
+      "B": "Assessment based on productivity",
+      "C": "Central control over collection",
+      "D": "By abolishing zamindars"
     },
-    {
-        "id": 41,
-        "question": "विजयनगर साम्राज्य में कौन-सी प्रमुख वास्तुकला शैली देखने को मिलती थी? / What was the prominent architectural style in Vijayanagar Empire?",
-        "options": {
-            "A": "हंपी शैली / Hampi Style",
-            "B": "चोल शैली / Chola Style",
-            "C": "पल्लव शैली / Pallava Style",
-            "D": "मौर्य शैली / Maurya Style"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "विजयनगर साम्राज्य में हंपी शैली की वास्तुकला प्रमुख थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Todar Mal ne land ko standard measure par nap kar, productivity ke hisaab se assessment kiya aur central officials ke zariye uniform collection ensure ki. Zamindars ko abolish nahi kiya gaya."
+  },
+  {
+    "id": 50,
+    "question": "Todar Mal ke zabti system ka pramukh uddeshya kya tha? / What was the main objective of Todar Mal's Zabti system?",
+    "options": {
+      "A": "Systematic and fair revenue collection",
+      "B": "Increase royal treasury",
+      "C": "Reduce peasant exploitation",
+      "D": "Complete state control over land"
     },
-    {
-        "id": 42,
-        "question": "विजयनगर साम्राज्य में कृषि उत्पादन के लिए कौन-से सुधार किए गए? / What reforms were made for agricultural production in Vijayanagar Empire?",
-        "options": {
-            "A": "सिंचाई व्यवस्था / Irrigation system",
-            "B": "बीज सुधार / Seed improvement",
-            "C": "कराधान वृद्धि / Tax increase",
-            "D": "सैनिक भर्ती / Military recruitment"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "कृष्णदेवराय और उनके शासनकाल में सिंचाई और बीज सुधार पर ध्यान दिया गया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Todar Mal ka primary aim systematic aur fair revenue collection tha, treasury ko enhance karna aur raiyat ke exploitation ko reduce karna. Complete state control nahi tha."
+  },
+  {
+    "id": 51,
+    "question": "Akbar ke shasan kaal mein Mughal chhavi kaise thi? / How was the Mughal image during Akbar's reign?",
+    "options": {
+      "A": "Religious tolerance",
+      "B": "Cultural fusion",
+      "C": "Authoritarian rule",
+      "D": "Military expansion"
     },
-    {
-        "id": 43,
-        "question": "कृष्णदेवराय के समय कौन-सी आर्थिक गतिविधियाँ प्रमुख थीं? / Which economic activities were prominent during Krishnadevaraya's time?",
-        "options": {
-            "A": "कृषि / Agriculture",
-            "B": "हस्तशिल्प / Handicrafts",
-            "C": "विदेशी व्यापार / Foreign trade",
-            "D": "सैनिक प्रशिक्षण / Military training"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "कृषि, हस्तशिल्प और विदेशी व्यापार प्रमुख आर्थिक गतिविधियाँ थीं।"
+    "answer": ["A", "B"],
+    "explanation": "Akbar ne dharmik samanta aur sanskritik milan ko badhava diya, jisme Hindu aur Muslim kalaakar ek saath kaam karte the."
+  },
+  {
+    "id": 52,
+    "question": "Jahangir ke samay mein painting ki visheshta kya thi? / What was the specialty of painting during Jahangir's time?",
+    "options": {
+      "A": "Naturalism",
+      "B": "Portraiture",
+      "C": "Use of oil paints",
+      "D": "European influence"
     },
-    {
-        "id": 44,
-        "question": "विजयनगर साम्राज्य में किसने मंदिरों का संरक्षण किया? / Who patronized temples in Vijayanagar Empire?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का / Bukka",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "शेरशाह सूरी / Sher Shah Suri"
-        },
-        "answer": [
-            "B",
-            "C"
-        ],
-        "explanation": "बुक्का और कृष्णदेवराय ने मंदिर निर्माण और संरक्षण में महत्वपूर्ण योगदान दिया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Jahangir ne prakritik chhavi aur chhavi chitrankan ko badhava diya, jisme European kala ka prabhav bhi tha."
+  },
+  {
+    "id": 53,
+    "question": "Shah Jahan ke samay mein painting ki visheshta kya thi? / What was the specialty of painting during Shah Jahan's time?",
+    "options": {
+      "A": "Formalism",
+      "B": "Architectural themes",
+      "C": "Use of gold leaf",
+      "D": "Portraits of courtiers"
     },
-    {
-        "id": 45,
-        "question": "विजयनगर साम्राज्य में व्यापार का प्रमुख केंद्र कौन सा था? / Which was the main trade hub of Vijayanagar Empire?",
-        "options": {
-            "A": "हंपी / Hampi",
-            "B": "बीजापुर / Bijapur",
-            "C": "मद्रास / Madras",
-            "D": "गोलकोंडा / Golconda"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "हंपी व्यापार और सांस्कृतिक गतिविधियों का प्रमुख केंद्र था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Shah Jahan ke samay mein chitrankan mein aadhunikta aur sushilata thi, jisme rajmahal aur rajdarbar ke chhavi thi."
+  },
+  {
+    "id": 54,
+    "question": "Akbar ke samay mein Mughal painting ka pramukh vishay kya tha? / What was the main theme of Mughal painting during Akbar's time?",
+    "options": {
+      "A": "Historical events",
+      "B": "Religious themes",
+      "C": "Court life",
+      "D": "Nature"
     },
-    {
-        "id": 46,
-        "question": "नायक प्रणाली के तहत नायक को कितनी भूमि और कर संग्रह का अधिकार था? / Under Nayankara system, how much land and revenue control did Nayak have?",
-        "options": {
-            "A": "संपूर्ण प्रांत / Entire province",
-            "B": "एक क्षेत्रीय भाग / A territorial unit",
-            "C": "सिर्फ सैन्य नियंत्रण / Only military control",
-            "D": "सिर्फ कर संग्रह / Only revenue collection"
-        },
-        "answer": [
-            "B"
-        ],
-        "explanation": "नायक को एक क्षेत्रीय भाग का सैन्य और आर्थिक नियंत्रण दिया जाता था।"
+    "answer": ["A", "C"],
+    "explanation": "Akbar ke samay mein chitrankan mein itihasik ghatnayen aur rajdarbar ke jeevan ko dikhaya gaya."
+  },
+  {
+    "id": 55,
+    "question": "Jahangir ke samay mein painting mein kaun se vishay pramukh the? / What were the main subjects in painting during Jahangir's time?",
+    "options": {
+      "A": "Portraits",
+      "B": "Birds and animals",
+      "C": "Religious themes",
+      "D": "Historical events"
     },
-    {
-        "id": 47,
-        "question": "कृष्णदेवराय के शासनकाल में साहित्यिक योगदान किसे समर्पित था? / Whose literary contributions were patronized during Krishnadevaraya's reign?",
-        "options": {
-            "A": "तेलुगु कवि / Telugu poets",
-            "B": "संस्कृत कवि / Sanskrit poets",
-            "C": "तमिल कवि / Tamil poets",
-            "D": "कन्नड़ कवि / Kannada poets"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "कृष्णदेवराय ने तेलुगु, संस्कृत और कन्नड़ कवियों का संरक्षण किया।"
+    "answer": ["A", "B"],
+    "explanation": "Jahangir ke samay mein chitrankan mein chhavi chitrankan aur pakshi aur pashuon ka chitrankan pramukh the."
+  },
+  {
+    "id": 56,
+    "question": "Shah Jahan ke samay mein painting mein kaun se vishay pramukh the? / What were the main subjects in painting during Shah Jahan's time?",
+    "options": {
+      "A": "Portraits",
+      "B": "Court scenes",
+      "C": "Architectural themes",
+      "D": "Nature"
     },
-    {
-        "id": 48,
-        "question": "तलिकोटा युद्ध के बाद विजयनगर की राजधानी कहाँ स्थित थी? / After Battle of Talikota, where was Vijayanagar capital located?",
-        "options": {
-            "A": "हंपी / Hampi",
-            "B": "बंगलुरु / Bangalore",
-            "C": "मद्रास / Madras",
-            "D": "बीजापुर / Bijapur"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "युद्ध के बाद भी हंपी को मुख्य रूप से सांस्कृतिक केंद्र के रूप में जाना गया।"
+    "answer": ["B", "C"],
+    "explanation": "Shah Jahan ke samay mein chitrankan mein rajdarbar ke chhavi aur rajmahal ke chhavi pramukh the."
+  },
+  {
+    "id": 57,
+    "question": "Akbar ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Akbar's time?",
+    "options": {
+      "A": "Abu'l-Hasan",
+      "B": "Manohar",
+      "C": "Bichitr",
+      "D": "Balchand"
     },
-    {
-        "id": 49,
-        "question": "विजयनगर साम्राज्य में किसने प्रशासनिक सुधार किए? / Who implemented administrative reforms in Vijayanagar Empire?",
-        "options": {
-            "A": "हरिहर I / Harihara I",
-            "B": "बुक्का / Bukka",
-            "C": "कृष्णदेवराय / Krishnadevaraya",
-            "D": "अशोक / Ashoka"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "कृष्णदेवराय ने प्रशासनिक सुधार और प्रांतीय नियंत्रण को सुदृढ़ किया।"
+    "answer": ["A", "B"],
+    "explanation": "Akbar ke samay mein Abu'l-Hasan aur Manohar jaise kalaakar pramukh the."
+  },
+  {
+    "id": 58,
+    "question": "Jahangir ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Jahangir's time?",
+    "options": {
+      "A": "Abu'l-Hasan",
+      "B": "Manohar",
+      "C": "Balchand",
+      "D": "Bichitr"
     },
-    {
-        "id": 50,
-        "question": "विजयनगर साम्राज्य के पतन के बाद किसकी प्रभुसत्ता बढ़ी? / After decline of Vijayanagar Empire, whose dominance increased?",
-        "options": {
-            "A": "दक्षिण भारत के सुल्तान / Deccan Sultanates",
-            "B": "ब्रिटिश ईस्ट इंडिया कंपनी / British East India Company",
-            "C": "मुगल साम्राज्य / Mughal Empire",
-            "D": "पोर्तुगीज / Portuguese"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "विजयनगर के पतन के बाद दक्षिण भारत में सुल्तानों की प्रभुसत्ता बढ़ गई।"
-    }
+    "answer": ["C"],
+    "explanation": "Jahangir ke samay mein Balchand jaise kalaakar pramukh the."
+  },
+  {
+    "id": 59,
+    "question": "Shah Jahan ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Shah Jahan's time?",
+    "options": {
+      "A": "Abu'l-Hasan",
+      "B": "Manohar",
+      "C": "Balchand",
+      "D": "Bichitr"
+    },
+    "answer": ["D"],
+    "explanation": "Shah Jahan ke samay mein Bichitr jaise kalaakar pramukh the."
+  },
+  {
+    "id": 60,
+    "question": "Mughal painting mein European prabhav kis samay mein dekha gaya? / When was the European influence seen in Mughal painting?",
+    "options": {
+      "A": "Akbar's reign",
+      "B": "Jahangir's reign",
+      "C": "Shah Jahan's reign",
+      "D": "Aurangzeb's reign"
+    },
+    "answer": ["B"],
+    "explanation": "Jahangir ke samay mein European painting ka prabhav Mughal chitrankan par dekha gaya, jisme oil paints aur perspective ka upyog hua."
+  },
+  {
+    "id": 61,
+    "question": "Which architectural feature is prominently featured in Humayun's Tomb?",
+    "options": {
+      "A": "Charbagh garden layout",
+      "B": "Double dome structure",
+      "C": "Minarets at each corner",
+      "D": "Use of white marble"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Humayun's Tomb is renowned for its Charbagh garden layout, double dome structure, and extensive use of white marble, marking a significant development in Mughal architecture."
+  },
+  {
+    "id": 62,
+    "question": "Which Mughal emperor commissioned the construction of Fatehpur Sikri?",
+    "options": {
+      "A": "Akbar",
+      "B": "Jahangir",
+      "C": "Shah Jahan",
+      "D": "Aurangzeb"
+    },
+    "answer": ["A"],
+    "explanation": "Emperor Akbar commissioned the construction of Fatehpur Sikri in the late 16th century, serving as the capital of the Mughal Empire for a brief period."
+  },
+  {
+    "id": 63,
+    "question": "What is the primary material used in the construction of the Taj Mahal?",
+    "options": {
+      "A": "Red sandstone",
+      "B": "White marble",
+      "C": "Wood",
+      "D": "Brick"
+    },
+    "answer": ["B"],
+    "explanation": "The Taj Mahal is primarily constructed using white marble, renowned for its intricate carvings and inlay work."
+  },
+  {
+    "id": 64,
+    "question": "Which architectural style is the Jama Masjid in Delhi an example of?",
+    "options": {
+      "A": "Indo-Islamic",
+      "B": "Gothic",
+      "C": "Baroque",
+      "D": "Neoclassical"
+    },
+    "answer": ["A"],
+    "explanation": "The Jama Masjid in Delhi is a prime example of Indo-Islamic architecture, characterized by its grand scale and intricate design."
+  },
+  {
+    "id": 65,
+    "question": "Who authored the 'Akbarnama', the historical chronicle of Emperor Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Nizamuddin Ahmad",
+      "C": "Badauni",
+      "D": "Jahangir"
+    },
+    "answer": ["A"],
+    "explanation": "The 'Akbarnama' was authored by Abul Fazl, Akbar's court historian, providing a detailed account of the emperor's reign."
+  },
+  {
+    "id": 66,
+    "question": "What is the 'Tuzuk-i-Jahangiri'?",
+    "options": {
+      "A": "Jahangir's autobiography",
+      "B": "A collection of Persian poetry",
+      "C": "A historical chronicle of Akbar's reign",
+      "D": "A compilation of Mughal laws"
+    },
+    "answer": ["A"],
+    "explanation": "The 'Tuzuk-i-Jahangiri' is the autobiography of Emperor Jahangir, offering insights into his personal experiences and the political landscape of his time."
+  },
+  {
+    "id": 67,
+    "question": "Which Mughal emperor commissioned the construction of the Taj Mahal?",
+    "options": {
+      "A": "Akbar",
+      "B": "Jahangir",
+      "C": "Shah Jahan",
+      "D": "Aurangzeb"
+    },
+    "answer": ["C"],
+    "explanation": "Emperor Shah Jahan commissioned the construction of the Taj Mahal in memory of his wife Mumtaz Mahal."
+  },
+  {
+    "id": 68,
+    "question": "Which architectural element is a hallmark of Mughal architecture?",
+    "options": {
+      "A": "Flying buttresses",
+      "B": "Onion-shaped domes",
+      "C": "Pointed arches",
+      "D": "Gothic spires"
+    },
+    "answer": ["B"],
+    "explanation": "Onion-shaped domes are characteristic of Mughal architecture, exemplified by structures like the Taj Mahal."
+  },
+  {
+    "id": 69,
+    "question": "What is the significance of the 'Fatawa-i-Alamgiri'?",
+    "options": {
+      "A": "It is a compilation of Mughal laws.",
+      "B": "It is a historical chronicle of Akbar's reign.",
+      "C": "It is a Persian poetry collection.",
+      "D": "It is an autobiography of Emperor Jahangir."
+    },
+    "answer": ["A"],
+    "explanation": "The 'Fatawa-i-Alamgiri' is a compilation of Islamic laws commissioned by Emperor Aurangzeb, serving as a legal code for the Mughal Empire."
+  },
+  {
+    "id": 70,
+    "question": "Which of the following is a feature of the Jama Masjid in Delhi?",
+    "options": {
+      "A": "Large central dome",
+      "B": "Use of white marble",
+      "C": "Minarets at each corner",
+      "D": "Located on a raised platform"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "The Jama Masjid in Delhi features a large central dome, minarets at each corner, and is situated on a raised platform, exemplifying Mughal architectural grandeur."
+  },
+  {
+    "id": 71,
+    "question": "Which Mughal emperor is associated with the construction of Fatehpur Sikri?",
+    "options": {
+      "A": "Akbar",
+      "B": "Jahangir",
+      "C": "Shah Jahan",
+      "D": "Aurangzeb"
+    },
+    "answer": ["A"],
+    "explanation": "Emperor Akbar is associated with the construction of Fatehpur Sikri, which served as the Mughal capital for a period."
+  },
+  {
+    "id": 72,
+    "question": "What is the architectural style of the Taj Mahal?",
+    "options": {
+      "A": "Indo-Islamic",
+      "B": "Gothic",
+      "C": "Baroque",
+      "D": "Neoclassical"
+    },
+    "answer": ["A"],
+    "explanation": "The Taj Mahal is an example of Indo-Islamic architecture, blending elements from Persian, Ottoman Turkish, and Indian architectural styles."
+  },
+  {
+    "id": 73,
+    "question": "Which Mughal emperor commissioned the construction of the Jama Masjid in Delhi?",
+    "options": {
+      "A": "Akbar",
+      "B": "Jahangir",
+      "C": "Shah Jahan",
+      "D": "Aurangzeb"
+    },
+    "answer": ["C"],
+    "explanation": "Emperor Shah Jahan commissioned the construction of the Jama Masjid in Delhi between 1650 and 1656."
+  },
+  {
+    "id": 74,
+    "question": "What is the primary material used in the construction of Fatehpur Sikri?",
+    "options": {
+      "A": "Red sandstone",
+      "B": "White marble",
+      "C": "Wood",
+      "D": "Brick"
+    },
+    "answer": ["A"],
+    "explanation": "Fatehpur Sikri is primarily constructed using red sandstone, giving the city its distinctive red hue."
+  },
+  {
+    "id": 75,
+    "question": "Which architectural feature is prominently featured in the Taj Mahal?",
+    "options": {
+      "A": "Charbagh garden layout",
+      "B": "Double dome structure",
+      "C": "Minarets at each corner",
+      "D": "Use of white marble"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "The Taj Mahal features a Charbagh garden layout, double dome structure, minarets at each corner, and extensive use of white marble."
+  },
+  {
+    "id": 76,
+    "question": "Which Mughal emperor is associated with the construction of the Taj Mahal?",
+    "options": {
+      "A": "Akbar",
+      "B": "Jahangir",
+      "C": "Shah Jahan",
+      "D": "Aurangzeb"
+    },
+    "answer": ["C"],
+    "explanation": "Emperor Shah Jahan is associated with the construction of the Taj Mahal, built in memory of his wife Mumtaz Mahal."
+  },
+  {
+    "id": 77,
+    "question": "What is the significance of the 'Akbarnama'?",
+    "options": {
+      "A": "It is a compilation of Mughal laws.",
+      "B": "It is a historical chronicle of Akbar's reign.",
+      "C": "It is a Persian poetry collection.",
+      "D": "It is an autobiography of Emperor Jahangir."
+    },
+    "answer": ["B"],
+    "explanation": "The 'Akbarnama' is a historical chronicle of Emperor Akbar's reign, authored by his court historian Abul Fazl."
+  },
+  {
+    "id": 78,
+    "question": "Which architectural element is a hallmark of Mughal architecture?",
+    "options": {
+      "A": "Flying buttresses",
+      "B": "Onion-shaped domes",
+      "C": "Pointed arches",
+      "D": "Gothic spires"
+    },
+    "answer": ["B"],
+    "explanation": "Onion-shaped domes are characteristic of Mughal architecture, exemplified by structures like the Taj Mahal."
+  },
+  {
+    "id": 79,
+    "question": "Which of the following historians served as a courtier during Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Abul Fazl and Badauni were contemporaries at Akbar's court, with Abul Fazl serving as a close confidant and Badauni as a scholar and historian."
+  },
+  {
+    "id": 80,
+    "question": "Which work is considered a detailed account of Akbar's administration?",
+    "options": {
+      "A": "Akbarnama",
+      "B": "Muntakhab-ut-Tawarikh",
+      "C": "Ain-i-Akbari",
+      "D": "Ma'asir-i-Jahangiri"
+    },
+    "answer": ["C"],
+    "explanation": "The 'Ain-i-Akbari' is a detailed administrative report and statistical return of Akbar's government, forming the third volume of the Akbarnama."
+  },
+  {
+    "id": 81,
+    "question": "Which historian's work is known for its critical perspective on Akbar's policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on Akbar's policies, reflecting his personal biases and frustrations."
+  },
+  {
+    "id": 82,
+    "question": "Which historian is known for his work 'Ma'asir-i-Jahangiri'?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["C"],
+    "explanation": "Khafi Khan authored 'Ma'asir-i-Jahangiri', a chronicle of Emperor Jahangir's reign, providing insights into the period."
+  },
+  {
+    "id": 83,
+    "question": "Which historian's work is considered a primary source for understanding Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Akbarnama' and 'Ain-i-Akbari' are primary sources that provide detailed accounts of Akbar's reign and administration."
+  },
+  {
+    "id": 84,
+    "question": "Which historian's work reflects a personal bias against Akbar's policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's writings often reflect his personal biases and criticisms against Akbar's policies, especially regarding religious reforms."
+  },
+  {
+    "id": 85,
+    "question": "Which historian's work provides a detailed account of Akbar's administrative system?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' offers a comprehensive account of Akbar's administrative system, including revenue collection, military organization, and judicial processes."
+  },
+  {
+    "id": 86,
+    "question": "Which historian's work includes a critical assessment of Akbar's religious policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' critically assesses Akbar's religious policies, particularly his efforts to promote religious tolerance."
+  },
+  {
+    "id": 87,
+    "question": "Which historian's work is considered a valuable source for understanding the cultural aspects of Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' provides valuable insights into the cultural aspects of Akbar's reign, including education, art, and literature."
+  },
+  {
+    "id": 88,
+    "question": "Which historian's work is considered a critical source for understanding the political dynamics of Akbar's court?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on the political dynamics of Akbar's court, reflecting his personal experiences and biases."
+  },
+  {
+    "id": 89,
+    "question": "Which historian's work includes a detailed account of Akbar's military campaigns?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Akbarnama' provides a detailed account of Akbar's military campaigns, highlighting his strategic acumen and leadership."
+  },
+  {
+    "id": 90,
+    "question": "Which historian's work is considered a primary source for understanding the socio-economic conditions during Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' serves as a primary source for understanding the socio-economic conditions during Akbar's reign, detailing aspects like revenue systems, land administration, and social customs."
+  },
+  {
+    "id": 79,
+    "question": "Which of the following historians served as a courtier during Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Abul Fazl and Badauni were contemporaries at Akbar's court, with Abul Fazl serving as a close confidant and Badauni as a scholar and historian."
+  },
+  {
+    "id": 80,
+    "question": "Which work is considered a detailed account of Akbar's administration?",
+    "options": {
+      "A": "Akbarnama",
+      "B": "Muntakhab-ut-Tawarikh",
+      "C": "Ain-i-Akbari",
+      "D": "Ma'asir-i-Jahangiri"
+    },
+    "answer": ["C"],
+    "explanation": "The 'Ain-i-Akbari' is a detailed administrative report and statistical return of Akbar's government, forming the third volume of the Akbarnama."
+  },
+  {
+    "id": 81,
+    "question": "Which historian's work is known for its critical perspective on Akbar's policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on Akbar's policies, reflecting his personal biases and frustrations."
+  },
+  {
+    "id": 82,
+    "question": "Which historian is known for his work 'Ma'asir-i-Jahangiri'?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["C"],
+    "explanation": "Khafi Khan authored 'Ma'asir-i-Jahangiri', a chronicle of Emperor Jahangir's reign, providing insights into the period."
+  },
+  {
+    "id": 83,
+    "question": "Which historian's work is considered a primary source for understanding Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Akbarnama' and 'Ain-i-Akbari' are primary sources that provide detailed accounts of Akbar's reign and administration."
+  },
+  {
+    "id": 84,
+    "question": "Which historian's work reflects a personal bias against Akbar's policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's writings often reflect his personal biases and criticisms against Akbar's policies, especially regarding religious reforms."
+  },
+  {
+    "id": 85,
+    "question": "Which historian's work provides a detailed account of Akbar's administrative system?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' offers a comprehensive account of Akbar's administrative system, including revenue collection, military organization, and judicial processes."
+  },
+  {
+    "id": 86,
+    "question": "Which historian's work includes a critical assessment of Akbar's religious policies?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "None of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' critically assesses Akbar's religious policies, particularly his efforts to promote religious tolerance."
+  },
+  {
+    "id": 87,
+    "question": "Which historian's work is considered a valuable source for understanding the cultural aspects of Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' provides valuable insights into the cultural aspects of Akbar's reign, including education, art, and literature."
+  },
+  {
+    "id": 88,
+    "question": "Which historian's work is considered a critical source for understanding the political dynamics of Akbar's court?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["B"],
+    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on the political dynamics of Akbar's court, reflecting his personal experiences and biases."
+  },
+  {
+    "id": 89,
+    "question": "Which historian's work includes a detailed account of Akbar's military campaigns?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Akbarnama' provides a detailed account of Akbar's military campaigns, highlighting his strategic acumen and leadership."
+  },
+  {
+    "id": 90,
+    "question": "Which historian's work is considered a primary source for understanding the socio-economic conditions during Akbar's reign?",
+    "options": {
+      "A": "Abul Fazl",
+      "B": "Badauni",
+      "C": "Khafi Khan",
+      "D": "All of the above"
+    },
+    "answer": ["A"],
+    "explanation": "Abul Fazl's 'Ain-i-Akbari' serves as a primary source for understanding the socio-economic conditions during Akbar's reign, detailing aspects like revenue systems, land administration, and social customs."
+  }
 ]
+
+  
+
+
+
+
+
