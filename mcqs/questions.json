@@ -1,1247 +1,482 @@
 [
   {
     "id": 1,
-    "question": "1526 में कौन-सा युद्ध हुआ था और इसके परिणामस्वरूप कौन सत्ता में आया? / Which battle took place in 1526 and who emerged as the ruler as a result?",
+    "question": "‘Later Mughals’ शब्दावली सामान्यतः किन वर्षों के काल को सूचित करती है? / The term ‘Later Mughals’ generally refers to which period?",
     "options": {
-      "A": "Panipat – Babur ने विजय प्राप्त की / Panipat – Babur emerged victorious",
-      "B": "Chausa – Sher Shah Suri ने विजय प्राप्त की / Chausa – Sher Shah Suri emerged victorious",
-      "C": "Kannauj – Humayun ने विजय प्राप्त की / Kannauj – Humayun emerged victorious",
-      "D": "Haldighati – Maharana Pratap ने विजय प्राप्त की / Haldighati – Maharana Pratap emerged victorious"
+      "A": "1707 (औरंगज़ेब की मृत्यु) से 1857 (ज़फ़र का पतन) / 1707–1857",
+      "B": "1658 से 1707",
+      "C": "1713 (फ़र्रुख़सियर) से 1806 (शाह आलम II की मृत्यु) / 1713–1806",
+      "D": "1739 (नादिरशाह) से 1803 (ब्रिटिश का दिल्ली में प्रवेश) / 1739–1803"
     },
     "answer": ["A"],
-    "explanation": "1526 में पहला पानीपत युद्ध हुआ था जिसमें बाबर ने इब्राहिम लोदी को हराकर दिल्ली सल्तनत और लोधी वंश का अंत किया और मुग़ल साम्राज्य की नींव रखी।"
+    "explanation": "Later Mughals का प्रचलित काल Aurangzeb की मृत्यु (1707) से लेकर 1857 के विद्रोह और बहादुर शाह ज़फ़र के पतन तक माना जाता है। अन्य विकल्प आंशिक खंड प्रस्तुत करते हैं।"
   },
   {
     "id": 2,
-    "question": "Chausa का युद्ध किसने लड़ा और किसके खिलाफ? / Who fought the Battle of Chausa and against whom?",
+    "question": "औरंगज़ेब के बाद उत्तराधिकार संघर्ष (1707–1709) में घटनाओं का सही अनुक्रम कौन-सा है? / What is the correct sequence in the succession struggle after Aurangzeb?",
     "options": {
-      "A": "Sher Shah Suri ने Humayun के खिलाफ / Sher Shah Suri against Humayun",
-      "B": "Babur ने Ibrahim Lodi के खिलाफ / Babur against Ibrahim Lodi",
-      "C": "Mughal सेना ने Rajput सेना के खिलाफ / Mughal army against Rajput army",
-      "D": "Akbar ने Afghans के खिलाफ / Akbar against Afghans"
+      "A": "आज़म शाह की पराजय → बहादुर शाह I का राज्यारोहण → कामबख़्श का विद्रोह व मृत्यु",
+      "B": "कामबख़्श सम्राट बना → आज़म शाह ने दिल्ली संभाली → बहादुर शाह I निर्वासित",
+      "C": "जाहाँदार शाह सम्राट बना → फ़र्रुख़सियर सम्राट बना → बहादुर शाह I",
+      "D": "मुइज़्ज़-उद्दीन बना सम्राट → आज़म शाह ने उसे हरा दिया"
     },
     "answer": ["A"],
-    "explanation": "Chausa का युद्ध 1539 में हुआ जिसमें शेर शाह सूरी ने हुमायूं को हराया और अपनी सत्ता स्थापित की। यह युद्ध रणनीति और घातक हमलों के लिए प्रसिद्ध है।"
+    "explanation": "बहादुर शाह I (शाह आलम I) ने आज़म शाह को जज़ाउ (1707) में हराया, सम्राट बने, फिर उन्होंने दक्कन में कामबख़्श के विद्रोह को दबाकर 1709 में उसे परास्त किया।"
   },
   {
     "id": 3,
-    "question": "1540 में Kannauj का युद्ध किसके कारण हुआ और इसके परिणाम क्या रहे? / Why did the Battle of Kannauj occur in 1540 and what were its outcomes?",
+    "question": "बहादुर शाह I (1707–1712) की नीतियों के सन्दर्भ में सही कथन चुनिए। / Select the correct statements about Bahadur Shah I.",
     "options": {
-      "A": "Humayun ने Sher Shah Suri के खिलाफ / Humayun against Sher Shah Suri",
-      "B": "Babur ने Ibrahim Lodi के खिलाफ / Babur against Ibrahim Lodi",
-      "C": "Akbar ने Rajput राज्यों के खिलाफ / Akbar against Rajput states",
-      "D": "Mughal सेना ने Afghan सेना के खिलाफ / Mughal army against Afghan army"
+      "A": "समोदर-नीति: सिख, राजपूत, मराठों के साथ सामंजस्य की कोशिश",
+      "B": "पूर्ण धार्मिक दमन नीति जारी रखी",
+      "C": "प्रांतीय नवाबों और सूबेदारों को अधिक स्वायत्तता मिली",
+      "D": "औरंगज़ेब की सभी राजस्व नीतियों को निरस्त कर दिया"
     },
-    "answer": ["A"],
-    "explanation": "1540 में कन्नौज का युद्ध हुआ जिसमें हुमायूं शेर शाह सूरी से हार गया। इससे हुमायूं को भारत से निर्वासित होना पड़ा और शेर शाह सूरी ने अपनी सत्ता मजबूत की।"
+    "answer": ["A", "C"],
+    "explanation": "बहादुर शाह I ने टकराव की बजाय सामंजस्य का रुख अपनाया और शक्तिशाली प्रांतीय सरदारों को व्यावहारिक रूप से अधिक छूट मिली। धार्मिक दमन जारी रखने और सभी राजस्व नीतियों को निरस्त करने का दावा सही नहीं है।"
   },
   {
     "id": 4,
-    "question": "Haldighati युद्ध कब हुआ और इसका प्रमुख नेतृत्व कौन कर रहा था? / When was the Battle of Haldighati fought and who led it?",
+    "question": "जाहाँदार शाह (1712–1713) के शासन की पहचान किन बातों से होती है? / What characterizes Jahandar Shah’s reign?",
     "options": {
-      "A": "1576 – Maharana Pratap ने नेतृत्व किया / 1576 – led by Maharana Pratap",
-      "B": "1526 – Babur ने नेतृत्व किया / 1526 – led by Babur",
-      "C": "1539 – Sher Shah Suri ने नेतृत्व किया / 1539 – led by Sher Shah Suri",
-      "D": "1540 – Humayun ने नेतृत्व किया / 1540 – led by Humayun"
+      "A": "राजकोषीय शिथिलता और दरबारी आश्रय (लाल कुन्वर)",
+      "B": "व्यापक प्रशासनिक सुधार और केंद्रीयकरण",
+      "C": "मराठों पर निर्णायक विजय",
+      "D": "सैयद बंधुओं के उदय का मार्ग प्रशस्त होना"
     },
-    "answer": ["A"],
-    "explanation": "Haldighati का युद्ध 1576 में हुआ जिसमें महाराणा प्रताप ने अकबर की मुग़ल सेना के खिलाफ नेतृत्व किया। यह युद्ध राजपूतों की वीरता और अकबर के सामरिक कौशल का प्रतीक माना जाता है।"
+    "answer": ["A", "D"],
+    "explanation": "जाहाँदार शाह का अल्पकाल शाही शिथिलता, दरबारी प्रभाव और शक्ति-संतुलन के लिए सैयद बंधुओं के उदय से जुड़ा है। व्यापक सुधार/विजयों के दावे तथ्यगत नहीं।"
   },
   {
     "id": 5,
-    "question": "इन युद्धों में से किस युद्ध ने मुग़ल साम्राज्य की नींव रखी? / Which of these battles laid the foundation of the Mughal Empire?",
+    "question": "सैयद बंधु (‘किंगमेकर’) किन पदों से जुड़े थे? / The Sayyid Brothers (‘Kingmakers’) primarily held which offices?",
     "options": {
-      "A": "Panipat (1526)",
-      "B": "Chausa (1539)",
-      "C": "Kannauj (1540)",
-      "D": "Haldighati (1576)"
+      "A": "वज़ीर (अब्दुल्ला ख़ान)",
+      "B": "मीर बख़्शी (हुसैन अली ख़ान)",
+      "C": "सूबहदार, बंगाल",
+      "D": "दीवान-ए-ख़ास"
     },
-    "answer": ["A"],
-    "explanation": "1526 में पहला पानीपत युद्ध बाबर द्वारा लड़ा गया, जिसने इब्राहिम लोदी को हराकर दिल्ली पर कब्जा किया और मुग़ल साम्राज्य की स्थापना की।"
+    "answer": ["A", "B"],
+    "explanation": "अब्दुल्ला ख़ान वज़ीर और हुसैन अली ख़ान मीर बख़्शी थे। वे सम्राट-निर्माता कहलाए। वे बंगाल के सूबेदार या दीवान-ए-ख़ास नहीं थे।"
   },
   {
     "id": 6,
-    "question": "Chausa और Kannauj युद्धों का प्रमुख परिणाम क्या था? / What was the main outcome of Chausa and Kannauj battles?",
+    "question": "फ़र्रुख़सियर (1713–1719) के 1717 के फ़रमान के प्रावधानों में क्या-क्या था? / Which provisions were part of Farrukhsiyar’s 1717 Farman?",
     "options": {
-      "A": "Sher Shah Suri का सत्ता में आगमन / Rise of Sher Shah Suri",
-      "B": "Humayun का भारत से निर्वासन / Humayun's exile from India",
-      "C": "Babur का विजय प्राप्त करना / Babur's victory",
-      "D": "Mughal साम्राज्य का विस्तार / Expansion of Mughal Empire"
+      "A": "कंपनी को बंगाल में शुल्क-मुक्त व्यापार (वार्षिक समर्पण के बदले)",
+      "B": "कलकत्ता के आसपास अतिरिक्त गाँव लेने/किराये का अधिकार",
+      "C": "कंपनी के ‘दस्तक’ का दुरुपयोग निजी व्यापार में रोकना",
+      "D": "मद्रास में कर-मुक्त नमक उत्पादन का विशेषाधिकार"
     },
     "answer": ["A", "B"],
-    "explanation": "Chausa (1539) और Kannauj (1540) युद्धों में शेर शाह सूरी ने हुमायूं को हराकर सत्ता में कब्जा किया। हुमायूं को भारत से निर्वासित होना पड़ा। ये युद्ध मुग़ल साम्राज्य की अस्थिरता को दर्शाते हैं।"
+    "explanation": "1717 फ़रमान ने EIC को बंगाल में ड्यूटी-फ्री व्यापार (एक वार्षिक भुगतान के बदले) व कलकत्ता के आसपास अतिरिक्त गाँव लेने का अधिकार दिया। ‘दस्तक’ का दुरुपयोग रोकना उद्देश्य था, पर व्यवहार में दुरुपयोग बढ़ा; मद्रास में कर-मुक्त नमक का विशेषाधिकार इस फ़रमान का भाग नहीं था।"
   },
   {
     "id": 7,
-    "question": "Haldighati युद्ध का मुख्य उद्देश्य क्या था? / What was the main objective of the Battle of Haldighati?",
+    "question": "सैयद बंधुओं के पतन (1720) में किन शक्तियों/व्यक्तियों की निर्णायक भूमिका रही? / Who played decisive roles in the fall of the Sayyid Brothers (1720)?",
     "options": {
-      "A": "Akbar की मुग़ल सेना का क्षेत्रीय विस्तार / Territorial expansion of Akbar's Mughal army",
-      "B": "Rajput राज्यों की स्वतंत्रता बनाए रखना / Preserve independence of Rajput states",
-      "C": "Sher Shah Suri की शक्ति को चुनौती देना / Challenge Sher Shah Suri's power",
-      "D": "Babur की विजय को पुनर्स्थापित करना / Reinstate Babur's victory"
+      "A": "मुहम्मद शाह ‘रंगीला’",
+      "B": "निज़ाम-उल-मुल्क (आसफ़ जाह I)",
+      "C": "मराठा सरदार (बालाजी विश्वनाथ/बाजी राव द्वारा अप्रत्यक्ष दबाव)",
+      "D": "नादिरशाह"
     },
-    "answer": ["A", "B"],
-    "explanation": "Haldighati युद्ध 1576 में अकबर के मुग़ल सेना और महाराणा प्रताप की राजपूत सेना के बीच हुआ। अकबर का उद्देश्य क्षेत्रीय विस्तार था, जबकि महाराणा प्रताप ने स्वतंत्रता बनाए रखने के लिए लड़ा।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मुहम्मद शाह और निज़ाम-उल-मुल्क ने दरबारी संयोजन से हुसैन अली की हत्या करवाई और अब्दुल्ला को परास्त किया। मराठा दबाव ने भी समीकरण बदले। नादिरशाह 1739 में आया, बहुत बाद में।"
   },
   {
     "id": 8,
-    "question": "Panipat (1526) युद्ध में Babur की विजय के प्रमुख कारण क्या थे? / What were the main reasons for Babur's victory in Panipat (1526)?",
+    "question": "निज़ाम-उल-मुल्क के सम्बन्ध में सही कथन हैं— / Correct statements about Nizam-ul-Mulk (Asaf Jah I):",
     "options": {
-      "A": "उन्नत तोपखाना और घातक रणनीति / Advanced artillery and tactical planning",
-      "B": "Ibrahim Lodi की कमजोर सैन्य तैयारी / Ibrahim Lodi's weak military preparation",
-      "C": "Babur की cavalry की तेज गति / Babur's fast-moving cavalry",
-      "D": "Mughal सेना की संख्या अधिक होना / Mughal army numerical superiority"
+      "A": "1722 में वज़ीर बने, पर दरबारी राजनीति से क्षुब्ध होकर दक्षिण गए",
+      "B": "1724 में दक्कन में आसफ़ जाही (हैदराबाद) राज्य की नींव रखी",
+      "C": "मुगल केंद्र से वैधानिक मान्यता लेते रहे",
+      "D": "उन्होंने बंगाल में नवाबत स्थापित की"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "Babur ने Panipat में आधुनिक तोपखाना, घातक रणनीति और तेज घुड़सवार सेना का प्रयोग किया। वहीं, इब्राहिम लोदी की तैयारियां कमजोर थीं। इन कारणों से बाबर ने निर्णायक विजय हासिल की।"
+    "explanation": "निज़ाम ने 1722 में वज़ारत पाई, फिर दक्कन जाकर 1724 में आसफ़ जाही सत्ता स्थापित की और वैधानिकता के लिए शाही सनदें लेते रहे। बंगाल नवाबत उनसे नहीं जुड़ी।"
   },
   {
     "id": 9,
-    "question": "इन युद्धों में से कौन-से युद्ध अकबर और राजपूतों के बीच संघर्ष का प्रतीक हैं? / Which of these battles symbolize the conflict between Akbar and the Rajputs?",
+    "question": "मुहम्मद शाह (1719–1748) के काल की विशेषताएँ क्या थीं? / What characterized Muhammad Shah’s reign?",
     "options": {
-      "A": "Haldighati (1576)",
-      "B": "Chausa (1539)",
-      "C": "Kannauj (1540)",
-      "D": "Panipat (1526)"
+      "A": "दरबारी संस्कृति व संगीत-कला का आश्रय",
+      "B": "नादिरशाह का आक्रमण और कर्नाल (1739) की हार",
+      "C": "मंसबदारी और जागीर संकट का उभार",
+      "D": "मराठा शक्ति का पूर्ण दमन"
     },
-    "answer": ["A"],
-    "explanation": "Haldighati युद्ध 1576 में हुआ और यह अकबर और महाराणा प्रताप के नेतृत्व वाले राजपूतों के संघर्ष का प्रतीक है। इस युद्ध ने राजपूतों की वीरता और अकबर की सामरिक क्षमता को दर्शाया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मुहम्मद शाह के समय सांस्कृतिक आश्रय, कर्नाल की पराजय/दिल्ली पर आक्रमण, और जागीर संकट प्रमुख थे; मराठा शक्ति का दमन नहीं हुआ, उलटे विस्तार हुआ।"
   },
   {
     "id": 10,
-    "question": "कौन-से युद्ध में भारतीय राजा को विदेशी आक्रमणकारियों ने हराया और सत्ता छीनी? / In which battle did an Indian king get defeated by a foreign invader?",
+    "question": "कर्नाल का युद्ध (1739) और उसके परिणाम—सही कथन चुनिए। / Battle of Karnal (1739) & outcomes—choose correct statements.",
     "options": {
-      "A": "Panipat (1526) – Ibrahim Lodi को Babur ने हराया / Babur defeated Ibrahim Lodi",
-      "B": "Chausa (1539) – Humayun को Sher Shah Suri ने हराया / Sher Shah Suri defeated Humayun",
-      "C": "Kannauj (1540) – Humayun को Sher Shah Suri ने हराया / Sher Shah Suri defeated Humayun",
-      "D": "Haldighati (1576) – Maharana Pratap को Akbar ने हराया / Akbar defeated Maharana Pratap"
+      "A": "नादिरशाह ने मुग़लों को निर्णायक रूप से हराया",
+      "B": "दिल्ली में जनसंहार और विशाल धन-लूट हुई",
+      "C": "कोह-ए-नूर और मयूर सिंहासन ले जाया गया",
+      "D": "मुग़ल सीमा दक्षिण भारत तक फैल गई"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "Panipat, Chausa और Kannauj युद्धों में भारतीय राजाओं या मुग़ल शासक हुमायूं को विदेशी आक्रमणकारियों ने पराजित किया। केवल Haldighati में महाराणा प्रताप ने विजय प्राप्त नहीं की।"
+    "explanation": "कर्नाल में मुग़ल सेना हारी; दिल्ली में जनसंहार/लूट हुई; कोह-ए-नूर व मयूर सिंहासन छीन लिए गए। दक्षिण तक फैलने का दावा असंगत है।"
   },
   {
     "id": 11,
-    "question": "Chausa और Kannauj युद्धों से क्या संकेत मिलता है? / What do Chausa and Kannauj battles indicate?",
+    "question": "अहमद शाह अब्दाली/दुर्रानी की आक्रमण-श्रृंखला के प्रभाव क्या थे? / Effects of Ahmad Shah Abdali’s invasions:",
     "options": {
-      "A": "सत्ता संघर्ष और अस्थिरता / Power struggle and instability",
-      "B": "शेर शाह सूरी की सामरिक दक्षता / Sher Shah Suri's military efficiency",
-      "C": "हुमायूं की कमजोर नेतृत्व क्षमता / Humayun's weak leadership",
-      "D": "Mughal साम्राज्य का विकास / Development of Mughal Empire"
+      "A": "पंजाब/दिल्ली क्षेत्र में अस्थिरता",
+      "B": "मराठा शक्ति से टकराव (1761, पानीपत)",
+      "C": "मुग़ल केंद्र की शक्ति में पुनरुत्थान",
+      "D": "सरहदी सूबों में औपचारिक शाही अधिकार का क्षरण"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Chausa और Kannauj युद्ध हुमायूं की हार और शेर शाह सूरी की सत्ता स्थापना को दर्शाते हैं। ये युद्ध सत्ता संघर्ष और सामरिक कुशलता को दिखाते हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "अब्दाली के आवर्तक आक्रमणों ने उत्तर भारत को अस्थिर कर दिया; पानीपत (1761) मराठा–अब्दाली निर्णायक टकराव था; इससे मुग़ल केंद्र और कमजोर हुआ, पुनरुत्थान नहीं।"
   },
   {
     "id": 12,
-    "question": "Haldighati युद्ध में अकबर की सेना ने किस प्रकार की रणनीति अपनाई थी? / What strategy did Akbar's army use in the Battle of Haldighati?",
+    "question": "शाह आलम II (1759–1806) के बारे में सही कथन हैं— / Correct statements about Shah Alam II:",
     "options": {
-      "A": "गोपनीय हमले और घेराबंदी / Surprise attacks and encirclement",
-      "B": "प्रत्यक्ष युद्ध और सामने से टकराना / Direct frontal assault",
-      "C": "घुड़सवार सेना का तेज हमला / Cavalry rapid charge",
-      "D": "तोपखाना और हथियारों का समन्वय / Coordination of artillery and weapons"
+      "A": "1765 की इलाहाबाद संधि के बाद कम्पनी को बंगाल-बीहार-ओड़ीसा की दीवानी मिली",
+      "B": "वे 1765–1772 तक इलाहाबाद में कम्पनी-सरंक्षण में रहे",
+      "C": "1772 के बाद मराठों (महादजी शिंदे) के सहारे दिल्ली लौटे",
+      "D": "उन्होंने 1803 में ब्रिटिश से दिल्ली छीनी"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "अकबर की सेना ने Haldighati में घेराबंदी, घुड़सवार सेना के तेज हमले और तोपखाना का समन्वय कर रणनीति अपनाई। इसके बावजूद महाराणा प्रताप की वीरता ने मुग़ल सेना को पूर्ण विजय नहीं दिलाई।"
+    "answer": ["A", "B", "C"],
+    "explanation": "इलाहाबाद संधि (1765) से कम्पनी को दीवानी मिली; शाह आलम II इलाहाबाद में रहे और 1772 में मराठा सहारे दिल्ली लौटे। 1803 में ब्रिटिश ने ही दिल्ली पर अधिकार किया।"
   },
   {
     "id": 13,
-    "question": "Panipat (1526) और Haldighati (1576) युद्धों में मुख्य अंतर क्या था? / What was the main difference between Panipat (1526) and Haldighati (1576)?",
+    "question": "मराठों का दिल्ली दरबार पर प्रभाव किन चरणों में दिखता है? / Maratha influence over Delhi occurred in which phases?",
     "options": {
-      "A": "Panipat में विदेशी आक्रमणकारी ने जीत हासिल की / Foreign invader won at Panipat",
-      "B": "Haldighati में भारतीय राजा ने युद्ध का सम्मान बनाए रखा / Indian king preserved honor at Haldighati",
-      "C": "Panipat में आधुनिक तोपखाना प्रयोग हुआ / Use of modern artillery at Panipat",
-      "D": "Haldighati में सामरिक योजनाओं का अभाव था / Lack of strategic planning at Haldighati"
+      "A": "1752 के बाद संरक्षण व वज़ीरी पर निर्णायक प्रभाव",
+      "B": "1772–1803: शहंशाह की रक्षा/दिल्ली पर नियंत्रण",
+      "C": "1803 के बाद भी मराठा छावनी दिल्ली किले में रही",
+      "D": "1788 में ग़ुलाम क़ादिर की गुस्ताख़ी का प्रतिरोध महादजी शिंदे ने किया"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Panipat में बाबर ने इब्राहिम लोदी को हराया और आधुनिक तोपखाना प्रयोग किया। Haldighati में महाराणा प्रताप ने अकबर के खिलाफ वीरता दिखाई और युद्ध का सम्मान बनाए रखा।"
+    "answer": ["A", "B", "D"],
+    "explanation": "1750s से मराठा प्रभाव बढ़ा; 1772–1803 वे दिल्ली में निर्णायक थे; 1788 के बाद महादजी शिंदे ने शाह आलम को पुनर्स्थापित किया। 1803 के बाद दिल्ली पर ब्रिटिश का नियंत्रण हुआ।"
   },
   {
     "id": 14,
-    "question": "इन युद्धों के परिणामस्वरूप भारतीय उपमहाद्वीप में क्या बदलाव आए? / What changes occurred in the Indian subcontinent due to these battles?",
+    "question": "मुग़ल ‘मंसबदारी–जागीर’ प्रणाली के पतन के लक्षण क्या थे? / Signs of decline in Mansab–Jagir system:",
     "options": {
-      "A": "Mughal साम्राज्य की स्थापना और विस्तार / Establishment and expansion of Mughal Empire",
-      "B": "Afghan सत्ता का अस्थायी क्षय / Temporary decline of Afghan power",
-      "C": "Rajput राज्यों की स्वतंत्रता में चुनौतियाँ / Challenges to Rajput independence",
-      "D": "युद्ध रणनीति और सैन्य तकनीक में नवाचार / Innovation in military strategy and techniques"
+      "A": "जागीर-संकट (जागीर की कमी/स्थानान्तरण विवाद)",
+      "B": "रेवेन्यू-फार्मिंग (इजरादारी) का उभार",
+      "C": "समुचित दाग़-चेहरा नियंत्रण का क्षय",
+      "D": "स्थायी वेतनभोगी नियमित सेना में त्वरित रूपांतरण"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "Panipat, Chausa, Kannauj और Haldighati युद्धों ने मुग़ल साम्राज्य के स्थापना और विस्तार, अफगानों की अस्थायी हार, राजपूतों की स्वतंत्रता पर प्रभाव और सैन्य तकनीक में नवाचार को दर्शाया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "जागीर-संकट, इजरादारी का उभार और घोड़ों-सेनानियों पर दाग़/चेहरा नियंत्रण ढीला पड़ना पतन के सूचक थे; स्थायी वेतनभोगी सेना में त्वरित रूपांतरण हुआ नहीं।"
   },
   {
     "id": 15,
-    "question": "कौन-से युद्ध ने Haryanai क्षेत्र और North India के राजनीतिक नक्शे को बदल दिया? / Which battle altered the political map of Haryana and North India?",
+    "question": "उर्दू साहित्य/संस्कृति के उभार में ‘Later Mughals’ का योगदान किन रूपों में दिखता है? / Later Mughals’ role in Urdu culture:",
     "options": {
-      "A": "Panipat (1526)",
-      "B": "Chausa (1539)",
-      "C": "Kannauj (1540)",
-      "D": "Haldighati (1576)"
+      "A": "दिल्ली दरबार में मीर, सौदा जैसे कवियों का आश्रय",
+      "B": "लखनऊ/फ़ैज़ाबाद में नवाबी संरक्षण के विस्तार से परोक्ष लाभ",
+      "C": "ग़ज़ल, ठुमरी, ख्याल आदि का शाही–नवाबी सरंक्षण",
+      "D": "फ़ारसी का प्रशासन से पूर्ण उन्मूलन"
     },
-    "answer": ["A"],
-    "explanation": "1526 का पहला Panipat युद्ध ने हनुमानगढ़ और उत्तर भारत के राजनीतिक नक्शे को बदल दिया, इब्राहिम लोदी का अंत किया और बाबर को सत्ता में स्थापित किया।"
-  },
-  {
-    "id": 15,
-    "question": "मुगल साम्राज्य में केंद्रीय प्रशासन के प्रमुख अंग कौन-कौन थे? / Which were the main organs of central administration in the Mughal Empire?",
-    "options": {
-      "A": "Diwan-i-Ala",
-      "B": "Diwan-i-Ariz",
-      "C": "Subahs",
-      "D": "Wazir",
-      "E": "Mir Bakshi"
-    },
-    "answer": ["A", "B", "D", "E"],
-    "explanation": "केंद्रीय प्रशासन में Diwan-i-Ala (उच्च वित्त विभाग), Diwan-i-Ariz (सैन्य प्रशासन), Wazir (प्रधान मंत्री) और Mir Bakshi (सेना एवं खुफिया) शामिल थे। Subahs प्रांतीय प्रशासन से संबंधित थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "दिल्ली–लखनऊ सांस्कृतिक परिदृश्य में उर्दू का उत्कर्ष हुआ; पर फ़ारसी प्रशासनिक भाषा बनी रही—पूर्ण उन्मूलन नहीं।"
   },
   {
     "id": 16,
-    "question": "निम्न में से कौन प्रांतीय प्रशासन के हिस्से थे? / Which among the following were part of provincial administration?",
+    "question": "जाट शक्ति के उदय (भरतपुर राज्य) और मुग़ल केंद्र पर प्रभाव—सही कथन? / Jat rise (Bharatpur) & impact on Mughal centre:",
     "options": {
-      "A": "Subahs",
-      "B": "Sarkars",
-      "C": "Parganas",
-      "D": "Diwan-i-Ariz",
-      "E": "Wazir"
+      "A": "चूरामन व बाद में सूरजमल के नेतृत्व में विस्तार",
+      "B": "1753/1761 के आसपास आगरा/मथुरा क्षेत्र में प्रभाव",
+      "C": "दिल्ली पर सदा उनका सीधा अधिकार 1803 तक रहा",
+      "D": "मुग़ल केंद्र की प्रांतीय पकड़ और ढीली पड़ी"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "प्रांतीय प्रशासन में Subahs (प्रांत), Sarkars (जिला स्तर) और Parganas (तहसील स्तर) शामिल थे। Diwan-i-Ariz और Wazir केंद्रीय प्रशासन के अंग थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "जाटों ने पश्चिमी उत्तर प्रदेश में शक्ति बढ़ाई; आगरा–मथुरा पर प्रभाव से शाही केंद्र कमजोर हुआ। दिल्ली पर 1803 तक उनका निरंतर अधिकार नहीं रहा।"
   },
   {
     "id": 17,
-    "question": "मुगल साम्राज्य में Diwan-i-Ariz की भूमिका क्या थी? / What was the role of Diwan-i-Ariz in the Mughal Empire?",
+    "question": "‘इलाहाबाद संधि (1765)’ से जुड़े कौन-से तत्व सही हैं? / Which elements correctly relate to the Treaty of Allahabad (1765)?",
     "options": {
-      "A": "सैन्य प्रशासन / Military Administration",
-      "B": "वित्तीय प्रशासन / Financial Administration",
-      "C": "प्रांतीय प्रशासन / Provincial Administration",
-      "D": "न्याय प्रशासन / Judicial Administration"
+      "A": "दीवानी अधिकार—बंगाल, बिहार, ओड़ीसा—EIC को",
+      "B": "शाह आलम II को वार्षिक पेंशन",
+      "C": "अवध पर कम्पनी का तात्कालिक विलय",
+      "D": "कम्पनी की राजनीतिक–राजस्व शक्ति में निर्णायक बढ़ोतरी"
     },
-    "answer": ["A"],
-    "explanation": "Diwan-i-Ariz मुख्य रूप से सेना के प्रशासन और नियुक्तियों के लिए जिम्मेदार था। वित्तीय और न्यायिक प्रशासन अलग अंगों के अधीन थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "1765 में दीवानी कम्पनी को मिली; सम्राट को पेंशन निर्धारित हुई; कम्पनी की आर्थिक–राजनीतिक शक्ति बढ़ी। अवध का तत्काल विलय नहीं हुआ।"
   },
   {
     "id": 18,
-    "question": "Mir Bakshi का मुख्य कार्य क्या था? / What was the main function of Mir Bakshi?",
+    "question": "कंपनी–दरबार सम्बन्ध में ‘1715 का सुरमन दूतावास’ (Surman Embassy) किस उद्देश्य से था? / The 1715 Surman Embassy aimed to:",
     "options": {
-      "A": "सेना की भर्ती और वेतन / Recruitment and Pay of Army",
-      "B": "राजस्व संग्रह / Revenue Collection",
-      "C": "न्यायिक निर्णय / Judicial Decisions",
-      "D": "प्रांतीय प्रशासन / Provincial Administration"
+      "A": "फ़र्रुख़सियर से व्यापार-सुविधाओं/फ़रमान के लिए विनती",
+      "B": "दिल्ली में अंग्रेज़ी छावनी की अनुमति लेना",
+      "C": "कलकत्ता के पास अतिरिक्त गाँवों का अधिकार",
+      "D": "बंगाल में कर-मुक्त निजी व्यापार को वैध करना"
     },
-    "answer": ["A"],
-    "explanation": "Mir Bakshi सेना के कर्मियों की भर्ती, वेतन और सैन्य गतिविधियों के प्रबंधन के लिए जिम्मेदार था। राजस्व और न्यायिक कार्य अन्य विभाग संभालते थे।"
+    "answer": ["A", "C"],
+    "explanation": "जॉन सुरमन के नेतृत्व में दूतावास का लक्ष्य मुअफ्फ़ कर–व्यापार और आसपास गाँवों के अधिकार जैसे लाभ लेना था। छावनी/निजी कर-मुक्त व्यापार का औचित्य उस समय नहीं था।"
   },
   {
     "id": 19,
-    "question": "केंद्रीय प्रशासन में Wazir और Diwan-i-Ala के बीच क्या अंतर था? / What was the difference between Wazir and Diwan-i-Ala in central administration?",
+    "question": "अहमद शाह बहादुर (1748–1754) के शासन के बारे में सही कथन चुनिए। / Choose correct statements on Ahmad Shah Bahadur.",
     "options": {
-      "A": "Wazir = प्रधान मंत्री / Prime Minister",
-      "B": "Diwan-i-Ala = उच्च वित्त विभाग / High Finance Department",
-      "C": "Wazir = सैन्य प्रमुख / Military Chief",
-      "D": "Diwan-i-Ala = न्यायिक प्रमुख / Judicial Head"
+      "A": "दरबारी गुटबाज़ी और कमज़ोर केंद्रीय नियंत्रण",
+      "B": "इमाद-उल-मुल्क (ग़ाज़ीउद्दीन II) का उभार",
+      "C": "मराठा–अब्दाली के बीच शक्ति-संतुलन में दिल्ली असुरक्षित",
+      "D": "नादिरशाही सुधारों का कड़ाई से कार्यान्वयन"
     },
-    "answer": ["A", "B"],
-    "explanation": "Wazir सरकार का प्रधान मंत्री था, जबकि Diwan-i-Ala वित्तीय मामलों का प्रमुख विभाग था। दोनों की भूमिकाएँ अलग और स्वतंत्र थीं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उनके काल में वज़ीरी राजनीति हावी रही; इमाद-उल-मुल्क शक्तिशाली बना; दिल्ली असुरक्षित रही। ‘नादिरशाही सुधार’ कथन असंगत है।"
   },
   {
     "id": 20,
-    "question": "प्रांतीय प्रशासन में Parganas की भूमिका क्या थी? / What was the role of Parganas in provincial administration?",
+    "question": "आलमगीर II (1754–1759) के समय—सही कथन चुनिए। / During Alamgir II’s reign:",
     "options": {
-      "A": "छोटे प्रशासनिक और राजस्व इकाई / Small administrative and revenue unit",
-      "B": "सैन्य इकाई / Military Unit",
-      "C": "केंद्र सरकार के मंत्रालय / Central Government Department",
-      "D": "न्यायिक अपीलीय निकाय / Judicial appellate body"
+      "A": "इमाद-उल-मुल्क का वर्चस्व",
+      "B": "अब्दाली के आक्रमण जारी",
+      "C": "सम्राट की हत्या (1759) के बाद सत्ता-संकट",
+      "D": "मुग़ल पुनरुत्थान की शुरुआत"
     },
-    "answer": ["A"],
-    "explanation": "Parganas सबसे छोटी प्रशासनिक इकाई थी, जो मुख्य रूप से राजस्व संग्रह और स्थानीय प्रशासन के लिए जिम्मेदार थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "इमाद-उल-मुल्क प्रभावी रहा; अब्दाली के हमले जारी थे; 1759 में सम्राट की हत्या से गहरी अस्थिरता आई। पुनरुत्थान नहीं हुआ।"
   },
   {
     "id": 21,
-    "question": "Sarkars प्रांतीय प्रशासन में किस स्तर पर आते थे? / At which level did Sarkars function in provincial administration?",
+    "question": "‘शाही सनद/नाम-मात्र की वैधानिकता’ का अर्थ Later Mughals संदर्भ में क्या है? / What does ‘nominal imperial legitimacy via sanad’ imply under Later Mughals?",
     "options": {
-      "A": "जिला स्तर / District Level",
-      "B": "प्रांत स्तर / Provincial Level",
-      "C": "राज्य स्तर / State Level",
-      "D": "ग्राम स्तर / Village Level"
+      "A": "प्रांतीय शासक शाही उपाधि/सनद लेकर वैधता प्रदर्शित करते थे",
+      "B": "शाही कर-मुक्ति सबको स्वतः मिलती थी",
+      "C": "मुद्रा पर सम्राट के नाम का प्रचलन वैधता का माध्यम",
+      "D": "किसी को भी शाही मान्यता की आवश्यकता न थी"
     },
-    "answer": ["A"],
-    "explanation": "Sarkars प्रांतीय प्रशासन का जिला स्तर होते थे, जो कई Parganas को नियंत्रित करते थे।"
+    "answer": ["A", "C"],
+    "explanation": "क्षेत्रीय शक्तियाँ शाही सनद और सिक्के पर सम्राट का नाम चलाकर वैधता लेती थीं। सार्वत्रिक कर-मुक्ति/मान्यता अनिवार्यतः नहीं मिलती थी।"
   },
   {
     "id": 22,
-    "question": "केंद्रीय प्रशासन और प्रांतीय प्रशासन में कौन-कौन सी संस्थाएँ साझा नहीं थीं? / Which institutions were not common between central and provincial administration?",
+    "question": "‘कंपनी का एकीकृत सिक्का-प्रणाली अधिनियम, 1835’ के प्रभाव क्या थे? / Effects of EIC’s uniform coinage (1835):",
     "options": {
-      "A": "Wazir",
-      "B": "Mir Bakshi",
-      "C": "Subahs",
-      "D": "Diwan-i-Ariz"
+      "A": "मुग़ल सम्राट के नाम पर सिक्के टकसालों में सामान्यतः बंद",
+      "B": "अंग्रेज़ी/फ़ारसी द्धिभाषी अभिलेखों के साथ मानकीकरण",
+      "C": "सम्राट की पेंशन समाप्त",
+      "D": "व्यापार-परिसंचरण में मुद्रा-एकरूपता"
     },
     "answer": ["A", "B", "D"],
-    "explanation": "Wazir, Mir Bakshi और Diwan-i-Ariz केवल केंद्रीय प्रशासन के अंग थे। Subahs प्रांतीय प्रशासन का हिस्सा थे।"
+    "explanation": "1835 के बाद कम्पनी ने एकसमान सिक्का-प्रणाली लागू की; प्रायः सम्राट-नामक सिक्काकरण खत्म हुआ; व्यापार हेतु मानकीकरण व परिसंचरण सुगमता बढ़ी। पेंशन समाप्त नहीं हुई।"
   },
   {
     "id": 23,
-    "question": "मुगल प्रशासन में Subahdar की भूमिका क्या थी? / What was the role of Subahdar in Mughal administration?",
+    "question": "1803 में दिल्ली पर किसका अधिकार हुआ और सम्राट की स्थिति क्या बनी? / Who controlled Delhi in 1803 and what was the emperor’s status?",
     "options": {
-      "A": "प्रांतीय सरकार का प्रमुख / Head of provincial government",
-      "B": "सैन्य संचालन के लिए उत्तरदायी / Responsible for military operations",
-      "C": "राजस्व संग्रह / Revenue collection",
-      "D": "सभी ऊपर / All of the above"
+      "A": "ब्रिटिश (लॉर्ड लेक) ने दिल्ली ली; शाह आलम II ब्रिटिश सरंक्षण में",
+      "B": "मराठों ने नियंत्रण जारी रखा; सम्राट स्वतंत्र",
+      "C": "सिखों ने नियंत्रण ले लिया",
+      "D": "अफ़ग़ानों का पुनः कब्ज़ा"
     },
-    "answer": ["D"],
-    "explanation": "Subahdar प्रांत का प्रमुख होता था और वह सैन्य संचालन, राजस्व संग्रह और प्रशासनिक प्रबंधन सभी के लिए जिम्मेदार होता था।"
+    "answer": ["A"],
+    "explanation": "द्वितीय आंग्ल–मराठा युद्ध में 1803 में ब्रिटिश (लॉर्ड लेक) ने दिल्ली पर अधिकार किया और सम्राट ब्रिटिश संरक्षण में ‘टाइटुलर’ शासक रहे।"
   },
   {
     "id": 24,
-    "question": "Diwan-i-Ala और Diwan-i-Ariz दोनों के कार्य में क्या अंतर था? / What was the difference between the roles of Diwan-i-Ala and Diwan-i-Ariz?",
+    "question": "अठारहवीं सदी के ‘जागीर संकट’ के कारण–परिणाम में से सही चुनिए। / Causes–effects of 18th c. Jagir crisis:",
     "options": {
-      "A": "Diwan-i-Ala = वित्त / Finance",
-      "B": "Diwan-i-Ariz = सैन्य / Military",
-      "C": "Diwan-i-Ala = न्याय / Judicial",
-      "D": "Diwan-i-Ariz = राजस्व / Revenue"
+      "A": "उत्पादक जागीरों का अभाव/कब्ज़ा, तगड़ी स्थानांतरण-राजनीति",
+      "B": "मंसबदारों की पलटनें अपोषित; दस्तूर-उल्लंघन",
+      "C": "राजस्व-फार्मिंग की ओर झुकाव",
+      "D": "केंद्र का आर्थिक आधार मज़बूत"
     },
-    "answer": ["A", "B"],
-    "explanation": "Diwan-i-Ala वित्तीय प्रशासन संभालता था जबकि Diwan-i-Ariz सेना और सैन्य प्रशासन के लिए जिम्मेदार था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "जागीरों की कमी और निरंतर बदली से मंसबदारों का वित्तीय आधार कमजोर हुआ; इजरादारी बढ़ी; इससे केंद्रीय धनस्रोत भी कमजोर हुआ, मज़बूत नहीं।"
   },
   {
     "id": 25,
-    "question": "केंद्र और प्रांतीय प्रशासन के बीच कौन-कौन सी जिम्मेदारियाँ साझा नहीं थीं? / Which responsibilities were not shared between central and provincial administration?",
+    "question": "‘दस्तक’ के दुरुपयोग से नवाब–कम्पनी संघर्ष क्यों बढ़ा? / Why did misuse of ‘dastaks’ fuel Nawab–Company conflict?",
     "options": {
-      "A": "राजस्व संग्रह / Revenue collection",
-      "B": "सैन्य प्रशासन / Military administration",
-      "C": "स्थानीय न्याय / Local judiciary",
-      "D": "केंद्रीय मंत्रिपरिषद / Central Council"
+      "A": "कम्पनी सेवकों ने निजी व्यापार को भी शुल्क-मुक्त बताकर चलाया",
+      "B": "स्थानीय राजस्व को क्षति पहुँची",
+      "C": "मुग़ल शहंशाह ने दस्ताक़ पर पूर्ण रोक लगा दी",
+      "D": "नवाबों ने नियंत्रण हेतु कड़े कदम उठाए (जैसे मुर्शिद कुली, अलीवर्दी, सिराज)"
     },
-    "answer": ["B", "D"],
-    "explanation": "सैन्य प्रशासन (Diwan-i-Ariz, Mir Bakshi) और केंद्रीय मंत्रिपरिषद (Wazir) केवल केंद्र में थे। राजस्व संग्रह और स्थानीय न्याय प्रांतीय प्रशासन में कार्यरत थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "1717 फ़रमान का लाभ कम्पनी-सेवकों ने निजी व्यापार में भी लेना शुरू किया; इससे राजस्व प्रभावित हुआ और नवाब–कम्पनी तनाव बढ़ा। सम्राट ने पूर्ण रोक नहीं लगाई थी।"
   },
   {
     "id": 26,
-    "question": "Mansabdari system में 'Zat' और 'Sawar' का क्या महत्व था? / What was the significance of 'Zat' and 'Sawar' in the Mansabdari system?",
+    "question": "ग़ुलाम क़ादिर की 1788 की घटना किससे जुड़ी है? / The 1788 episode of Ghulam Qadir relates to:",
     "options": {
-      "A": "Zat सैनिक की निजी रैंक को दर्शाता था / Zat indicated the personal rank of a soldier",
-      "B": "Sawar घुड़सवारों की संख्या निर्धारित करता था / Sawar determined the number of cavalry",
-      "C": "Jagir की भूमि का आकार निर्धारित करता था / Determined the size of Jagir land",
-      "D": "राजस्व संग्रह की दर तय करता था / Determined revenue collection rate"
+      "A": "शाह आलम II का अपमान व अन्धा किया जाना",
+      "B": "महादजी शिंदे द्वारा सम्राट की पुनर्स्थापना",
+      "C": "नादिरशाह की दिल्ली-वापसी",
+      "D": "मराठों का आगरा पर अधिकार"
     },
     "answer": ["A", "B"],
-    "explanation": "Mansabdari system में Zat से सैनिक की निजी रैंक ज्ञात होती थी, और Sawar से उसकी cavalry strength तय होती थी। Jagir और revenue collection अलग प्रावधानों द्वारा संचालित होते थे।"
+    "explanation": "1788 में रोहिल्ला सरदार ग़ुलाम क़ादिर ने शाह आलम II का अपमान/अन्धा किया; महादजी शिंदे ने हस्तक्षेप कर सम्राट को फिर प्रतिष्ठित किया।"
   },
   {
     "id": 27,
-    "question": "Jagir system के तहत अधिकारियों को भूमि क्यों दी जाती थी? / Why were officials granted land under the Jagir system?",
+    "question": "अकबर II (1806–1837) के संदर्भ में सही कथन हैं— / Correct statements about Akbar II:",
     "options": {
-      "A": "सैनिकों को वेतन देने के लिए / To pay soldiers",
-      "B": "राजस्व संग्रह के लिए / For revenue collection",
-      "C": "स्थानीय न्यायिक शक्तियों के लिए / For local judicial powers",
-      "D": "मुगल दरबार की सजावट के लिए / For Mughal court decoration"
+      "A": "राममोहन राय को ‘राजा’ की उपाधि देकर इंग्लैंड दूत बनाकर भेजा",
+      "B": "कम्पनी को ‘शाह-ए-हिन्द’ की उपाधि प्रदान की",
+      "C": "दरबारी-सांस्कृतिक आश्रय जारी रहा",
+      "D": "दिल्ली पर वास्तविक प्रशासनिक अधिकार उनके पास था"
     },
-    "answer": ["A", "B"],
-    "explanation": "Jagir system में अधिकारियों को उनके सेवाओं के बदले land grant किया जाता था, जिससे वे अपनी जिम्मेदारियों के लिए revenue संग्रह कर सकें और सैनिकों को वेतन प्रदान कर सकें।"
+    "answer": ["A", "C"],
+    "explanation": "अकबर II ने राममोहन राय को ‘राजा’ की उपाधि देकर राजनयिक याचना हेतु भेजा; सांस्कृतिक आश्रय जारी रहा। वास्तविक प्रशासन कम्पनी के हाथ था।"
   },
   {
     "id": 28,
-    "question": "Zabti system (Ain-i-Akbari) का मुख्य उद्देश्य क्या था? / What was the main purpose of the Zabti system in Ain-i-Akbari?",
+    "question": "बहादुर शाह ज़फ़र (1837–1857) के संदर्भ में सही कथन चुनिए। / Choose correct statements on Bahadur Shah Zafar:",
     "options": {
-      "A": "कृषि उत्पाद पर कर निर्धारित करना / To fix tax on agricultural produce",
-      "B": "सैनिकों की भर्ती करना / To recruit soldiers",
-      "C": "सुधारित न्यायिक प्रणाली लागू करना / To implement judicial reforms",
-      "D": "सड़क और पुल निर्माण के लिए निधि जुटाना / To fund roads and bridges"
+      "A": "वे उर्दू-फ़ारसी के कवि व सांस्कृतिक आश्रयदाता थे",
+      "B": "1857 में विद्रोह का प्रतीकात्मक नेतृत्व उन्हीं को मिला",
+      "C": "1858 में रंगून निर्वासन और 1862 में मृत्यु",
+      "D": "उन्होंने 1849 में पंजाब की लड़ाई में अब्दाली को हराया"
     },
-    "answer": ["A"],
-    "explanation": "Zabti system में भूमि के प्रकार और उपज के आधार पर कर निर्धारित किया जाता था। इसका उद्देश्य Mughal राज्य के लिए स्थिर और नियमित revenue सुनिश्चित करना था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "ज़फ़र साहित्य-संरक्षक थे; 1857 में बगावत का प्रतीक बने; 1858 में मुक़दमे के बाद रंगून निर्वासित हुए और 1862 में निधन। 1849/अब्दाली संबंध गलत है।"
   },
   {
     "id": 29,
-    "question": "Dastur-i-Amal का Mughal प्रशासन में क्या महत्व था? / What was the significance of Dastur-i-Amal in Mughal administration?",
+    "question": "क्षेत्रीय शक्तियों के उभार के ‘संरचनात्मक कारण’ कौन-से थे? / Structural causes behind rise of regional powers:",
     "options": {
-      "A": "राजस्व संग्रह की प्रक्रिया को नियमित करना / Standardize revenue collection procedures",
-      "B": "सैनिकों की रैंक तय करना / Assign ranks to soldiers",
-      "C": "संसदीय कानून बनाना / Enact parliamentary laws",
-      "D": "राज्य में धार्मिक सुधार लागू करना / Implement religious reforms"
+      "A": "केंद्रीय सैन्य–वित्तीय तंत्र का क्षय",
+      "B": "स्थानीय अभिजात/जमींदारों की स्वायत्तता",
+      "C": "लंबी दूरी के व्यापार का पूर्ण पतन",
+      "D": "शाही नियुक्तियों का वैधानिक परंतु कमजोर क्रियान्वयन"
     },
-    "answer": ["A"],
-    "explanation": "Dastur-i-Amal Mughal revenue system का guideline था जो ज़मीन के उत्पादन, कर निर्धारण और संग्रहण प्रक्रिया को व्यवस्थित करता था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "केंद्र की कमजोरी और स्थानीय स्वायत्त अभिजात-जाल ने क्षेत्रीय राज्यों को उभारा; व्यापार का पूर्ण पतन नहीं हुआ—पैटर्न बदले।"
   },
   {
     "id": 30,
-    "question": "Mansabdari system में Jagirdar और Mansabdar के बीच क्या अंतर था? / What was the difference between a Jagirdar and a Mansabdar?",
+    "question": "मुग़ल प्रशासनिक पदों में निम्न में से कौन-सा जोड़ा सही है? / Which office pairing is correct?",
     "options": {
-      "A": "Mansabdar रैंक और सैन्य जिम्मेदारी का अधिकारी था / Mansabdar was officer of rank and military responsibility",
-      "B": "Jagirdar भूमि से राजस्व संग्रह करने वाला अधिकारी था / Jagirdar collected revenue from land",
-      "C": "Mansabdar हमेशा राजा के परिवार का सदस्य होता था / Mansabdar was always royal family member",
-      "D": "Jagirdar न्यायिक अधिकारी होता था / Jagirdar acted as judicial officer"
+      "A": "मीर बख़्शी—सैन्य नियुक्ति/वेतन/सैन्य रजिस्टर",
+      "B": "वज़ीर—राजस्व/वित्त/समग्र प्रशासन",
+      "C": "सदर-उस-सुदूर—धार्मिक दान/मदारिस/काज़ी नियुक्ति",
+      "D": "मीर-ए-समां—टकसाल प्रमुख"
     },
-    "answer": ["A", "B"],
-    "explanation": "Mansabdar Mughal प्रशासन में पद और सैन्य जिम्मेदारी के आधार पर होता था जबकि Jagirdar को ज़मीनी राजस्व संग्रह की जिम्मेदारी दी जाती थी। दोनों पद अक्सर overlap करते थे लेकिन मूल कार्य अलग थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मीर बख़्शी सैन्य–मंसब से संबंधित; वज़ीर वित्त–प्रशासन; सदर-उस-सुदूर धार्मिक अनुदान/धर्म संस्थान। मीर-ए-समां दरबारी रस्म/संगीत/कोष्ठ—टकसाल प्रमुख नहीं।"
   },
   {
     "id": 31,
-    "question": "Mughal Revenue System में Sawar की भूमिका क्या थी? / What was the role of Sawar in Mughal Revenue System?",
+    "question": "नादिरशाह (1739) और अब्दाली आक्रमणों के दीर्घकालीन आर्थिक प्रभाव क्या थे? / Long-term economic effects of Nadir Shah & Abdali invasions:",
     "options": {
-      "A": "सैनिक घुड़सवारों की संख्या निर्धारित करता था / Determined number of cavalry soldiers",
-      "B": "राजस्व दर तय करता था / Determined revenue rate",
-      "C": "सैनिकों को वेतन प्रदान करता था / Provided salary to soldiers",
-      "D": "स्थानीय न्यायिक मामलों को नियंत्रित करता था / Controlled local judicial matters"
+      "A": "धन-निकासी व कराधान-संकट",
+      "B": "मुद्रास्फीति/मुद्रा-परिसंचरण में अस्थिरता",
+      "C": "सिक्कों में चाँदी की उपलब्धता अचानक बढ़ना",
+      "D": "व्यापारिक मार्गों की असुरक्षा"
     },
-    "answer": ["A"],
-    "explanation": "Sawar का संकेत उस Mansabdar की cavalry strength को दर्शाता था, जो Mughal सेना की तैयारी और राजस्व वितरण के लिए महत्वपूर्ण था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "लूट से धन-निकासी, कर-संकट, मार्ग-असुरक्षा व मूल्य-अस्थिरता बढ़ी; चाँदी की उपलब्धता बढ़ने के बजाय कमी/अस्थिरता की प्रवृत्ति दिखी।"
   },
   {
     "id": 32,
-    "question": "Zat rank का Mughal प्रशासन में मुख्य महत्व क्या था? / What was the main importance of Zat rank in Mughal administration?",
+    "question": "‘दिल्ली स्कूल’ (उर्दू) किन लेखकों/विधाओं से संबद्ध है? / Delhi school (Urdu) is associated with:",
     "options": {
-      "A": "सैनिक का व्यक्तिगत रैंक और अधिकार दिखाता था / Showed personal rank and privileges",
-      "B": "राजस्व संग्रह की दर तय करता था / Determined revenue collection rate",
-      "C": "सैनिक को Jagir प्रदान करता था / Assigned Jagir to soldier",
-      "D": "सैन्य अभियान की योजना बनाता था / Planned military campaigns"
+      "A": "मीर तक़ी मीर, सौदा",
+      "B": "क़ासिद, मसनवी, ग़ज़ल",
+      "C": "कम्पनी राज की अंग्रेज़ी कविता",
+      "D": "लखनऊ स्कूल के दरबारी रंग-ढंग से भिन्नता"
     },
-    "answer": ["A"],
-    "explanation": "Zat rank Mansabdar की व्यक्तिगत रैंक और अधिकार को निर्दिष्ट करता था, जबकि Sawar उसकी cavalry strength को दिखाता था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "दिल्ली स्कूल में मीर, सौदा; विधाएँ—ग़ज़ल, मसनवी, क़ासिद; लखनऊ स्कूल से शैलीगत भिन्नता मानी जाती है। अंग्रेज़ी कविता से संबद्ध नहीं।"
   },
   {
     "id": 33,
-    "question": "Jagirdar को revenue collection के लिए किस आधार पर land grant की जाती थी? / On what basis was land granted to Jagirdars for revenue collection?",
+    "question": "मुग़ल टकसालों में ‘सम्राट के नाम’ पर सिक्के क्यों चलते रहे? / Why did mints strike coins in the emperor’s name?",
     "options": {
-      "A": "Mansabdar की रैंक और military strength / Mansabdar's rank and military strength",
-      "B": "स्थानीय किसानों की संख्या / Number of local farmers",
-      "C": "सैनिकों की भर्ती संख्या / Number of recruited soldiers",
-      "D": "धार्मिक योगदान / Religious contribution"
+      "A": "वैधानिकता का प्रतीक—स्थानीय शासक भी शाही नाम से सिक्का चलाते",
+      "B": "व्यापारिक स्वीकृति व व्यापक विश्वास",
+      "C": "ब्रिटिश ने 1757 से ही इसे प्रतिबंधित कर दिया",
+      "D": "राजनीतिक विखंडन के बावजूद प्रतीकात्मक एकता"
     },
-    "answer": ["A"],
-    "explanation": "Jagirdars को land grant उनके Mansabdar rank और Sawar के आधार पर दिया जाता था ताकि वे अपने troops को maintain कर सकें और revenue efficiently collect कर सकें।"
+    "answer": ["A", "B", "D"],
+    "explanation": "सम्राट के नाम पर सिक्का चलाना वैधानिक–प्रतीकात्मक मान्यता देता था और व्यापारिक स्वीकार्यता बढ़ाता था; 1835 से यह व्यापक रूप से समाप्त हुआ, 1757 से नहीं।"
   },
   {
     "id": 34,
-    "question": "Ain-i-Akbari में Mansabdari और Revenue system को किस प्रकार document किया गया? / How were Mansabdari and Revenue systems documented in Ain-i-Akbari?",
+    "question": "सिख–जाट–रोहिल्ला–मराठा—इन शक्तियों के उभार का मुग़ल केंद्र पर सम्मिलित प्रभाव क्या रहा? / Combined impact of Sikh–Jat–Rohilla–Maratha rise:",
     "options": {
-      "A": "संपूर्ण प्रशासनिक विवरण और Jagir allocations / Complete administrative details and Jagir allocations",
-      "B": "सिर्फ सैन्य अभियान के रिकॉर्ड / Only military campaigns record",
-      "C": "धार्मिक समारोहों का विवरण / Description of religious ceremonies",
-      "D": "स्थानीय न्यायिक मामलों का विवरण / Local judicial matters record"
+      "A": "केंद्र की सैन्य-राजस्व क्षमता में क्षरण",
+      "B": "दिल्ली–आगरा–दोआब के नियंत्रण में बारंबार परिवर्तन",
+      "C": "सम्राट की प्रादेशिक यात्रा/निर्वासन",
+      "D": "सम्राट द्वारा दुबारा प्रत्यक्ष विस्तार"
     },
-    "answer": ["A"],
-    "explanation": "Ain-i-Akbari में Mansabdars की रैंक, Sawar, Zat, Jagir allocations और revenue procedures का विस्तृत विवरण दिया गया है, जिससे Mughal प्रशासन की organization स्पष्ट होती है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "बहुपक्षीय दबाव से केंद्र कमजोर हुआ, नियंत्रण बारंबार बदला और सम्राट को इलाहाबाद/अन्यत्र शरण लेनी पड़ी; प्रत्यक्ष विस्तार नहीं हुआ।"
   },
   {
     "id": 35,
-    "question": "Mansabdari system में किस प्रकार officers की पदोन्नति की जाती थी? / How were officers promoted in Mansabdari system?",
+    "question": "कर्नाल की पराजय में मुग़ल सेना की सामरिक कमियाँ क्या थीं? / Mughal tactical weaknesses at Karnal:",
     "options": {
-      "A": "सैनिक योग्यता और loyalty के आधार पर / Based on military merit and loyalty",
-      "B": "सिर्फ जाति और परिवार के आधार पर / Only on caste and family",
-      "C": "राजस्व संग्रह की दक्षता पर / Based on revenue collection efficiency",
-      "D": "धार्मिक योगदान के आधार पर / Based on religious contribution"
+      "A": "कमांड-समन्वय की कमी",
+      "B": "रसद/खुफ़िया विफलता",
+      "C": "तोपखाने के प्रभाव का समुचित उपयोग न होना",
+      "D": "घुड़सवार-धनुर्धर की उत्कृष्टता"
     },
-    "answer": ["A", "C"],
-    "explanation": "Mansabdari system में पदोन्नति officers की सैन्य योग्यता, Sawar/Zat performance और revenue collection efficiency के आधार पर होती थी। केवल जाति या परिवार महत्वपूर्ण नहीं थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "कमांड/समन्वय व रसद–खुफिया कमजोर थे; तोपखाने की क्षमता का पूर्ण उपयोग न हुआ; ‘घुड़सवार-धनुर्धर की उत्कृष्टता’ पराजित पक्ष में लागू नहीं।"
   },
   {
     "id": 36,
-    "question": "Todar Mal ka bandobast kis Mughal shasak ke samay hua tha? / During whose reign was Todar Mal's land revenue system introduced?",
+    "question": "मुग़ल–कम्पनी सम्बन्ध में ‘नाम–हकीकत’ का द्वंद्व क्या था? / What was the ‘name vs reality’ paradox in Mughal–Company relations?",
     "options": {
-      "A": "Akbar",
-      "B": "Humayun",
-      "C": "Jahangir",
-      "D": "Shah Jahan"
+      "A": "सम्राट नाम-मात्र सर्वोच्च; वास्तविक कर/राजनीति कम्पनी के पास",
+      "B": "सम्राट को पेंशन/निशान; कम्पनी को दीवानी/फौजी अधिकार",
+      "C": "सम्राट द्वारा कम्पनी गवर्नर-जनरल की नियुक्ति",
+      "D": "दरबार की रस्में, पर सत्ता का केंद्रीकरण कलकत्ता/लंदन में"
     },
-    "answer": ["A"],
-    "explanation": "Todar Mal ka bandobast, jo ki zabti system ke roop mein jaana jaata hai, Akbar ke shasan kaal mein lagu hua tha. Yeh land revenue ko uniform aur systematic banane ke liye design kiya gaya tha."
+    "answer": ["A", "B", "D"],
+    "explanation": "नाम मात्र सम्राट, पर दीवानी/सेना/नीति कम्पनी के पास—यही द्वंद्व था। सम्राट कम्पनी के गवर्नर-जनरल की नियुक्ति नहीं करता था।"
   },
   {
     "id": 37,
-    "question": "Todar Mal ke zabti system ke mukhya tatva kaun se the? / What were the main features of Todar Mal's Zabti system?",
+    "question": "1761 के पानीपत के बाद मुग़ल–मराठा सम्बन्ध का प्रमुख स्वरूप क्या रहा? / Post-Panipat (1761) Mughal–Maratha relations mainly were:",
     "options": {
-      "A": "Land measurement aur classification",
-      "B": "Fixed revenue assessment",
-      "C": "Use of revenue officials (amils)",
-      "D": "Inheritance-based tax collection"
+      "A": "मराठा संरक्षकता/प्रोटेक्टोरेट में सम्राट",
+      "B": "सम्राट द्वारा मराठों को हराकर दक्कन पर कब्ज़ा",
+      "C": "दिल्ली की सुरक्षा/राजनीति में शिंदे-होल्कर की भूमिका",
+      "D": "सम्राट का पुणे दरबार में स्थायी निवास"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Zabti system mein zameen ko naap kar uske quality ke anusar classify kiya jata tha aur fixed revenue lagaya jata tha. Amils ya revenue officials ki niyukti is system ka ek mahatvapurn hissa tha. Lekin inheritance-based tax system iska part nahi tha."
+    "answer": ["A", "C"],
+    "explanation": "मराठे—विशेषकर शिंदे—दिल्ली-सम्राट की सुरक्षा/राजनीति में निर्णायक रहे; सम्राट का पुणे में निवास नहीं रहा और न ही दक्कन पर उनका कब्ज़ा।"
   },
   {
     "id": 38,
-    "question": "Mughal taxation policies mein Kharaj, Ushr aur Abwabs kis cheez ko darshate the? / What did Kharaj, Ushr, and Abwabs represent in Mughal taxation?",
+    "question": "1857 के विद्रोह में ‘मुग़ल प्रतीक’ का महत्व क्या था? / What was the significance of the ‘Mughal symbol’ in 1857?",
     "options": {
-      "A": "Land tax",
-      "B": "Tax on crops",
-      "C": "Trade tax",
-      "D": "Religious tithe"
+      "A": "विद्रोहियों ने वैधानिकता हेतु ज़फ़र को नेता माना",
+      "B": "सेना–नागरिक समर्थन जुटाने को शाही मुहर/ख़ुतबा/सिक्का प्रतीक",
+      "C": "सम्राट ने सम्पूर्ण भारत का सफल प्रशासन संभाल लिया",
+      "D": "ब्रिटिश मुक़दमे/निर्वासन से प्रतीक को ध्वस्त किया गया"
     },
-    "answer": ["A", "B"],
-    "explanation": "Kharaj aur Ushr mukhya roop se land aur crops par lagne wale taxes the. Abwabs mein chhote-chhote ancillary taxes shamil the. Trade tax aur religious tithe inme shamil nahi the."
+    "answer": ["A", "B", "D"],
+    "explanation": "ज़फ़र प्रतीकात्मक केंद्र बने—मुहर/ख़ुतबा/सिक्का का प्रयोग वैधानिकता हेतु; पर वास्तविक प्रशासन उनके पास नहीं था; मुक़दमे/निर्वासन से प्रतीकात्मकता भी कुंठित हुई।"
   },
   {
     "id": 39,
-    "question": "Todar Mal ke bandobast ne kis tarah raiyat aur zamindar ke roles ko prabhavit kiya? / How did Todar Mal's system affect the roles of raiyat and zamindar?",
+    "question": "मुग़ल प्रशासनिक/सांस्कृतिक धरोहर के सतत तत्व कौन-से रहे? / Which elements of Mughal legacy persisted?",
     "options": {
-      "A": "Raiyat ko fixed tax dena pada",
-      "B": "Zamindar ki authority centralized hui",
-      "C": "Raiyat ko tax-free exemption mili",
-      "D": "Zamindar aur state ke beech clear responsibility bani"
+      "A": "फ़ारसी दफ़्तरी परंपरा/लिपिकीय संस्कृति",
+      "B": "शहर–क़स्बों का शिल्प–बाज़ार ढांचा",
+      "C": "राजस्व–माप-तौल/हिसाब-किताब की दफ़्तरी रीतियाँ",
+      "D": "मुग़ल शाही नौसेना का हिन्द महासागर प्रभुत्व"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Raiyat ko fixed revenue dena padta tha. Zamindar ke powers central authority ke under aa gaye aur state ke saath unke responsibilities define hui. Tax-free exemption nahi di gayi."
+    "answer": ["A", "B", "C"],
+    "explanation": "फ़ारसी दफ़्तर, शहरी बाज़ार-संरचना, और दफ़्तरी लेखा-रीतियाँ कायम रहीं; पर मुग़लों की समुद्री नौसेना का प्रभुत्व कभी नहीं रहा।"
   },
   {
     "id": 40,
-    "question": "Todar Mal ke zabti system ki khasiyat kya thi? / What was the uniqueness of Todar Mal's Zabti system?",
+    "question": "Later Mughals युग की ‘बड़ी तस्वीर’ (Big Picture) क्या दर्शाती है? / What does the big picture of Later Mughals show?",
     "options": {
-      "A": "Standardized measurement of land",
-      "B": "Revenue collection based on productivity",
-      "C": "Uniform monetary assessment",
-      "D": "No involvement of local officials"
+      "A": "केंद्रीय पतन, पर सांस्कृतिक निरंतरता",
+      "B": "प्रतीकात्मक वैधानिकता पर क्षेत्रीय/औपनिवेशिक शक्ति की वास्तविक पकड़",
+      "C": "आर्थिक–राजस्व संरचना का टुकड़ीकरण और नये मध्यस्थ समूहों का उभार",
+      "D": "सर्वत्र शाही प्रत्यक्ष शासन का विस्तार"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "Todar Mal ne zameen ko standard measure mein classify kiya, productivity ke anusar tax lagaya aur monetary assessment uniform banaya. Local officials (amils) ki involvement zaruri thi, isliye D galat hai."
-  },
-  {
-    "id": 41,
-    "question": "Kharaj aur Ushr mein mukhya antar kya tha? / What was the main difference between Kharaj and Ushr?",
-    "options": {
-      "A": "Kharaj land tax on non-Muslims",
-      "B": "Ushr tax on Muslims",
-      "C": "Kharaj fixed revenue",
-      "D": "Ushr variable revenue based on yield"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "Kharaj non-Muslim raiyaton se lagta tha aur aksar fixed amount tha. Ushr Muslim raiyaton par lagta tha aur yield ke hisaab se calculate hota tha. Dono ka tax basis aur rate alag tha."
-  },
-  {
-    "id": 42,
-    "question": "Abwabs ka pramukh uddeshya kya tha? / What was the main purpose of Abwabs?",
-    "options": {
-      "A": "Ancillary or additional taxes",
-      "B": "Main land revenue",
-      "C": "Control over zamindars",
-      "D": "Trade regulation"
-    },
-    "answer": ["A", "C"],
-    "explanation": "Abwabs chhote ancillary taxes the aur zamindars aur state ke beech control establish karte the. Main land revenue ya trade regulation directly nahi the."
-  },
-  {
-    "id": 43,
-    "question": "Todar Mal ke zabti system ko lagu karne mein kaun se officials important the? / Which officials were important for implementing Zabti system?",
-    "options": {
-      "A": "Amil",
-      "B": "Patwari",
-      "C": "Qanungo",
-      "D": "Subedar"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Amil, Patwari aur Qanungo zabti system ke implementation ke liye central the. Subedar ek military governor tha, iska direct relation nahi tha."
-  },
-  {
-    "id": 44,
-    "question": "Todar Mal ke bandobast ka sabse bada fayda kya tha? / What was the biggest benefit of Todar Mal's system?",
-    "options": {
-      "A": "Revenue predictability",
-      "B": "Raiyat aur zamindar ke roles clear hue",
-      "C": "Farming techniques improved",
-      "D": "Uniformity in taxation"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "Todar Mal ke system se revenue predictable hua, roles aur responsibilities clear hue aur uniformity aayi. Farming techniques mein direct improvement nahi tha."
-  },
-  {
-    "id": 45,
-    "question": "Zabti system mein land classification kis basis par hota tha? / On what basis was land classified in Zabti system?",
-    "options": {
-      "A": "Soil fertility",
-      "B": "Irrigation facility",
-      "C": "Crop type",
-      "D": "Ownership lineage"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Zameen ko fertility, irrigation aur crop type ke basis par classify kiya jata tha. Ownership lineage ka isme role nahi tha."
-  },
-  {
-    "id": 46,
-    "question": "Todar Mal ke zabti system mein zamindar ka role kya tha? / What was the role of Zamindars in Zabti system?",
-    "options": {
-      "A": "Revenue collection from raiyats",
-      "B": "Land measurement",
-      "C": "Assessment of productivity",
-      "D": "Military administration"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Zamindars revenue collect karte, land measure karte aur productivity assess karte the. Military administration ka unse sambandh nahi tha."
-  },
-  {
-    "id": 47,
-    "question": "Todar Mal ke zabti system mein revenue assessment ka main criterion kya tha? / What was the main criterion for revenue assessment?",
-    "options": {
-      "A": "Land fertility",
-      "B": "Crop yield",
-      "C": "Raiyat status",
-      "D": "Distance from market"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Revenue assessment primarily land fertility aur crop yield par depend karta tha. Raiyat ka social status aur market distance secondary nahi the."
-  },
-  {
-    "id": 48,
-    "question": "Mughal taxation policies ke tehat Kharaj aur Ushr ke alawa kaun se taxes shamil the? / Besides Kharaj and Ushr, which other taxes were included?",
-    "options": {
-      "A": "Abwabs",
-      "B": "Jizya",
-      "C": "Octroi",
-      "D": "Custom duties"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Abwabs chhote additional taxes the, Jizya non-Muslims par lagta tha. Octroi aur custom duties central Mughal taxation ka part nahi the."
-  },
-  {
-    "id": 49,
-    "question": "Todar Mal ne revenue collection system ko kaise uniform banaya? / How did Todar Mal make revenue collection uniform?",
-    "options": {
-      "A": "Standard measurement of land",
-      "B": "Assessment based on productivity",
-      "C": "Central control over collection",
-      "D": "By abolishing zamindars"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Todar Mal ne land ko standard measure par nap kar, productivity ke hisaab se assessment kiya aur central officials ke zariye uniform collection ensure ki. Zamindars ko abolish nahi kiya gaya."
-  },
-  {
-    "id": 50,
-    "question": "Todar Mal ke zabti system ka pramukh uddeshya kya tha? / What was the main objective of Todar Mal's Zabti system?",
-    "options": {
-      "A": "Systematic and fair revenue collection",
-      "B": "Increase royal treasury",
-      "C": "Reduce peasant exploitation",
-      "D": "Complete state control over land"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Todar Mal ka primary aim systematic aur fair revenue collection tha, treasury ko enhance karna aur raiyat ke exploitation ko reduce karna. Complete state control nahi tha."
-  },
-  {
-    "id": 51,
-    "question": "Akbar ke shasan kaal mein Mughal chhavi kaise thi? / How was the Mughal image during Akbar's reign?",
-    "options": {
-      "A": "Religious tolerance",
-      "B": "Cultural fusion",
-      "C": "Authoritarian rule",
-      "D": "Military expansion"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Akbar ne dharmik samanta aur sanskritik milan ko badhava diya, jisme Hindu aur Muslim kalaakar ek saath kaam karte the."
-  },
-  {
-    "id": 52,
-    "question": "Jahangir ke samay mein painting ki visheshta kya thi? / What was the specialty of painting during Jahangir's time?",
-    "options": {
-      "A": "Naturalism",
-      "B": "Portraiture",
-      "C": "Use of oil paints",
-      "D": "European influence"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "Jahangir ne prakritik chhavi aur chhavi chitrankan ko badhava diya, jisme European kala ka prabhav bhi tha."
-  },
-  {
-    "id": 53,
-    "question": "Shah Jahan ke samay mein painting ki visheshta kya thi? / What was the specialty of painting during Shah Jahan's time?",
-    "options": {
-      "A": "Formalism",
-      "B": "Architectural themes",
-      "C": "Use of gold leaf",
-      "D": "Portraits of courtiers"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Shah Jahan ke samay mein chitrankan mein aadhunikta aur sushilata thi, jisme rajmahal aur rajdarbar ke chhavi thi."
-  },
-  {
-    "id": 54,
-    "question": "Akbar ke samay mein Mughal painting ka pramukh vishay kya tha? / What was the main theme of Mughal painting during Akbar's time?",
-    "options": {
-      "A": "Historical events",
-      "B": "Religious themes",
-      "C": "Court life",
-      "D": "Nature"
-    },
-    "answer": ["A", "C"],
-    "explanation": "Akbar ke samay mein chitrankan mein itihasik ghatnayen aur rajdarbar ke jeevan ko dikhaya gaya."
-  },
-  {
-    "id": 55,
-    "question": "Jahangir ke samay mein painting mein kaun se vishay pramukh the? / What were the main subjects in painting during Jahangir's time?",
-    "options": {
-      "A": "Portraits",
-      "B": "Birds and animals",
-      "C": "Religious themes",
-      "D": "Historical events"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Jahangir ke samay mein chitrankan mein chhavi chitrankan aur pakshi aur pashuon ka chitrankan pramukh the."
-  },
-  {
-    "id": 56,
-    "question": "Shah Jahan ke samay mein painting mein kaun se vishay pramukh the? / What were the main subjects in painting during Shah Jahan's time?",
-    "options": {
-      "A": "Portraits",
-      "B": "Court scenes",
-      "C": "Architectural themes",
-      "D": "Nature"
-    },
-    "answer": ["B", "C"],
-    "explanation": "Shah Jahan ke samay mein chitrankan mein rajdarbar ke chhavi aur rajmahal ke chhavi pramukh the."
-  },
-  {
-    "id": 57,
-    "question": "Akbar ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Akbar's time?",
-    "options": {
-      "A": "Abu'l-Hasan",
-      "B": "Manohar",
-      "C": "Bichitr",
-      "D": "Balchand"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Akbar ke samay mein Abu'l-Hasan aur Manohar jaise kalaakar pramukh the."
-  },
-  {
-    "id": 58,
-    "question": "Jahangir ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Jahangir's time?",
-    "options": {
-      "A": "Abu'l-Hasan",
-      "B": "Manohar",
-      "C": "Balchand",
-      "D": "Bichitr"
-    },
-    "answer": ["C"],
-    "explanation": "Jahangir ke samay mein Balchand jaise kalaakar pramukh the."
-  },
-  {
-    "id": 59,
-    "question": "Shah Jahan ke samay mein painting mein kaun se kalaakar pramukh the? / Who were the prominent artists during Shah Jahan's time?",
-    "options": {
-      "A": "Abu'l-Hasan",
-      "B": "Manohar",
-      "C": "Balchand",
-      "D": "Bichitr"
-    },
-    "answer": ["D"],
-    "explanation": "Shah Jahan ke samay mein Bichitr jaise kalaakar pramukh the."
-  },
-  {
-    "id": 60,
-    "question": "Mughal painting mein European prabhav kis samay mein dekha gaya? / When was the European influence seen in Mughal painting?",
-    "options": {
-      "A": "Akbar's reign",
-      "B": "Jahangir's reign",
-      "C": "Shah Jahan's reign",
-      "D": "Aurangzeb's reign"
-    },
-    "answer": ["B"],
-    "explanation": "Jahangir ke samay mein European painting ka prabhav Mughal chitrankan par dekha gaya, jisme oil paints aur perspective ka upyog hua."
-  },
-  {
-    "id": 61,
-    "question": "Which architectural feature is prominently featured in Humayun's Tomb?",
-    "options": {
-      "A": "Charbagh garden layout",
-      "B": "Double dome structure",
-      "C": "Minarets at each corner",
-      "D": "Use of white marble"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "Humayun's Tomb is renowned for its Charbagh garden layout, double dome structure, and extensive use of white marble, marking a significant development in Mughal architecture."
-  },
-  {
-    "id": 62,
-    "question": "Which Mughal emperor commissioned the construction of Fatehpur Sikri?",
-    "options": {
-      "A": "Akbar",
-      "B": "Jahangir",
-      "C": "Shah Jahan",
-      "D": "Aurangzeb"
-    },
-    "answer": ["A"],
-    "explanation": "Emperor Akbar commissioned the construction of Fatehpur Sikri in the late 16th century, serving as the capital of the Mughal Empire for a brief period."
-  },
-  {
-    "id": 63,
-    "question": "What is the primary material used in the construction of the Taj Mahal?",
-    "options": {
-      "A": "Red sandstone",
-      "B": "White marble",
-      "C": "Wood",
-      "D": "Brick"
-    },
-    "answer": ["B"],
-    "explanation": "The Taj Mahal is primarily constructed using white marble, renowned for its intricate carvings and inlay work."
-  },
-  {
-    "id": 64,
-    "question": "Which architectural style is the Jama Masjid in Delhi an example of?",
-    "options": {
-      "A": "Indo-Islamic",
-      "B": "Gothic",
-      "C": "Baroque",
-      "D": "Neoclassical"
-    },
-    "answer": ["A"],
-    "explanation": "The Jama Masjid in Delhi is a prime example of Indo-Islamic architecture, characterized by its grand scale and intricate design."
-  },
-  {
-    "id": 65,
-    "question": "Who authored the 'Akbarnama', the historical chronicle of Emperor Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Nizamuddin Ahmad",
-      "C": "Badauni",
-      "D": "Jahangir"
-    },
-    "answer": ["A"],
-    "explanation": "The 'Akbarnama' was authored by Abul Fazl, Akbar's court historian, providing a detailed account of the emperor's reign."
-  },
-  {
-    "id": 66,
-    "question": "What is the 'Tuzuk-i-Jahangiri'?",
-    "options": {
-      "A": "Jahangir's autobiography",
-      "B": "A collection of Persian poetry",
-      "C": "A historical chronicle of Akbar's reign",
-      "D": "A compilation of Mughal laws"
-    },
-    "answer": ["A"],
-    "explanation": "The 'Tuzuk-i-Jahangiri' is the autobiography of Emperor Jahangir, offering insights into his personal experiences and the political landscape of his time."
-  },
-  {
-    "id": 67,
-    "question": "Which Mughal emperor commissioned the construction of the Taj Mahal?",
-    "options": {
-      "A": "Akbar",
-      "B": "Jahangir",
-      "C": "Shah Jahan",
-      "D": "Aurangzeb"
-    },
-    "answer": ["C"],
-    "explanation": "Emperor Shah Jahan commissioned the construction of the Taj Mahal in memory of his wife Mumtaz Mahal."
-  },
-  {
-    "id": 68,
-    "question": "Which architectural element is a hallmark of Mughal architecture?",
-    "options": {
-      "A": "Flying buttresses",
-      "B": "Onion-shaped domes",
-      "C": "Pointed arches",
-      "D": "Gothic spires"
-    },
-    "answer": ["B"],
-    "explanation": "Onion-shaped domes are characteristic of Mughal architecture, exemplified by structures like the Taj Mahal."
-  },
-  {
-    "id": 69,
-    "question": "What is the significance of the 'Fatawa-i-Alamgiri'?",
-    "options": {
-      "A": "It is a compilation of Mughal laws.",
-      "B": "It is a historical chronicle of Akbar's reign.",
-      "C": "It is a Persian poetry collection.",
-      "D": "It is an autobiography of Emperor Jahangir."
-    },
-    "answer": ["A"],
-    "explanation": "The 'Fatawa-i-Alamgiri' is a compilation of Islamic laws commissioned by Emperor Aurangzeb, serving as a legal code for the Mughal Empire."
-  },
-  {
-    "id": 70,
-    "question": "Which of the following is a feature of the Jama Masjid in Delhi?",
-    "options": {
-      "A": "Large central dome",
-      "B": "Use of white marble",
-      "C": "Minarets at each corner",
-      "D": "Located on a raised platform"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "The Jama Masjid in Delhi features a large central dome, minarets at each corner, and is situated on a raised platform, exemplifying Mughal architectural grandeur."
-  },
-  {
-    "id": 71,
-    "question": "Which Mughal emperor is associated with the construction of Fatehpur Sikri?",
-    "options": {
-      "A": "Akbar",
-      "B": "Jahangir",
-      "C": "Shah Jahan",
-      "D": "Aurangzeb"
-    },
-    "answer": ["A"],
-    "explanation": "Emperor Akbar is associated with the construction of Fatehpur Sikri, which served as the Mughal capital for a period."
-  },
-  {
-    "id": 72,
-    "question": "What is the architectural style of the Taj Mahal?",
-    "options": {
-      "A": "Indo-Islamic",
-      "B": "Gothic",
-      "C": "Baroque",
-      "D": "Neoclassical"
-    },
-    "answer": ["A"],
-    "explanation": "The Taj Mahal is an example of Indo-Islamic architecture, blending elements from Persian, Ottoman Turkish, and Indian architectural styles."
-  },
-  {
-    "id": 73,
-    "question": "Which Mughal emperor commissioned the construction of the Jama Masjid in Delhi?",
-    "options": {
-      "A": "Akbar",
-      "B": "Jahangir",
-      "C": "Shah Jahan",
-      "D": "Aurangzeb"
-    },
-    "answer": ["C"],
-    "explanation": "Emperor Shah Jahan commissioned the construction of the Jama Masjid in Delhi between 1650 and 1656."
-  },
-  {
-    "id": 74,
-    "question": "What is the primary material used in the construction of Fatehpur Sikri?",
-    "options": {
-      "A": "Red sandstone",
-      "B": "White marble",
-      "C": "Wood",
-      "D": "Brick"
-    },
-    "answer": ["A"],
-    "explanation": "Fatehpur Sikri is primarily constructed using red sandstone, giving the city its distinctive red hue."
-  },
-  {
-    "id": 75,
-    "question": "Which architectural feature is prominently featured in the Taj Mahal?",
-    "options": {
-      "A": "Charbagh garden layout",
-      "B": "Double dome structure",
-      "C": "Minarets at each corner",
-      "D": "Use of white marble"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "The Taj Mahal features a Charbagh garden layout, double dome structure, minarets at each corner, and extensive use of white marble."
-  },
-  {
-    "id": 76,
-    "question": "Which Mughal emperor is associated with the construction of the Taj Mahal?",
-    "options": {
-      "A": "Akbar",
-      "B": "Jahangir",
-      "C": "Shah Jahan",
-      "D": "Aurangzeb"
-    },
-    "answer": ["C"],
-    "explanation": "Emperor Shah Jahan is associated with the construction of the Taj Mahal, built in memory of his wife Mumtaz Mahal."
-  },
-  {
-    "id": 77,
-    "question": "What is the significance of the 'Akbarnama'?",
-    "options": {
-      "A": "It is a compilation of Mughal laws.",
-      "B": "It is a historical chronicle of Akbar's reign.",
-      "C": "It is a Persian poetry collection.",
-      "D": "It is an autobiography of Emperor Jahangir."
-    },
-    "answer": ["B"],
-    "explanation": "The 'Akbarnama' is a historical chronicle of Emperor Akbar's reign, authored by his court historian Abul Fazl."
-  },
-  {
-    "id": 78,
-    "question": "Which architectural element is a hallmark of Mughal architecture?",
-    "options": {
-      "A": "Flying buttresses",
-      "B": "Onion-shaped domes",
-      "C": "Pointed arches",
-      "D": "Gothic spires"
-    },
-    "answer": ["B"],
-    "explanation": "Onion-shaped domes are characteristic of Mughal architecture, exemplified by structures like the Taj Mahal."
-  },
-  {
-    "id": 79,
-    "question": "Which of the following historians served as a courtier during Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Abul Fazl and Badauni were contemporaries at Akbar's court, with Abul Fazl serving as a close confidant and Badauni as a scholar and historian."
-  },
-  {
-    "id": 80,
-    "question": "Which work is considered a detailed account of Akbar's administration?",
-    "options": {
-      "A": "Akbarnama",
-      "B": "Muntakhab-ut-Tawarikh",
-      "C": "Ain-i-Akbari",
-      "D": "Ma'asir-i-Jahangiri"
-    },
-    "answer": ["C"],
-    "explanation": "The 'Ain-i-Akbari' is a detailed administrative report and statistical return of Akbar's government, forming the third volume of the Akbarnama."
-  },
-  {
-    "id": 81,
-    "question": "Which historian's work is known for its critical perspective on Akbar's policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on Akbar's policies, reflecting his personal biases and frustrations."
-  },
-  {
-    "id": 82,
-    "question": "Which historian is known for his work 'Ma'asir-i-Jahangiri'?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["C"],
-    "explanation": "Khafi Khan authored 'Ma'asir-i-Jahangiri', a chronicle of Emperor Jahangir's reign, providing insights into the period."
-  },
-  {
-    "id": 83,
-    "question": "Which historian's work is considered a primary source for understanding Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Akbarnama' and 'Ain-i-Akbari' are primary sources that provide detailed accounts of Akbar's reign and administration."
-  },
-  {
-    "id": 84,
-    "question": "Which historian's work reflects a personal bias against Akbar's policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's writings often reflect his personal biases and criticisms against Akbar's policies, especially regarding religious reforms."
-  },
-  {
-    "id": 85,
-    "question": "Which historian's work provides a detailed account of Akbar's administrative system?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' offers a comprehensive account of Akbar's administrative system, including revenue collection, military organization, and judicial processes."
-  },
-  {
-    "id": 86,
-    "question": "Which historian's work includes a critical assessment of Akbar's religious policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' critically assesses Akbar's religious policies, particularly his efforts to promote religious tolerance."
-  },
-  {
-    "id": 87,
-    "question": "Which historian's work is considered a valuable source for understanding the cultural aspects of Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' provides valuable insights into the cultural aspects of Akbar's reign, including education, art, and literature."
-  },
-  {
-    "id": 88,
-    "question": "Which historian's work is considered a critical source for understanding the political dynamics of Akbar's court?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on the political dynamics of Akbar's court, reflecting his personal experiences and biases."
-  },
-  {
-    "id": 89,
-    "question": "Which historian's work includes a detailed account of Akbar's military campaigns?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Akbarnama' provides a detailed account of Akbar's military campaigns, highlighting his strategic acumen and leadership."
-  },
-  {
-    "id": 90,
-    "question": "Which historian's work is considered a primary source for understanding the socio-economic conditions during Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' serves as a primary source for understanding the socio-economic conditions during Akbar's reign, detailing aspects like revenue systems, land administration, and social customs."
-  },
-  {
-    "id": 79,
-    "question": "Which of the following historians served as a courtier during Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Abul Fazl and Badauni were contemporaries at Akbar's court, with Abul Fazl serving as a close confidant and Badauni as a scholar and historian."
-  },
-  {
-    "id": 80,
-    "question": "Which work is considered a detailed account of Akbar's administration?",
-    "options": {
-      "A": "Akbarnama",
-      "B": "Muntakhab-ut-Tawarikh",
-      "C": "Ain-i-Akbari",
-      "D": "Ma'asir-i-Jahangiri"
-    },
-    "answer": ["C"],
-    "explanation": "The 'Ain-i-Akbari' is a detailed administrative report and statistical return of Akbar's government, forming the third volume of the Akbarnama."
-  },
-  {
-    "id": 81,
-    "question": "Which historian's work is known for its critical perspective on Akbar's policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on Akbar's policies, reflecting his personal biases and frustrations."
-  },
-  {
-    "id": 82,
-    "question": "Which historian is known for his work 'Ma'asir-i-Jahangiri'?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["C"],
-    "explanation": "Khafi Khan authored 'Ma'asir-i-Jahangiri', a chronicle of Emperor Jahangir's reign, providing insights into the period."
-  },
-  {
-    "id": 83,
-    "question": "Which historian's work is considered a primary source for understanding Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Akbarnama' and 'Ain-i-Akbari' are primary sources that provide detailed accounts of Akbar's reign and administration."
-  },
-  {
-    "id": 84,
-    "question": "Which historian's work reflects a personal bias against Akbar's policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's writings often reflect his personal biases and criticisms against Akbar's policies, especially regarding religious reforms."
-  },
-  {
-    "id": 85,
-    "question": "Which historian's work provides a detailed account of Akbar's administrative system?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' offers a comprehensive account of Akbar's administrative system, including revenue collection, military organization, and judicial processes."
-  },
-  {
-    "id": 86,
-    "question": "Which historian's work includes a critical assessment of Akbar's religious policies?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "None of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' critically assesses Akbar's religious policies, particularly his efforts to promote religious tolerance."
-  },
-  {
-    "id": 87,
-    "question": "Which historian's work is considered a valuable source for understanding the cultural aspects of Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' provides valuable insights into the cultural aspects of Akbar's reign, including education, art, and literature."
-  },
-  {
-    "id": 88,
-    "question": "Which historian's work is considered a critical source for understanding the political dynamics of Akbar's court?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["B"],
-    "explanation": "Badauni's 'Muntakhab-ut-Tawarikh' offers a critical perspective on the political dynamics of Akbar's court, reflecting his personal experiences and biases."
-  },
-  {
-    "id": 89,
-    "question": "Which historian's work includes a detailed account of Akbar's military campaigns?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Akbarnama' provides a detailed account of Akbar's military campaigns, highlighting his strategic acumen and leadership."
-  },
-  {
-    "id": 90,
-    "question": "Which historian's work is considered a primary source for understanding the socio-economic conditions during Akbar's reign?",
-    "options": {
-      "A": "Abul Fazl",
-      "B": "Badauni",
-      "C": "Khafi Khan",
-      "D": "All of the above"
-    },
-    "answer": ["A"],
-    "explanation": "Abul Fazl's 'Ain-i-Akbari' serves as a primary source for understanding the socio-economic conditions during Akbar's reign, detailing aspects like revenue systems, land administration, and social customs."
+    "explanation": "केन्द्र कमजोर पड़ा पर सांस्कृतिक परंपरा चलती रही; वैधानिक प्रतीकों के साथ वास्तविक शक्ति क्षेत्रीय/कम्पनी के पास गई; राजस्व–आर्थिक ढांचे में मध्यस्थ समूह उभरे। शाही प्रत्यक्ष शासन का विस्तार नहीं हुआ।"
   }
 ]
-
-  
-
-
-
-
-
