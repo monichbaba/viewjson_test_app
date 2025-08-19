@@ -1,437 +1,623 @@
 [
   {
     "id": 1,
-    "question": "हाल ही में किस देश ने 'मंगल मिशन 2' लॉन्च किया है? / Which country recently launched 'Mars Mission 2'?",
+    "question": "कौन–से चट्टानी प्रकार आर्थिक खनिजों की मेजबानी करने हेतु सर्वाधिक सामान्य हैं? / Which rock types most commonly host economic mineral deposits?",
     "options": {
-      "A": "भारत / India",
-      "B": "चीन / China",
-      "C": "रूस / Russia",
-      "D": "अमेरिका / USA"
+      "A": "आइग्नीअस (Igneous) / ज्वालामुखीय और अंतःस्फ़ीयर चट्टानें",
+      "B": "मेटामॉर्फिक (Metamorphic) / रूपांतरित चट्टानें",
+      "C": "सेडिमेंटरी (Sedimentary) / तलछटी चट्टानें",
+      "D": "मिट्टी (Soil) / अपरिवर्तित सतही पदार्थ"
     },
-    "answer": ["B", "C"],
-    "explanation": "चीन और रूस दोनों ने 'मंगल मिशन 2' लॉन्च किया है, जो मंगल ग्रह पर जीवन के संकेतों की खोज के लिए है। / Both China and Russia launched 'Mars Mission 2' aimed at exploring life signs on Mars."
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "आर्थिक खनिज विभिन्न उत्पत्ति प्रक्रियाओं से बनते हैं। मैग्मेटिक/आइग्नीअस प्रक्रियाएँ (पोरफाइर, अल्कलाइन इत्यादि) धातु-समृद्ध धागे और मैगमैटिक बैड्स बनाती हैं; मेटामॉर्फ़िक री-रिचार्ज और रेमोबिलाइज़ेशन से कुछ धातु-कंसेंट्रेशन बनते हैं; सेडिमेंटरी वातावरण (रासायनिक, क्लास्टिक, इवैपोरेट) से भी Phosphorite, BIF, evaporites बनते हैं। मिट्टी/साधारण सतही पदार्थ सामान्यतः आर्थिक 'ओर' नहीं होते। / Economic minerals form in igneous (magmatic), metamorphic (re-mobilized) and sedimentary (chemical/clastic) settings — soil is not a primary host."
   },
   {
     "id": 2,
-    "question": "भारत सरकार ने किस योजना के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा है? / Under which scheme has India set a target of 50 GW solar energy production by 2025?",
+    "question": "प्लैसर (placer) जमा कैसे बनते हैं? / How are placer deposits formed?",
     "options": {
-      "A": "प्रधानमंत्री उज्ज्वला योजना / PM Ujjwala Yojana",
-      "B": "प्रधानमंत्री कुसुम योजना / PM KUSUM Yojana",
-      "C": "राष्ट्रीय सौर मिशन / National Solar Mission",
-      "D": "नमामि गंगे योजना / Namami Gange Yojana"
+      "A": "जल–चालित यांत्रिक सघनकरण (Mechanical concentration by water)",
+      "B": "रासायनिक अभिक्रिया व वर्षा से सीधा उत्पन्न (Chemical precipitation in situ)",
+      "C": "जैविक संचयन (Biological accumulation)",
+      "D": "वुलकैनिक विस्फोट/लावा प्रवाह (Volcanic eruption/lava flow)"
     },
-    "answer": ["B", "C"],
-    "explanation": "प्रधानमंत्री कुसुम योजना और राष्ट्रीय सौर मिशन के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा गया है। / PM KUSUM and National Solar Mission target 50 GW solar energy production by 2025."
+    "answer": [
+      "A"
+    ],
+    "explanation": "प्लैसर जमा तब बनते हैं जब विघटित चट्टानां में उपस्थित भारी, घनत्व-उच्च खनिज (जैसे सोना, हीवी मिनरल सैंड्स) जल-प्रवाह द्वारा अलग होकर तलछट में सघनित हो जाते हैं। यह सॉर्टिंग (density sorting), टर्बुलेंस व ऊर्जा-घटने से होता है — रासायनिक, जैविक या सीधे ज्वालामुखीय प्रक्रियाओं से अलग। / Placers form by water-driven mechanical concentration of dense minerals (e.g., gold, heavy mineral sands) via sorting and deposition."
   },
   {
     "id": 3,
-    "question": "उत्तर प्रदेश सरकार ने किस योजना के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा है? / Under which UP govt scheme is the target to provide employment to 1 lakh youth by 2025?",
+    "question": "निम्न में से कौन-कौन सोने के प्लैसर/बीच सैंड्स में सामान्यतः पाए जाते हैं? / Which of the following commonly occur as placer / beach-sand minerals?",
     "options": {
-      "A": "मुख्यमंत्री युवा स्वरोजगार योजना / CM Yuva Swarojgar Yojana",
-      "B": "मुख्यमंत्री रोजगार सृजन योजना / CM Rozgar Srijan Yojana",
-      "C": "उत्तर प्रदेश कौशल विकास मिशन / UP Skill Development Mission",
-      "D": "उत्तर प्रदेश रोजगार योजना / UP Employment Scheme"
+      "A": "Gold (सोना)",
+      "B": "Ilmenite / Monazite / Rutile (हैवी मिनरल्स — REE/टाइटेनिया आदि)",
+      "C": "Diamond (हीरा)",
+      "D": "Bauxite (बॉक्साइट)"
     },
-    "answer": ["B", "C"],
-    "explanation": "मुख्यमंत्री रोजगार सृजन योजना और UP कौशल विकास मिशन के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा गया है। / CM Rozgar Srijan Yojana and UP Skill Development Mission aim to provide jobs to 1 lakh youth by 2025."
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "प्लैसर या बीच–सैंड्स में भारी, घनत्व-उच्च खनिज जमा होते हैं — सोना (placer), हीरा (आमतौर पर प्राथमिक किम्बरलाइट के बाद सेकेंडरी ऑलुवियल), और हैवी-minerals (Ilmenite, Rutile, Monazite) जो तटस्थ-प्रवाह व तरंग क्रिया से सॉर्ट होते हैं। बॉक्साइट सामान्यतः लेटराइट/रिसिडुअल प्रोफाइल में पाया जाता है, प्लैसर में नहीं। / Placer/beach sands concentrate dense minerals: gold, diamond (secondary alluvium), and heavy minerals (ilmenite, monazite); bauxite is lateritic, not placer."
   },
   {
     "id": 4,
-    "question": "हाल ही में किस देश ने 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं? / Which entity recently signed international treaty on AI?",
+    "question": "बॉक्साइट (bauxite) बनने की प्रमुख प्रक्रियाएँ कौन–सी हैं? / Which processes chiefly form bauxite?",
     "options": {
-      "A": "भारत / India",
-      "B": "अमेरिका / USA",
-      "C": "जापान / Japan",
-      "D": "संयुक्त राष्ट्र / United Nations"
+      "A": "लेटरिटाइजेशन (Lateritisation / intense chemical weathering)",
+      "B": "कार्स्टिक अवशेष/रिसिडुअल (Karstic / residual concentration over limestone)",
+      "C": "यांत्रिक निक्षेप (Mechanical deposition / placer)",
+      "D": "हाइड्रोथर्मल निक्षेप (Hydrothermal deposition)"
     },
-    "answer": ["D"],
-    "explanation": "संयुक्त राष्ट्र ने हाल ही में AI पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं। / United Nations recently signed an international treaty on AI to prevent misuse."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "बॉक्साइट सामान्यतः उच्च वर्षा-वायु वाले उष्णकटिबंधीय/उप-उष्णकटिबंधीय क्षेत्रों में तीव्र रासायनिक अपक्षय (lateritisation) से बनता है। इसके अलावा कुछ बॉक्साइट्स कार्बोनेटिक बेस के ऊपर रिसिडुअल/कार्स्टिक प्रोसेस से भी जुड़े होते हैं। यांत्रिक प्लेसर या हाइड्रोथर्मल उत्पत्ति बॉक्साइट के सामान्य कारण नहीं हैं। / Bauxite is formed mainly by intense chemical weathering (lateritisation); some are residual/karstic over carbonate rocks. Not typically placer or hydrothermal."
   },
   {
     "id": 5,
-    "question": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान कब शुरू किया गया था? / When was 'Swachhta Hi Seva' campaign started in UP?",
+    "question": "लोह-अयस्क (iron ores) में से कौन–से प्रकार पारंपरिक रूप से उच्च-लौह (high-grade) माने जाते हैं? / Which iron ore types are traditionally considered high-grade?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "Hematite (हीमटाइट)",
+      "B": "Magnetite (मैग्नेटाइट)",
+      "C": "Limonite (लाइमोनाइट)",
+      "D": "Siderite (साइडराइट)"
     },
-    "answer": ["B"],
-    "explanation": "UP में 'स्वच्छता ही सेवा' अभियान 2019 में शुरू किया गया था। / 'Swachhta Hi Seva' campaign in UP started in 2019."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "हीमटाइट (Fe₂O₃) आमतौर पर प्राकृतिक रूप से उच्च लौह-सामग्री (उदा. ~58%+ Fe) देकर सीधे इस्तेमाल के काबिल है; मैग्नेटाइट (Fe₃O₄) का सैद्धांतिक Fe प्रतिशत उच्च है और इसे चुंबकीय अलगाव से उच्च-केंद्रित किया जा सकता है। लाइमोनाइट और साइडराइट में आम तौर पर मिश्रित पानी/कार्बोनेट/घटित Fe होता है, इसलिए वे कम-ग्रेड या अधिक संसाधन-आवश्यक होते हैं। / Hematite and magnetite are principal high-grade ores (hematite often directly high Fe; magnetite upgradeable by magnetic separation); limonite/siderite are lower grade."
   },
   {
     "id": 6,
-    "question": "भारत और बांग्लादेश के बीच हाल ही में किस पर सीमा विवाद खत्म हुआ? / India and Bangladesh recently resolved dispute over?",
+    "question": "भारत में लोह-खनिज (iron ore) के प्रमुख उत्पादन क्षेत्र कौन–से हैं? / Which are major iron-ore producing regions in India?",
     "options": {
-      "A": "पंचपुरी द्वीप / Panchpuri Island",
-      "B": "सदरहाट / Sadarhat",
-      "C": "महाली / Mahali",
-      "D": "संडर्स द्वीप / Sanders Island"
+      "A": "Odisha (ओडिशा)",
+      "B": "Jharkhand (झारखंड)",
+      "C": "Karnataka (कर्नाटक)",
+      "D": "Rajasthan (राजस्थान)"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत और बांग्लादेश ने पंचपुरी और सदरहाट इलाके पर सीमा विवाद हल किया। / India and Bangladesh resolved border dispute over Panchpuri and Sadarhat regions."
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "भारत में आयरण-बैंड/भंडार मुख्यतः ओडिशा, झारखंड, छत्तीसगढ़, कर्नाटक और गोवा जैसे इलाकों में गहन हैं। राजस्थान में कुछ लौह-अयस्क का वितरण है पर उत्पादन का केंद्र उपर्युक्त तीन राज्यों के साथ कम-प्रभावी है। / Major Indian iron-ore producers: Odisha, Jharkhand, Chhattisgarh, Karnataka, Goa — Rajasthan less significant comparatively."
   },
   {
     "id": 7,
-    "question": "भारत में हाल ही में कौन सा राज्य 'सुपर 30 तकनीकी शिक्षा' योजना शुरू करने वाला पहला राज्य बना? / Which Indian state became first to start 'Super 30 Technical Education' scheme?",
+    "question": "Chromite (क्रोमाइट) आमतौर पर किस प्रकार के चट्टानी सेटिंग से जुड़ा होता है? / Chromite is commonly associated with which rock types?",
     "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "बिहार / Bihar",
-      "C": "मध्य प्रदेश / Madhya Pradesh",
-      "D": "राजस्थान / Rajasthan"
+      "A": "Ultramafic / Peridotite complexes (अल्ट्रामैफिक)",
+      "B": "Banded Iron Formations (BIF)",
+      "C": "Carbonatites",
+      "D": "Pegmatites"
     },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश ने 'सुपर 30 तकनीकी शिक्षा' योजना शुरू की। / Uttar Pradesh initiated 'Super 30 Technical Education' scheme."
+    "answer": [
+      "A"
+    ],
+    "explanation": "क्रोमाइट प्राथमिक रूप से अल्ट्रामैफिक/ओफियोलाइटिक परिसर और अपेक्षाकृत मैग्मैटिक परिघटनाओं (पेरिडोटाइट/लहसन) के साथ जुड़ा होता है। BIF, कार्बोनेटाइट और पेग्मेटाइट क्रोमाइट के सामान्य-प्राथमिक होस्ट नहीं हैं। / Chromite is typically hosted in ultramafic complexes (peridotites/serpentinized ophiolites), not in BIF/carbonatite/pegmatite generally."
   },
   {
     "id": 8,
-    "question": "UP में हाल ही में किस जिले को 'स्मार्ट सिटी मिशन' में शामिल किया गया है? / Which district of UP was recently included in Smart City Mission?",
+    "question": "Manganese (मैंगनीज़) जमा भारत में मुख्यतः किस भूवैज्ञानिक सेटिंग में पाए जाते हैं? / In which geological settings are manganese deposits in India mainly found?",
     "options": {
-      "A": "लखनऊ / Lucknow",
-      "B": "कानपुर / Kanpur",
-      "C": "मेरठ / Meerut",
-      "D": "वाराणसी / Varanasi"
+      "A": "Sedimentary chemical deposits / Carbonate and chemical sediments",
+      "B": "Metamorphosed ferruginous shales / Banded deposits",
+      "C": "Lateritic profiles",
+      "D": "Evaporites"
     },
-    "answer": ["C", "D"],
-    "explanation": "UP के मेरठ और वाराणसी जिले को स्मार्ट सिटी मिशन में शामिल किया गया है। / Meerut and Varanasi in UP included in Smart City Mission."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "मैंगनीज़ के कई भारतीय जमे sedimentary-chemical प्रकार के हैं (e.g., औरीज़ोनल/सिलिकिक-कार्बोनेटेड सेटिंग्स) और दूसरे कुछ metamorphosed ferruginous शेल/बैंडेड रूप में मिलते हैं। लेटराइटिक प्रोफाइल कम सामान्य स्रोत हैं; इवैपोरेट्स भी सामान्य नहीं। / Indian manganese occurs largely as sedimentary/chemical deposits and as metamorphosed ferruginous (banded) types."
   },
   {
     "id": 9,
-    "question": "अंतरराष्ट्रीय मुद्रा कोष (IMF) ने भारत के 2025-26 के GDP वृद्धि का अनुमान क्या रखा है? / What is IMF's projected GDP growth for India 2025-26?",
+    "question": "निम्न में से कौन–से गैर-धात्वी (non-metallic) खनिज हैं? / Which of the following are non-metallic minerals?",
     "options": {
-      "A": "6.5%",
-      "B": "6.8%",
-      "C": "7.0%",
-      "D": "7.2%"
+      "A": "Limestone (चूना पत्थर)",
+      "B": "Gypsum (जिप्सम)",
+      "C": "Mica (माइका)",
+      "D": "Iron ore (लोह-खनिज)"
     },
-    "answer": ["B", "C"],
-    "explanation": "IMF ने भारत के लिए 2025-26 में GDP वृद्धि 6.8% से 7% अनुमानित की है। / IMF projected India's GDP growth at 6.8%-7% for 2025-26."
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Limestone, Gypsum और Mica सामान्य तौर पर non-metallic खनिजों में आते हैं और औद्योगिक/निर्माण/इन्सुलेशन उपयोगों के लिए महत्वपूर्ण हैं। Iron ore धात्वी (metallic) श्रेणी में आता है। / Limestone, gypsum and mica are non-metallic industrial minerals; iron ore is metallic."
   },
   {
     "id": 10,
-    "question": "UP सरकार ने हाल ही में किस योजना के तहत महिला स्वरोजगार बढ़ाने की घोषणा की? / Under which UP govt scheme is women entrepreneurship promoted?",
+    "question": "खनिज अयस्क के संकेंद्रण (ore concentration) में निम्न में से कौन–से सामान्यतः उपयोग होते हैं? / Which methods are commonly used for ore concentration?",
     "options": {
-      "A": "मुख्यमंत्री महिला सशक्तिकरण योजना / CM Women Empowerment Scheme",
-      "B": "उत्तर प्रदेश महिला स्वरोजगार योजना / UP Women Self-Employment Scheme",
-      "C": "प्रधानमंत्री मुद्रा योजना / PM Mudra Yojana",
-      "D": "राष्ट्रीय कौशल विकास मिशन / NSDM"
+      "A": "Froth flotation (फ्रोथ फ्लोटेशन)",
+      "B": "Magnetic separation (चुंबकीय पृथक्करण)",
+      "C": "Heap leaching / In-situ leaching (हीप-लीचिंग / सोल्यूशन मेथड)",
+      "D": "Fractional distillation (भिन्न-वाष्पीकरण)"
     },
-    "answer": ["A", "B"],
-    "explanation": "UP सरकार ने महिलाओं के स्वरोजगार के लिए CM महिला सशक्तिकरण योजना और UP महिला स्वरोजगार योजना लागू की हैं। / UP govt launched CM Women Empowerment & UP Women Self-Employment schemes for promoting women entrepreneurship."
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "फ्रोथ फ्लोटेशन सुक्ष्म सल्फ़ाइड/नॉनफेरस अयस्कों के लिए; चुंबकीय पृथक्करण मैग्नेटाइट जैसे चुंबकीय खनिजों के लिए; हीप-लीचिंग हेमेटिक/गोल्ड रीसोर्सेज के लिए इस्तेमाल की जाती है। Fractional distillation सामान्यतः धात्विक अयस्क-संकेंद्रण की तकनीक नहीं है — वह द्रवों के पृथक्करण हेतु है। / Flotation, magnetic separation and heap leaching are common; fractional distillation is not an ore-concentration method."
   },
   {
     "id": 11,
-    "question": "उत्तर प्रदेश सरकार ने हाल ही में किस योजना के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा है? / Under which UP government scheme is the target to provide employment to 1 lakh youth by 2025?",
+    "question": "लेटराइट वेदरिंग से कौन–से खनिज/धातु प्राप्त हो सकते हैं? / Which minerals/metals can form by lateritic weathering?",
     "options": {
-      "A": "मुख्यमंत्री युवा स्वरोजगार योजना (CM Youth Self-Employment Scheme)",
-      "B": "मुख्यमंत्री रोजगार सृजन योजना (CM Employment Generation Scheme)",
-      "C": "उत्तर प्रदेश कौशल विकास मिशन (UP Skill Development Mission)",
-      "D": "उत्तर प्रदेश रोजगार योजना (UP Employment Scheme)"
+      "A": "Bauxite (बॉक्साइट / Aluminium source)",
+      "B": "Nickel laterites (निकेल लेटराइट)",
+      "C": "Gold (सोना)",
+      "D": "Kaolin (कायोलिन / china clay)"
     },
-    "answer": ["B", "C"],
-    "explanation": "मुख्यमंत्री रोजगार सृजन योजना और उत्तर प्रदेश कौशल विकास मिशन दोनों ही योजनाओं के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा गया है। यह योजना युवा कौशल विकास और स्वरोजगार के अवसर बढ़ाने पर केंद्रित है। / Both CM Employment Generation Scheme and UP Skill Development Mission aim to provide employment to 1 lakh youth by 2025, focusing on skill development and self-employment opportunities."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "तेज रासायनिक अपक्षय (lateritisation) से bauxite और कुछ परिस्थितियों में nickel-laterite profiles बनते हैं। सोना आमतौर पर प्लैसर/हाइड्रोथर्मल प्रक्रियाओं में आता है; kaolin फ्लाय-आउट/फेल्डस्पार के हाइड्रोलिसिस द्वारा बनता है और वह विशेष रूप से लेटराइट प्रोफाइल नहीं है। / Lateritisation produces bauxite and nickel-laterites; gold is typically placer/hydrothermal, kaolin forms by feldspar weathering but not classic laterite."
   },
   {
     "id": 12,
-    "question": "भारत और बांग्लादेश के बीच हाल ही में किस क्षेत्र पर सीमा विवाद खत्म हुआ? / India and Bangladesh recently resolved dispute over which region?",
+    "question": "अण्डरग्राउंड खनन के कौन–से सामान्य तरीके हैं? / Which are common underground mining methods?",
     "options": {
-      "A": "पंचपुरी द्वीप (Panchpuri Island)",
-      "B": "सदरहाट (Sadarhat)",
-      "C": "महाली (Mahali)",
-      "D": "संडर्स द्वीप (Sanders Island)"
+      "A": "Room and pillar (रूम एंड पिलर)",
+      "B": "Longwall (लॉंगवाल)",
+      "C": "Open-pit / Open-cast (ओपन-पिट)",
+      "D": "Block caving (ब्लॉक-केविंग)"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत और बांग्लादेश ने पंचपुरी और सदरहाट इलाके पर सीमा विवाद को हल किया। यह सीमा समझौता दोनों देशों के बीच अच्छे संबंध और सुरक्षा सहयोग को बढ़ावा देता है। / India and Bangladesh resolved the border dispute over Panchpuri and Sadarhat regions, promoting bilateral relations and security cooperation."
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Room-and-pillar, Longwall (विशेषकर कोयला के लिए) तथा Block-caving गहरी/अण्डरग्राउंड खानों के प्रमुख तरीके हैं। Open-pit या open-cast सतही खनन की विधि है, अण्डरग्राउंड नहीं। / Room-and-pillar, longwall and block caving are underground methods; open-pit is surface mining."
   },
   {
     "id": 13,
-    "question": "अंतरराष्ट्रीय मुद्रा कोष (IMF) ने भारत के 2025-26 के GDP वृद्धि का अनुमान क्या रखा है? / What is IMF's projected GDP growth for India 2025-26?",
+    "question": "Heavy-mineral / beach sand deposits के बारे में सही कौन–से कथन हैं? / Which statements about heavy-mineral / beach sand deposits are true?",
     "options": {
-      "A": "6.5%",
-      "B": "6.8%",
-      "C": "7.0%",
-      "D": "7.2%"
+      "A": "वे Ilmenite, Rutile और Monazite जैसे मिनरल्स रखते हैं (REE स्रोत)।",
+      "B": "वे तरंगों व तटीय प्रवाह द्वारा छँटे और सघनित होते हैं (wave/current sorting).",
+      "C": "वे प्राथमिक मैग्मैटिक पत्ती (primary magmatic) ही होते हैं।",
+      "D": "ये rare-earth और टाइटेनियम संसाधनों के स्रोत बन सकते हैं।"
     },
-    "answer": ["B", "C"],
-    "explanation": "IMF ने भारत के लिए 2025-26 में GDP वृद्धि 6.8% से 7% अनुमानित की है। यह अनुमान वैश्विक आर्थिक परिस्थितियों, घरेलू निवेश और उत्पादन में सुधार के आधार पर किया गया है। / IMF projects India's GDP growth at 6.8%-7% for 2025-26, considering global economic conditions, domestic investment, and production improvements."
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "बीच/हैवी-मिनरल सँड्स समुद्री तटों पर तरंग और प्रवाह क्रिया से भरे-भटके और सघनित होते हैं, और Ilmenite/Rutile/Monazite जैसी भारी अयस्क पदार्थों का भंडार होते हैं — जो REE और Ti स्रोत बनते हैं। ये प्राथमिक मैग्मैटिक निक्षेप नहीं होते बल्कि सेकेंडरी प्लैसर–टाइप कंसंट्रेशन हैं। / Heavy-mineral sands (ilmenite, rutile, monazite) are wave-sorted placer accumulations and REE/Ti sources — not primary magmatic deposits."
   },
   {
     "id": 14,
-    "question": "UP सरकार ने हाल ही में किस योजना के तहत महिला स्वरोजगार बढ़ाने की घोषणा की? / Under which UP government scheme is women entrepreneurship promoted?",
+    "question": "Aluminium के मुख्य कच्चे माल और उसके उत्पादन प्रक्रिया की सही श्रेणी क्या है? / What is the principal raw material for aluminium and the correct production sequence?",
     "options": {
-      "A": "मुख्यमंत्री महिला सशक्तिकरण योजना (CM Women Empowerment Scheme)",
-      "B": "उत्तर प्रदेश महिला स्वरोजगार योजना (UP Women Self-Employment Scheme)",
-      "C": "प्रधानमंत्री मुद्रा योजना (PM Mudra Yojana)",
-      "D": "राष्ट्रीय कौशल विकास मिशन (National Skill Development Mission)"
+      "A": "Raw: Bauxite → Process: Bayer (alumina) → Hall–Héroult (electrolytic smelting)",
+      "B": "Raw: Hematite → Rotary kiln → Smelting",
+      "C": "Raw: Laterite iron → Hydrometallurgy → Electrolysis",
+      "D": "Raw: Kaolin → Direct electrolysis → Aluminium"
     },
-    "answer": ["A", "B"],
-    "explanation": "UP सरकार ने महिलाओं के स्वरोजगार के लिए CM महिला सशक्तिकरण योजना और UP महिला स्वरोजगार योजना लागू की हैं। ये योजनाएं महिलाओं को स्वरोजगार और वित्तीय स्वतंत्रता प्रदान करने पर केंद्रित हैं। / UP govt launched CM Women Empowerment & UP Women Self-Employment schemes to promote women's entrepreneurship and financial independence."
+    "answer": [
+      "A"
+    ],
+    "explanation": "अल्युमिनियम का मुख्य कच्चा माल बॉक्साइट है; बॉक्साइट को Bayer प्रक्रिया से alumina (Al₂O₃) में बदला जाता है, और फिर Hall–Héroult electrolytic cell में पिघला कर धातु एल्यूमिनियम निकाला जाता है। Hematite/kaolin आदि संबंधित नहीं हैं। / Bauxite → Bayer (alumina) → Hall–Héroult (electrolysis) is the correct aluminium production route."
   },
   {
     "id": 15,
-    "question": "हाल ही में किस देश ने 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं? / Which entity recently signed international treaty on AI?",
+    "question": "Porphyry-copper deposits की विशिष्टताएँ कौन–सी हैं? / What characterizes porphyry copper deposits?",
     "options": {
-      "A": "भारत (India)",
-      "B": "अमेरिका (USA)",
-      "C": "जापान (Japan)",
-      "D": "संयुक्त राष्ट्र (United Nations)"
+      "A": "Large tonnage, generally low–to–moderate grade (high tonnage low grade)",
+      "B": "Associated with felsic to intermediate intrusions (porphyries)",
+      "C": "Usually very small, high-grade veins only",
+      "D": "Commonly amenable to open-pit mining"
     },
-    "answer": ["D"],
-    "explanation": "संयुक्त राष्ट्र ने हाल ही में 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं, जिसका उद्देश्य AI के दुरुपयोग को रोकना और वैश्विक मानक तय करना है। / United Nations signed an international AI treaty to prevent misuse and set global standards."
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Porphyry copper deposits बड़े परिमाण पर फैलते हैं लेकिन आमतौर पर निम्न से मध्यम ग्रेड के होते हैं; ये felsic–intermediate intrusive systems के साथ जुड़े होते हैं और बड़े पैमाने पर open-pit तरीके से निकाले जाते हैं। वे छोटे, उच्च-ग्रेड केवल-रूप में नहीं होते। / Porphyry deposits are large, low–moderate grade, related to porphyritic intrusions and often mined by open-pit methods."
   },
   {
     "id": 16,
-    "question": "भारत सरकार ने किस योजना के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा है? / Under which scheme India targets 50 GW solar energy production by 2025?",
+    "question": "स्टील निर्माण में फ़्लक्स (flux) के रूप में कौन–से खनिज प्रयुक्त होते हैं? / Which minerals are used as fluxes in steelmaking?",
     "options": {
-      "A": "प्रधानमंत्री उज्ज्वला योजना (PM Ujjwala Yojana)",
-      "B": "प्रधानमंत्री कुसुम योजना (PM KUSUM Yojana)",
-      "C": "राष्ट्रीय सौर मिशन (National Solar Mission)",
-      "D": "नमामि गंगे योजना (Namami Gange Yojana)"
+      "A": "Limestone (चूना पत्थर)",
+      "B": "Dolomite (डोलोमाइट)",
+      "C": "Quartz / Silica (क्वार्ट्ज)",
+      "D": "Bauxite (बॉक्साइट)"
     },
-    "answer": ["B", "C"],
-    "explanation": "प्रधानमंत्री कुसुम योजना और राष्ट्रीय सौर मिशन के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा गया है। यह भारत की हरित ऊर्जा और स्वच्छ ऊर्जा लक्ष्यों को प्राप्त करने में मदद करता है। / PM KUSUM & National Solar Mission target 50 GW solar energy by 2025, supporting India’s green energy goals."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "स्टील-फायर्स (blast furnaces/steelmaking) में Limestone और Dolomite को flux के रूप में उपयोग किया जाता है ताकि सिलिका/अशुद्धियाँ स्कलाग (slag) में जुड़कर हटाई जा सकें। Quartz सामान्यतः flux नहीं है; Bauxite अल्युमीनियम-उत्पादन कच्चामल है, स्टील फ्लक्स नहीं। / Limestone and dolomite act as fluxes to form slag and remove impurities during steelmaking."
   },
   {
     "id": 17,
-    "question": "UP में हाल ही में किस जिले को 'स्मार्ट सिटी मिशन' में शामिल किया गया है? / Which district of UP was recently included in Smart City Mission?",
+    "question": "बैटरी व इलेक्ट्रॉनिक्स के लिए कौन–से खनिज महत्वपूर्ण हैं? / Which minerals are important for batteries and electronics?",
     "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "कानपुर (Kanpur)",
-      "C": "मेरठ (Meerut)",
-      "D": "वाराणसी (Varanasi)"
+      "A": "Lithium (लिथियम)",
+      "B": "Cobalt (कोबाल्ट)",
+      "C": "Manganese (मैंगनीज़)",
+      "D": "Copper (ताम्बा)"
     },
-    "answer": ["C", "D"],
-    "explanation": "UP के मेरठ और वाराणसी जिले को स्मार्ट सिटी मिशन में शामिल किया गया है। यह नागरिक सुविधाओं, डिजिटल इंफ्रास्ट्रक्चर और शहरी विकास को बढ़ावा देता है। / Meerut and Varanasi included in Smart City Mission to enhance urban facilities and digital infrastructure."
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "आधुनिक बैटरियों (Li-ion) में Lithium, cobalt, manganese जैसे तत्व सक्रिय घटक हैं; Copper व्यापक रूप से विद्युत कंडक्शन/कंटैक्ट के लिए आवश्यक है। इसलिए सभी दिए गए खनिज बैटरी/इलेक्ट्रॉनिक्स चेन में महत्वपूर्ण भूमिका निभाते हैं। / Lithium, cobalt, manganese are active battery materials; copper is critical for electrical conduction — all are important."
   },
   {
     "id": 18,
-    "question": "भारत में हाल ही में कौन सा राज्य 'सुपर 30 तकनीकी शिक्षा' योजना शुरू करने वाला पहला राज्य बना? / Which Indian state first started 'Super 30 Technical Education' scheme?",
+    "question": "Froth flotation का प्रयोग सामान्यतः किस प्रकार के अयस्कों के लिए किया जाता है? / Froth flotation is commonly used for which ore types?",
     "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "बिहार (Bihar)",
-      "C": "मध्य प्रदेश (Madhya Pradesh)",
-      "D": "राजस्थान (Rajasthan)"
+      "A": "Sulphide ores (e.g., chalcopyrite, sphalerite) / सल्फ़ाइड अयस्क",
+      "B": "Graphite (ग्राफाइट)",
+      "C": "Garnet (गरनेट)",
+      "D": "Hematite (हीमटाइट) — coarse, lump"
     },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश ने 'सुपर 30 तकनीकी शिक्षा' योजना शुरू की, जिसका उद्देश्य आर्थिक रूप से कमजोर छात्रों को उच्च तकनीकी शिक्षा में अवसर प्रदान करना है। / Uttar Pradesh started 'Super 30 Technical Education' scheme to provide opportunities in technical education to underprivileged students."
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Froth flotation मुख्यतः सूक्ष्म-प्रकार के सल्फ़ाइड अयस्कों (चाल्कोर्पाइट, स्पैलेराइट आदि) के अलगाव के लिए इस्तेमाल होती है; इसके अलावा कुछ non-sulfide जैसे ग्राफाइट का भी फ्लोटेशन होता है। हीमटाइट के भूस्पष्ट बड़ों को अक्सर चुंबकीय/गुरुत्व पृथक्करण से अलग किया जाता है। / Flotation targets sulphide ores and some non-sulfide minerals (e.g., graphite); coarse hematite often uses magnetic/gravity methods."
   },
   {
     "id": 19,
-    "question": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान कब शुरू किया गया था? / When was 'Swachhta Hi Seva' campaign started in UP?",
+    "question": "अयस्क-वितरण की उत्पत्ति के अनुसार श्रेणीकरण में कौन–से प्रकार आते हैं? / Which deposit origins are valid classifications by genesis?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "Magmatic (मैग्मेटिक)",
+      "B": "Hydrothermal (हाइड्रोथर्मल)",
+      "C": "Sedimentary (सेडिमेंटरी / रिकॉर्डेड)",
+      "D": "Metamorphic (मेटामॉर्फिक)"
     },
-    "answer": ["B"],
-    "explanation": "UP में 'स्वच्छता ही सेवा' अभियान 2019 में शुरू किया गया था। इसका उद्देश्य राज्य में स्वच्छता और जागरूकता को बढ़ावा देना है। / 'Swachhta Hi Seva' campaign in UP started in 2019 to promote cleanliness awareness."
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "अयस्कों को उनके उत्पत्ति-तंत्र के अनुसार वर्गीकृत किया जाता है — मैग्मेटिक (magmatic segregation), हाइड्रोथर्मल वेन्स/सिस्टम, सेडिमेंटरी (chemical/biogenic) और मेटामॉर्फिक प्रक्रियाएँ — ये सभी व्यावहारिक और व्यापक श्रेणियाँ हैं। / Magmatic, hydrothermal, sedimentary and metamorphic origins are all standard deposit types."
   },
   {
     "id": 20,
-    "question": "भारत के हाल ही में किस अंतरराष्ट्रीय समझौते में शामिल होने के बाद कार्बन उत्सर्जन कम करने की प्रतिबद्धता बढ़ी है? / Which international agreement recently India joined enhancing carbon emission reduction commitment?",
+    "question": "हीरा (diamond) की प्राकृत उत्पत्ति के बारे में कौन–से कथन सही हैं? / Which statements about diamond formation are true?",
     "options": {
-      "A": "पेरिस समझौता (Paris Agreement)",
-      "B": "क्योटो प्रोटोकॉल (Kyoto Protocol)",
-      "C": "मॉन्ट्रियल प्रोटोकॉल (Montreal Protocol)",
-      "D": "स्टॉकहोम कन्वेंशन (Stockholm Convention)"
+      "A": "हीरा ज्यादातर मेंटल में क्रिस्टलाइज़ होते हैं और किम्बर्लाइट/लैम्पराइट माध्यम से सतह पर आते हैं।",
+      "B": "हीरे सतह पर जैविक प्रक्रियाओं से बनते हैं।",
+      "C": "सभी हीरे केवल किम्बर्लाइट पाइप्स में पाए जाते हैं।",
+      "D": "हीरे सेकेंडरी ऑलुवियल/प्लैसर कंसंट्रेशन में भी पाए जाते हैं।"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत ने पेरिस समझौते और क्योटो प्रोटोकॉल के तहत कार्बन उत्सर्जन कम करने की अपनी प्रतिबद्धता बढ़ाई है। यह वैश्विक जलवायु परिवर्तन से निपटने में योगदान देता है। / India strengthened carbon emission reduction commitments under Paris Agreement & Kyoto Protocol, contributing to global climate change mitigation."
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "Diamonds form at high pressures in the mantle and are transported rapidly to surface via kimberlite/lamproite eruptions (primary). बाद में वे मैकमेटिक्स/रिवर/बीच प्रक्रियाओं से टूटकर सेकेंडरी alluvial/placer deposits में सघनित हो जाते हैं। वे सतही जैविक प्रक्रियाओं से नहीं बनते और न ही सिर्फ़ kimberlite में ही सीमित हैं (lamproite भी स्रोत है)। / Diamonds crystallize in mantle and are transported by kimberlite/lamproite; they also occur in secondary alluvial placers."
   },
   {
     "id": 21,
-    "question": "हाल ही में किस देश ने 'मंगल मिशन 2' लॉन्च किया है?",
+    "question": "निम्न में से कौन–से खनिज/लौह तत्व अक्सर आइग्नीअस/इंट्रूसीव सेटिंग्स से जुड़े होते हैं? / Which minerals/metals are commonly associated with igneous intrusive settings?",
     "options": {
-      "A": "भारत",
-      "B": "चीन",
-      "C": "रूस",
-      "D": "अमेरिका"
+      "A": "Copper (porphyry-type) / ताम्बा (पोरफाइर)",
+      "B": "Chromite (क्रोमाइट) — ultramafic bodies",
+      "C": "Platinum-group elements (PGE) — mafic/ultramafic intrusions",
+      "D": "Bauxite (बॉक्साइट)"
     },
-    "answer": ["B", "C"],
-    "explanation": "चीन और रूस दोनों ने 'मंगल मिशन 2' लॉन्च किया है, जो मंगल ग्रह पर जीवन के संकेतों की खोज के लिए है।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Porphyry copper deposits जुड़ी intrusive प्रणालियों के साथ होते हैं; Chromite अल्ट्रामैफिक intrusive में सामान्य है; PGE भी विशेष रूप से mafic/ultramafic intrusions (Bushveld-type) से जुड़ी होती हैं। Bauxite अधिकतर वैदरिंग/रेसिडुअल प्रक्रियाओं से बनती है, intrusive से नहीं। / Copper (porphyry), chromite (ultramafic) and PGEs (mafic/ultramafic intrusions) are igneous-associated; bauxite is lateritic."
   },
   {
     "id": 22,
-    "question": "भारत सरकार ने किस योजना के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा है?",
+    "question": "Resource और Reserve में क्या अंतर है? कौन–से कथन सही हैं? / What is the difference between resource and reserve? Which statements are correct?",
     "options": {
-      "A": "प्रधानमंत्री उज्ज्वला योजना",
-      "B": "प्रधानमंत्री कुसुम योजना",
-      "C": "राष्ट्रीय सौर मिशन",
-      "D": "नमामि गंगे योजना"
+      "A": "Resource = किसी खनिज का कुल संभावित मात्रा (all occurrences irrespective of economic feasibility).",
+      "B": "Reserve = आर्थिक रूप से निकाले जाने योग्य वह हिस्सा (economically recoverable portion).",
+      "C": "Resource और Reserve हमेशा समान होते हैं।",
+      "D": "Proven और Probable reserve श्रेणियाँ रिज़र्व के अंदर आती हैं।"
     },
-    "answer": ["B", "C"],
-    "explanation": "प्रधानमंत्री कुसुम योजना और राष्ट्रीय सौर मिशन के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा गया है।"
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Resource कुल भौगोलिक/भंडार-सांद्रता को दर्शाता है, चाहे वह आर्थिक रूप से निकाले योग्य हो या न हो; Reserve वही भाग है जो प्रौद्योगिकी एवं आर्थिक शर्तों के तहत निकाला जा सकता है (proven/probable आदि श्रेणियाँ)। Resource और Reserve समान नहीं होते। / Resource = total in-place; Reserve = economically recoverable (proven/probable are reserve categories)."
   },
   {
     "id": 23,
-    "question": "उत्तर प्रदेश सरकार ने किस योजना के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा है?",
+    "question": "हाइड्रोथर्मल वेंस (hydrothermal veins) सामान्यतः किन–किन धातुओं/खनिजों का स्रोत होते हैं? / Hydrothermal veins commonly host which metals/minerals?",
     "options": {
-      "A": "मुख्यमंत्री युवा स्वरोजगार योजना",
-      "B": "मुख्यमंत्री रोजगार सृजन योजना",
-      "C": "उत्तर प्रदेश कौशल विकास मिशन",
-      "D": "उत्तर प्रदेश रोजगार योजना"
+      "A": "Gold (सोना)",
+      "B": "Silver (चाँदी)",
+      "C": "Copper (ताम्बा)",
+      "D": "Coal (कोयला)"
     },
-    "answer": ["B", "C"],
-    "explanation": "मुख्यमंत्री रोजगार सृजन योजना और उत्तर प्रदेश कौशल विकास मिशन के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा गया है।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Hydrothermal systems में गरम, धातु-समृद्ध तरल वेन्स/वेंट्स बनाते हैं जिनमें gold, silver, copper जैसी धातुएँ सामान्यतः संकेंद्रित होती हैं। Coal ऑर्गेनिक सेडिमेंटरी प्रक्रियाओं से बनता है, हाइड्रोथर्मल वेन्स से नहीं। / Hydrothermal veins are major hosts for gold, silver, copper; coal is sedimentary organic."
   },
   {
     "id": 24,
-    "question": "हाल ही में किस देश ने 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं?",
+    "question": "उर्वरक (fertilizer) के लिए प्राथमिक खनिज स्रोत कौन–से हैं? / Which minerals are primary sources for fertilizers?",
     "options": {
-      "A": "भारत",
-      "B": "अमेरिका",
-      "C": "जापान",
-      "D": "संयुक्त राष्ट्र"
+      "A": "Rock phosphate / Phosphorite (फॉस्फेट शिलाएं)",
+      "B": "Potash (K salts — पोटाश / K)",
+      "C": "Gypsum (जिप्सम)",
+      "D": "Graphite (ग्राफाइट)"
     },
-    "answer": ["D"],
-    "explanation": "संयुक्त राष्ट्र ने हाल ही में 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं, जिसका उद्देश्य AI के दुरुपयोग को रोकना है।"
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "फॉस्फेट रॉक (P) और पोटाश (K — sylvite, carnallite, kainite आदि) उर्वरकों के मूल खनिज स्रोत हैं। Gypsum अक्सर soil amendment/secondary fertilizer की तरह उपयोग होता है (Ca source), पर प्राथमिक NPK घटक नहीं है; Graphite उर्वरक नहीं है। / Rock phosphate (P) and potash (K) are primary fertilizer minerals; gypsum is an amendment (Ca), graphite is not a fertilizer."
   },
   {
     "id": 25,
-    "question": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान कब शुरू किया गया था?",
+    "question": "Sulphide concentrates को स्मेल्टिंग से कौन–से धातु पुन:प्राप्त किए जाते हैं? / Which metals are typically recovered by smelting sulphide concentrates?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "Copper (ताम्बा)",
+      "B": "Lead (सीसा)",
+      "C": "Zinc (जस्ता)",
+      "D": "Aluminium (एल्यूमिनियम)"
     },
-    "answer": ["B"],
-    "explanation": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान 2019 में शुरू किया गया था, जिसका उद्देश्य राज्य में स्वच्छता को बढ़ावा देना है।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "सल्फ़ाइड concentrates (जैसे chalcopyrite, galena, sphalerite) को फ्लोटेशन/कंसंट्रेट के बाद स्मेल्ट/रिफाइन कर के copper, lead, zinc जैसी धातुएँ निकाली जाती हैं। Aluminium के लिए अलग Bayer + Hall–Héroult मार्ग है; यह सल्फ़ाइड स्मेल्टिंग से नहीं आता। / Copper, lead and zinc are commonly smelted from sulphide concentrates; aluminium requires bauxite-alumina-electrolysis route."
   },
   {
     "id": 26,
-    "question": "भारत और बांग्लादेश के बीच हाल ही में किस पर सीमा विवाद खत्म हुआ?",
+    "question": "खनन के पर्यावरणीय प्रभावों में कौन–से शामिल हैं? / Which of the following are environmental impacts of mining?",
     "options": {
-      "A": "पंचपुरी द्वीप",
-      "B": "सदरहाट",
-      "C": "महाली",
-      "D": "संडर्स द्वीप"
+      "A": "Acid Mine Drainage (अम्लीय खदान जल)",
+      "B": "Habit loss and land degradation (आवास विनाश और लैंड डिग्रेडेशन)",
+      "C": "Airborne dust and particulate pollution (धूल प्रदूषण)",
+      "D": "Agricultural yield increase in mining sites"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत और बांग्लादेश ने पंचपुरी और सदरहाट इलाके पर सीमा विवाद हल किया।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Mining से Acid Mine Drainage, भारी धातु परिशिष्टता, कैंसिलिंग/हैबिटैट विनाश, और वायु/धूल प्रदूषण जैसी समस्याएँ होती हैं। खनन साइट पर कृषि उत्पादन सामान्यतः नहीं बढ़ता — अक्सर घटता है। / Mining causes AMD, habitat loss, dust pollution; it does not increase agricultural yields."
   },
   {
     "id": 27,
-    "question": "भारत में हाल ही में कौन सा राज्य 'सुपर 30 तकनीकी शिक्षा' योजना शुरू करने वाला पहला राज्य बना?",
+    "question": "Placer रूप में सोना निकालने के पारंपरिक तरीके कौन–से हैं? / Which are traditional methods for extracting placer gold?",
     "options": {
-      "A": "उत्तर प्रदेश",
-      "B": "बिहार",
-      "C": "मध्य प्रदेश",
-      "D": "राजस्थान"
+      "A": "Panning (हैंड-पैनिंग)",
+      "B": "Sluicing (स्लूइस-बॉक्स / चैनल के माध्यम से अलग करना)",
+      "C": "Heap leaching (हीप-लीचिंग)",
+      "D": "Underground stoping (अंडरग्राउंड स्टॉपिंग)"
     },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश ने 'सुपर 30 तकनीकी शिक्षा' योजना शुरू की।"
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Placer gold निकालने में पैनिंग और स्लूइस जैसे गुरुत्व/जल-आधारित यांत्रिक तरीके पारंपरिक हैं। हीप-लीचिंग का उपयोग कभी-कभी low-grade oxide ores के लिए होता है पर वह प्लैसर का प्राथमिक विधि नहीं है; अंडरग्राउंड स्टॉपिंग ग्रेवल-प्लेसर के लिए उपयुक्त नहीं। / Panning and sluicing are classic placer gold extraction methods; heap leaching is used for some low-grade ores, underground stoping is not for placer."
   },
   {
     "id": 28,
-    "question": "UP में हाल ही में किस जिले को 'स्मार्ट सिटी मिशन' में शामिल किया गया है?",
+    "question": "Hydrothermal alteration के कौन–से खनिज संकेतक (indicator minerals) माने जाते हैं? / Which minerals are indicators of hydrothermal alteration?",
     "options": {
-      "A": "लखनऊ",
-      "B": "कानपुर",
-      "C": "मेरठ",
-      "D": "वाराणसी"
+      "A": "Sericite (सैरिसाइट)",
+      "B": "Chlorite (क्लोराइट)",
+      "C": "Quartz (Silica alteration / सिला)",
+      "D": "Graphite (ग्राफाइट)"
     },
-    "answer": ["C", "D"],
-    "explanation": "UP के मेरठ और वाराणसी जिले को स्मार्ट सिटी मिशन में शामिल किया गया है।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "हाइड्रोथर्मल अल्टरेशन में अक्सर sericite (fine white mica), chlorite, और silica-dominated zones बनते हैं — ये उपस्थिति एक गहरे हाइड्रोथर्मल सिस्टम का संकेत देती है जहाँ धातु-धनचित्त हो सकता है। Graphite का संबंध अधिकतर उच्च-स्तरीय कार्बोनस कार्बन सामग्री/मेटामॉर्फिज्म से होता है। / Sericite, chlorite and silica are common hydrothermal alteration indicators; graphite is metamorphic/organic."
   },
   {
     "id": 29,
-    "question": "अंतरराष्ट्रीय मुद्रा कोष (IMF) ने भारत के 2025-26 के GDP वृद्धि का अनुमान क्या रखा है?",
+    "question": "Iron ore beneficiation में कौन–से तरीके प्रयुक्त हो सकते हैं? / Which methods may be used in iron-ore beneficiation?",
     "options": {
-      "A": "6.5%",
-      "B": "6.8%",
-      "C": "7.0%",
-      "D": "7.2%"
+      "A": "Magnetic separation (चुंबकीय पृथक्करण)",
+      "B": "Froth flotation (फ्रोथ फ्लोटेशन)",
+      "C": "Roasting (रोस्टिंग)",
+      "D": "Gravity separation (गुरुत्व पृथक्करण)"
     },
-    "answer": ["B", "C"],
-    "explanation": "IMF ने भारत के लिए 2025-26 में GDP वृद्धि 6.8% से 7% अनुमानित की है।"
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Magnetic separation magnetite के लिए प्रमुख है; hematite के सूक्ष्म अंशों के लिए flotation उपयोगी हो सकती है; gravity separation भी coarse/dense hematite के लिये उपयोगी है। Roasting का उपयोग कुछ विशेष कंडीशन में किया जा सकता है पर सामान्य रूप से ये तीन तकनीकें अधिक प्रचलित हैं। / Magnetic, flotation and gravity separation are commonly used in iron ore beneficiation; roasting is less typical."
   },
   {
     "id": 30,
-    "question": "UP सरकार ने हाल ही में किस योजना के तहत महिला स्वरोजगार बढ़ाने की घोषणा की?",
+    "question": "Banded Iron Formations (BIF) की कौन–सी विशेषताएँ सामान्य हैं? / Which are characteristic features of Banded Iron Formations (BIF)?",
     "options": {
-      "A": "मुख्यमंत्री महिला सशक्तिकरण योजना",
-      "B": "उत्तर प्रदेश महिला स्वरोजगार योजना",
-      "C": "प्रधानमंत्री मुद्रा योजना",
-      "D": "राष्ट्रीय कौशल विकास मिशन"
+      "A": "प्राम्भिक (Precambrian) युग में बने होने की प्रवृत्ति",
+      "B": "आयरन-समृद्ध और सिलिका-समृद्ध alternating bands",
+      "C": "उच्च-ग्रेड लौह-खनिज का स्रोत",
+      "D": "हालिया (Cenozoic) अपवाह/वेदरिंग से बने"
     },
-    "answer": ["A", "B"],
-    "explanation": "UP सरकार ने महिलाओं के स्वरोजगार के लिए CM महिला सशक्तिकरण योजना और UP महिला स्वरोजगार योजना लागू की हैं।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "BIFs प्रायः प्राचीन (Archean–Proterozoic) तख्तों में पाए जाते हैं और उनमें लौह-समृद्ध (hematite/magnetite) और सिलिका (chert) की alternating bands होती हैं — ये दुनिया के कुछ बड़े लौह-योज्ञ स्रोत हैं। ये हालिया वैदरिंग-प्रक्रियाओं से उत्पन्न नहीं होते। / BIFs are mostly Precambrian, with alternating iron and silica bands and are major iron ore sources."
   },
   {
     "id": 31,
-    "question": "हाल ही में किस देश ने 'मंगल मिशन 2' लॉन्च किया है?",
+    "question": "Graphite (ग्राफाइट) का निर्माण सामान्यतः कैसे होता है? / How is graphite typically formed?",
     "options": {
-      "A": "भारत",
-      "B": "चीन",
-      "C": "रूस",
-      "D": "अमेरिका"
+      "A": "Metamorphism of carbonaceous sediments / कार्बोनीयस सेडिमेंट का मैटामॉर्फ़िज्म",
+      "B": "Direct igneous crystallization in basalt",
+      "C": "Biological accumulation at surface",
+      "D": "Evaporite deposition"
     },
-    "answer": ["B", "C"],
-    "explanation": "चीन और रूस दोनों ने 'मंगल मिशन 2' लॉन्च किया है, जो मंगल ग्रह पर जीवन के संकेतों की खोज के लिए है।"
+    "answer": [
+      "A"
+    ],
+    "explanation": "Graphite सामान्यतः प्राचीन कार्बन-समृद्ध सेडिमेंट्स के उच्च ताप-चाप मैटामॉर्फ़िज़्म से बनता है, जहाँ कार्बनिक पदार्थ क्रमिक रूप से संरचित कार्बन (graphitic) रूप में परिवर्तित होते हैं। यह इग्नीअस या इवैपोरेटिव उत्पत्ति नहीं दर्शाता। / Graphite forms by metamorphism of carbonaceous sediments under high T–P conditions."
   },
   {
     "id": 32,
-    "question": "भारत सरकार ने किस योजना के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा है?",
+    "question": "Mica (माइका) के ऐतिहासिक और उद्योगक उपयोग क्या रहे हैं? / What have been principal historical/industrial uses of mica?",
     "options": {
-      "A": "प्रधानमंत्री उज्ज्वला योजना",
-      "B": "प्रधानमंत्री कुसुम योजना",
-      "C": "राष्ट्रीय सौर मिशन",
-      "D": "नमामि गंगे योजना"
+      "A": "Electrical insulation / विद्युत अवरोधक",
+      "B": "Cosmetics (glitter / sheen) / कॉस्मेटिक्स",
+      "C": "Paints and fillers / पेंट्स",
+      "D": "Fuel (ईंधन)"
     },
-    "answer": ["B", "C"],
-    "explanation": "प्रधानमंत्री कुसुम योजना और राष्ट्रीय सौर मिशन के तहत 2025 तक 50 गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य रखा गया है।"
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Mica की उच्च dielectric strength व thermal stability के कारण यह electrical insulation में उपयोगी है; सूक्ष्म mica flakes को cosmetics में shimmer के लिये और paints/fillers में भी उपयोग किया जाता है। यह ईंधन नहीं है। / Mica is used for electrical insulation, cosmetics (shimmer), and paints/fillers — not as fuel."
   },
   {
     "id": 33,
-    "question": "उत्तर प्रदेश सरकार ने किस योजना के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा है?",
+    "question": "Phosphate rock (फॉस्फेट शिला) सामान्यतः किस प्रकार की सेटिंग में जमा होते हैं? / In which setting are phosphate rocks typically deposited?",
     "options": {
-      "A": "मुख्यमंत्री युवा स्वरोजगार योजना",
-      "B": "मुख्यमंत्री रोजगार सृजन योजना",
-      "C": "उत्तर प्रदेश कौशल विकास मिशन",
-      "D": "उत्तर प्रदेश रोजगार योजना"
+      "A": "Marine sedimentary environments (coastal shelf phosphorite formation)",
+      "B": "Ultramafic igneous complexes",
+      "C": "Organic-rich lacustrine shales",
+      "D": "Evaporites in arid basins"
     },
-    "answer": ["B", "C"],
-    "explanation": "मुख्यमंत्री रोजगार सृजन योजना और उत्तर प्रदेश कौशल विकास मिशन के तहत 2025 तक 1 लाख युवाओं को रोजगार देने का लक्ष्य रखा गया है।"
+    "answer": [
+      "A"
+    ],
+    "explanation": "Phosphorites मुख्यतः समुद्री shelf environments में जमा होते हैं जहां उच्च समुद्री productivity व भौगोलिक-रासायनिक शर्तें phosphorus को concentrated कर देती हैं। Ultramafic और evaporite सेटिंग्स सामान्य स्रोत नहीं हैं। / Phosphate rock (phosphorite) is typically a marine sedimentary deposit formed on continental shelves."
   },
   {
     "id": 34,
-    "question": "हाल ही में किस देश ने 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं?",
+    "question": "Solution mining (सोल्यूशन माइनिंग) से किस–किस खनिज का उत्खनन किया जा सकता है? / Which minerals can be extracted by solution mining?",
     "options": {
-      "A": "भारत",
-      "B": "अमेरिका",
-      "C": "जापान",
-      "D": "संयुक्त राष्ट्र"
+      "A": "Rock salt / Halite (भरपूर नमक)",
+      "B": "Potash (कुछ बेसिनों में)",
+      "C": "Coal seam (via underground gasification)",
+      "D": "Gold veins by mechanical stoping"
     },
-    "answer": ["D"],
-    "explanation": "संयुक्त राष्ट्र ने हाल ही में 'आर्टिफिशियल इंटेलिजेंस' पर अंतर्राष्ट्रीय संधि पर हस्ताक्षर किए हैं, जिसका उद्देश्य AI के दुरुपयोग को रोकना है।"
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Solution mining (in-situ leaching) नमक (halite) और कुछ पोटाश-सॉल्टों के लिए उपयुक्त है जहाँ पानी/लीचेंट इंजेक्ट कर के सॉल्यूबल सामग्री निकाली जाती है। कोयला/सोने के पारंपरिक रूप से solution mining से नहीं निकाले जाते (coal seam gasification अलग प्रक्रिया है)। / Solution mining/in-situ leaching is used for salts (halite) and some potash resources."
   },
   {
     "id": 35,
-    "question": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान कब शुरू किया गया था?",
+    "question": "निम्न में से किन खनिजों का लस्ट (luster) धात्विक (metallic) प्रकार का होता है? / Which of the following minerals typically exhibit metallic luster?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "Pyrite (पाइराइट)",
+      "B": "Hematite (हीमटाइट)",
+      "C": "Quartz (क्वार्ट्ज)",
+      "D": "Graphite (ग्राफाइट)"
     },
-    "answer": ["B"],
-    "explanation": "उत्तर प्रदेश में 'स्वच्छता ही सेवा' अभियान 2019 में शुरू किया गया था, जिसका उद्देश्य राज्य में स्वच्छता को बढ़ावा देना है।"
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Pyrite और Graphite में चमकीला metallic लस्ट मिलता है; Hematite के कुछ रूपों में भी metallic/sub-metallic लस्ट देखा जा सकता है (specular hematite)। Quartz ऐतिहासिक रूप से non-metallic (glassy) लस्ट दिखाता है। / Pyrite, hematite (specular) and graphite can show metallic luster; quartz is non-metallic."
   },
   {
     "id": 36,
-    "question": "भारत और बांग्लादेश के बीच हाल ही में किस पर सीमा विवाद खत्म हुआ?",
+    "question": "Dharwar greenstone belts में सामान्यतः कौन–से खनिज पाए जाते हैं? / Which minerals are commonly found in Dharwar greenstone belts?",
     "options": {
-      "A": "पंचपुरी द्वीप",
-      "B": "सदरहाट",
-      "C": "महाली",
-      "D": "संडर्स द्वीप"
+      "A": "Gold (सोना)",
+      "B": "Iron (लोह) / Banded iron formations",
+      "C": "Base metals (Cu–Pb–Zn) / बेस-लौह धातुएँ",
+      "D": "Evaporite salts"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत और बांग्लादेश ने पंचपुरी और सदरहाट इलाके पर सीमा विवाद हल किया।"
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Dharwar-type greenstone belts प्रायः Archean volcanic–sedimentary sequences हैं जिनमें hydrothermal gold mineralisation और localized base-metal occurrences (Cu–Pb–Zn) मिलते हैं। Banded iron formations भारतीय क्रोनोलॉजी में अलग प्रादेशिक रूप से पाए जा सकते हैं पर Dharwar belts का प्रमुख पहचान gold/base-metal systems है; evaporite salts प्रचलित नहीं। / Dharwar belts commonly host gold and base-metal (Cu–Pb–Zn) mineralization."
+  },
+  {
+    "id": 37,
+    "question": "Lead–zinc ores की फ़्लोटेशन प्रक्रिया से कौन–से प्रमुख अयस्क अलग किए जाते हैं? / Which ore minerals are commonly recovered by flotation from lead–zinc ores?",
+    "options": {
+      "A": "Galena (PbS) — सीसा",
+      "B": "Sphalerite (ZnS) — जस्ता",
+      "C": "Chalcopyrite (CuFeS2) — ताम्बा",
+      "D": "Hematite (Fe2O3)"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Lead–zinc ore circuits में Galena और Sphalerite मुख्य फ़्लोटेशन टार्गेट होते हैं; अक्सर chalcopyrite (यदि उपस्थित) भी फ्लोटेशन में recover किया जाता है। Hematite आमतौर पर lead–zinc sulfide circuits का लक्ष्य नहीं है। / Flotation recovers galena and sphalerite and often chalcopyrite when associated; hematite is not typical in these circuits."
+  },
+  {
+    "id": 38,
+    "question": "Froth flotation में सामान्यतः कौन–से reagent श्रेणियाँ उपयोग की जाती हैं? / Which reagent categories are commonly used in froth flotation?",
+    "options": {
+      "A": "Collectors (e.g., xanthates) — कलेक्टर",
+      "B": "Frothers (foam stabilisers) — फ़्रोदर",
+      "C": "Depressants (to suppress certain minerals) — डिप्रेसेंट",
+      "D": "Fluxes (for metallurgical smelting)"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "फ़्लोटेशन में collectors (खनिज को हाइड्रोफोबिक बनाने के लिए), frothers (foam stability के लिये) और depressants (कुछ खनिजों को suppress करने के लिये) मुख्य reagent हैं। Fluxes metallurgy में इस्तेमाल होते हैं पर flotation में नहीं। / Collectors, frothers and depressants are key flotation reagents; fluxes are for smelting."
+  },
+  {
+    "id": 39,
+    "question": "ग्लास निर्माण (glass manufacturing) में आमतौर पर कौन–से खनिज/सामग्री आवश्यक होती हैं? / Which minerals/materials are commonly used in glass manufacturing?",
+    "options": {
+      "A": "Silica (Quartz / सिलिका)",
+      "B": "Limestone (चूना पत्थर) — Ca source",
+      "C": "Soda ash (Na2CO3) — रासायनिक (मिनरल नहीं)",
+      "D": "Feldspar (फेल्डस्पार)"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Glass के लिए silica (SiO₂) मुख्य कच्चामाल है; Limestone (CaCO₃) और Feldspar (Al-silicates) मेल्ट-गुण और स्थायित्व में योगदान देते हैं। Soda ash एक रासायनिक अम्ल-विच्छेदक है (mineral नहीं) पर ग्लास-फॉर्मूला में आवश्यक है — प्रश्न में 'खनिज' प्राथमिकता के साथ A,B,D सही माने गए। / Silica, limestone and feldspar are mineral inputs for glass; soda ash is a chemical additive (not a raw mineral in many contexts)."
+  },
+  {
+    "id": 40,
+    "question": "Mine closure और rehabilitation में कौन–से कदम सामान्यतः आवश्यक माने जाते हैं? / Which steps are typically required in mine closure and rehabilitation?",
+    "options": {
+      "A": "Backfilling and recontouring of pits / बैकफिलिंग व भूमि पुनरुपरूप",
+      "B": "Soil amelioration and planting native vegetation / मिट्टी सुधार व स्थानीय वनस्पति रोपण",
+      "C": "Leaving tailings unlined without treatment / टेलिंग्स को बिना इलाज के खुला छोड़ देना",
+      "D": "Monitoring of water quality and long-term maintenance / जल गुणवत्ता निगरानी"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "सुदृढ़ mine closure में pits की backfilling/recontouring, मिट्टी की वसूली व native species से revegetation, और लंबी अवधि तक जल-गुणवत्ता व पर्यावरणीय निगरानी आवश्यक हैं। Tailings को untreated/unlined छोड़ना पर्यावरणीय जोखिम बढ़ाता है और यह स्वीकार्य अभ्यास नहीं है। / Proper closure requires backfilling/recontouring, soil amelioration and revegetation, and long-term water-quality monitoring; leaving tailings untreated is not acceptable."
   }
 ]
-  
- 
-  
