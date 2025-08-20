@@ -1,623 +1,1810 @@
 [
   {
     "id": 1,
-    "question": "कौन–से चट्टानी प्रकार आर्थिक खनिजों की मेजबानी करने हेतु सर्वाधिक सामान्य हैं? / Which rock types most commonly host economic mineral deposits?",
+    "question": "अशोक के किस प्रकार के शिलालेखों को सबसे पहले खुदवाया गया था? / Which type of Ashokan edicts were engraved first?",
     "options": {
-      "A": "आइग्नीअस (Igneous) / ज्वालामुखीय और अंतःस्फ़ीयर चट्टानें",
-      "B": "मेटामॉर्फिक (Metamorphic) / रूपांतरित चट्टानें",
-      "C": "सेडिमेंटरी (Sedimentary) / तलछटी चट्टानें",
-      "D": "मिट्टी (Soil) / अपरिवर्तित सतही पदार्थ"
+      "A": "पिलर एडिक्ट्स (Pillar Edicts)",
+      "B": "रॉक एडिक्ट्स (Rock Edicts)",
+      "C": "माइनर एडिक्ट्स (Minor Edicts)",
+      "D": "कुप्पम एडिक्ट्स (Kuppam Edicts)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "आर्थिक खनिज विभिन्न उत्पत्ति प्रक्रियाओं से बनते हैं। मैग्मेटिक/आइग्नीअस प्रक्रियाएँ (पोरफाइर, अल्कलाइन इत्यादि) धातु-समृद्ध धागे और मैगमैटिक बैड्स बनाती हैं; मेटामॉर्फ़िक री-रिचार्ज और रेमोबिलाइज़ेशन से कुछ धातु-कंसेंट्रेशन बनते हैं; सेडिमेंटरी वातावरण (रासायनिक, क्लास्टिक, इवैपोरेट) से भी Phosphorite, BIF, evaporites बनते हैं। मिट्टी/साधारण सतही पदार्थ सामान्यतः आर्थिक 'ओर' नहीं होते। / Economic minerals form in igneous (magmatic), metamorphic (re-mobilized) and sedimentary (chemical/clastic) settings — soil is not a primary host."
+    "answer": ["A", "B"],
+    "explanation": "अशोक के शासनकाल में सबसे पहले पिलर और रॉक एडिक्ट्स खुदवाए गए थे। माइनर एडिक्ट्स बाद में सामने आए।"
   },
   {
     "id": 2,
-    "question": "प्लैसर (placer) जमा कैसे बनते हैं? / How are placer deposits formed?",
+    "question": "1857 की क्रांति के दौरान अवध में विद्रोह का नेतृत्व किसने किया था? / Who led the revolt in Awadh during the 1857 revolt?",
     "options": {
-      "A": "जल–चालित यांत्रिक सघनकरण (Mechanical concentration by water)",
-      "B": "रासायनिक अभिक्रिया व वर्षा से सीधा उत्पन्न (Chemical precipitation in situ)",
-      "C": "जैविक संचयन (Biological accumulation)",
-      "D": "वुलकैनिक विस्फोट/लावा प्रवाह (Volcanic eruption/lava flow)"
+      "A": "बेगम हज़रत महल (Begum Hazrat Mahal)",
+      "B": "कुंवर सिंह (Kunwar Singh)",
+      "C": "रानी लक्ष्मीबाई (Rani Lakshmibai)",
+      "D": "तात्या टोपे (Tatya Tope)"
     },
-    "answer": [
-      "A"
-    ],
-    "explanation": "प्लैसर जमा तब बनते हैं जब विघटित चट्टानां में उपस्थित भारी, घनत्व-उच्च खनिज (जैसे सोना, हीवी मिनरल सैंड्स) जल-प्रवाह द्वारा अलग होकर तलछट में सघनित हो जाते हैं। यह सॉर्टिंग (density sorting), टर्बुलेंस व ऊर्जा-घटने से होता है — रासायनिक, जैविक या सीधे ज्वालामुखीय प्रक्रियाओं से अलग। / Placers form by water-driven mechanical concentration of dense minerals (e.g., gold, heavy mineral sands) via sorting and deposition."
+    "answer": ["A"],
+    "explanation": "अवध क्षेत्र में 1857 के विद्रोह का नेतृत्व बेगम हज़रत महल ने किया था, जिन्होंने नवाब वाजिद अली शाह के निर्वासन के बाद अंग्रेजों के विरुद्ध विद्रोहियों को संगठित किया।"
   },
   {
     "id": 3,
-    "question": "निम्न में से कौन-कौन सोने के प्लैसर/बीच सैंड्स में सामान्यतः पाए जाते हैं? / Which of the following commonly occur as placer / beach-sand minerals?",
+    "question": "उत्तर प्रदेश की किस नदी को 'सorrow of Uttar Pradesh' कहा जाता है? / Which river of Uttar Pradesh is called the 'Sorrow of Uttar Pradesh'?",
     "options": {
-      "A": "Gold (सोना)",
-      "B": "Ilmenite / Monazite / Rutile (हैवी मिनरल्स — REE/टाइटेनिया आदि)",
-      "C": "Diamond (हीरा)",
-      "D": "Bauxite (बॉक्साइट)"
+      "A": "घाघरा (Ghaghara)",
+      "B": "गंडक (Gandak)",
+      "C": "यमुना (Yamuna)",
+      "D": "गोमती (Gomti)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "प्लैसर या बीच–सैंड्स में भारी, घनत्व-उच्च खनिज जमा होते हैं — सोना (placer), हीरा (आमतौर पर प्राथमिक किम्बरलाइट के बाद सेकेंडरी ऑलुवियल), और हैवी-minerals (Ilmenite, Rutile, Monazite) जो तटस्थ-प्रवाह व तरंग क्रिया से सॉर्ट होते हैं। बॉक्साइट सामान्यतः लेटराइट/रिसिडुअल प्रोफाइल में पाया जाता है, प्लैसर में नहीं। / Placer/beach sands concentrate dense minerals: gold, diamond (secondary alluvium), and heavy minerals (ilmenite, monazite); bauxite is lateritic, not placer."
+    "answer": ["A"],
+    "explanation": "घाघरा नदी को 'सॉरो ऑफ यूपी' कहा जाता है क्योंकि इसके बाढ़ से हर वर्ष पूर्वी उत्तर प्रदेश में व्यापक तबाही मचती है।"
   },
   {
     "id": 4,
-    "question": "बॉक्साइट (bauxite) बनने की प्रमुख प्रक्रियाएँ कौन–सी हैं? / Which processes chiefly form bauxite?",
+    "question": "भारत में 'संयुक्त सूची' (Concurrent List) की अवधारणा किस संविधान से ली गई है? / The concept of 'Concurrent List' in the Indian Constitution is borrowed from which Constitution?",
     "options": {
-      "A": "लेटरिटाइजेशन (Lateritisation / intense chemical weathering)",
-      "B": "कार्स्टिक अवशेष/रिसिडुअल (Karstic / residual concentration over limestone)",
-      "C": "यांत्रिक निक्षेप (Mechanical deposition / placer)",
-      "D": "हाइड्रोथर्मल निक्षेप (Hydrothermal deposition)"
+      "A": "अमेरिकी संविधान (US Constitution)",
+      "B": "ऑस्ट्रेलियाई संविधान (Australian Constitution)",
+      "C": "ब्रिटिश संविधान (British Constitution)",
+      "D": "कनाडाई संविधान (Canadian Constitution)"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "बॉक्साइट सामान्यतः उच्च वर्षा-वायु वाले उष्णकटिबंधीय/उप-उष्णकटिबंधीय क्षेत्रों में तीव्र रासायनिक अपक्षय (lateritisation) से बनता है। इसके अलावा कुछ बॉक्साइट्स कार्बोनेटिक बेस के ऊपर रिसिडुअल/कार्स्टिक प्रोसेस से भी जुड़े होते हैं। यांत्रिक प्लेसर या हाइड्रोथर्मल उत्पत्ति बॉक्साइट के सामान्य कारण नहीं हैं। / Bauxite is formed mainly by intense chemical weathering (lateritisation); some are residual/karstic over carbonate rocks. Not typically placer or hydrothermal."
+    "answer": ["B"],
+    "explanation": "संविधान की संयुक्त सूची (Concurrent List) की अवधारणा ऑस्ट्रेलियाई संविधान से ली गई है।"
   },
   {
     "id": 5,
-    "question": "लोह-अयस्क (iron ores) में से कौन–से प्रकार पारंपरिक रूप से उच्च-लौह (high-grade) माने जाते हैं? / Which iron ore types are traditionally considered high-grade?",
+    "question": "उत्तर प्रदेश का कौन सा जिला 'ताले और हार्डवेयर उद्योग' के लिए प्रसिद्ध है? / Which district of Uttar Pradesh is famous for 'locks and hardware industry'?",
     "options": {
-      "A": "Hematite (हीमटाइट)",
-      "B": "Magnetite (मैग्नेटाइट)",
-      "C": "Limonite (लाइमोनाइट)",
-      "D": "Siderite (साइडराइट)"
+      "A": "अलीगढ़ (Aligarh)",
+      "B": "मेरठ (Meerut)",
+      "C": "कानपुर (Kanpur)",
+      "D": "मुरादाबाद (Moradabad)"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "हीमटाइट (Fe₂O₃) आमतौर पर प्राकृतिक रूप से उच्च लौह-सामग्री (उदा. ~58%+ Fe) देकर सीधे इस्तेमाल के काबिल है; मैग्नेटाइट (Fe₃O₄) का सैद्धांतिक Fe प्रतिशत उच्च है और इसे चुंबकीय अलगाव से उच्च-केंद्रित किया जा सकता है। लाइमोनाइट और साइडराइट में आम तौर पर मिश्रित पानी/कार्बोनेट/घटित Fe होता है, इसलिए वे कम-ग्रेड या अधिक संसाधन-आवश्यक होते हैं। / Hematite and magnetite are principal high-grade ores (hematite often directly high Fe; magnetite upgradeable by magnetic separation); limonite/siderite are lower grade."
+    "answer": ["A"],
+    "explanation": "अलीगढ़ अपने ताले और हार्डवेयर उद्योग के लिए प्रसिद्ध है और यह भारत में सबसे बड़ा लॉक निर्माण केंद्र है।"
   },
   {
     "id": 6,
-    "question": "भारत में लोह-खनिज (iron ore) के प्रमुख उत्पादन क्षेत्र कौन–से हैं? / Which are major iron-ore producing regions in India?",
+    "question": "भारत में 'मुद्रा स्वच्छता' (Currency Cleanliness) अभियान किस संस्था द्वारा चलाया जाता है? / The 'Clean Note Policy' in India is managed by which institution?",
     "options": {
-      "A": "Odisha (ओडिशा)",
-      "B": "Jharkhand (झारखंड)",
-      "C": "Karnataka (कर्नाटक)",
-      "D": "Rajasthan (राजस्थान)"
+      "A": "वित्त मंत्रालय (Ministry of Finance)",
+      "B": "भारतीय रिज़र्व बैंक (Reserve Bank of India)",
+      "C": "भारतीय स्टेट बैंक (State Bank of India)",
+      "D": "नीति आयोग (NITI Aayog)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "भारत में आयरण-बैंड/भंडार मुख्यतः ओडिशा, झारखंड, छत्तीसगढ़, कर्नाटक और गोवा जैसे इलाकों में गहन हैं। राजस्थान में कुछ लौह-अयस्क का वितरण है पर उत्पादन का केंद्र उपर्युक्त तीन राज्यों के साथ कम-प्रभावी है। / Major Indian iron-ore producers: Odisha, Jharkhand, Chhattisgarh, Karnataka, Goa — Rajasthan less significant comparatively."
+    "answer": ["B"],
+    "explanation": "भारतीय रिज़र्व बैंक (RBI) द्वारा 'क्लीन नोट पॉलिसी' चलाई जाती है जिसका उद्देश्य अच्छी गुणवत्ता वाले नोट्स का उपयोग सुनिश्चित करना है।"
   },
   {
     "id": 7,
-    "question": "Chromite (क्रोमाइट) आमतौर पर किस प्रकार के चट्टानी सेटिंग से जुड़ा होता है? / Chromite is commonly associated with which rock types?",
+    "question": "निम्नलिखित में से कौन सी नदी गंगा की सहायक नहीं है? / Which of the following is NOT a tributary of Ganga?",
     "options": {
-      "A": "Ultramafic / Peridotite complexes (अल्ट्रामैफिक)",
-      "B": "Banded Iron Formations (BIF)",
-      "C": "Carbonatites",
-      "D": "Pegmatites"
+      "A": "गोमती (Gomti)",
+      "B": "घाघरा (Ghaghara)",
+      "C": "चंबल (Chambal)",
+      "D": "गंडक (Gandak)"
     },
-    "answer": [
-      "A"
-    ],
-    "explanation": "क्रोमाइट प्राथमिक रूप से अल्ट्रामैफिक/ओफियोलाइटिक परिसर और अपेक्षाकृत मैग्मैटिक परिघटनाओं (पेरिडोटाइट/लहसन) के साथ जुड़ा होता है। BIF, कार्बोनेटाइट और पेग्मेटाइट क्रोमाइट के सामान्य-प्राथमिक होस्ट नहीं हैं। / Chromite is typically hosted in ultramafic complexes (peridotites/serpentinized ophiolites), not in BIF/carbonatite/pegmatite generally."
+    "answer": ["C"],
+    "explanation": "चंबल नदी यमुना की सहायक है, जबकि बाकी तीन गंगा की सहायक नदियाँ हैं।"
   },
   {
     "id": 8,
-    "question": "Manganese (मैंगनीज़) जमा भारत में मुख्यतः किस भूवैज्ञानिक सेटिंग में पाए जाते हैं? / In which geological settings are manganese deposits in India mainly found?",
+    "question": "उत्तर प्रदेश का कौन सा शहर 'पीतल नगरी' (Brass City) के नाम से प्रसिद्ध है? / Which city of Uttar Pradesh is known as 'Brass City'?",
     "options": {
-      "A": "Sedimentary chemical deposits / Carbonate and chemical sediments",
-      "B": "Metamorphosed ferruginous shales / Banded deposits",
-      "C": "Lateritic profiles",
-      "D": "Evaporites"
+      "A": "अलीगढ़ (Aligarh)",
+      "B": "मुरादाबाद (Moradabad)",
+      "C": "फिरोजाबाद (Firozabad)",
+      "D": "वाराणसी (Varanasi)"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "मैंगनीज़ के कई भारतीय जमे sedimentary-chemical प्रकार के हैं (e.g., औरीज़ोनल/सिलिकिक-कार्बोनेटेड सेटिंग्स) और दूसरे कुछ metamorphosed ferruginous शेल/बैंडेड रूप में मिलते हैं। लेटराइटिक प्रोफाइल कम सामान्य स्रोत हैं; इवैपोरेट्स भी सामान्य नहीं। / Indian manganese occurs largely as sedimentary/chemical deposits and as metamorphosed ferruginous (banded) types."
+    "answer": ["B"],
+    "explanation": "मुरादाबाद पीतल उद्योग के लिए प्रसिद्ध है और इसे 'ब्रास सिटी' कहा जाता है।"
   },
   {
     "id": 9,
-    "question": "निम्न में से कौन–से गैर-धात्वी (non-metallic) खनिज हैं? / Which of the following are non-metallic minerals?",
+    "question": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रपति को क्षमा करने की शक्ति प्रदान करता है? / Which Article of the Indian Constitution grants the President the power to grant pardon?",
     "options": {
-      "A": "Limestone (चूना पत्थर)",
-      "B": "Gypsum (जिप्सम)",
-      "C": "Mica (माइका)",
-      "D": "Iron ore (लोह-खनिज)"
+      "A": "अनुच्छेद 53 (Article 53)",
+      "B": "अनुच्छेद 72 (Article 72)",
+      "C": "अनुच्छेद 74 (Article 74)",
+      "D": "अनुच्छेद 356 (Article 356)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Limestone, Gypsum और Mica सामान्य तौर पर non-metallic खनिजों में आते हैं और औद्योगिक/निर्माण/इन्सुलेशन उपयोगों के लिए महत्वपूर्ण हैं। Iron ore धात्वी (metallic) श्रेणी में आता है। / Limestone, gypsum and mica are non-metallic industrial minerals; iron ore is metallic."
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 72 के तहत राष्ट्रपति को दया, क्षमा, रहम, सजा में कमी आदि देने का अधिकार है।"
   },
   {
     "id": 10,
-    "question": "खनिज अयस्क के संकेंद्रण (ore concentration) में निम्न में से कौन–से सामान्यतः उपयोग होते हैं? / Which methods are commonly used for ore concentration?",
+    "question": "हाल ही में 'गंगा विलास क्रूज' की शुरुआत किस शहर से की गई? / Recently, from which city was the 'Ganga Vilas Cruise' launched?",
     "options": {
-      "A": "Froth flotation (फ्रोथ फ्लोटेशन)",
-      "B": "Magnetic separation (चुंबकीय पृथक्करण)",
-      "C": "Heap leaching / In-situ leaching (हीप-लीचिंग / सोल्यूशन मेथड)",
-      "D": "Fractional distillation (भिन्न-वाष्पीकरण)"
+      "A": "वाराणसी (Varanasi)",
+      "B": "कोलकाता (Kolkata)",
+      "C": "पटना (Patna)",
+      "D": "कानपुर (Kanpur)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "फ्रोथ फ्लोटेशन सुक्ष्म सल्फ़ाइड/नॉनफेरस अयस्कों के लिए; चुंबकीय पृथक्करण मैग्नेटाइट जैसे चुंबकीय खनिजों के लिए; हीप-लीचिंग हेमेटिक/गोल्ड रीसोर्सेज के लिए इस्तेमाल की जाती है। Fractional distillation सामान्यतः धात्विक अयस्क-संकेंद्रण की तकनीक नहीं है — वह द्रवों के पृथक्करण हेतु है। / Flotation, magnetic separation and heap leaching are common; fractional distillation is not an ore-concentration method."
+    "answer": ["A"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने जनवरी 2023 में वाराणसी से 'गंगा विलास क्रूज' का शुभारंभ किया, जो दुनिया का सबसे लंबा नदी क्रूज है।"
   },
   {
     "id": 11,
-    "question": "लेटराइट वेदरिंग से कौन–से खनिज/धातु प्राप्त हो सकते हैं? / Which minerals/metals can form by lateritic weathering?",
+    "question": "भारत के संविधान की प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द कब जोड़े गए? / When were the terms 'Socialist' and 'Secular' added to the Preamble of the Indian Constitution?",
     "options": {
-      "A": "Bauxite (बॉक्साइट / Aluminium source)",
-      "B": "Nickel laterites (निकेल लेटराइट)",
-      "C": "Gold (सोना)",
-      "D": "Kaolin (कायोलिन / china clay)"
+      "A": "1951 का प्रथम संशोधन / First Amendment, 1951",
+      "B": "42वाँ संशोधन, 1976 / 42nd Amendment, 1976",
+      "C": "44वाँ संशोधन, 1978 / 44th Amendment, 1978",
+      "D": "52वाँ संशोधन, 1985 / 52nd Amendment, 1985"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "तेज रासायनिक अपक्षय (lateritisation) से bauxite और कुछ परिस्थितियों में nickel-laterite profiles बनते हैं। सोना आमतौर पर प्लैसर/हाइड्रोथर्मल प्रक्रियाओं में आता है; kaolin फ्लाय-आउट/फेल्डस्पार के हाइड्रोलिसिस द्वारा बनता है और वह विशेष रूप से लेटराइट प्रोफाइल नहीं है। / Lateritisation produces bauxite and nickel-laterites; gold is typically placer/hydrothermal, kaolin forms by feldspar weathering but not classic laterite."
+    "answer": ["B"],
+    "explanation": "1976 में आपातकाल के दौरान 42वें संशोधन द्वारा 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द संविधान की प्रस्तावना में जोड़े गए थे।"
   },
   {
     "id": 12,
-    "question": "अण्डरग्राउंड खनन के कौन–से सामान्य तरीके हैं? / Which are common underground mining methods?",
+    "question": "चंद्रगुप्त मौर्य को जैन साहित्य में किस नाम से संबोधित किया गया है? / By what name is Chandragupta Maurya referred to in Jain literature?",
     "options": {
-      "A": "Room and pillar (रूम एंड पिलर)",
-      "B": "Longwall (लॉंगवाल)",
-      "C": "Open-pit / Open-cast (ओपन-पिट)",
-      "D": "Block caving (ब्लॉक-केविंग)"
+      "A": "संधक / Sandhaka",
+      "B": "वर्धन / Vardhana",
+      "C": "श्रीगुप्त / Shreegupta",
+      "D": "चन्द्र / Chandra"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Room-and-pillar, Longwall (विशेषकर कोयला के लिए) तथा Block-caving गहरी/अण्डरग्राउंड खानों के प्रमुख तरीके हैं। Open-pit या open-cast सतही खनन की विधि है, अण्डरग्राउंड नहीं। / Room-and-pillar, longwall and block caving are underground methods; open-pit is surface mining."
+    "answer": ["A"],
+    "explanation": "जैन ग्रंथ 'परिशिष्टपर्व' में चंद्रगुप्त मौर्य को 'संधक' कहा गया है। यह उनके दक्षिण भारत में श्रवणबेलगोला जाकर जैन संन्यास लेने के संदर्भ में मिलता है।"
   },
   {
     "id": 13,
-    "question": "Heavy-mineral / beach sand deposits के बारे में सही कौन–से कथन हैं? / Which statements about heavy-mineral / beach sand deposits are true?",
+    "question": "उत्तर प्रदेश में 'बुंदेलखंड पैकेज' मुख्य रूप से किस समस्या के समाधान हेतु है? / The 'Bundelkhand Package' in Uttar Pradesh primarily addresses which issue?",
     "options": {
-      "A": "वे Ilmenite, Rutile और Monazite जैसे मिनरल्स रखते हैं (REE स्रोत)।",
-      "B": "वे तरंगों व तटीय प्रवाह द्वारा छँटे और सघनित होते हैं (wave/current sorting).",
-      "C": "वे प्राथमिक मैग्मैटिक पत्ती (primary magmatic) ही होते हैं।",
-      "D": "ये rare-earth और टाइटेनियम संसाधनों के स्रोत बन सकते हैं।"
+      "A": "औद्योगिकीकरण / Industrialization",
+      "B": "सूखा और जल संकट / Drought and Water Scarcity",
+      "C": "शिक्षा सुधार / Education Reforms",
+      "D": "स्वास्थ्य सेवाएँ / Health Services"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "बीच/हैवी-मिनरल सँड्स समुद्री तटों पर तरंग और प्रवाह क्रिया से भरे-भटके और सघनित होते हैं, और Ilmenite/Rutile/Monazite जैसी भारी अयस्क पदार्थों का भंडार होते हैं — जो REE और Ti स्रोत बनते हैं। ये प्राथमिक मैग्मैटिक निक्षेप नहीं होते बल्कि सेकेंडरी प्लैसर–टाइप कंसंट्रेशन हैं। / Heavy-mineral sands (ilmenite, rutile, monazite) are wave-sorted placer accumulations and REE/Ti sources — not primary magmatic deposits."
+    "answer": ["B"],
+    "explanation": "बुंदेलखंड पैकेज केंद्र सरकार द्वारा सूखा, जल संकट और कृषि संकट से जूझ रहे बुंदेलखंड क्षेत्र के लिए विशेष आर्थिक सहायता योजना है।"
   },
   {
     "id": 14,
-    "question": "Aluminium के मुख्य कच्चे माल और उसके उत्पादन प्रक्रिया की सही श्रेणी क्या है? / What is the principal raw material for aluminium and the correct production sequence?",
+    "question": "भारत में 'भूगोल का पिता' किसे कहा जाता है? / Who is considered the 'Father of Geography' in India?",
     "options": {
-      "A": "Raw: Bauxite → Process: Bayer (alumina) → Hall–Héroult (electrolytic smelting)",
-      "B": "Raw: Hematite → Rotary kiln → Smelting",
-      "C": "Raw: Laterite iron → Hydrometallurgy → Electrolysis",
-      "D": "Raw: Kaolin → Direct electrolysis → Aluminium"
+      "A": "वराहमिहिर / Varahamihira",
+      "B": "मेघदूत के कालिदास / Kalidasa of Meghaduta",
+      "C": "प्टॉलेमी / Ptolemy",
+      "D": "अरस्तू / Aristotle"
     },
-    "answer": [
-      "A"
-    ],
-    "explanation": "अल्युमिनियम का मुख्य कच्चा माल बॉक्साइट है; बॉक्साइट को Bayer प्रक्रिया से alumina (Al₂O₃) में बदला जाता है, और फिर Hall–Héroult electrolytic cell में पिघला कर धातु एल्यूमिनियम निकाला जाता है। Hematite/kaolin आदि संबंधित नहीं हैं। / Bauxite → Bayer (alumina) → Hall–Héroult (electrolysis) is the correct aluminium production route."
+    "answer": ["A"],
+    "explanation": "वराहमिहिर, 6वीं शताब्दी के खगोलशास्त्री और गणितज्ञ, को भारत में भूगोल का पिता कहा जाता है। उनकी पुस्तक 'बृहत्संहिता' महत्वपूर्ण है।"
   },
   {
     "id": 15,
-    "question": "Porphyry-copper deposits की विशिष्टताएँ कौन–सी हैं? / What characterizes porphyry copper deposits?",
+    "question": "भारत में 'फसल बीमा योजना' (PMFBY) किस वर्ष शुरू की गई थी? / In which year was the Pradhan Mantri Fasal Bima Yojana launched?",
     "options": {
-      "A": "Large tonnage, generally low–to–moderate grade (high tonnage low grade)",
-      "B": "Associated with felsic to intermediate intrusions (porphyries)",
-      "C": "Usually very small, high-grade veins only",
-      "D": "Commonly amenable to open-pit mining"
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Porphyry copper deposits बड़े परिमाण पर फैलते हैं लेकिन आमतौर पर निम्न से मध्यम ग्रेड के होते हैं; ये felsic–intermediate intrusive systems के साथ जुड़े होते हैं और बड़े पैमाने पर open-pit तरीके से निकाले जाते हैं। वे छोटे, उच्च-ग्रेड केवल-रूप में नहीं होते। / Porphyry deposits are large, low–moderate grade, related to porphyritic intrusions and often mined by open-pit methods."
+    "answer": ["C"],
+    "explanation": "प्रधानमंत्री फसल बीमा योजना (PMFBY) 2016 में किसानों को प्राकृतिक आपदाओं से फसल नुकसान के जोखिम से बचाने हेतु शुरू की गई थी।"
   },
   {
     "id": 16,
-    "question": "स्टील निर्माण में फ़्लक्स (flux) के रूप में कौन–से खनिज प्रयुक्त होते हैं? / Which minerals are used as fluxes in steelmaking?",
+    "question": "भारतीय संविधान की किस अनुसूची में 'भाषाओं' का उल्लेख है? / In which Schedule of the Indian Constitution are 'languages' mentioned?",
     "options": {
-      "A": "Limestone (चूना पत्थर)",
-      "B": "Dolomite (डोलोमाइट)",
-      "C": "Quartz / Silica (क्वार्ट्ज)",
-      "D": "Bauxite (बॉक्साइट)"
+      "A": "7वीं अनुसूची / 7th Schedule",
+      "B": "8वीं अनुसूची / 8th Schedule",
+      "C": "9वीं अनुसूची / 9th Schedule",
+      "D": "10वीं अनुसूची / 10th Schedule"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "स्टील-फायर्स (blast furnaces/steelmaking) में Limestone और Dolomite को flux के रूप में उपयोग किया जाता है ताकि सिलिका/अशुद्धियाँ स्कलाग (slag) में जुड़कर हटाई जा सकें। Quartz सामान्यतः flux नहीं है; Bauxite अल्युमीनियम-उत्पादन कच्चामल है, स्टील फ्लक्स नहीं। / Limestone and dolomite act as fluxes to form slag and remove impurities during steelmaking."
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान की 8वीं अनुसूची में मान्यता प्राप्त भाषाओं का उल्लेख है, जिनकी संख्या वर्तमान में 22 है।"
   },
   {
     "id": 17,
-    "question": "बैटरी व इलेक्ट्रॉनिक्स के लिए कौन–से खनिज महत्वपूर्ण हैं? / Which minerals are important for batteries and electronics?",
+    "question": "संपूर्णानंद विश्वविद्यालय (वाराणसी) मुख्यतः किस विषय से संबंधित है? / Sampurnanand University (Varanasi) is primarily related to which field?",
     "options": {
-      "A": "Lithium (लिथियम)",
-      "B": "Cobalt (कोबाल्ट)",
-      "C": "Manganese (मैंगनीज़)",
-      "D": "Copper (ताम्बा)"
+      "A": "चिकित्सा / Medicine",
+      "B": "संस्कृत अध्ययन / Sanskrit Studies",
+      "C": "कृषि / Agriculture",
+      "D": "प्रबंधन / Management"
     },
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "आधुनिक बैटरियों (Li-ion) में Lithium, cobalt, manganese जैसे तत्व सक्रिय घटक हैं; Copper व्यापक रूप से विद्युत कंडक्शन/कंटैक्ट के लिए आवश्यक है। इसलिए सभी दिए गए खनिज बैटरी/इलेक्ट्रॉनिक्स चेन में महत्वपूर्ण भूमिका निभाते हैं। / Lithium, cobalt, manganese are active battery materials; copper is critical for electrical conduction — all are important."
+    "answer": ["B"],
+    "explanation": "संपूर्णानंद संस्कृत विश्वविद्यालय वाराणसी संस्कृत अध्ययन और भारतीय दर्शन का प्रमुख केंद्र है।"
   },
   {
     "id": 18,
-    "question": "Froth flotation का प्रयोग सामान्यतः किस प्रकार के अयस्कों के लिए किया जाता है? / Froth flotation is commonly used for which ore types?",
+    "question": "निम्न में से कौन-सा ग्रह 'पृथ्वी की जुड़वाँ बहन' कहलाता है? / Which of the following planets is called the 'Twin Sister of Earth'?",
     "options": {
-      "A": "Sulphide ores (e.g., chalcopyrite, sphalerite) / सल्फ़ाइड अयस्क",
-      "B": "Graphite (ग्राफाइट)",
-      "C": "Garnet (गरनेट)",
-      "D": "Hematite (हीमटाइट) — coarse, lump"
+      "A": "मंगल / Mars",
+      "B": "शुक्र / Venus",
+      "C": "बुध / Mercury",
+      "D": "वरुण / Neptune"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "Froth flotation मुख्यतः सूक्ष्म-प्रकार के सल्फ़ाइड अयस्कों (चाल्कोर्पाइट, स्पैलेराइट आदि) के अलगाव के लिए इस्तेमाल होती है; इसके अलावा कुछ non-sulfide जैसे ग्राफाइट का भी फ्लोटेशन होता है। हीमटाइट के भूस्पष्ट बड़ों को अक्सर चुंबकीय/गुरुत्व पृथक्करण से अलग किया जाता है। / Flotation targets sulphide ores and some non-sulfide minerals (e.g., graphite); coarse hematite often uses magnetic/gravity methods."
+    "answer": ["B"],
+    "explanation": "शुक्र ग्रह को आकार और संरचना में पृथ्वी से मिलता-जुलता होने के कारण 'पृथ्वी की जुड़वाँ बहन' कहा जाता है।"
   },
   {
     "id": 19,
-    "question": "अयस्क-वितरण की उत्पत्ति के अनुसार श्रेणीकरण में कौन–से प्रकार आते हैं? / Which deposit origins are valid classifications by genesis?",
+    "question": "भारत में पंचायती राज व्यवस्था संवैधानिक दर्जा किस संशोधन से मिला? / Panchayati Raj System got constitutional status by which amendment?",
     "options": {
-      "A": "Magmatic (मैग्मेटिक)",
-      "B": "Hydrothermal (हाइड्रोथर्मल)",
-      "C": "Sedimentary (सेडिमेंटरी / रिकॉर्डेड)",
-      "D": "Metamorphic (मेटामॉर्फिक)"
+      "A": "42वाँ संशोधन / 42nd Amendment",
+      "B": "44वाँ संशोधन / 44th Amendment",
+      "C": "73वाँ संशोधन / 73rd Amendment",
+      "D": "74वाँ संशोधन / 74th Amendment"
     },
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "अयस्कों को उनके उत्पत्ति-तंत्र के अनुसार वर्गीकृत किया जाता है — मैग्मेटिक (magmatic segregation), हाइड्रोथर्मल वेन्स/सिस्टम, सेडिमेंटरी (chemical/biogenic) और मेटामॉर्फिक प्रक्रियाएँ — ये सभी व्यावहारिक और व्यापक श्रेणियाँ हैं। / Magmatic, hydrothermal, sedimentary and metamorphic origins are all standard deposit types."
+    "answer": ["C"],
+    "explanation": "73वें संशोधन (1992) द्वारा पंचायतों को संवैधानिक दर्जा दिया गया और 11वीं अनुसूची जोड़ी गई।"
   },
   {
     "id": 20,
-    "question": "हीरा (diamond) की प्राकृत उत्पत्ति के बारे में कौन–से कथन सही हैं? / Which statements about diamond formation are true?",
+    "question": "उत्तर प्रदेश का कौन-सा शहर 'एशिया का मैनचेस्टर' कहलाता है? / Which city of Uttar Pradesh is called 'Manchester of the East'?",
     "options": {
-      "A": "हीरा ज्यादातर मेंटल में क्रिस्टलाइज़ होते हैं और किम्बर्लाइट/लैम्पराइट माध्यम से सतह पर आते हैं।",
-      "B": "हीरे सतह पर जैविक प्रक्रियाओं से बनते हैं।",
-      "C": "सभी हीरे केवल किम्बर्लाइट पाइप्स में पाए जाते हैं।",
-      "D": "हीरे सेकेंडरी ऑलुवियल/प्लैसर कंसंट्रेशन में भी पाए जाते हैं।"
+      "A": "लखनऊ / Lucknow",
+      "B": "वाराणसी / Varanasi",
+      "C": "कानपुर / Kanpur",
+      "D": "मेरठ / Meerut"
     },
-    "answer": [
-      "A",
-      "D"
-    ],
-    "explanation": "Diamonds form at high pressures in the mantle and are transported rapidly to surface via kimberlite/lamproite eruptions (primary). बाद में वे मैकमेटिक्स/रिवर/बीच प्रक्रियाओं से टूटकर सेकेंडरी alluvial/placer deposits में सघनित हो जाते हैं। वे सतही जैविक प्रक्रियाओं से नहीं बनते और न ही सिर्फ़ kimberlite में ही सीमित हैं (lamproite भी स्रोत है)। / Diamonds crystallize in mantle and are transported by kimberlite/lamproite; they also occur in secondary alluvial placers."
+    "answer": ["C"],
+    "explanation": "कानपुर वस्त्र उद्योग के लिए प्रसिद्ध है और इसे 'पूर्व का मैनचेस्टर' कहा जाता है।"
   },
   {
     "id": 21,
-    "question": "निम्न में से कौन–से खनिज/लौह तत्व अक्सर आइग्नीअस/इंट्रूसीव सेटिंग्स से जुड़े होते हैं? / Which minerals/metals are commonly associated with igneous intrusive settings?",
+    "question": "भारतीय संविधान के किस अनुच्छेद में राज्यपाल को अध्यादेश जारी करने की शक्ति दी गई है? / Under which Article of the Constitution does the Governor have the power to promulgate Ordinances?",
     "options": {
-      "A": "Copper (porphyry-type) / ताम्बा (पोरफाइर)",
-      "B": "Chromite (क्रोमाइट) — ultramafic bodies",
-      "C": "Platinum-group elements (PGE) — mafic/ultramafic intrusions",
-      "D": "Bauxite (बॉक्साइट)"
+      "A": "Article 123",
+      "B": "Article 213",
+      "C": "Article 356",
+      "D": "Article 212"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Porphyry copper deposits जुड़ी intrusive प्रणालियों के साथ होते हैं; Chromite अल्ट्रामैफिक intrusive में सामान्य है; PGE भी विशेष रूप से mafic/ultramafic intrusions (Bushveld-type) से जुड़ी होती हैं। Bauxite अधिकतर वैदरिंग/रेसिडुअल प्रक्रियाओं से बनती है, intrusive से नहीं। / Copper (porphyry), chromite (ultramafic) and PGEs (mafic/ultramafic intrusions) are igneous-associated; bauxite is lateritic."
+    "answer": ["B"],
+    "explanation": "राज्यपाल को अध्यादेश जारी करने की शक्ति अनुच्छेद 213 के अंतर्गत प्राप्त होती है। अनुच्छेद 123 राष्ट्रपति से संबंधित है।"
   },
   {
     "id": 22,
-    "question": "Resource और Reserve में क्या अंतर है? कौन–से कथन सही हैं? / What is the difference between resource and reserve? Which statements are correct?",
+    "question": "काकोरी षड्यंत्र (1925) में निम्नलिखित में से कौन-कौन शामिल थे? / Who among the following were involved in the Kakori Conspiracy (1925)?",
     "options": {
-      "A": "Resource = किसी खनिज का कुल संभावित मात्रा (all occurrences irrespective of economic feasibility).",
-      "B": "Reserve = आर्थिक रूप से निकाले जाने योग्य वह हिस्सा (economically recoverable portion).",
-      "C": "Resource और Reserve हमेशा समान होते हैं।",
-      "D": "Proven और Probable reserve श्रेणियाँ रिज़र्व के अंदर आती हैं।"
+      "A": "राम प्रसाद बिस्मिल",
+      "B": "चंद्रशेखर आज़ाद",
+      "C": "अशफाकउल्ला खाँ",
+      "D": "भगत सिंह"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Resource कुल भौगोलिक/भंडार-सांद्रता को दर्शाता है, चाहे वह आर्थिक रूप से निकाले योग्य हो या न हो; Reserve वही भाग है जो प्रौद्योगिकी एवं आर्थिक शर्तों के तहत निकाला जा सकता है (proven/probable आदि श्रेणियाँ)। Resource और Reserve समान नहीं होते। / Resource = total in-place; Reserve = economically recoverable (proven/probable are reserve categories)."
+    "answer": ["A", "B", "C"],
+    "explanation": "काकोरी षड्यंत्र में राम प्रसाद बिस्मिल, अशफाकउल्ला खाँ, राजेंद्र लाहिड़ी और चंद्रशेखर आज़ाद शामिल थे। भगत सिंह इसमें प्रत्यक्ष रूप से शामिल नहीं थे।"
   },
   {
     "id": 23,
-    "question": "हाइड्रोथर्मल वेंस (hydrothermal veins) सामान्यतः किन–किन धातुओं/खनिजों का स्रोत होते हैं? / Hydrothermal veins commonly host which metals/minerals?",
+    "question": "निम्नलिखित में से कौन सा भारत में शीतोष्ण फल (Temperate fruit) है? / Which of the following is a temperate fruit in India?",
     "options": {
-      "A": "Gold (सोना)",
-      "B": "Silver (चाँदी)",
-      "C": "Copper (ताम्बा)",
-      "D": "Coal (कोयला)"
+      "A": "सेब (Apple)",
+      "B": "केला (Banana)",
+      "C": "आम (Mango)",
+      "D": "संतरा (Orange)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Hydrothermal systems में गरम, धातु-समृद्ध तरल वेन्स/वेंट्स बनाते हैं जिनमें gold, silver, copper जैसी धातुएँ सामान्यतः संकेंद्रित होती हैं। Coal ऑर्गेनिक सेडिमेंटरी प्रक्रियाओं से बनता है, हाइड्रोथर्मल वेन्स से नहीं। / Hydrothermal veins are major hosts for gold, silver, copper; coal is sedimentary organic."
+    "answer": ["A"],
+    "explanation": "भारत में शीतोष्ण फलों में मुख्यतः सेब, नाशपाती, चेरी आते हैं। आम, केला और संतरा उष्णकटिबंधीय/उपोष्णकटिबंधीय फसलें हैं।"
   },
   {
     "id": 24,
-    "question": "उर्वरक (fertilizer) के लिए प्राथमिक खनिज स्रोत कौन–से हैं? / Which minerals are primary sources for fertilizers?",
+    "question": "भारतीय रिज़र्व बैंक (RBI) की स्थापना कब हुई थी? / When was the Reserve Bank of India established?",
     "options": {
-      "A": "Rock phosphate / Phosphorite (फॉस्फेट शिलाएं)",
-      "B": "Potash (K salts — पोटाश / K)",
-      "C": "Gypsum (जिप्सम)",
-      "D": "Graphite (ग्राफाइट)"
+      "A": "1935",
+      "B": "1947",
+      "C": "1950",
+      "D": "1920"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "फॉस्फेट रॉक (P) और पोटाश (K — sylvite, carnallite, kainite आदि) उर्वरकों के मूल खनिज स्रोत हैं। Gypsum अक्सर soil amendment/secondary fertilizer की तरह उपयोग होता है (Ca source), पर प्राथमिक NPK घटक नहीं है; Graphite उर्वरक नहीं है। / Rock phosphate (P) and potash (K) are primary fertilizer minerals; gypsum is an amendment (Ca), graphite is not a fertilizer."
+    "answer": ["A"],
+    "explanation": "भारतीय रिज़र्व बैंक की स्थापना 1 अप्रैल 1935 को रिज़र्व बैंक ऑफ़ इंडिया एक्ट, 1934 के अंतर्गत की गई थी।"
   },
   {
     "id": 25,
-    "question": "Sulphide concentrates को स्मेल्टिंग से कौन–से धातु पुन:प्राप्त किए जाते हैं? / Which metals are typically recovered by smelting sulphide concentrates?",
+    "question": "रामगढ़ झील किस शहर में स्थित है? / In which city is Ramgarh Lake located?",
     "options": {
-      "A": "Copper (ताम्बा)",
-      "B": "Lead (सीसा)",
-      "C": "Zinc (जस्ता)",
-      "D": "Aluminium (एल्यूमिनियम)"
+      "A": "लखनऊ",
+      "B": "गोरखपुर",
+      "C": "कानपुर",
+      "D": "झाँसी"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "सल्फ़ाइड concentrates (जैसे chalcopyrite, galena, sphalerite) को फ्लोटेशन/कंसंट्रेट के बाद स्मेल्ट/रिफाइन कर के copper, lead, zinc जैसी धातुएँ निकाली जाती हैं। Aluminium के लिए अलग Bayer + Hall–Héroult मार्ग है; यह सल्फ़ाइड स्मेल्टिंग से नहीं आता। / Copper, lead and zinc are commonly smelted from sulphide concentrates; aluminium requires bauxite-alumina-electrolysis route."
+    "answer": ["B"],
+    "explanation": "रामगढ़ झील गोरखपुर (उत्तर प्रदेश) में स्थित है और यह क्षेत्र की प्रमुख झील है।"
   },
   {
     "id": 26,
-    "question": "खनन के पर्यावरणीय प्रभावों में कौन–से शामिल हैं? / Which of the following are environmental impacts of mining?",
+    "question": "भारत सरकार अधिनियम 1935 के अंतर्गत किन-किन प्रावधानों को स्वीकार किया गया था? / Which provisions were accepted under Government of India Act 1935?",
     "options": {
-      "A": "Acid Mine Drainage (अम्लीय खदान जल)",
-      "B": "Habit loss and land degradation (आवास विनाश और लैंड डिग्रेडेशन)",
-      "C": "Airborne dust and particulate pollution (धूल प्रदूषण)",
-      "D": "Agricultural yield increase in mining sites"
+      "A": "संघीय ढांचा (Federal Structure)",
+      "B": "प्रांतीय स्वायत्तता (Provincial Autonomy)",
+      "C": "मौलिक अधिकार (Fundamental Rights)",
+      "D": "सर्वोच्च न्यायालय की स्थापना (Federal Court Establishment)"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Mining से Acid Mine Drainage, भारी धातु परिशिष्टता, कैंसिलिंग/हैबिटैट विनाश, और वायु/धूल प्रदूषण जैसी समस्याएँ होती हैं। खनन साइट पर कृषि उत्पादन सामान्यतः नहीं बढ़ता — अक्सर घटता है। / Mining causes AMD, habitat loss, dust pollution; it does not increase agricultural yields."
+    "answer": ["A", "B", "D"],
+    "explanation": "1935 के अधिनियम के अंतर्गत संघीय ढांचा, प्रांतीय स्वायत्तता और संघीय न्यायालय की स्थापना का प्रावधान था। मौलिक अधिकार इसमें नहीं थे।"
   },
   {
     "id": 27,
-    "question": "Placer रूप में सोना निकालने के पारंपरिक तरीके कौन–से हैं? / Which are traditional methods for extracting placer gold?",
+    "question": "उत्तर प्रदेश में ‘नारोरा परमाणु विद्युत संयंत्र’ किस जिले में है? / In which district of Uttar Pradesh is Narora Atomic Power Plant located?",
     "options": {
-      "A": "Panning (हैंड-पैनिंग)",
-      "B": "Sluicing (स्लूइस-बॉक्स / चैनल के माध्यम से अलग करना)",
-      "C": "Heap leaching (हीप-लीचिंग)",
-      "D": "Underground stoping (अंडरग्राउंड स्टॉपिंग)"
+      "A": "बुलंदशहर",
+      "B": "बरेली",
+      "C": "अलीगढ़",
+      "D": "सोनभद्र"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "Placer gold निकालने में पैनिंग और स्लूइस जैसे गुरुत्व/जल-आधारित यांत्रिक तरीके पारंपरिक हैं। हीप-लीचिंग का उपयोग कभी-कभी low-grade oxide ores के लिए होता है पर वह प्लैसर का प्राथमिक विधि नहीं है; अंडरग्राउंड स्टॉपिंग ग्रेवल-प्लेसर के लिए उपयुक्त नहीं। / Panning and sluicing are classic placer gold extraction methods; heap leaching is used for some low-grade ores, underground stoping is not for placer."
+    "answer": ["A"],
+    "explanation": "नारोरा परमाणु विद्युत संयंत्र उत्तर प्रदेश के बुलंदशहर जिले में गंगा नदी के किनारे स्थित है।"
   },
   {
     "id": 28,
-    "question": "Hydrothermal alteration के कौन–से खनिज संकेतक (indicator minerals) माने जाते हैं? / Which minerals are indicators of hydrothermal alteration?",
+    "question": "गंगा एक्शन प्लान की शुरुआत कब की गई थी? / When was the Ganga Action Plan launched?",
     "options": {
-      "A": "Sericite (सैरिसाइट)",
-      "B": "Chlorite (क्लोराइट)",
-      "C": "Quartz (Silica alteration / सिला)",
-      "D": "Graphite (ग्राफाइट)"
+      "A": "1985",
+      "B": "1990",
+      "C": "1980",
+      "D": "1995"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "हाइड्रोथर्मल अल्टरेशन में अक्सर sericite (fine white mica), chlorite, और silica-dominated zones बनते हैं — ये उपस्थिति एक गहरे हाइड्रोथर्मल सिस्टम का संकेत देती है जहाँ धातु-धनचित्त हो सकता है। Graphite का संबंध अधिकतर उच्च-स्तरीय कार्बोनस कार्बन सामग्री/मेटामॉर्फिज्म से होता है। / Sericite, chlorite and silica are common hydrothermal alteration indicators; graphite is metamorphic/organic."
+    "answer": ["A"],
+    "explanation": "गंगा एक्शन प्लान की शुरुआत 1985 में तत्कालीन प्रधानमंत्री राजीव गांधी द्वारा की गई थी।"
   },
   {
     "id": 29,
-    "question": "Iron ore beneficiation में कौन–से तरीके प्रयुक्त हो सकते हैं? / Which methods may be used in iron-ore beneficiation?",
+    "question": "संयुक्त राष्ट्र महासभा में भारत द्वारा प्रस्तावित 'अंतर्राष्ट्रीय योग दिवस' किस वर्ष से मनाया जाने लगा? / From which year is International Yoga Day, proposed by India, observed?",
     "options": {
-      "A": "Magnetic separation (चुंबकीय पृथक्करण)",
-      "B": "Froth flotation (फ्रोथ फ्लोटेशन)",
-      "C": "Roasting (रोस्टिंग)",
-      "D": "Gravity separation (गुरुत्व पृथक्करण)"
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Magnetic separation magnetite के लिए प्रमुख है; hematite के सूक्ष्म अंशों के लिए flotation उपयोगी हो सकती है; gravity separation भी coarse/dense hematite के लिये उपयोगी है। Roasting का उपयोग कुछ विशेष कंडीशन में किया जा सकता है पर सामान्य रूप से ये तीन तकनीकें अधिक प्रचलित हैं। / Magnetic, flotation and gravity separation are commonly used in iron ore beneficiation; roasting is less typical."
+    "answer": ["C"],
+    "explanation": "संयुक्त राष्ट्र ने 2014 में प्रस्ताव स्वीकार किया और 21 जून 2015 से पहला अंतर्राष्ट्रीय योग दिवस मनाया गया।"
   },
   {
     "id": 30,
-    "question": "Banded Iron Formations (BIF) की कौन–सी विशेषताएँ सामान्य हैं? / Which are characteristic features of Banded Iron Formations (BIF)?",
+    "question": "उत्तर प्रदेश की किस नृत्य शैली को यूनेस्को ने अमूर्त सांस्कृतिक धरोहर में शामिल किया है? / Which dance form of Uttar Pradesh has been included in UNESCO's Intangible Cultural Heritage?",
     "options": {
-      "A": "प्राम्भिक (Precambrian) युग में बने होने की प्रवृत्ति",
-      "B": "आयरन-समृद्ध और सिलिका-समृद्ध alternating bands",
-      "C": "उच्च-ग्रेड लौह-खनिज का स्रोत",
-      "D": "हालिया (Cenozoic) अपवाह/वेदरिंग से बने"
+      "A": "कथक",
+      "B": "रासलीला",
+      "C": "नौटंकी",
+      "D": "ठुमरी"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "BIFs प्रायः प्राचीन (Archean–Proterozoic) तख्तों में पाए जाते हैं और उनमें लौह-समृद्ध (hematite/magnetite) और सिलिका (chert) की alternating bands होती हैं — ये दुनिया के कुछ बड़े लौह-योज्ञ स्रोत हैं। ये हालिया वैदरिंग-प्रक्रियाओं से उत्पन्न नहीं होते। / BIFs are mostly Precambrian, with alternating iron and silica bands and are major iron ore sources."
+    "answer": ["A"],
+    "explanation": "कथक नृत्य शैली, जिसकी उत्पत्ति उत्तर प्रदेश से मानी जाती है, को यूनेस्को की अमूर्त सांस्कृतिक धरोहर सूची में शामिल किया गया है।"
   },
   {
     "id": 31,
-    "question": "Graphite (ग्राफाइट) का निर्माण सामान्यतः कैसे होता है? / How is graphite typically formed?",
+    "question": "किस वायसराय के समय बंगाल का विभाजन (Partition of Bengal) हुआ था? / During which Viceroy’s tenure did the Partition of Bengal take place?",
     "options": {
-      "A": "Metamorphism of carbonaceous sediments / कार्बोनीयस सेडिमेंट का मैटामॉर्फ़िज्म",
-      "B": "Direct igneous crystallization in basalt",
-      "C": "Biological accumulation at surface",
-      "D": "Evaporite deposition"
+      "A": "लॉर्ड कर्जन",
+      "B": "लॉर्ड डलहौजी",
+      "C": "लॉर्ड लिनलिथगो",
+      "D": "लॉर्ड रिपन"
     },
-    "answer": [
-      "A"
-    ],
-    "explanation": "Graphite सामान्यतः प्राचीन कार्बन-समृद्ध सेडिमेंट्स के उच्च ताप-चाप मैटामॉर्फ़िज़्म से बनता है, जहाँ कार्बनिक पदार्थ क्रमिक रूप से संरचित कार्बन (graphitic) रूप में परिवर्तित होते हैं। यह इग्नीअस या इवैपोरेटिव उत्पत्ति नहीं दर्शाता। / Graphite forms by metamorphism of carbonaceous sediments under high T–P conditions."
+    "answer": ["A"],
+    "explanation": "बंगाल का विभाजन 1905 में लॉर्ड कर्जन द्वारा किया गया था।"
   },
   {
     "id": 32,
-    "question": "Mica (माइका) के ऐतिहासिक और उद्योगक उपयोग क्या रहे हैं? / What have been principal historical/industrial uses of mica?",
+    "question": "निम्नलिखित में से कौन से कारण भू-क्षरण (Soil Erosion) के लिए जिम्मेदार हैं? / Which of the following are responsible for Soil Erosion?",
     "options": {
-      "A": "Electrical insulation / विद्युत अवरोधक",
-      "B": "Cosmetics (glitter / sheen) / कॉस्मेटिक्स",
-      "C": "Paints and fillers / पेंट्स",
-      "D": "Fuel (ईंधन)"
+      "A": "वनों की कटाई",
+      "B": "अत्यधिक चराई",
+      "C": "अत्यधिक वर्षा",
+      "D": "बाढ़"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Mica की उच्च dielectric strength व thermal stability के कारण यह electrical insulation में उपयोगी है; सूक्ष्म mica flakes को cosmetics में shimmer के लिये और paints/fillers में भी उपयोग किया जाता है। यह ईंधन नहीं है। / Mica is used for electrical insulation, cosmetics (shimmer), and paints/fillers — not as fuel."
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "भू-क्षरण के कई कारण होते हैं, जिनमें वनों की कटाई, अत्यधिक चराई, भारी वर्षा और बाढ़ शामिल हैं।"
   },
   {
     "id": 33,
-    "question": "Phosphate rock (फॉस्फेट शिला) सामान्यतः किस प्रकार की सेटिंग में जमा होते हैं? / In which setting are phosphate rocks typically deposited?",
+    "question": "भारत की पंचवर्षीय योजनाओं में ‘हरित क्रांति’ को किस योजना में प्रारंभ किया गया था? / In which Five-Year Plan was the Green Revolution initiated in India?",
     "options": {
-      "A": "Marine sedimentary environments (coastal shelf phosphorite formation)",
-      "B": "Ultramafic igneous complexes",
-      "C": "Organic-rich lacustrine shales",
-      "D": "Evaporites in arid basins"
+      "A": "द्वितीय योजना",
+      "B": "तृतीय योजना",
+      "C": "चतुर्थ योजना",
+      "D": "पंचम योजना"
     },
-    "answer": [
-      "A"
-    ],
-    "explanation": "Phosphorites मुख्यतः समुद्री shelf environments में जमा होते हैं जहां उच्च समुद्री productivity व भौगोलिक-रासायनिक शर्तें phosphorus को concentrated कर देती हैं। Ultramafic और evaporite सेटिंग्स सामान्य स्रोत नहीं हैं। / Phosphate rock (phosphorite) is typically a marine sedimentary deposit formed on continental shelves."
+    "answer": ["C"],
+    "explanation": "भारत में हरित क्रांति का प्रारंभ चतुर्थ पंचवर्षीय योजना (1969-74) में हुआ।"
   },
   {
     "id": 34,
-    "question": "Solution mining (सोल्यूशन माइनिंग) से किस–किस खनिज का उत्खनन किया जा सकता है? / Which minerals can be extracted by solution mining?",
+    "question": "भारत के संविधान की किस अनुसूची में ‘नौवीं अनुसूची’ को जोड़ा गया था? / By which Constitutional Amendment was the Ninth Schedule added?",
     "options": {
-      "A": "Rock salt / Halite (भरपूर नमक)",
-      "B": "Potash (कुछ बेसिनों में)",
-      "C": "Coal seam (via underground gasification)",
-      "D": "Gold veins by mechanical stoping"
+      "A": "पहला संशोधन (1951)",
+      "B": "सातवां संशोधन (1956)",
+      "C": "बयालिसवां संशोधन (1976)",
+      "D": "चौवालीसवां संशोधन (1978)"
     },
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "Solution mining (in-situ leaching) नमक (halite) और कुछ पोटाश-सॉल्टों के लिए उपयुक्त है जहाँ पानी/लीचेंट इंजेक्ट कर के सॉल्यूबल सामग्री निकाली जाती है। कोयला/सोने के पारंपरिक रूप से solution mining से नहीं निकाले जाते (coal seam gasification अलग प्रक्रिया है)। / Solution mining/in-situ leaching is used for salts (halite) and some potash resources."
+    "answer": ["A"],
+    "explanation": "नौवीं अनुसूची संविधान के पहले संशोधन (1951) के अंतर्गत जोड़ी गई थी।"
   },
   {
     "id": 35,
-    "question": "निम्न में से किन खनिजों का लस्ट (luster) धात्विक (metallic) प्रकार का होता है? / Which of the following minerals typically exhibit metallic luster?",
+    "question": "उत्तर प्रदेश का कौन सा शहर ‘टेक्सटाइल सिटी’ (Textile City) के नाम से जाना जाता है? / Which city of Uttar Pradesh is known as the Textile City?",
     "options": {
-      "A": "Pyrite (पाइराइट)",
-      "B": "Hematite (हीमटाइट)",
-      "C": "Quartz (क्वार्ट्ज)",
-      "D": "Graphite (ग्राफाइट)"
+      "A": "कानपुर",
+      "B": "वाराणसी",
+      "C": "मेरठ",
+      "D": "फिरोजाबाद"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Pyrite और Graphite में चमकीला metallic लस्ट मिलता है; Hematite के कुछ रूपों में भी metallic/sub-metallic लस्ट देखा जा सकता है (specular hematite)। Quartz ऐतिहासिक रूप से non-metallic (glassy) लस्ट दिखाता है। / Pyrite, hematite (specular) and graphite can show metallic luster; quartz is non-metallic."
+    "answer": ["A"],
+    "explanation": "कानपुर को उसके वस्त्र उद्योग और कपड़ा मिलों के कारण 'टेक्सटाइल सिटी' कहा जाता है।"
   },
   {
     "id": 36,
-    "question": "Dharwar greenstone belts में सामान्यतः कौन–से खनिज पाए जाते हैं? / Which minerals are commonly found in Dharwar greenstone belts?",
+    "question": "भारतीय राष्ट्रीय कांग्रेस का पहला अधिवेशन कहाँ आयोजित किया गया था? / Where was the first session of Indian National Congress held?",
     "options": {
-      "A": "Gold (सोना)",
-      "B": "Iron (लोह) / Banded iron formations",
-      "C": "Base metals (Cu–Pb–Zn) / बेस-लौह धातुएँ",
-      "D": "Evaporite salts"
+      "A": "मुंबई",
+      "B": "कलकत्ता",
+      "C": "इलाहाबाद",
+      "D": "लखनऊ"
     },
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "Dharwar-type greenstone belts प्रायः Archean volcanic–sedimentary sequences हैं जिनमें hydrothermal gold mineralisation और localized base-metal occurrences (Cu–Pb–Zn) मिलते हैं। Banded iron formations भारतीय क्रोनोलॉजी में अलग प्रादेशिक रूप से पाए जा सकते हैं पर Dharwar belts का प्रमुख पहचान gold/base-metal systems है; evaporite salts प्रचलित नहीं। / Dharwar belts commonly host gold and base-metal (Cu–Pb–Zn) mineralization."
+    "answer": ["A"],
+    "explanation": "भारतीय राष्ट्रीय कांग्रेस का पहला अधिवेशन 1885 में मुंबई (गोकुलदास तेजपाल संस्कृत कॉलेज) में हुआ था।"
   },
   {
     "id": 37,
-    "question": "Lead–zinc ores की फ़्लोटेशन प्रक्रिया से कौन–से प्रमुख अयस्क अलग किए जाते हैं? / Which ore minerals are commonly recovered by flotation from lead–zinc ores?",
+    "question": "उत्तर प्रदेश का कौन सा जिला ‘भारत का सोने का शहर’ (Golden City of India) कहा जाता है? / Which district of Uttar Pradesh is called the Golden City of India?",
     "options": {
-      "A": "Galena (PbS) — सीसा",
-      "B": "Sphalerite (ZnS) — जस्ता",
-      "C": "Chalcopyrite (CuFeS2) — ताम्बा",
-      "D": "Hematite (Fe2O3)"
+      "A": "वाराणसी",
+      "B": "कानपुर",
+      "C": "लखनऊ",
+      "D": "सोनभद्र"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "Lead–zinc ore circuits में Galena और Sphalerite मुख्य फ़्लोटेशन टार्गेट होते हैं; अक्सर chalcopyrite (यदि उपस्थित) भी फ्लोटेशन में recover किया जाता है। Hematite आमतौर पर lead–zinc sulfide circuits का लक्ष्य नहीं है। / Flotation recovers galena and sphalerite and often chalcopyrite when associated; hematite is not typical in these circuits."
+    "answer": ["A"],
+    "explanation": "वाराणसी को उसकी समृद्ध सांस्कृतिक और धार्मिक धरोहर तथा स्वर्ण कारीगरी के कारण 'गोल्डन सिटी ऑफ इंडिया' कहा जाता है।"
   },
   {
     "id": 38,
-    "question": "Froth flotation में सामान्यतः कौन–से reagent श्रेणियाँ उपयोग की जाती हैं? / Which reagent categories are commonly used in froth flotation?",
+    "question": "संविधान सभा की ‘झंडा समिति’ के अध्यक्ष कौन थे? / Who was the Chairman of the Flag Committee of the Constituent Assembly?",
     "options": {
-      "A": "Collectors (e.g., xanthates) — कलेक्टर",
-      "B": "Frothers (foam stabilisers) — फ़्रोदर",
-      "C": "Depressants (to suppress certain minerals) — डिप्रेसेंट",
-      "D": "Fluxes (for metallurgical smelting)"
+      "A": "राजेंद्र प्रसाद",
+      "B": "जवाहरलाल नेहरू",
+      "C": "डॉ. बी. आर. अंबेडकर",
+      "D": "डॉ. राधाकृष्णन"
     },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "फ़्लोटेशन में collectors (खनिज को हाइड्रोफोबिक बनाने के लिए), frothers (foam stability के लिये) और depressants (कुछ खनिजों को suppress करने के लिये) मुख्य reagent हैं। Fluxes metallurgy में इस्तेमाल होते हैं पर flotation में नहीं। / Collectors, frothers and depressants are key flotation reagents; fluxes are for smelting."
+    "answer": ["B"],
+    "explanation": "संविधान सभा की झंडा समिति के अध्यक्ष जवाहरलाल नेहरू थे।"
   },
   {
     "id": 39,
-    "question": "ग्लास निर्माण (glass manufacturing) में आमतौर पर कौन–से खनिज/सामग्री आवश्यक होती हैं? / Which minerals/materials are commonly used in glass manufacturing?",
+    "question": "उत्तर प्रदेश में दुधवा राष्ट्रीय उद्यान किस जिले में स्थित है? / In which district of Uttar Pradesh is Dudhwa National Park located?",
     "options": {
-      "A": "Silica (Quartz / सिलिका)",
-      "B": "Limestone (चूना पत्थर) — Ca source",
-      "C": "Soda ash (Na2CO3) — रासायनिक (मिनरल नहीं)",
-      "D": "Feldspar (फेल्डस्पार)"
+      "A": "लखीमपुर खीरी",
+      "B": "बांदा",
+      "C": "चित्रकूट",
+      "D": "सहारनपुर"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "Glass के लिए silica (SiO₂) मुख्य कच्चामाल है; Limestone (CaCO₃) और Feldspar (Al-silicates) मेल्ट-गुण और स्थायित्व में योगदान देते हैं। Soda ash एक रासायनिक अम्ल-विच्छेदक है (mineral नहीं) पर ग्लास-फॉर्मूला में आवश्यक है — प्रश्न में 'खनिज' प्राथमिकता के साथ A,B,D सही माने गए। / Silica, limestone and feldspar are mineral inputs for glass; soda ash is a chemical additive (not a raw mineral in many contexts)."
+    "answer": ["A"],
+    "explanation": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के लखीमपुर खीरी जिले में स्थित है।"
   },
   {
     "id": 40,
-    "question": "Mine closure और rehabilitation में कौन–से कदम सामान्यतः आवश्यक माने जाते हैं? / Which steps are typically required in mine closure and rehabilitation?",
+    "question": "भारत छोड़ो आंदोलन (1942) के समय कांग्रेस के अध्यक्ष कौन थे? / Who was the President of Congress during Quit India Movement (1942)?",
     "options": {
-      "A": "Backfilling and recontouring of pits / बैकफिलिंग व भूमि पुनरुपरूप",
-      "B": "Soil amelioration and planting native vegetation / मिट्टी सुधार व स्थानीय वनस्पति रोपण",
-      "C": "Leaving tailings unlined without treatment / टेलिंग्स को बिना इलाज के खुला छोड़ देना",
-      "D": "Monitoring of water quality and long-term maintenance / जल गुणवत्ता निगरानी"
+      "A": "महात्मा गांधी",
+      "B": "जवाहरलाल नेहरू",
+      "C": "आचार्य कृपलानी",
+      "D": "सुभाष चंद्र बोस"
     },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "सुदृढ़ mine closure में pits की backfilling/recontouring, मिट्टी की वसूली व native species से revegetation, और लंबी अवधि तक जल-गुणवत्ता व पर्यावरणीय निगरानी आवश्यक हैं। Tailings को untreated/unlined छोड़ना पर्यावरणीय जोखिम बढ़ाता है और यह स्वीकार्य अभ्यास नहीं है। / Proper closure requires backfilling/recontouring, soil amelioration and revegetation, and long-term water-quality monitoring; leaving tailings untreated is not acceptable."
+    "answer": ["C"],
+    "explanation": "भारत छोड़ो आंदोलन (1942) के समय कांग्रेस के अध्यक्ष आचार्य जे. बी. कृपलानी थे।"
+  },
+  {
+    "id": 41,
+    "question": "भारतीय संविधान के किस अनुच्छेद में राष्ट्रपति को क्षमा, दंड-रोक, या दंड-परिवर्तन की शक्ति दी गई है? / Under which Article of the Indian Constitution does the President have the power of pardon, reprieve, or commutation?",
+    "options": {
+      "A": "अनुच्छेद 72 (Article 72)",
+      "B": "अनुच्छेद 161 (Article 161)",
+      "C": "अनुच्छेद 356 (Article 356)",
+      "D": "अनुच्छेद 53 (Article 53)"
+    },
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 72 के तहत राष्ट्रपति को क्षमा या दंड-परिवर्तन की शक्ति दी गई है। जबकि अनुच्छेद 161 में यही शक्ति राज्यपाल को राज्य-स्तरीय अपराधों के लिए दी गई है।"
+  },
+  {
+    "id": 42,
+    "question": "भारत में प्रथम पंचवर्षीय योजना (1951-56) का मुख्य लक्ष्य क्या था? / What was the main objective of the First Five-Year Plan (1951-56) in India?",
+    "options": {
+      "A": "औद्योगिकीकरण (Industrialization)",
+      "B": "कृषि और सिंचाई (Agriculture & Irrigation)",
+      "C": "रोज़गार सृजन (Employment Generation)",
+      "D": "निर्यात वृद्धि (Export Promotion)"
+    },
+    "answer": ["B"],
+    "explanation": "प्रथम पंचवर्षीय योजना का मुख्य उद्देश्य कृषि और सिंचाई था ताकि खाद्य संकट और उत्पादन की समस्या को दूर किया जा सके।"
+  },
+  {
+    "id": 43,
+    "question": "भारत की किस नदी को 'बिहार का शोक' कहा जाता है? / Which river is known as 'Sorrow of Bihar'?",
+    "options": {
+      "A": "कोसी (Kosi)",
+      "B": "गंडक (Gandak)",
+      "C": "घाघरा (Ghaghra)",
+      "D": "सोन (Son)"
+    },
+    "answer": ["A"],
+    "explanation": "कोसी नदी को 'बिहार का शोक' कहा जाता है क्योंकि इसका बार-बार मार्ग बदलना और बाढ़ लाना बिहार में भारी तबाही मचाता है।"
+  },
+  {
+    "id": 44,
+    "question": "उत्तर प्रदेश की राज्यपाल के कार्यकाल की अवधि कितनी होती है? / What is the tenure of the Governor of Uttar Pradesh?",
+    "options": {
+      "A": "3 वर्ष (3 years)",
+      "B": "5 वर्ष (5 years)",
+      "C": "6 वर्ष (6 years)",
+      "D": "जब तक राष्ट्रपति चाहे (During the pleasure of President)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "संविधान में राज्यपाल का कार्यकाल 5 वर्ष बताया गया है, लेकिन वह राष्ट्रपति की इच्छा पर हटाए भी जा सकते हैं। इसलिए व्यावहारिक रूप से उनका कार्यकाल 'President’s pleasure' पर निर्भर करता है।"
+  },
+  {
+    "id": 45,
+    "question": "‘चंद्रकांत बंधोपाध्याय समिति’ किससे संबंधित थी? / The 'Chandrakant Bhandopadhyay Committee' was related to?",
+    "options": {
+      "A": "कृषि सुधार (Agricultural Reforms)",
+      "B": "काला धन (Black Money)",
+      "C": "केंद्रीय कराधान (Central Taxation)",
+      "D": "रेलवे सुधार (Railway Reforms)"
+    },
+    "answer": ["C"],
+    "explanation": "चंद्रकांत बंधोपाध्याय समिति कर संरचना और कर प्रशासन से संबंधित थी।"
+  },
+  {
+    "id": 46,
+    "question": "नंद वंश के संस्थापक कौन थे? / Who was the founder of the Nanda Dynasty?",
+    "options": {
+      "A": "घनानंद (Dhana Nanda)",
+      "B": "महापद्मनंद (Mahapadma Nanda)",
+      "C": "उग्रसेन नंद (Ugrasena Nanda)",
+      "D": "काल नंद (Kala Nanda)"
+    },
+    "answer": ["B"],
+    "explanation": "नंद वंश के संस्थापक महापद्मनंद थे जिन्हें 'एकरत' कहा जाता है।"
+  },
+  {
+    "id": 47,
+    "question": "भारत का कौन-सा भू-भाग ‘कॉफी बेल्ट’ के रूप में जाना जाता है? / Which region of India is known as the 'Coffee Belt'?",
+    "options": {
+      "A": "केरल (Kerala)",
+      "B": "कर्नाटक (Karnataka)",
+      "C": "तमिलनाडु (Tamil Nadu)",
+      "D": "आंध्र प्रदेश (Andhra Pradesh)"
+    },
+    "answer": ["B"],
+    "explanation": "भारत का कॉफी उत्पादन मुख्यतः कर्नाटक में होता है, इसे ‘Coffee Belt’ कहा जाता है।"
+  },
+  {
+    "id": 48,
+    "question": "किस गवर्नर-जनरल ने ‘सती प्रथा’ का अंत किया? / Which Governor-General abolished the practice of 'Sati'?",
+    "options": {
+      "A": "लॉर्ड वेलेजली (Lord Wellesley)",
+      "B": "लॉर्ड विलियम बैंटिंक (Lord William Bentinck)",
+      "C": "लॉर्ड डलहौजी (Lord Dalhousie)",
+      "D": "लॉर्ड हेस्टिंग्स (Lord Hastings)"
+    },
+    "answer": ["B"],
+    "explanation": "1829 में लॉर्ड विलियम बैंटिंक ने राजा राममोहन राय के प्रयासों से सती प्रथा को समाप्त कर दिया।"
+  },
+  {
+    "id": 49,
+    "question": "भारतीय संसद में 'शून्यकाल' (Zero Hour) कब शुरू किया गया था? / When was 'Zero Hour' introduced in the Indian Parliament?",
+    "options": {
+      "A": "1950",
+      "B": "1962",
+      "C": "1972",
+      "D": "1982"
+    },
+    "answer": ["B"],
+    "explanation": "1962 में भारतीय संसद में 'Zero Hour' शुरू किया गया था, यह प्रश्नकाल और कार्यसूची के बीच का समय होता है।"
+  },
+  {
+    "id": 50,
+    "question": "उत्तर प्रदेश का कौन-सा जिला 'पिक्चर सिटी' के रूप में जाना जाता है? / Which district of Uttar Pradesh is known as 'Picture City'?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "सहारनपुर (Saharanpur)",
+      "C": "हापुड़ (Hapur)",
+      "D": "नोएडा (Noida)"
+    },
+    "answer": ["D"],
+    "explanation": "नोएडा को 'Picture City' कहा जाता है क्योंकि यह फिल्म सिटी का प्रमुख केंद्र है।"
+  },
+  {
+    "id": 51,
+    "question": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी? / In which year was the Reserve Bank of India (RBI) established?",
+    "options": {
+      "A": "1930",
+      "B": "1935",
+      "C": "1947",
+      "D": "1950"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय रिजर्व बैंक की स्थापना 1 अप्रैल 1935 को की गई थी।"
+  },
+  {
+    "id": 52,
+    "question": "भारतीय संविधान में 'समान नागरिक संहिता' (Uniform Civil Code) किस अनुच्छेद में उल्लिखित है? / The 'Uniform Civil Code' is mentioned under which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 40 (Article 40)",
+      "B": "अनुच्छेद 44 (Article 44)",
+      "C": "अनुच्छेद 48 (Article 48)",
+      "D": "अनुच्छेद 51 (Article 51)"
+    },
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 44 में समान नागरिक संहिता का उल्लेख है जो राज्य के नीति निर्देशक तत्वों में आता है।"
+  },
+  {
+    "id": 53,
+    "question": "किस शासक ने कुतुब मीनार का निर्माण शुरू कराया था? / Which ruler started the construction of Qutub Minar?",
+    "options": {
+      "A": "इल्तुतमिश (Iltutmish)",
+      "B": "कुतुबुद्दीन ऐबक (Qutubuddin Aibak)",
+      "C": "अलाउद्दीन खिलजी (Alauddin Khilji)",
+      "D": "मोहम्मद बिन तुगलक (Muhammad bin Tughlaq)"
+    },
+    "answer": ["B"],
+    "explanation": "कुतुबुद्दीन ऐबक ने कुतुब मीनार का निर्माण शुरू कराया था, जिसे इल्तुतमिश ने पूरा किया।"
+  },
+  {
+    "id": 54,
+    "question": "अमर्त्य सेन को किस क्षेत्र में नोबेल पुरस्कार मिला? / In which field was Amartya Sen awarded the Nobel Prize?",
+    "options": {
+      "A": "साहित्य (Literature)",
+      "B": "शांति (Peace)",
+      "C": "अर्थशास्त्र (Economics)",
+      "D": "चिकित्सा (Medicine)"
+    },
+    "answer": ["C"],
+    "explanation": "अमर्त्य सेन को 1998 में कल्याण अर्थशास्त्र में योगदान के लिए नोबेल पुरस्कार दिया गया।"
+  },
+  {
+    "id": 55,
+    "question": "उत्तर प्रदेश में सबसे बड़ा विद्युत उत्पादन केंद्र कौन-सा है? / Which is the largest power generation plant in Uttar Pradesh?",
+    "options": {
+      "A": "अंजनी पावर प्लांट (Anjani Power Plant)",
+      "B": "ओबरा तापीय विद्युत गृह (Obra Thermal Power Plant)",
+      "C": "अनपरा तापीय विद्युत गृह (Anpara Thermal Power Plant)",
+      "D": "पारीछा तापीय विद्युत गृह (Parichha Thermal Power Plant)"
+    },
+    "answer": ["C"],
+    "explanation": "उत्तर प्रदेश का सबसे बड़ा विद्युत उत्पादन केंद्र सोनभद्र का अनपरा तापीय विद्युत गृह है।"
+  },
+  {
+    "id": 56,
+    "question": "‘विश्व पर्यावरण दिवस’ कब मनाया जाता है? / When is 'World Environment Day' celebrated?",
+    "options": {
+      "A": "5 जून (5th June)",
+      "B": "22 अप्रैल (22nd April)",
+      "C": "1 मई (1st May)",
+      "D": "21 मार्च (21st March)"
+    },
+    "answer": ["A"],
+    "explanation": "विश्व पर्यावरण दिवस हर साल 5 जून को मनाया जाता है।"
+  },
+  {
+    "id": 57,
+    "question": "1857 के विद्रोह में कानपुर में विद्रोह का नेतृत्व किसने किया था? / Who led the revolt of 1857 in Kanpur?",
+    "options": {
+      "A": "झाँसी की रानी (Rani Laxmi Bai)",
+      "B": "बेगम हजरत महल (Begum Hazrat Mahal)",
+      "C": "नाना साहेब (Nana Saheb)",
+      "D": "तात्या टोपे (Tatya Tope)"
+    },
+    "answer": ["C"],
+    "explanation": "1857 के विद्रोह में कानपुर में नाना साहेब ने नेतृत्व किया।"
+  },
+  {
+    "id": 58,
+    "question": "नर्मदा नदी का उद्गम स्थल कहाँ है? / Where is the origin of the Narmada river?",
+    "options": {
+      "A": "अमरकंटक पठार (Amarkantak Plateau)",
+      "B": "महादेव पहाड़ियाँ (Mahadev Hills)",
+      "C": "सतपुड़ा की पहाड़ियाँ (Satpura Hills)",
+      "D": "राजमहल पहाड़ियाँ (Rajmahal Hills)"
+    },
+    "answer": ["A"],
+    "explanation": "नर्मदा नदी का उद्गम मध्य प्रदेश के अमरकंटक पठार से होता है।"
+  },
+  {
+    "id": 59,
+    "question": "‘सुभाष चंद्र बोस’ ने किस वर्ष आजाद हिंद फौज की स्थापना की? / In which year did Subhas Chandra Bose establish the Azad Hind Fauj?",
+    "options": {
+      "A": "1939",
+      "B": "1942",
+      "C": "1943",
+      "D": "1945"
+    },
+    "answer": ["C"],
+    "explanation": "सुभाष चंद्र बोस ने 1943 में आजाद हिंद फौज का गठन किया।"
+  },
+  {
+    "id": 60,
+    "question": "भारत में पहली जनगणना किस वर्ष कराई गई थी? / In which year was the first census conducted in India?",
+    "options": {
+      "A": "1857",
+      "B": "1872",
+      "C": "1881",
+      "D": "1901"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में पहली जनगणना 1872 में कराई गई थी, परंतु व्यवस्थित जनगणना 1881 से शुरू हुई।"
+  },
+  {
+    "id": 61,
+    "question": "उत्तर प्रदेश में 'दुधवा राष्ट्रीय उद्यान' किस जिले में स्थित है? / Dudhwa National Park is located in which district of Uttar Pradesh?",
+    "options": {
+      "A": "लखीमपुर खीरी (Lakhimpur Kheri)",
+      "B": "सोनभद्र (Sonbhadra)",
+      "C": "चंदौली (Chandauli)",
+      "D": "झांसी (Jhansi)"
+    },
+    "answer": ["A"],
+    "explanation": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के लखीमपुर खीरी जिले में स्थित है।"
+  },
+  {
+    "id": 62,
+    "question": "‘मुस्लिम लीग’ की स्थापना कब हुई थी? / When was the Muslim League founded?",
+    "options": {
+      "A": "1905",
+      "B": "1906",
+      "C": "1909",
+      "D": "1911"
+    },
+    "answer": ["B"],
+    "explanation": "मुस्लिम लीग की स्थापना 1906 में ढाका में की गई थी।"
+  },
+  {
+    "id": 63,
+    "question": "उत्तर प्रदेश की किस लोकनृत्य शैली को 'नाच' भी कहा जाता है? / Which folk dance form of Uttar Pradesh is also known as 'Naach'?",
+    "options": {
+      "A": "रासलीला (Raslila)",
+      "B": "नौटंकी (Nautanki)",
+      "C": "ख्याल (Khyal)",
+      "D": "चमर नृत्य (Chamar Nritya)"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश की नौटंकी शैली को 'नाच' भी कहा जाता है।"
+  },
+  {
+    "id": 64,
+    "question": "‘शेरशाह सूरी’ ने कौन-सा प्रमुख मार्ग बनवाया था? / Which major road was constructed by Sher Shah Suri?",
+    "options": {
+      "A": "राजपथ (Rajpath)",
+      "B": "ग्रैंड ट्रंक रोड (Grand Trunk Road)",
+      "C": "सड़क-ए-आजम (Sadak-e-Azam)",
+      "D": "देहरादून रोड (Dehradun Road)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "शेरशाह सूरी ने ग्रैंड ट्रंक रोड का निर्माण कराया जिसे 'सड़क-ए-आजम' भी कहा जाता है।"
+  },
+  {
+    "id": 65,
+    "question": "‘योजना आयोग’ (Planning Commission) का गठन किस वर्ष किया गया था? / In which year was the Planning Commission established?",
+    "options": {
+      "A": "1947",
+      "B": "1950",
+      "C": "1951",
+      "D": "1952"
+    },
+    "answer": ["B"],
+    "explanation": "योजना आयोग का गठन 1950 में किया गया था।"
+  },
+  {
+    "id": 66,
+    "question": "उत्तर प्रदेश की कौन-सी नदी यमुना में मिलती है और 'पवित्र संगम' का भाग है? / Which river of Uttar Pradesh joins the Yamuna and forms part of the 'Holy Sangam'?",
+    "options": {
+      "A": "गंगा (Ganga)",
+      "B": "घाघरा (Ghaghra)",
+      "C": "सारदा (Sharda)",
+      "D": "सरस्वती (Saraswati - mythical)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "प्रयागराज का पवित्र संगम गंगा, यमुना और पौराणिक सरस्वती नदी का संगम है।"
+  },
+  {
+    "id": 67,
+    "question": "भारतीय संविधान में 'राज्य नीति के निदेशक तत्व' (Directive Principles of State Policy) को किस देश के संविधान से प्रेरित होकर अपनाया गया है? / The Directive Principles of State Policy in the Indian Constitution are inspired from which country’s Constitution?",
+    "options": {
+      "A": "आयरलैंड (Ireland)",
+      "B": "अमेरिका (USA)",
+      "C": "ब्रिटेन (UK)",
+      "D": "कनाडा (Canada)"
+    },
+    "answer": ["A"],
+    "explanation": "भारतीय संविधान के राज्य नीति निदेशक तत्व (DPSP) आयरलैंड के संविधान से लिए गए हैं। जबकि मौलिक अधिकार USA से और संसदीय प्रणाली UK से ली गई है।"
+  },
+  {
+    "id": 68,
+    "question": "अकबर द्वारा 'दीन-ए-इलाही' की स्थापना कब की गई थी? / In which year did Akbar establish 'Din-i Ilahi'?",
+    "options": {
+      "A": "1582 ई.",
+      "B": "1570 ई.",
+      "C": "1601 ई.",
+      "D": "1556 ई."
+    },
+    "answer": ["A"],
+    "explanation": "अकबर ने धार्मिक सहिष्णुता और 'सुलह-ए-कुल' की नीति के आधार पर 1582 ई. में दीन-ए-इलाही की स्थापना की थी।"
+  },
+  {
+    "id": 69,
+    "question": "उत्तर प्रदेश में 'चंदौली' जनपद किस कारण से प्रसिद्ध है? / Why is Chandauli district of Uttar Pradesh famous?",
+    "options": {
+      "A": "धान उत्पादन (Paddy production)",
+      "B": "जूट उद्योग (Jute industry)",
+      "C": "गन्ना उत्पादन (Sugarcane production)",
+      "D": "आलू उत्पादन (Potato production)"
+    },
+    "answer": ["A"],
+    "explanation": "चंदौली जनपद को 'धान का कटोरा' कहा जाता है क्योंकि यह धान उत्पादन के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 70,
+    "question": "भारत में 'ग्रीन बॉन्ड्स' (Green Bonds) का प्रमुख उद्देश्य क्या है? / What is the primary objective of 'Green Bonds' in India?",
+    "options": {
+      "A": "कृषि ऋण देना (Provide agricultural loans)",
+      "B": "पर्यावरण-हितैषी परियोजनाओं को वित्त देना (Finance eco-friendly projects)",
+      "C": "विदेशी मुद्रा भंडार बढ़ाना (Increase foreign reserves)",
+      "D": "सार्वजनिक क्षेत्र के उपक्रमों का निजीकरण (Privatization of PSUs)"
+    },
+    "answer": ["B"],
+    "explanation": "ग्रीन बॉन्ड्स पर्यावरण-संरक्षण और सतत विकास से जुड़ी परियोजनाओं के वित्तपोषण हेतु जारी किए जाते हैं।"
+  },
+  {
+    "id": 71,
+    "question": "निम्नलिखित में से कौन-सा स्थल 'रामायण सर्किट' (Ramayana Circuit) में शामिल है? / Which of the following sites is included in the 'Ramayana Circuit'?",
+    "options": {
+      "A": "चित्रकूट",
+      "B": "वाराणसी",
+      "C": "श्रृंगवेरपुर",
+      "D": "लखनऊ"
+    },
+    "answer": ["A", "C"],
+    "explanation": "रामायण सर्किट में चित्रकूट और श्रृंगवेरपुर जैसे धार्मिक-ऐतिहासिक स्थल शामिल हैं, जो भगवान राम से जुड़े हैं।"
+  },
+  {
+    "id": 72,
+    "question": "‘Project Tiger’ की शुरुआत भारत में किस वर्ष हुई थी? / In which year was 'Project Tiger' launched in India?",
+    "options": {
+      "A": "1973",
+      "B": "1980",
+      "C": "1992",
+      "D": "1965"
+    },
+    "answer": ["A"],
+    "explanation": "‘Project Tiger’ भारत में 1973 में शुरू किया गया था ताकि बाघों की संख्या में हो रही गिरावट को रोका जा सके।"
+  },
+  {
+    "id": 73,
+    "question": "भारतीय संसद के 'Zero Hour' की अवधि कितनी होती है? / What is the duration of 'Zero Hour' in the Indian Parliament?",
+    "options": {
+      "A": "30 मिनट",
+      "B": "1 घंटा",
+      "C": "2 घंटे",
+      "D": "अनिश्चित (Unspecified)"
+    },
+    "answer": ["D"],
+    "explanation": "Zero Hour संविधान या नियमावली में निर्धारित नहीं है। यह प्रथा के रूप में विकसित हुआ है और समयावधि निश्चित नहीं होती।"
+  },
+  {
+    "id": 74,
+    "question": "‘चौरासी कोसी परिक्रमा’ किस धार्मिक स्थल से जुड़ी है? / The 'Chaurasi Kosi Parikrama' is associated with which religious site?",
+    "options": {
+      "A": "काशी",
+      "B": "अयोध्या",
+      "C": "मथुरा",
+      "D": "प्रयागराज"
+    },
+    "answer": ["B"],
+    "explanation": "‘चौरासी कोसी परिक्रमा’ अयोध्या से जुड़ी हुई है और यह भगवान राम की नगरी का एक प्रमुख धार्मिक अनुष्ठान है।"
+  },
+  {
+    "id": 75,
+    "question": "‘नवीन और नवीकरणीय ऊर्जा मंत्रालय’ (MNRE) भारत सरकार में किस वर्ष स्थापित किया गया था? / In which year was the Ministry of New and Renewable Energy (MNRE) established?",
+    "options": {
+      "A": "1982",
+      "B": "1992",
+      "C": "2006",
+      "D": "2010"
+    },
+    "answer": ["B"],
+    "explanation": "भारत सरकार ने 1992 में नवीन और नवीकरणीय ऊर्जा मंत्रालय (MNRE) का गठन किया।"
+  },
+  {
+    "id": 76,
+    "question": "भारत के किस राज्य को 'Eastern Gateway of India' कहा जाता है? / Which state of India is known as the 'Eastern Gateway of India'?",
+    "options": {
+      "A": "असम",
+      "B": "मेघालय",
+      "C": "मणिपुर",
+      "D": "अरुणाचल प्रदेश"
+    },
+    "answer": ["C"],
+    "explanation": "मणिपुर को 'Eastern Gateway of India' कहा जाता है क्योंकि यह पूर्वी एशियाई देशों से भारत को जोड़ता है।"
+  },
+  {
+    "id": 77,
+    "question": "भारत में 'Fiscal Responsibility and Budget Management Act' (FRBM) किस वर्ष लागू हुआ? / In which year was the Fiscal Responsibility and Budget Management Act (FRBM) implemented in India?",
+    "options": {
+      "A": "2003",
+      "B": "1991",
+      "C": "2005",
+      "D": "1999"
+    },
+    "answer": ["A"],
+    "explanation": "FRBM अधिनियम 2003 में लागू किया गया ताकि राजकोषीय घाटे को नियंत्रित किया जा सके और वित्तीय अनुशासन सुनिश्चित हो।"
+  },
+  {
+    "id": 78,
+    "question": "किस ग्रह को 'Morning Star' और 'Evening Star' दोनों कहा जाता है? / Which planet is called both 'Morning Star' and 'Evening Star'?",
+    "options": {
+      "A": "मंगल (Mars)",
+      "B": "शुक्र (Venus)",
+      "C": "बृहस्पति (Jupiter)",
+      "D": "शनि (Saturn)"
+    },
+    "answer": ["B"],
+    "explanation": "शुक्र ग्रह को 'Morning Star' और 'Evening Star' दोनों कहा जाता है क्योंकि यह सूर्यास्त और सूर्योदय के समय आकाश में दिखता है।"
+  },
+  {
+    "id": 79,
+    "question": "‘अतरंगी’ GI टैग किस राज्य से संबंधित है? / The GI tag 'Attarangi' is related to which state?",
+    "options": {
+      "A": "उत्तर प्रदेश",
+      "B": "बिहार",
+      "C": "राजस्थान",
+      "D": "मध्य प्रदेश"
+    },
+    "answer": ["A"],
+    "explanation": "‘अतरंगी’ परफ्यूम कन्नौज (उत्तर प्रदेश) से संबंधित है, जो अपनी पारंपरिक इत्र निर्माण पद्धति के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 80,
+    "question": "निम्नलिखित में से किस समिति ने पंचवर्षीय योजनाओं में 'गरीबी उन्मूलन' पर विशेष जोर दिया था? / Which committee emphasized 'poverty alleviation' in Five-Year Plans?",
+    "options": {
+      "A": "महालनोबिस समिति",
+      "B": "गाडगिल समिति",
+      "C": "ढाले समिति",
+      "D": "दत्त समिति"
+    },
+    "answer": ["B"],
+    "explanation": "गाडगिल समिति ने पंचवर्षीय योजनाओं में संसाधनों के न्यायसंगत वितरण और गरीबी उन्मूलन पर विशेष ध्यान दिया।"
+  },
+  {
+    "id": 81,
+    "question": "भारत में ‘न्यायपालिका की स्वतंत्रता’ किस अनुच्छेद से प्रत्यक्ष रूप से सुनिश्चित होती है? / The independence of judiciary in India is directly ensured by which Article?",
+    "options": {
+      "A": "अनुच्छेद 50 (Article 50)",
+      "B": "अनुच्छेद 124 (Article 124)",
+      "C": "अनुच्छेद 368 (Article 368)",
+      "D": "अनुच्छेद 32 (Article 32)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अनुच्छेद 50 में कार्यपालिका व न्यायपालिका के पृथक्करण की बात की गई है और अनुच्छेद 124 में सुप्रीम कोर्ट के न्यायाधीशों की नियुक्ति व कार्यकाल निर्धारित है। दोनों ही न्यायपालिका की स्वतंत्रता को सुनिश्चित करते हैं।"
+  },
+  {
+    "id": 82,
+    "question": "1857 की क्रांति के दौरान अवध में नेतृत्व किसने किया था? / Who led the Revolt of 1857 in Awadh?",
+    "options": {
+      "A": "बेगम हजरत महल (Begum Hazrat Mahal)",
+      "B": "नाना साहब (Nana Saheb)",
+      "C": "तांत्या टोपे (Tantia Tope)",
+      "D": "कुंवर सिंह (Kunwar Singh)"
+    },
+    "answer": ["A"],
+    "explanation": "अवध क्षेत्र में 1857 की क्रांति का नेतृत्व बेगम हजरत महल ने किया था। नाना साहब कानपुर, तांत्या टोपे ग्वालियर और कुंवर सिंह बिहार में सक्रिय थे।"
+  },
+  {
+    "id": 83,
+    "question": "भारत में सर्वाधिक लौह-अयस्क उत्पादन करने वाला राज्य कौन सा है? / Which state produces the maximum iron ore in India?",
+    "options": {
+      "A": "झारखंड (Jharkhand)",
+      "B": "ओडिशा (Odisha)",
+      "C": "छत्तीसगढ़ (Chhattisgarh)",
+      "D": "कर्नाटक (Karnataka)"
+    },
+    "answer": ["B"],
+    "explanation": "ओडिशा भारत में लौह-अयस्क उत्पादन में प्रथम स्थान पर है। कीर्तिचक्र, बारबिल और सुंदरगढ़ इसके प्रमुख क्षेत्र हैं।"
+  },
+  {
+    "id": 84,
+    "question": "‘हरित क्रांति’ के जनक नॉर्मन बोरलॉग का संबंध किस देश से था? / Norman Borlaug, father of Green Revolution, belonged to which country?",
+    "options": {
+      "A": "भारत (India)",
+      "B": "मैक्सिको (Mexico)",
+      "C": "संयुक्त राज्य अमेरिका (USA)",
+      "D": "फिलीपींस (Philippines)"
+    },
+    "answer": ["C"],
+    "explanation": "नॉर्मन बोरलॉग अमेरिका से थे और उन्होंने मैक्सिको में हाई-यील्ड वैरायटी गेहूं विकसित किया जिसे भारत में एम.एस. स्वामीनाथन ने अपनाया।"
+  },
+  {
+    "id": 85,
+    "question": "‘अमृत सरोवर योजना’ किस राज्य से संबंधित नहीं है? / Amrit Sarovar Yojana is not related to which state?",
+    "options": {
+      "A": "उत्तर प्रदेश (Uttar Pradesh)",
+      "B": "मध्य प्रदेश (Madhya Pradesh)",
+      "C": "पंजाब (Punjab)",
+      "D": "यह पूरे भारत में लागू है (Implemented all over India)"
+    },
+    "answer": ["D"],
+    "explanation": "अमृत सरोवर योजना राष्ट्रीय स्तर पर लागू है, यह किसी एक राज्य तक सीमित नहीं है।"
+  },
+  {
+    "id": 86,
+    "question": "‘चंद्रयान-3’ मिशन ने चांद के किस ध्रुवीय क्षेत्र पर सफलतापूर्वक लैंडिंग की? / Chandrayaan-3 landed successfully on which lunar pole?",
+    "options": {
+      "A": "उत्तरी ध्रुव (North Pole)",
+      "B": "दक्षिणी ध्रुव (South Pole)",
+      "C": "भूमध्य रेखीय क्षेत्र (Equatorial Region)",
+      "D": "पश्चिमी गोलार्ध (Western Hemisphere)"
+    },
+    "answer": ["B"],
+    "explanation": "चंद्रयान-3 ने 23 अगस्त 2023 को चांद के दक्षिणी ध्रुवीय क्षेत्र में सफलतापूर्वक लैंडिंग की।"
+  },
+  {
+    "id": 87,
+    "question": "भारत में ‘वित्त आयोग’ का गठन किस अनुच्छेद के अंतर्गत होता है? / Which Article provides for the Finance Commission in India?",
+    "options": {
+      "A": "अनुच्छेद 280 (Article 280)",
+      "B": "अनुच्छेद 110 (Article 110)",
+      "C": "अनुच्छेद 112 (Article 112)",
+      "D": "अनुच्छेद 324 (Article 324)"
+    },
+    "answer": ["A"],
+    "explanation": "वित्त आयोग का गठन अनुच्छेद 280 के तहत किया जाता है, जो केंद्र और राज्यों के बीच वित्तीय संसाधनों के बंटवारे पर अनुशंसा करता है।"
+  },
+  {
+    "id": 88,
+    "question": "‘झलकारी बाई’ का नाम किस ऐतिहासिक घटना से जुड़ा है? / Jhalkari Bai is associated with which historical event?",
+    "options": {
+      "A": "1857 की क्रांति (Revolt of 1857)",
+      "B": "जलियांवाला बाग हत्याकांड (Jallianwala Bagh Massacre)",
+      "C": "असहयोग आंदोलन (Non-Cooperation Movement)",
+      "D": "भारत छोड़ो आंदोलन (Quit India Movement)"
+    },
+    "answer": ["A"],
+    "explanation": "झलकारी बाई रानी लक्ष्मीबाई की सेनापति थीं और 1857 की क्रांति में उन्होंने महत्वपूर्ण योगदान दिया।"
+  },
+  {
+    "id": 89,
+    "question": "उत्तर प्रदेश का कौन-सा नगर ‘साइकिल नगरी’ के नाम से प्रसिद्ध है? / Which city of Uttar Pradesh is known as ‘Cycle City’?",
+    "options": {
+      "A": "गोरखपुर (Gorakhpur)",
+      "B": "मेरठ (Meerut)",
+      "C": "कानपुर (Kanpur)",
+      "D": "फिरोजाबाद (Firozabad)"
+    },
+    "answer": ["C"],
+    "explanation": "कानपुर को ‘साइकिल नगरी’ कहा जाता है क्योंकि यहाँ साइकिल उद्योग प्रमुख है।"
+  },
+  {
+    "id": 90,
+    "question": "‘मंडल आयोग’ की स्थापना किस वर्ष हुई थी? / In which year was the Mandal Commission established?",
+    "options": {
+      "A": "1979",
+      "B": "1980",
+      "C": "1989",
+      "D": "1990"
+    },
+    "answer": ["A"],
+    "explanation": "मंडल आयोग की स्थापना 1979 में बी.पी. मंडल की अध्यक्षता में की गई थी। इसकी रिपोर्ट 1980 में प्रस्तुत हुई।"
+  },
+
+  {
+    "id": 91,
+    "question": "भारतीय संविधान में ‘मूल कर्तव्य’ किस अनुच्छेद में जोड़े गए? / Fundamental Duties were added to which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 32",
+      "B": "अनुच्छेद 51A",
+      "C": "अनुच्छेद 368",
+      "D": "अनुच्छेद 19"
+    },
+    "answer": ["B"],
+    "explanation": "मूल कर्तव्य 42वें संविधान संशोधन (1976) द्वारा अनुच्छेद 51A में जोड़े गए।"
+  },
+  {
+    "id": 92,
+    "question": "‘किसान आंदोलन’ के दौरान उत्तर प्रदेश में सबसे सक्रिय क्षेत्र कौन सा रहा? / Which region of Uttar Pradesh was most active during the Farmers' Protest?",
+    "options": {
+      "A": "पश्चिमी उत्तर प्रदेश (Western UP)",
+      "B": "पूर्वी उत्तर प्रदेश (Eastern UP)",
+      "C": "बुंदेलखंड (Bundelkhand)",
+      "D": "अवध (Awadh)"
+    },
+    "answer": ["A"],
+    "explanation": "पश्चिमी उत्तर प्रदेश, विशेषकर मुजफ्फरनगर, बागपत और शामली किसान आंदोलन का प्रमुख केंद्र रहे।"
+  },
+  {
+    "id": 93,
+    "question": "भारत में ‘इको-सेंसिटिव जोन’ किस अधिनियम के तहत अधिसूचित किए जाते हैं? / Eco-sensitive zones are notified under which Act?",
+    "options": {
+      "A": "वन्यजीव संरक्षण अधिनियम 1972 (Wildlife Protection Act 1972)",
+      "B": "पर्यावरण संरक्षण अधिनियम 1986 (Environment Protection Act 1986)",
+      "C": "वन अधिनियम 1927 (Indian Forest Act 1927)",
+      "D": "जैव विविधता अधिनियम 2002 (Biodiversity Act 2002)"
+    },
+    "answer": ["A"],
+    "explanation": "वन्यजीव संरक्षण अधिनियम 1972 की धारा 3(2)(v) के तहत इको-सेंसिटिव जोन अधिसूचित किए जाते हैं।"
+  },
+  {
+    "id": 94,
+    "question": "‘सपेरों का गाँव’ उत्तर प्रदेश में कहाँ स्थित है? / Where is the ‘Village of Snake Charmers’ located in Uttar Pradesh?",
+    "options": {
+      "A": "मथुरा (Mathura)",
+      "B": "इटावा (Etawah)",
+      "C": "चुर्बुर्जा (Churburja)",
+      "D": "दतिया (Datia)"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश के इटावा जिले का एक गाँव ‘सपेरों का गाँव’ कहलाता है क्योंकि वहाँ अधिकांश लोग सपेरे पेशे से जुड़े हैं।"
+  },
+  {
+    "id": 95,
+    "question": "भारत में ‘GST’ किस संविधान संशोधन से लागू हुआ? / Which Constitutional Amendment introduced GST in India?",
+    "options": {
+      "A": "100वाँ संशोधन (100th Amendment)",
+      "B": "101वाँ संशोधन (101st Amendment)",
+      "C": "102वाँ संशोधन (102nd Amendment)",
+      "D": "103वाँ संशोधन (103rd Amendment)"
+    },
+    "answer": ["B"],
+    "explanation": "GST को भारत में 101वें संविधान संशोधन (2016) के तहत लागू किया गया।"
+  },
+  {
+    "id": 96,
+    "question": "‘रामसर साइट्स’ का संबंध किससे है? / Ramsar Sites are related to which of the following?",
+    "options": {
+      "A": "वेटलैंड्स (Wetlands)",
+      "B": "बायोस्फीयर रिज़र्व (Biosphere Reserves)",
+      "C": "राष्ट्रीय उद्यान (National Parks)",
+      "D": "वर्ल्ड हेरिटेज साइट्स (World Heritage Sites)"
+    },
+    "answer": ["A"],
+    "explanation": "रामसर साइट्स अंतरराष्ट्रीय महत्व के वेटलैंड्स हैं जिन्हें ईरान के रामसर सम्मेलन (1971) से मान्यता मिली।"
+  },
+  {
+    "id": 97,
+    "question": "‘डॉ. राम मनोहर लोहिया’ किस आंदोलन से जुड़े थे? / Dr. Ram Manohar Lohia was associated with which movement?",
+    "options": {
+      "A": "भारत छोड़ो आंदोलन (Quit India Movement)",
+      "B": "नमक सत्याग्रह (Salt Satyagraha)",
+      "C": "साइमन गो बैक आंदोलन (Simon Go Back Movement)",
+      "D": "चंपारण सत्याग्रह (Champaran Satyagraha)"
+    },
+    "answer": ["A"],
+    "explanation": "डॉ. राम मनोहर लोहिया ‘भारत छोड़ो आंदोलन’ के प्रमुख नेताओं में से एक थे।"
+  },
+  {
+    "id": 98,
+    "question": "‘झूम कृषि’ किस क्षेत्र से संबंधित है? / Jhum cultivation is related to which region?",
+    "options": {
+      "A": "पूर्वोत्तर भारत (North-East India)",
+      "B": "उत्तर प्रदेश (Uttar Pradesh)",
+      "C": "राजस्थान (Rajasthan)",
+      "D": "गुजरात (Gujarat)"
+    },
+    "answer": ["A"],
+    "explanation": "झूम कृषि या स्लैश-एंड-बर्न खेती पूर्वोत्तर भारत में की जाती है।"
+  },
+  {
+    "id": 99,
+    "question": "‘राष्ट्रीय शिक्षा नीति 2020’ में उच्च शिक्षा के लिए कौन-सा प्रावधान है? / Which provision is included in NEP 2020 for higher education?",
+    "options": {
+      "A": "4 वर्ष का स्नातक पाठ्यक्रम (4-year UG program)",
+      "B": "मल्टीपल एंट्री-एग्जिट सिस्टम (Multiple entry-exit system)",
+      "C": "एकल उच्च शिक्षा नियामक (Single Higher Education Regulator)",
+      "D": "सभी उपरोक्त (All of the above)"
+    },
+    "answer": ["D"],
+    "explanation": "राष्ट्रीय शिक्षा नीति 2020 में 4 वर्षीय स्नातक पाठ्यक्रम, मल्टीपल एंट्री-एग्जिट और एकल नियामक जैसे प्रावधान हैं।"
+  },
+  {
+    "id": 100,
+    "question": "‘गन्ना अनुसंधान संस्थान’ उत्तर प्रदेश में कहाँ स्थित है? / Where is the Sugarcane Research Institute located in Uttar Pradesh?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "कानपुर (Kanpur)",
+      "D": "शाहजहांपुर (Shahjahanpur)"
+    },
+    "answer": ["B"],
+    "explanation": "गन्ना अनुसंधान संस्थान उत्तर प्रदेश की राजधानी लखनऊ में स्थित है।"
+  },
+  {
+    "id": 101,
+    "question": "भारतीय संविधान के अनुच्छेद 148 से संबंधित कौन-सा प्रावधान है? / Which provision is related to Article 148 of the Indian Constitution?",
+    "options": {
+      "A": "कम्प्ट्रोलर एंड ऑडिटर जनरल (CAG) की नियुक्ति / Appointment of CAG",
+      "B": "राष्ट्रपति के चुनाव / Election of President",
+      "C": "राज्यों में आपातकाल / Emergency in States",
+      "D": "उच्चतम न्यायालय की शक्तियाँ / Powers of Supreme Court"
+    },
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 148 भारत के CAG (Comptroller and Auditor General of India) की नियुक्ति और पद की सुरक्षा से संबंधित है। राष्ट्रपति CAG की नियुक्ति करते हैं।"
+  },
+  {
+    "id": 102,
+    "question": "खजुराहो के मंदिर किस वंश द्वारा निर्मित किए गए थे? / The temples of Khajuraho were built by which dynasty?",
+    "options": {
+      "A": "चंदेल वंश / Chandela dynasty",
+      "B": "गुर्जर-प्रतिहार / Gurjara-Pratihara",
+      "C": "पल्लव / Pallava",
+      "D": "सातवाहन / Satavahana"
+    },
+    "answer": ["A"],
+    "explanation": "खजुराहो के मंदिरों का निर्माण 9वीं से 12वीं शताब्दी के बीच चंदेल शासकों द्वारा कराया गया था। ये मंदिर अपनी मूर्तिकला और शिल्पकला के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 103,
+    "question": "कौन-सा राज्य भारत में 'बायोफ्यूल नीति 2009' को सबसे पहले लागू करने वाला था? / Which state was the first to implement the 'Biofuel Policy 2009' in India?",
+    "options": {
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "राजस्थान / Rajasthan",
+      "C": "मध्य प्रदेश / Madhya Pradesh",
+      "D": "कर्नाटक / Karnataka"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में सबसे पहले राजस्थान ने 'बायोफ्यूल नीति 2009' को लागू किया था। इसका उद्देश्य पेट्रोलियम पर निर्भरता कम करना और ऊर्जा का वैकल्पिक स्रोत विकसित करना था।"
+  },
+  {
+    "id": 104,
+    "question": "‘पंचायती राज प्रणाली’ को संवैधानिक दर्जा किस संविधान संशोधन द्वारा दिया गया? / Panchayati Raj system was given constitutional status by which constitutional amendment?",
+    "options": {
+      "A": "42वाँ संशोधन / 42nd Amendment",
+      "B": "44वाँ संशोधन / 44th Amendment",
+      "C": "73वाँ संशोधन / 73rd Amendment",
+      "D": "74वाँ संशोधन / 74th Amendment"
+    },
+    "answer": ["C"],
+    "explanation": "1992 में 73वें संविधान संशोधन द्वारा पंचायती राज प्रणाली को संवैधानिक दर्जा दिया गया और संविधान में भाग IX जोड़ा गया।"
+  },
+  {
+    "id": 105,
+    "question": "भारत का कौन-सा खनिज 'रेयर अर्थ एलिमेंट्स' (REE) के उत्पादन से जुड़ा है? / Which mineral in India is associated with the production of Rare Earth Elements (REE)?",
+    "options": {
+      "A": "मोनाज़ाइट / Monazite",
+      "B": "बॉक्साइट / Bauxite",
+      "C": "लाइमस्टोन / Limestone",
+      "D": "माइका / Mica"
+    },
+    "answer": ["A"],
+    "explanation": "मोनाज़ाइट (Monazite) भारत के तटीय क्षेत्रों में पाया जाता है और इसमें थोरियम व दुर्लभ पृथ्वी तत्व (REE) पाए जाते हैं।"
+  },
+  {
+    "id": 106,
+    "question": "‘प्रयागराज किला’ का निर्माण किस मुगल शासक ने करवाया था? / Which Mughal ruler built the Allahabad (Prayagraj) Fort?",
+    "options": {
+      "A": "अकबर / Akbar",
+      "B": "जहाँगीर / Jahangir",
+      "C": "शाहजहाँ / Shah Jahan",
+      "D": "औरंगज़ेब / Aurangzeb"
+    },
+    "answer": ["A"],
+    "explanation": "प्रयागराज का प्रसिद्ध किला 1583 में अकबर ने बनवाया था। यह गंगा और यमुना के संगम स्थल पर स्थित है।"
+  },
+  {
+    "id": 107,
+    "question": "भारत का पहला 'वॉटर मेट्रो' प्रोजेक्ट किस राज्य में शुरू हुआ? / In which state was India’s first Water Metro project launched?",
+    "options": {
+      "A": "केरल / Kerala",
+      "B": "गोवा / Goa",
+      "C": "पश्चिम बंगाल / West Bengal",
+      "D": "गुजरात / Gujarat"
+    },
+    "answer": ["A"],
+    "explanation": "भारत का पहला वॉटर मेट्रो प्रोजेक्ट 2023 में केरल के कोच्चि में शुरू किया गया। इसका उद्देश्य जलमार्ग से सस्ती और पर्यावरणीय परिवहन सुविधा उपलब्ध कराना है।"
+  },
+  {
+    "id": 108,
+    "question": "‘कौशाम्बी’ किस महाजनपद की राजधानी थी? / Kaushambi was the capital of which Mahajanapada?",
+    "options": {
+      "A": "कुरु / Kuru",
+      "B": "वत्स / Vatsa",
+      "C": "अश्वक / Ashvaka",
+      "D": "कांची / Kanchi"
+    },
+    "answer": ["B"],
+    "explanation": "कौशाम्बी प्राचीन भारत के वत्स महाजनपद की राजधानी थी। यह गंगा के किनारे बसा हुआ था और बौद्ध धर्म का प्रमुख केंद्र था।"
+  },
+  {
+    "id": 109,
+    "question": "‘प्रधानमंत्री गति शक्ति योजना’ मुख्य रूप से किससे संबंधित है? / The PM Gati Shakti Scheme is mainly related to?",
+    "options": {
+      "A": "शिक्षा सुधार / Education reforms",
+      "B": "अवसंरचना एवं लॉजिस्टिक्स / Infrastructure & Logistics",
+      "C": "कृषि उत्पादकता / Agricultural productivity",
+      "D": "जल संरक्षण / Water conservation"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री गति शक्ति योजना का उद्देश्य अवसंरचना और लॉजिस्टिक क्षेत्र में एकीकृत योजना बनाना है ताकि आर्थिक गतिविधियों की गति को बढ़ाया जा सके।"
+  },
+  {
+    "id": 110,
+    "question": "‘नेशनल पार्क’ और ‘वाइल्डलाइफ सैंक्चुरी’ में मुख्य अंतर क्या है? / What is the main difference between a National Park and a Wildlife Sanctuary?",
+    "options": {
+      "A": "नेशनल पार्क में मानव गतिविधियाँ वर्जित होती हैं / Human activity prohibited in National Parks",
+      "B": "सैंक्चुरी में खेती और चराई सीमित अनुमति होती है / Limited grazing allowed in Sanctuary",
+      "C": "दोनों संरक्षित क्षेत्र IUCN Category II में आते हैं / Both are IUCN Category II",
+      "D": "सैंक्चुरी केवल पक्षियों के लिए होती है / Sanctuary is only for birds"
+    },
+    "answer": ["A", "B"],
+    "explanation": "नेशनल पार्क में मानव गतिविधियाँ पूरी तरह से प्रतिबंधित होती हैं, जबकि वाइल्डलाइफ सैंक्चुरी में कुछ सीमित गतिविधियाँ जैसे चराई या गाँव का अस्तित्व अनुमति प्राप्त होता है।"
+  },
+  {
+    "id": 111,
+    "question": "भारत के राष्ट्रपति के निर्वाचन के संबंध में निम्न कथनों पर विचार कीजिए / Consider the following statements about the election of the President of India:",
+    "options": {
+      "A": "राष्ट्रपति का चुनाव सीधे जनता द्वारा किया जाता है।",
+      "B": "निर्वाचन में केवल निर्वाचित सांसद और विधायक भाग लेते हैं।",
+      "C": "नामांकित सदस्य भी मतदान में भाग लेते हैं।",
+      "D": "मतदान प्रणाली 'सिंगल ट्रांसफरेबल वोट' और आनुपातिक प्रतिनिधित्व पर आधारित है।"
+    },
+    "answer": ["B", "D"],
+    "explanation": "राष्ट्रपति का चुनाव निर्वाचित सांसदों और राज्यों की विधानसभाओं के निर्वाचित सदस्यों द्वारा किया जाता है। मतदान प्रणाली सिंगल ट्रांसफरेबल वोट और प्रोपोर्शनल रिप्रजेंटेशन होती है। नामांकित सदस्य इसमें भाग नहीं लेते।"
+  },
+  {
+    "id": 112,
+    "question": "भारत में 'गिल्ट-एज्ड सिक्योरिटी' (Gilt-edged securities) किसे कहा जाता है? / In India, what are 'Gilt-edged securities'?",
+    "options": {
+      "A": "सरकार द्वारा जारी किए गए सुरक्षित बॉन्ड",
+      "B": "सोना आधारित बांड",
+      "C": "उच्च जोखिम वाले कॉर्पोरेट डिबेंचर",
+      "D": "केवल RBI द्वारा जारी ट्रेजरी बिल"
+    },
+    "answer": ["A"],
+    "explanation": "गिल्ट-एज्ड सिक्योरिटीज का तात्पर्य सरकार द्वारा जारी सुरक्षित बांड से है जिन्हें लगभग जोखिम रहित माना जाता है।"
+  },
+  {
+    "id": 113,
+    "question": "अमृत महोत्सव (Azadi ka Amrit Mahotsav) के दौरान 'हर घर झंडा' अभियान किस वर्ष प्रारम्भ हुआ? / In which year was 'Har Ghar Jhanda' campaign launched under Azadi ka Amrit Mahotsav?",
+    "options": {
+      "A": "2019",
+      "B": "2020",
+      "C": "2021",
+      "D": "2022"
+    },
+    "answer": ["D"],
+    "explanation": "'हर घर झंडा' अभियान 2022 में शुरू किया गया था ताकि आजादी का अमृत महोत्सव मनाते हुए हर नागरिक अपने घर पर तिरंगा फहराए।"
+  },
+  {
+    "id": 114,
+    "question": "‘चुनार का किला’ (Chunar Fort) किस नदी के तट पर स्थित है? / On the bank of which river is the Chunar Fort situated?",
+    "options": {
+      "A": "गंगा",
+      "B": "यमुना",
+      "C": "सोन",
+      "D": "गोमती"
+    },
+    "answer": ["A"],
+    "explanation": "चुनार का किला उत्तर प्रदेश में गंगा नदी के किनारे स्थित है। यह ऐतिहासिक रूप से शेरशाह सूरी और अकबर से जुड़ा हुआ है।"
+  },
+  {
+    "id": 115,
+    "question": "भारत में 'ग्रीन बॉन्ड' (Green Bond) का मुख्य उद्देश्य क्या है? / What is the main objective of 'Green Bonds' in India?",
+    "options": {
+      "A": "कृषि उत्पादन बढ़ाना",
+      "B": "पर्यावरण अनुकूल परियोजनाओं के लिए वित्त जुटाना",
+      "C": "विदेशी मुद्रा भंडार बढ़ाना",
+      "D": "केवल निजी कंपनियों को सहायता प्रदान करना"
+    },
+    "answer": ["B"],
+    "explanation": "ग्रीन बॉन्ड पर्यावरण-अनुकूल और सतत विकास परियोजनाओं जैसे नवीकरणीय ऊर्जा, स्वच्छ परिवहन आदि के लिए फंड जुटाने हेतु जारी किए जाते हैं।"
+  },
+  {
+    "id": 116,
+    "question": "भारत के किस क्षेत्र में 'ब्लैक कॉटन सॉइल' (Regur soil) प्रमुख रूप से पाई जाती है? / In which region of India is Black Cotton Soil (Regur soil) mainly found?",
+    "options": {
+      "A": "गंगा के मैदान",
+      "B": "दक्षिण का दक्कन पठार",
+      "C": "हिमालयी क्षेत्र",
+      "D": "थार मरुस्थल"
+    },
+    "answer": ["B"],
+    "explanation": "ब्लैक कॉटन सॉइल, जिसे रिगुर मिट्टी भी कहते हैं, मुख्यतः दक्कन पठार क्षेत्र (महाराष्ट्र, मध्य प्रदेश, आंध्र प्रदेश, गुजरात) में पाई जाती है और कपास उत्पादन के लिए उपयुक्त है।"
+  },
+  {
+    "id": 117,
+    "question": "‘रिवर्स रेपो रेट’ (Reverse Repo Rate) में वृद्धि का क्या प्रभाव होता है? / What is the effect of an increase in Reverse Repo Rate?",
+    "options": {
+      "A": "बाजार में नकदी की आपूर्ति बढ़ेगी",
+      "B": "बाजार से नकदी अवशोषित होगी",
+      "C": "बैंकों को अधिक ऋण देना होगा",
+      "D": "सरकार का राजस्व बढ़ेगा"
+    },
+    "answer": ["B"],
+    "explanation": "रिवर्स रेपो रेट बढ़ाने पर बैंक अपना पैसा RBI के पास रखने के लिए अधिक आकर्षित होते हैं, जिससे बाजार से नकदी अवशोषित होती है।"
+  },
+  {
+    "id": 118,
+    "question": "‘कायस्थ समुदाय’ (Kayastha community) परंपरागत रूप से किस कार्य से जुड़ा रहा है? / The Kayastha community has traditionally been associated with which occupation?",
+    "options": {
+      "A": "खेती",
+      "B": "सैनिक सेवा",
+      "C": "लेखन एवं प्रशासनिक कार्य",
+      "D": "हस्तशिल्प"
+    },
+    "answer": ["C"],
+    "explanation": "कायस्थ समुदाय पारंपरिक रूप से लेखन, रिकार्ड-कीपिंग और प्रशासनिक कार्यों से जुड़ा रहा है।"
+  },
+  {
+    "id": 119,
+    "question": "‘यूपी निवेश मित्र पोर्टल’ (UP Nivesh Mitra Portal) का उद्देश्य क्या है? / What is the objective of 'UP Nivesh Mitra Portal'?",
+    "options": {
+      "A": "किसानों को ऋण देना",
+      "B": "निवेशकों को सिंगल विंडो सुविधा प्रदान करना",
+      "C": "नौकरी गारंटी योजना",
+      "D": "पर्यटन को बढ़ावा देना"
+    },
+    "answer": ["B"],
+    "explanation": "यूपी निवेश मित्र पोर्टल एक सिंगल विंडो प्रणाली है जिसका उद्देश्य निवेशकों को अनुमतियाँ और सेवाएँ ऑनलाइन उपलब्ध कराना है।"
+  },
+  {
+    "id": 120,
+    "question": "किसके शासनकाल में इलाहाबाद उच्च न्यायालय की स्थापना हुई? / During whose reign was the Allahabad High Court established?",
+    "options": {
+      "A": "लॉर्ड डलहौजी",
+      "B": "लॉर्ड कैनिंग",
+      "C": "लॉर्ड लिटन",
+      "D": "लॉर्ड मेयो"
+    },
+    "answer": ["B"],
+    "explanation": "इलाहाबाद उच्च न्यायालय की स्थापना 1866 में लॉर्ड कैनिंग के शासनकाल में हुई।"
+  },
+  {
+    "id": 121,
+    "question": "‘नेशनल क्लीन एनर्जी फंड’ (NCEF) किससे संबंधित है? / The 'National Clean Energy Fund' (NCEF) is related to:",
+    "options": {
+      "A": "कोयले पर उपकर से प्राप्त धन का उपयोग",
+      "B": "केवल परमाणु ऊर्जा विकास",
+      "C": "बिजली सब्सिडी वितरण",
+      "D": "पेट्रोलियम उत्पादों का निर्यात"
+    },
+    "answer": ["A"],
+    "explanation": "नेशनल क्लीन एनर्जी फंड कोयले पर लगाए गए उपकर से प्राप्त धन का उपयोग स्वच्छ ऊर्जा अनुसंधान और विकास परियोजनाओं में करता है।"
+  },
+  {
+    "id": 122,
+    "question": "भारतीय राष्ट्रीय कांग्रेस का प्रथम अधिवेशन कहाँ हुआ था? / Where was the first session of the Indian National Congress held?",
+    "options": {
+      "A": "मुंबई",
+      "B": "कलकत्ता",
+      "C": "चेन्नई",
+      "D": "इलाहाबाद"
+    },
+    "answer": ["A"],
+    "explanation": "भारतीय राष्ट्रीय कांग्रेस का प्रथम अधिवेशन 1885 में मुंबई (गोकुलदास तेजपाल संस्कृत महाविद्यालय) में हुआ था।"
+  },
+  {
+    "id": 123,
+    "question": "‘रामगंगा नदी’ (Ramganga river) किसकी सहायक नदी है? / The Ramganga river is a tributary of:",
+    "options": {
+      "A": "गंगा",
+      "B": "यमुना",
+      "C": "घाघरा",
+      "D": "गंडक"
+    },
+    "answer": ["A"],
+    "explanation": "रामगंगा नदी उत्तराखंड और उत्तर प्रदेश से होकर बहती है और अंततः गंगा नदी में मिलती है।"
+  },
+  {
+    "id": 124,
+    "question": "‘प्रोजेक्ट टाइगर’ (Project Tiger) भारत में किस वर्ष शुरू किया गया था? / In which year was Project Tiger launched in India?",
+    "options": {
+      "A": "1971",
+      "B": "1973",
+      "C": "1975",
+      "D": "1980"
+    },
+    "answer": ["B"],
+    "explanation": "प्रोजेक्ट टाइगर भारत में 1973 में शुरू किया गया था, ताकि बाघों की घटती संख्या को संरक्षित किया जा सके।"
+  },
+  {
+    "id": 125,
+    "question": "‘विश्वनाथ मंदिर कॉरिडोर’ (Kashi Vishwanath Corridor) परियोजना किस वर्ष लोकार्पित हुई? / In which year was the Kashi Vishwanath Corridor project inaugurated?",
+    "options": {
+      "A": "2019",
+      "B": "2020",
+      "C": "2021",
+      "D": "2022"
+    },
+    "answer": ["C"],
+    "explanation": "काशी विश्वनाथ कॉरिडोर परियोजना दिसंबर 2021 में प्रधानमंत्री द्वारा लोकार्पित की गई थी।"
+  },
+  {
+    "id": 126,
+    "question": "भारतीय संविधान में 'मनी बिल' (Money Bill) किस अनुच्छेद में परिभाषित है? / In which Article of the Indian Constitution is 'Money Bill' defined?",
+    "options": {
+      "A": "अनुच्छेद 108",
+      "B": "अनुच्छेद 110",
+      "C": "अनुच्छेद 112",
+      "D": "अनुच्छेद 114"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान में अनुच्छेद 110 मनी बिल को परिभाषित करता है।"
+  },
+  {
+    "id": 127,
+    "question": "‘जल शक्ति मंत्रालय’ (Ministry of Jal Shakti) भारत में कब स्थापित किया गया? / When was the Ministry of Jal Shakti established in India?",
+    "options": {
+      "A": "2017",
+      "B": "2018",
+      "C": "2019",
+      "D": "2020"
+    },
+    "answer": ["C"],
+    "explanation": "जल शक्ति मंत्रालय 2019 में जल संसाधन और पेयजल मंत्रालयों को मिलाकर बनाया गया।"
+  },
+  {
+    "id": 128,
+    "question": "‘फतेहपुर सीकरी’ (Fatehpur Sikri) को किस मुगल शासक ने अपनी राजधानी बनाया था? / Which Mughal ruler made Fatehpur Sikri his capital?",
+    "options": {
+      "A": "बाबर",
+      "B": "हुमायूं",
+      "C": "अकबर",
+      "D": "जहाँगीर"
+    },
+    "answer": ["C"],
+    "explanation": "अकबर ने 1571 में फतेहपुर सीकरी को अपनी राजधानी बनाया। बाद में पानी की कमी के कारण इसे छोड़ दिया गया।"
+  },
+  {
+    "id": 129,
+    "question": "‘वन नेशन, वन राशन कार्ड’ (ONORC) योजना का मुख्य लाभ क्या है? / What is the main benefit of 'One Nation, One Ration Card' (ONORC) scheme?",
+    "options": {
+      "A": "सभी नागरिकों को स्वास्थ्य सुविधा",
+      "B": "कहीं भी राशन प्राप्त करने की सुविधा",
+      "C": "एक समान शिक्षा प्रणाली",
+      "D": "सभी राज्यों में रोजगार गारंटी"
+    },
+    "answer": ["B"],
+    "explanation": "वन नेशन, वन राशन कार्ड योजना से लाभार्थी किसी भी राज्य में जाकर अपने पात्रता अनुसार राशन ले सकते हैं।"
+  },
+  {
+    "id": 130,
+    "question": "‘तक्षशिला विश्वविद्यालय’ (Takshashila University) किस आधुनिक देश में स्थित था? / In which modern country was Takshashila University located?",
+    "options": {
+      "A": "भारत",
+      "B": "नेपाल",
+      "C": "पाकिस्तान",
+      "D": "अफगानिस्तान"
+    },
+    "answer": ["C"],
+    "explanation": "प्राचीन तक्षशिला विश्वविद्यालय आधुनिक पाकिस्तान के रावलपिंडी क्षेत्र में स्थित था।"
+  },
+  {
+    "id": 131,
+    "question": "‘यूपी ग्लोबल इन्वेस्टर्स समिट 2023’ (UP Global Investors Summit 2023) का मुख्य विषय क्या था? / What was the main theme of UP Global Investors Summit 2023?",
+    "options": {
+      "A": "परंपरा से आधुनिकता की ओर",
+      "B": "नया भारत, नई अर्थव्यवस्था",
+      "C": "उत्तर प्रदेश: भविष्य का ग्रोथ इंजन",
+      "D": "मेक इन इंडिया, मेक इन यूपी"
+    },
+    "answer": ["C"],
+    "explanation": "UP Global Investors Summit 2023 का मुख्य विषय था - 'उत्तर प्रदेश: भविष्य का ग्रोथ इंजन'।"
+  },
+  {
+    "id": 132,
+    "question": "‘अमृत भारत स्टेशन योजना’ (Amrit Bharat Station Scheme) किससे संबंधित है? / The Amrit Bharat Station Scheme is related to:",
+    "options": {
+      "A": "रेलवे स्टेशनों के पुनर्विकास",
+      "B": "नए हवाईअड्डों का निर्माण",
+      "C": "सड़क अवसंरचना विकास",
+      "D": "जल परिवहन सुधार"
+    },
+    "answer": ["A"],
+    "explanation": "अमृत भारत स्टेशन योजना रेलवे स्टेशनों के पुनर्विकास और यात्रियों को आधुनिक सुविधाएँ उपलब्ध कराने हेतु शुरू की गई है।"
+  },
+  {
+    "id": 133,
+    "question": "‘जजिया कर’ (Jizya Tax) किस मुगल शासक ने समाप्त किया था? / Which Mughal ruler abolished the Jizya tax?",
+    "options": {
+      "A": "बाबर",
+      "B": "अकबर",
+      "C": "जहाँगीर",
+      "D": "औरंगजेब"
+    },
+    "answer": ["B"],
+    "explanation": "अकबर ने धार्मिक सहिष्णुता की नीति अपनाकर जजिया कर को समाप्त कर दिया था।"
+  },
+  {
+    "id": 134,
+    "question": "भारत में 'आर्थिक गणना' (Economic Census) कितने अंतराल पर होती है? / At what interval is the Economic Census conducted in India?",
+    "options": {
+      "A": "हर 5 वर्ष",
+      "B": "हर 7 वर्ष",
+      "C": "हर 10 वर्ष",
+      "D": "अनियमित अंतराल पर"
+    },
+    "answer": ["D"],
+    "explanation": "आर्थिक गणना की कोई निश्चित अंतराल नहीं है, यह अनियमित अंतराल पर आयोजित की जाती है।"
+  },
+  {
+    "id": 135,
+    "question": "‘रामचरितमानस’ (Ramcharitmanas) किस भाषा में रची गई थी? / In which language was Ramcharitmanas composed?",
+    "options": {
+      "A": "संस्कृत",
+      "B": "प्राकृत",
+      "C": "अवधी",
+      "D": "ब्रजभाषा"
+    },
+    "answer": ["C"],
+    "explanation": "गोस्वामी तुलसीदास ने रामचरितमानस को अवधी भाषा में रचा था।"
+  },
+  {
+    "id": 136,
+    "question": "‘प्रधानमंत्री जनधन योजना’ (PMJDY) किस वर्ष शुरू हुई? / In which year was Pradhan Mantri Jan Dhan Yojana launched?",
+    "options": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
+    },
+    "answer": ["C"],
+    "explanation": "प्रधानमंत्री जनधन योजना अगस्त 2014 में शुरू की गई थी ताकि प्रत्येक परिवार का बैंक खाता खोला जा सके।"
+  },
+  {
+    "id": 137,
+    "question": "भारत में 'Equalization Levy' किस उद्देश्य से लागू की गई थी? / For what purpose was the 'Equalization Levy' introduced in India?",
+    "options": {
+      "A": "ई-कॉमर्स कंपनियों पर कर लगाने हेतु / To tax e-commerce companies",
+      "B": "डिजिटल लेन-देन को हतोत्साहित करने हेतु / To discourage digital transactions",
+      "C": "विदेशी डिजिटल कंपनियों से राजस्व प्राप्त करने हेतु / To gain revenue from foreign digital companies",
+      "D": "कृषि उपज पर मूल्य समर्थन हेतु / For price support on agricultural produce"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Equalization Levy 2016 में भारत सरकार ने विदेशी ई-कॉमर्स और डिजिटल कंपनियों से कर संग्रह हेतु शुरू की थी, ताकि भारत में होने वाले डिजिटल लेन-देन से राजस्व प्राप्त किया जा सके।"
+  },
+  {
+    "id": 138,
+    "question": "उत्तर प्रदेश में 'बदायूं' किस ऐतिहासिक महत्व से जुड़ा है? / Badaun in Uttar Pradesh is historically associated with?",
+    "options": {
+      "A": "दिल्ली सल्तनत की प्रारंभिक राजधानी / Early capital of Delhi Sultanate",
+      "B": "सिख गुरुओं का प्रवास स्थल / Pilgrimage of Sikh Gurus",
+      "C": "1857 के विद्रोह का केंद्र / Center of 1857 Revolt",
+      "D": "गुप्तकालीन स्तंभलेख / Gupta-period pillar edicts"
+    },
+    "answer": ["A"],
+    "explanation": "बदायूं दिल्ली सल्तनत काल में प्रारंभिक राजधानी रही थी। इल्तुतमिश ने इसे अपना निवास स्थल बनाया था।"
+  },
+  {
+    "id": 139,
+    "question": "भारत के संविधान में 'धर्मनिरपेक्षता' (Secularism) शब्द किस संशोधन द्वारा जोड़ा गया? / The word 'Secularism' was added to the Indian Constitution by which amendment?",
+    "options": {
+      "A": "42वाँ संशोधन / 42nd Amendment",
+      "B": "44वाँ संशोधन / 44th Amendment",
+      "C": "52वाँ संशोधन / 52nd Amendment",
+      "D": "61वाँ संशोधन / 61st Amendment"
+    },
+    "answer": ["A"],
+    "explanation": "1976 के 42वें संशोधन द्वारा संविधान की प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द जोड़े गए।"
+  },
+  {
+    "id": 140,
+    "question": "चौरी-चौरा कांड (1922) के बाद महात्मा गाँधी ने किस आंदोलन को वापस ले लिया था? / After the Chauri Chaura incident (1922), which movement was withdrawn by Mahatma Gandhi?",
+    "options": {
+      "A": "असहयोग आंदोलन / Non-Cooperation Movement",
+      "B": "सविनय अवज्ञा आंदोलन / Civil Disobedience Movement",
+      "C": "भारत छोड़ो आंदोलन / Quit India Movement",
+      "D": "स्वदेशी आंदोलन / Swadeshi Movement"
+    },
+    "answer": ["A"],
+    "explanation": "चौरी-चौरा हिंसा के बाद गांधीजी ने असहयोग आंदोलन को यह कहकर स्थगित किया कि स्वतंत्रता की राह अहिंसा से ही होनी चाहिए।"
+  },
+  {
+    "id": 141,
+    "question": "‘Project Tiger’ भारत में किस वर्ष शुरू हुआ था? / In which year was 'Project Tiger' launched in India?",
+    "options": {
+      "A": "1972",
+      "B": "1973",
+      "C": "1975",
+      "D": "1980"
+    },
+    "answer": ["B"],
+    "explanation": "Project Tiger भारत सरकार ने 1973 में शुरू किया था। इसका उद्देश्य बाघों की तेजी से घटती संख्या को संरक्षित करना था।"
+  },
+  {
+    "id": 142,
+    "question": "‘राष्ट्रीय आय’ की गणना भारत में सबसे पहले किसने की थी? / Who first estimated 'National Income' in India?",
+    "options": {
+      "A": "वी. के. आर. वी. राव / V.K.R.V. Rao",
+      "B": "दादाभाई नौरोजी / Dadabhai Naoroji",
+      "C": "आर. सी. दत्त / R.C. Dutt",
+      "D": "महालनोबिस / P.C. Mahalanobis"
+    },
+    "answer": ["B"],
+    "explanation": "दादाभाई नौरोजी ने 19वीं सदी में राष्ट्रीय आय का अनुमान लगाया था और Drain of Wealth Theory प्रस्तुत की थी।"
+  },
+  {
+    "id": 143,
+    "question": "उत्तर प्रदेश का कौन सा जिला 'सूर्य मंदिर' के लिए प्रसिद्ध है? / Which district of Uttar Pradesh is famous for its 'Sun Temple'?",
+    "options": {
+      "A": "कौशांबी / Kaushambi",
+      "B": "बरेली / Bareilly",
+      "C": "ललितपुर / Lalitpur",
+      "D": "अंबेडकर नगर / Ambedkar Nagar"
+    },
+    "answer": ["C"],
+    "explanation": "ललितपुर जिले का देवगढ़ सूर्य मंदिर ऐतिहासिक और स्थापत्य दृष्टि से अत्यंत प्रसिद्ध है।"
+  },
+  {
+    "id": 144,
+    "question": "निम्नलिखित में से किस तत्व का उपयोग न्यूक्लियर रिएक्टर में 'मॉडरेटर' के रूप में होता है? / Which of the following is used as a 'Moderator' in nuclear reactors?",
+    "options": {
+      "A": "ग्रेफाइट / Graphite",
+      "B": "भारी जल / Heavy Water",
+      "C": "सोडियम / Sodium",
+      "D": "सीसा / Lead"
+    },
+    "answer": ["A", "B"],
+    "explanation": "न्यूक्लियर रिएक्टर में न्यूट्रॉनों की गति कम करने हेतु ग्रेफाइट और भारी जल (D₂O) का उपयोग मॉडरेटर के रूप में किया जाता है।"
+  },
+  {
+    "id": 145,
+    "question": "‘लोकायुक्त’ की नियुक्ति का प्रावधान किस राज्य ने सबसे पहले किया था? / Which state first provided for the appointment of 'Lokayukta'?",
+    "options": {
+      "A": "महाराष्ट्र / Maharashtra",
+      "B": "उत्तर प्रदेश / Uttar Pradesh",
+      "C": "मध्य प्रदेश / Madhya Pradesh",
+      "D": "राजस्थान / Rajasthan"
+    },
+    "answer": ["A"],
+    "explanation": "1963 में महाराष्ट्र ने सबसे पहले लोकायुक्त की नियुक्ति का प्रावधान किया था। बाद में अन्य राज्यों ने भी इसे अपनाया।"
+  },
+  {
+    "id": 146,
+    "question": "1857 के विद्रोह में अवध क्षेत्र के मुख्य नेता कौन थे? / Who was the main leader of the 1857 Revolt in Awadh region?",
+    "options": {
+      "A": "बेगम हजरत महल / Begum Hazrat Mahal",
+      "B": "रानी लक्ष्मीबाई / Rani Laxmibai",
+      "C": "कुँवर सिंह / Kunwar Singh",
+      "D": "तात्या टोपे / Tatya Tope"
+    },
+    "answer": ["A"],
+    "explanation": "1857 के विद्रोह में अवध क्षेत्र में बेगम हजरत महल ने अंग्रेजों के विरुद्ध संघर्ष का नेतृत्व किया।"
+  },
+  {
+    "id": 147,
+    "question": "‘ग्रीन हाइड्रोजन मिशन’ का मुख्य उद्देश्य क्या है? / What is the main objective of the 'Green Hydrogen Mission'?",
+    "options": {
+      "A": "स्वच्छ ऊर्जा उत्पादन / Clean energy production",
+      "B": "हाइड्रोजन आधारित वाहनों को बढ़ावा देना / Promote hydrogen-based vehicles",
+      "C": "जीवाश्म ईंधनों पर निर्भरता घटाना / Reduce dependence on fossil fuels",
+      "D": "परमाणु ऊर्जा उत्पादन / Nuclear energy generation"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "ग्रीन हाइड्रोजन मिशन का उद्देश्य स्वच्छ ऊर्जा उत्पादन, परिवहन क्षेत्र में हाइड्रोजन आधारित तकनीक का विकास और जीवाश्म ईंधनों पर निर्भरता घटाना है।"
+  },
+  {
+    "id": 148,
+    "question": "उत्तर प्रदेश की किस नदी को ‘पूर्ववाहिनी गंगा’ कहा जाता है? / Which river of Uttar Pradesh is called 'Purvavahini Ganga'?",
+    "options": {
+      "A": "घाघरा / Ghaghra",
+      "B": "गोमती / Gomti",
+      "C": "गंडक / Gandak",
+      "D": "सारयू / Saryu"
+    },
+    "answer": ["D"],
+    "explanation": "सारयू नदी को 'पूर्ववाहिनी गंगा' कहा जाता है, क्योंकि इसका प्रवाह पूर्व दिशा की ओर है।"
+  },
+  {
+    "id": 149,
+    "question": "किस भारतीय वैज्ञानिक को 'Radio Waves' की खोज के लिए श्रेय दिया जाता है? / Which Indian scientist is credited for the discovery of 'Radio Waves'?",
+    "options": {
+      "A": "सी. वी. रमन / C.V. Raman",
+      "B": "जगदीश चंद्र बोस / Jagdish Chandra Bose",
+      "C": "होमी भाभा / Homi Bhabha",
+      "D": "मेघनाद साहा / Meghnad Saha"
+    },
+    "answer": ["B"],
+    "explanation": "जगदीश चंद्र बोस ने रेडियो तरंगों और वायरलेस संचार की खोज में महत्वपूर्ण योगदान दिया।"
+  },
+  {
+    "id": 150,
+    "question": "‘ऑपरेशन गंगा’ किससे संबंधित था? / 'Operation Ganga' was related to?",
+    "options": {
+      "A": "नेपाल भूकंप राहत कार्य / Nepal earthquake relief",
+      "B": "यूक्रेन से भारतीय छात्रों की वापसी / Evacuation of Indian students from Ukraine",
+      "C": "कोविड-19 टीकाकरण अभियान / COVID-19 vaccination campaign",
+      "D": "बांग्लादेश मुक्ति युद्ध / Bangladesh Liberation War"
+    },
+    "answer": ["B"],
+    "explanation": "ऑपरेशन गंगा 2022 में रूस-यूक्रेन युद्ध के दौरान फंसे भारतीय छात्रों को सुरक्षित भारत लाने का अभियान था।"
   }
 ]
+  
+
+
+  
+
+
+
