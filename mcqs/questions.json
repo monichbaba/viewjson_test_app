@@ -1,906 +1,917 @@
 [
   {
     "id": 1,
-    "question": "संविधान की प्रस्तावना (Preamble) में कौन-से शब्द बाद में जोड़े गए थे? / Which words were added later to the Preamble of the Constitution?",
+    "question": "दिल्ली सल्तनत काल के पहले इतिहासकार कौन थे?",
     "options": {
-      "A": "Sovereign (सार्वभौम)",
-      "B": "Socialist (समाजवादी)",
-      "C": "Secular (धर्मनिरपेक्ष)",
-      "D": "Republic (गणराज्य)"
+      "A": "अब्दुल मलिक इसामी",
+      "B": "हसन निज़ामी",
+      "C": "अमीर ख़ुसरो",
+      "D": "ज़ियाउद्दीन बरनी"
     },
-    "answer": ["B", "C"],
-    "explanation": "‘Socialist’ और ‘Secular’ शब्द 42वीं संविधान संशोधन (1976) के द्वारा प्रस्तावना में जोड़े गए थे; Sovereign और Republic मौलिक शब्द हैं। / The words 'Socialist' and 'Secular' were inserted by the 42nd Amendment (1976). 'Sovereign' and 'Republic' were original."
+    "answer": ["B"],
+    "explanation": "हसन निज़ामी ने 'ताजुल-मआसिर' नामक कृति लिखी, जो दिल्ली सल्तनत का पहला आधिकारिक इतिहास है।"
   },
   {
     "id": 2,
-    "question": "नीचे दिए गए में से कौन-सा 'संविधान की मौलिक संरचना' (basic structure) के तत्व माने गए हैं? / Which of the following are considered elements of the Constitution's 'basic structure' doctrine?",
+    "question": "अमीर ख़ुसरो को किस उपनाम से जाना जाता है?",
     "options": {
-      "A": "संवैधानिक शासन का लोकतान्त्रिक स्वरूप (Democratic form of government)",
-      "B": "न्यायिक समीक्षा का अधिकार (Judicial review)",
-      "C": "नियमित संविधान संशोधन का पूर्ण प्रतिबंध (Total bar on amendments)",
-      "D": "मौलिक अधिकारों का संरक्षण (Protection of fundamental rights)"
+      "A": "तूती-ए-हिंद",
+      "B": "सद्र-ए-निज़ामी",
+      "C": "नदीम-ए-सुलतान",
+      "D": "शहंशाह-ए-शायरी"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "केस-न्याय (Kesavananda Bharati) के निर्णय में basic-structure में लोकतंत्र, न्यायिक समीक्षा, मौलिक स्वरूप जैसे तत्व शामिल बताए गए; पर संविधान में संशोधन का पूर्ण प्रतिबंध basic-structure की परिभाषा नहीं है। / Kesavananda recognized democracy, judicial review and protection of fundamental rights among basic-structure elements; it did not treat a total bar on amendments as a basic-structure component."
+    "answer": ["A"],
+    "explanation": "अमीर ख़ुसरो को 'तूती-ए-हिंद' (भारत का तोता) कहा जाता है।"
   },
   {
     "id": 3,
-    "question": "Fundamental Rights (Part III) भारत के संविधान में किस Article सीमा के अंतर्गत आते हैं? / Fundamental Rights in Part III come under which Articles?",
+    "question": "ज़ियाउद्दीन बरनी की प्रमुख कृति कौन सी थी?",
     "options": {
-      "A": "Articles 12–35",
-      "B": "Articles 1–11",
-      "C": "Articles 36–51",
-      "D": "Articles 51A–51H"
+      "A": "तारीख़-ए-फ़िरोज़शाही",
+      "B": "फतवा-ए-जाहंदारी",
+      "C": "फ़ुतूहुस्सलातीन",
+      "D": "नूह सिपिहर"
     },
-    "answer": ["A"],
-    "explanation": "मौलिक अधिकार संविधान के भाग III में हैं और सामान्यतः Articles 12 से 35 तक दर्ज हैं; DPSP अलग Part IV (36–51) है। / Fundamental Rights occupy Articles 12–35 (Part III). Directive Principles are in Part IV (36–51)."
+    "answer": ["A", "B"],
+    "explanation": "ज़ियाउद्दीन बरनी ने 'तारीख़-ए-फ़िरोज़शाही' और 'फतवा-ए-जाहंदारी' लिखी।"
   },
   {
     "id": 4,
-    "question": "निम्न में से कौन-से मूल अधिकार justiciable (अदालत में प्रवर्तन योग्य) हैं? / Which of the following Fundamental Rights are justiciable?",
+    "question": "अब्दुल मलिक इसामी की कृति का नाम क्या था?",
     "options": {
-      "A": "Right to Equality (Article 14–18)",
-      "B": "Directive Principles of State Policy",
-      "C": "Right to Constitutional Remedies (Article 32)",
-      "D": "Fundamental Duties (Article 51A)"
+      "A": "तारीख़-ए-मुब़ारकशाही",
+      "B": "फ़ुतूहुस्सलातीन",
+      "C": "ताजुल-मआसिर",
+      "D": "नूह सिपिहर"
     },
-    "answer": ["A", "C"],
-    "explanation": "मौलिक अधिकार (जैसे Article 14 से 18) और Article 32 द्वारा प्रदत्त अधिकार-उपाय अदालती हैं; DPSP (Part IV) सामान्यतः non-justiciable हैं; Fundamental Duties संविधान में नैतिक/नैरेटिव कर्तव्य के रूप में हैं, पर वे सामान्यतः enforceable rights नहीं हैं। / Rights under Part III (e.g., equality) and the remedy under Article 32 are justiciable. DPSPs are non-justiciable; Fundamental Duties are moral/constitutional duties."
+    "answer": ["B"],
+    "explanation": "अब्दुल मलिक इसामी ने 'फ़ुतूहुस्सलातीन' लिखी।"
   },
   {
     "id": 5,
-    "question": "दिशानिर्देश सिद्धान्त (DPSP) किस Articles के भीतर आते हैं? / Directive Principles of State Policy are contained in which Articles?",
+    "question": "हसन निज़ामी का मूल नाम क्या था?",
     "options": {
-      "A": "Articles 12–35",
-      "B": "Articles 36–51",
-      "C": "Articles 51A–51F",
-      "D": "Articles 300–305"
+      "A": "सद्रुद्दीन मोहम्मद बिन हसन निज़ामी",
+      "B": "अब्दुल मलिक इसामी",
+      "C": "ज़ियाउद्दीन बरनी",
+      "D": "अमीर ख़ुसरो"
     },
-    "answer": ["B"],
-    "explanation": "DPSP संविधान के Part IV में Articles 36 से 51 के बीच दिये गए हैं। ये नीति-निर्देश हैं और सामान्यतः अदालतों द्वारा enforceable नहीं होते। / DPSPs are in Articles 36–51 (Part IV) and are guiding principles for the State."
+    "answer": ["A"],
+    "explanation": "हसन निज़ामी का पूरा नाम 'सद्रुद्दीन मोहम्मद बिन हसन निज़ामी' था।"
   },
   {
     "id": 6,
-    "question": "Fundamental Duties कितने हैं और किस Article में दिए गए हैं? / How many Fundamental Duties are there and under which Article?",
+    "question": "अमीर ख़ुसरो ने किस भाषा में साहित्य रचनाएँ कीं?",
     "options": {
-      "A": "11 duties, Article 51A",
-      "B": "8 duties, Article 35",
-      "C": "15 duties, Article 370",
-      "D": "5 duties, Article 19"
+      "A": "अरबी",
+      "B": "फारसी",
+      "C": "हिंदी",
+      "D": "संस्कृत"
     },
-    "answer": ["A"],
-    "explanation": "Fundamental Duties 11 संख्या में Article 51A में दिए गए हैं — इन्हें 42वीं संशोधन (1976) के बाद जोड़ा गया था। / There are 11 Fundamental Duties listed under Article 51A (inserted by the 42nd Amendment)."
+    "answer": ["B", "C"],
+    "explanation": "अमीर ख़ुसरो ने फारसी और हिंदी (हिंदवी) दोनों भाषाओं में साहित्य रचनाएँ कीं।"
   },
   {
     "id": 7,
-    "question": "संविधान संशोधन की शक्ति किस Article में निहित है? / Which Article vests Parliament with the power to amend the Constitution?",
+    "question": "अब्दुल मलिक इसामी ने किस सुलतान के दरबार में साहित्य रचनाएँ कीं?",
     "options": {
-      "A": "Article 368",
-      "B": "Article 352",
-      "C": "Article 370",
-      "D": "Article 32"
+      "A": "अलाउद्दीन खिलजी",
+      "B": "मुहम्मद बिन तुगलक",
+      "C": "बहमनी शाह",
+      "D": "फ़िरोज़ शाह तुगलक"
     },
-    "answer": ["A"],
-    "explanation": "Article 368 संसद को संविधान संशोधन का अधिकार देता है और संशोधन की प्रक्रिया का निर्धारण करता है; किन परिस्थितियों में राज्य विधानसभाओं की सहमति आवश्यक है, उसका उल्लेख भी है। / Article 368 prescribes Parliament's power & procedure for amendment; certain amendments require ratification by state legislatures."
+    "answer": ["C"],
+    "explanation": "अब्दुल मलिक इसामी ने बहमनी शाह के दरबार में साहित्य रचनाएँ कीं।"
   },
   {
     "id": 8,
-    "question": "नीचे दिए गए में से कौन-से ऐसे संशोधन हैं जिनके लिए राज्य विधानसभाओं की स्वीकृति जरूरी है? / Which of the following amendments require ratification by state legislatures?",
+    "question": "ज़ियाउद्दीन बरनी किस सुलतान के दरबार में साहित्य रचनाएँ करते थे?",
     "options": {
-      "A": "Provision for election of President",
-      "B": "Distribution of powers between Union and States",
-      "C": "Any provision concerning the Supreme Court jurisdiction",
-      "D": "All money-bill related procedures"
+      "A": "अलाउद्दीन खिलजी",
+      "B": "मुहम्मद बिन तुगलक",
+      "C": "फ़िरोज़ शाह तुगलक",
+      "D": "कुतुबुद्दीन ऐबक"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Article 368 के भीतर कुछ संशोधनों के लिये राज्य विधानसभाओं की रैटीफिकेशन आवश्यक है — जैसे राष्ट्रपति चुनाव सम्बन्धी प्रावधानों में परिवर्तन, संघ/राज्य शक्तियों के विभाजन में बदलाव, या उच्च न्यायालय/संघीय न्यायपालिका के संबंध में परिवर्तन। धन-बिल (money bill) प्रक्रियात्मक बदलाव सर्वथा संसद-स्तर पर होते हैं और राज्य-रैटीफिकेशन सामान्यतः आवश्यक नहीं। / Certain amendments changing President's election, Union-State power distribution, or judiciary provisions need state ratification; money-bill rules generally do not."
+    "answer": ["B", "C"],
+    "explanation": "ज़ियाउद्दीन बरनी मुहम्मद बिन तुगलक और फ़िरोज़ शाह तुगलक के दरबार में साहित्य रचनाएँ करते थे।"
   },
   {
     "id": 9,
-    "question": "संघ और राज्य के बीच residuary powers किसके पास हैं? / Who holds the residuary powers between Union and States?",
+    "question": "अब्दुल मलिक इसामी की कृति 'फ़ुतूहुस्सलातीन' किस शैली में लिखी गई थी?",
     "options": {
-      "A": "Union (Parliament)",
-      "B": "State Legislatures",
-      "C": "Supreme Court",
-      "D": "President"
+      "A": "ग़ज़ल",
+      "B": "मसनवी",
+      "C": "कविता",
+      "D": "निबंध"
     },
-    "answer": ["A"],
-    "explanation": "भारतीय संविधान में residuary subjects (जो concurrent/state/union सूची में स्पष्ट न हों) संसद के पास आते हैं (Union list का विस्तार)। यह संघीय ढाँचे का एक महत्वपूर्ण पहलू है। / Residuary powers rest with the Parliament (Union) under the Indian constitutional scheme."
+    "answer": ["B"],
+    "explanation": "'फ़ुतूहुस्सलातीन' काव्य शैली मसनवी में लिखी गई थी।"
   },
   {
     "id": 10,
-    "question": "निम्नलिखित में से कौन-सा Union List का विषय है? / Which of the following is a subject in the Union List?",
+    "question": "अमीर ख़ुसरो ने कितनी भाषाओं में साहित्य रचनाएँ कीं?",
     "options": {
-      "A": "Defense (रक्षा)",
-      "B": "Police (पुलिस)",
-      "C": "Public Health (सार्वजनिक स्वास्थ्य)",
-      "D": "Agriculture (कृषि)"
+      "A": "एक",
+      "B": "दो",
+      "C": "तीन",
+      "D": "चार"
     },
-    "answer": ["A"],
-    "explanation": "रक्षा (defence) Union List का विषय है; पुलिस और सार्वजनिक स्वास्थ्य आमतौर पर राज्य सूची में आते हैं, कृषि भी मुख्यतः राज्य सूची में है। / Defence is a Union subject; police, public health and agriculture are primarily State subjects."
+    "answer": ["C"],
+    "explanation": "अमीर ख़ुसरो ने फारसी, हिंदी, अरबी और तुर्की भाषाओं में साहित्य रचनाएँ कीं।"
   },
   {
     "id": 11,
-    "question": "RBI, CAG, UPSC, ECI में से कौन-सा संविधान द्वारा स्थापित है (i.e., constitutional body)? / Which among RBI, CAG, UPSC, ECI is a constitutional body?",
+    "question": "हसन निज़ामी की कृति 'ताजुल-मआसिर' किस विषय पर आधारित है?",
     "options": {
-      "A": "Comptroller and Auditor General (CAG)",
-      "B": "Reserve Bank of India (RBI)",
-      "C": "Union Public Service Commission (UPSC)",
-      "D": "Election Commission of India (ECI)"
+      "A": "सामाजिक जीवन",
+      "B": "राजनीतिक इतिहास",
+      "C": "धार्मिक अनुष्ठान",
+      "D": "साहित्यिक आलोचना"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "CAG (Article 148 onward), UPSC (Article 315 onward) और ECI (Article 324 onward) संवैधानिक संस्थाएँ हैं। RBI एक statutory body (Reserve Bank of India Act, 1934) द्वारा स्थापित है। / CAG, UPSC and ECI are constitutional bodies; RBI is statutory under its Act."
+    "answer": ["B"],
+    "explanation": "'ताजुल-मआसिर' कृति दिल्ली सल्तनत के राजनीतिक इतिहास पर आधारित है।"
   },
   {
     "id": 12,
-    "question": "निम्न में से कौन-सा पद राष्ट्रपति (President) के 'अनिवार्य' कर्तव्यों में आता है? / Which of the following is a mandatory duty of the President?",
+    "question": "अब्दुल मलिक इसामी की कृति 'फ़ुतूहुस्सलातीन' में किसका वर्णन नहीं किया गया है?",
     "options": {
-      "A": "Parliament को अधिसूचित करना कि सरकार को विश्वास है (To appoint PM only if majority exists)",
-      "B": "Bills को बिना किसी परामर्श के स्थायी रूप से अस्वीकार करना (Veto all bills permanently without consultation)",
-      "C": "Parliament के किसी नियम पर स्वतः निर्णय लेना (Rule Parliament directly)",
-      "D": "None of the above"
+      "A": "ग़ज़नवी आक्रमण",
+      "B": "ग़ोरी आक्रमण",
+      "C": "तुगलक वंश का उत्थान",
+      "D": "बहमनी राज्य की स्थापना"
     },
-    "answer": ["A"],
-    "explanation": "राष्ट्रपति का कर्तव्य है कि वह उस व्यक्ति को प्रधानमंत्री नियुक्त करे जिसका संसद में बहुमत हो या जो बहुमत दिखा सके; राष्ट्रपति के नेटिव वेटो/निषेध शक्तियों पर सीमाएँ हैं और वे मानक संवैधानिक परामर्शों पर निर्भर करते हैं। / The President must appoint as PM the person who commands majority support; veto powers are limited and function within constitutional norms."
+    "answer": ["D"],
+    "explanation": "'फ़ुतूहुस्सलातीन' में बहमनी राज्य की स्थापना का वर्णन नहीं किया गया है।"
   },
   {
     "id": 13,
-    "question": "किस Article में President की Impeachment प्रक्रिया बताई गयी है? / Under which Article is the impeachment of the President provided?",
+    "question": "अमीर ख़ुसरो ने किस संगीत शैली का विकास किया?",
     "options": {
-      "A": "Article 61",
-      "B": "Article 356",
-      "C": "Article 72",
-      "D": "Article 324"
+      "A": "कर्नाटिक संगीत",
+      "B": "हिंदुस्तानी संगीत",
+      "C": "कव्वाली",
+      "D": "गज़ल"
     },
-    "answer": ["A"],
-    "explanation": "Article 61 राष्ट्रपति के विरुद्ध अभियोजन/इम्पीचमेंट की व्यवस्था करता है — यह एक विशेष विधिक प्रक्रिया है। Article 356 राज्य में राष्ट्रपति शासन से संबंधित है। / Article 61 deals with impeachment of the President; Article 356 is about President's rule in states."
+    "answer": ["B", "C"],
+    "explanation": "अमीर ख़ुसरो ने हिंदुस्तानी संगीत और कव्वाली शैली का विकास किया।"
   },
   {
     "id": 14,
-    "question": "प्रधानमंत्री (PM) का चुनावी आधार क्या है और PM किस Article के अंतर्गत नियुक्त होते हैं? / What is the basis for selection of the Prime Minister and under which Article are they appointed?",
+    "question": "हसन निज़ामी की कृति 'ताजुल-मआसिर' में किसका विस्तृत वर्णन है?",
     "options": {
-      "A": "Leader of majority party in Lok Sabha; Article 75",
-      "B": "Direct election by people; Article 56",
-      "C": "Nomination by President only; Article 74",
-      "D": "Selection by Supreme Court; Article 130"
+      "A": "कुतुबुद्दीन ऐबक",
+      "B": "अलाउद्दीन खिलजी",
+      "C": "मुहम्मद बिन तुगलक",
+      "D": "फ़िरोज़ शाह तुगलक"
     },
     "answer": ["A"],
-    "explanation": "PM आमतौर पर Lok Sabha में बहुमत वाली पार्टी/गठबंधन के नेता होते हैं और उनका संवैधानिक नियुक्ति-आधार Article 75 है (Council of Ministers और PM की नियुक्ति संबंधी प्रावधान)। / The PM is normally the leader of the majority in Lok Sabha; appointment & Council of Ministers are covered under Article 75."
+    "explanation": "'ताजुल-मआसिर' में कुतुबुद्दीन ऐबक का विस्तृत वर्णन है।"
   },
   {
     "id": 15,
-    "question": "Collective responsibility के सिद्धान्त का अर्थ क्या है? / What does the principle of collective responsibility mean?",
+    "question": "अब्दुल मलिक इसामी की कृति 'फ़ुतूहुस्सलातीन' किस भाषा में लिखी गई थी?",
     "options": {
-      "A": "Council of Ministers संसद के प्रति एक संयुक्त रूप से उत्तरदायी होते हैं",
-      "B": "हर मंत्री केवल अपने मंत्रालय के लिये व्यक्तिगत रूप से उत्तरदायी है",
-      "C": "Judiciary मंत्रिमंडल को निर्देश देती है",
-      "D": "President मंत्रिमंडल के फैसलों का निजी रूप से समर्थन करता है"
+      "A": "अरबी",
+      "B": "फारसी",
+      "C": "हिंदी",
+      "D": "संस्कृत"
     },
-    "answer": ["A"],
-    "explanation": "collective responsibility का अर्थ है कि Council of Ministers संसद के प्रति संयुक्त रूप से जिम्मेदार रहते हैं; यदि संसद में निरम्भ होता है तो पूरा मंत्रिमंडल इस्तीफा दे सकता है। / Collective responsibility means the Council is jointly accountable to Parliament."
+    "answer": ["B"],
+    "explanation": "'फ़ुतूहुस्सलातीन' काव्य शैली मसनवी में फारसी भाषा में लिखी गई थी।"
   },
   {
     "id": 16,
-    "question": "सुप्रीम कोर्ट द्वारा 'Judicial Review' का क्या मतलब है? / What does 'judicial review' by the Supreme Court mean?",
+    "question": "अमीर ख़ुसरो ने किस सुलतान के दरबार में साहित्य रचनाएँ कीं?",
     "options": {
-      "A": "कानूनों और सरकारी कृत्यों की संवैधानिकता की समीक्षा करने का अधिकार",
-      "B": "Parliament द्वारा पारित सभी कानून अपने आप वैध हैं",
-      "C": "Supreme Court ही संविधान को लिखता है",
-      "D": "Supreme Court सरकार के निर्णयों का अनुपालन सुनिश्चित नहीं कर सकता"
+      "A": "अलाउद्दीन खिलजी",
+      "B": "मुहम्मद बिन तुगलक",
+      "C": "फ़िरोज़ शाह तुगलक",
+      "D": "कुतुबुद्दीन ऐबक"
     },
-    "answer": ["A"],
-    "explanation": "Judicial review का आशय है कि सर्वोच्च/उच्च न्यायालय यह जाँच सकते हैं कि क्या कोई विधान या सरकारी कार्य संविधान के अनुरूप है; यदि नहीं तो उसे रद्द किया जा सकता है। / Judicial review permits courts to test laws and executive acts for constitutionality and strike down unconstitutional ones."
-  },
-  {
-    "id": 17,
-    "question": "भारतीय संविधान में 'Single Citizenship' का प्रावधान किस प्रकार है? / What is the provision for 'Single Citizenship' in the Indian Constitution?",
-    "options": {
-      "A": "All citizens have single citizenship of India (No dual state-citizenship)",
-      "B": "Citizenship varies state-wise like USA",
-      "C": "Dual citizenship with states allowed",
-      "D": "Separate citizenship for Union Territories"
-    },
-    "answer": ["A"],
-    "explanation": "भारतीय संविधान एकल नागरिकता व्यवस्था अपनाता है — सभी नागरिक भारत के ही नागरिक माने जाते हैं; राज्य-स्तरीय दोहरी नागरिकता व्यवस्था नहीं है। / India follows single citizenship: an individual is a citizen of India, not of a state separately."
-  },
-  {
-    "id": 18,
-    "question": "राज्यपाल (Governor) के पास किस तरह का शासनादेश (discretionary power) हो सकता है? / Governor may exercise which type of discretionary power?",
-    "options": {
-      "A": "जब किसी पार्टी को स्पष्ट बहुमत न हो तब CM नियुक्त करना",
-      "B": "सर्वदा राज्य की किसी नीति को बदल देना",
-      "C": "Supreme Court की जगह निर्णय देना",
-      "D": "कानून बनाना बिना विधानसभा के सहमति के"
-    },
-    "answer": ["A"],
-    "explanation": "Governor के पास विवश परिस्थितियों में discretionary power होती है — जैसे जब कोई पार्टी स्पष्ट बहुमत न दिखाती हो तो CM नियुक्ति का निर्णय; पर सामान्य कानून-निर्माण/न्यायिक भूमिकाएँ उनके अधिकार क्षेत्र में नहीं। / The Governor has limited discretionary powers e.g., in appointing a CM when no clear majority exists."
-  },
-  {
-    "id": 19,
-    "question": "Article 356 (President's Rule) लागू करने का मूल आधार क्या है? / What is the basic ground for imposing Article 356 (President's Rule)?",
-    "options": {
-      "A": "Failure of constitutional machinery in a state",
-      "B": "Financial emergency only",
-      "C": "High inflation",
-      "D": "Supreme Court के निर्देश"
-    },
-    "answer": ["A"],
-    "explanation": "Article 356 का उपयोग उस स्थिति में किया जा सकता है जहाँ राज्य में संवैधानिक मशीनरी विफल हो (failure of constitutional machinery) — यह राष्ट्रपति के निर्णय पर प्रदेश के लिये लागू किया जाता है, पर इसे न्यायिक समीक्षा के दायरे में भी रखा जा चुका है। / Article 356 is invoked on the ground of failure of constitutional machinery in a State."
-  },
-  {
-    "id": 20,
-    "question": "निम्न में से कौन-से भारत में संविधान द्वारा स्वतंत्र चुनाव सुनिश्चित करने वाले हैं? / Which of the following ensure free elections in India under the Constitution?",
-    "options": {
-      "A": "Election Commission of India (ECI)",
-      "B": "Delimitation Commission",
-      "C": "State Police under direct political control",
-      "D": "Model Code of Conduct (statutory)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "ECI (Article 324) स्वतंत्र चुनाव कराने का संवैधानिक प्राधिकरण है; Delimitation Commission निर्वाचन क्षेत्रों के विनिर्धारण में भूमिका निभाता है। राज्य पुलिस का राजनीतिक नियंत्रण या Model Code का statutory दर्जा संविधानिक सुरक्षा के रूप में मानक नहीं हैं। / ECI and Delimitation Commission are constitutional/statutory mechanisms to preserve fair elections."
+    "answer": ["B", "C"],
+    "explanation": "अमीर ख़ुसरो ने मुहम्मद बिन तुगलक और फ़िरोज़ शाह तुगलक के दरबार में साहित्य रचनाएँ कीं।"
   },
   {
     "id": 21,
-    "question": "नियमितीय लोकसभा की अधिकतम सदस्य संख्या कितनी निर्धारित है? / What is the maximum number of elected members of the Lok Sabha?",
+    "question": "अमीर ख़ुसरो को किस शायर और संगीतज्ञ के रूप में भी जाना जाता है?",
     "options": {
-      "A": "543 elected seats",
-      "B": "552 elected seats",
-      "C": "500 elected seats",
-      "D": "600 elected seats"
+      "A": "भारत का तोता",
+      "B": "सुल्तान-ए-शायरी",
+      "C": "ग़ज़ल का शहंशाह",
+      "D": "तारीख़कार"
     },
-    "answer": ["A"],
-    "explanation": "लोकसभा में सामान्यतः 543 निर्वाचित सदस्य होते हैं; कुछ अतिरिक्त nominated seats पहले Anglo-Indian के लिये थीं पर वे हट चुकी हैं; समग्र रूप से लोकसभा की निर्वाचित संख्या 543 पर आधारित है। / Lok Sabha has 543 elected seats (Anglo-Indian nominated seats earlier existed but have been abolished)."
+    "answer": ["A", "C"],
+    "explanation": "अमीर ख़ुसरो को 'भारत का तोता' और 'ग़ज़ल का शहंशाह' कहा जाता है।"
   },
   {
     "id": 22,
-    "question": "Rajya Sabha की अधिकतम सीटों की संख्या क्या है (maximum strength)? / What is the maximum strength (membership) of the Rajya Sabha?",
+    "question": "ज़ियाउद्दीन बरनी की कृति 'तारीख़-ए-फ़िरोज़शाही' किसकी सेवा में लिखी गई थी?",
     "options": {
-      "A": "245 (233 elected + 12 nominated)",
-      "B": "250 (238 elected + 12 nominated)",
-      "C": "200",
-      "D": "300"
+      "A": "कुतुबुद्दीन ऐबक",
+      "B": "फ़िरोज़ शाह तुगलक",
+      "C": "अलाउद्दीन खिलजी",
+      "D": "मुहम्मद बिन तुगलक"
     },
-    "answer": ["A"],
-    "explanation": "Rajya Sabha की वर्तमान अधिकतम सदस्य संख्या 245 है — 233 राज्य/केंद्रशासित प्रदेशों द्वारा निर्वाचित और 12 राष्ट्रपति द्वारा नामांकित। / Rajya Sabha's maximum membership is 245 (233 elected + 12 nominated)."
+    "answer": ["B"],
+    "explanation": "'तारीख़-ए-फ़िरोज़शाही' फ़िरोज़ शाह तुगलक के शासनकाल का इतिहास है।"
   },
   {
     "id": 23,
-    "question": "निम्नलिखित में से कौन-सा local self-government के संवैधानिक अधिकारों को सुदृढ़ करने वाला संशोधन था? / Which amendment strengthened constitutional status of local self-government?",
+    "question": "अब्दुल मलिक इसामी की कृति 'फ़ुतूहुस्सलातीन' किसका विवरण प्रस्तुत करती है?",
     "options": {
-      "A": "73rd Amendment",
-      "B": "74th Amendment",
-      "C": "42nd Amendment",
-      "D": "44th Amendment"
+      "A": "सुलतान अलाउद्दीन खिलजी के विजय अभियान",
+      "B": "मुहम्मद बिन तुगलक के सुधार",
+      "C": "दिल्ली सल्तनत की स्थापत्य कला",
+      "D": "भारत के धार्मिक आंदोलन"
     },
-    "answer": ["A", "B"],
-    "explanation": "73वीं और 74वीं संविधान संशोधनों ने क्रमशः पंचायत राज और नगरीय local bodies को संवैधानिक दर्जा दिया और उन्हें विशिष्ट अधिकार व अनिवार्य संस्थागत संरचना प्रदान की। / The 73rd (Panchayats) and 74th (Municipalities) Amendments constitutionalised local self-government."
+    "answer": ["A"],
+    "explanation": "'फ़ुतूहुस्सलातीन' में सुलतान अलाउद्दीन खिलजी के विजय अभियानों का विवरण है।"
   },
   {
     "id": 24,
-    "question": "CAG (Comptroller and Auditor General) की नियुक्ति किस Article के तहत होती है और उसकी कार्यकाल/स्वतंत्रता का आश्रय किसमें है? / Under which Article is CAG appointed and what ensures his independence?",
+    "question": "हसन निज़ामी ने अपनी कृति 'ताजुल-मआसिर' में किसकी वीरता और शासन का वर्णन किया?",
     "options": {
-      "A": "Article 148; secure tenure and service conditions",
-      "B": "Article 324; judicial appointment",
-      "C": "Article 310; direct control by PM",
-      "D": "Article 51A; fundamental duty"
+      "A": "अलाउद्दीन खिलजी",
+      "B": "कुतुबुद्दीन ऐबक",
+      "C": "मुहम्मद बिन तुगलक",
+      "D": "फ़िरोज़ शाह तुगलक"
     },
-    "answer": ["A"],
-    "explanation": "CAG का प्रावधान Article 148 में है; उसकी नियुक्ति और सेवा-नियम स्वतंत्रता प्रदान करने के लिये संवैधानिक रूप से संरचित हैं ताकि वह सरकारी खातों का स्वतंत्र लेखापरीक्षण कर सके। / CAG is provided under Article 148; constitutional provisions secure his tenure and service conditions to ensure independence."
+    "answer": ["B"],
+    "explanation": "'ताजुल-मआसिर' में कुतुबुद्दीन ऐबक की वीरता और शासन का वर्णन है।"
   },
   {
     "id": 25,
-    "question": "निम्नलिखित में से कौन-सा constitutional remedy प्रदान करता है (Article 32 के अंर्तगत)? / Which of the following is provided as a constitutional remedy under Article 32?",
+    "question": "अमीर ख़ुसरो ने किस प्रकार की कविताएँ और गीत लिखे?",
     "options": {
-      "A": "Writ of Habeas Corpus",
-      "B": "Writ of Mandamus",
-      "C": "Writ of Certiorari",
-      "D": "All of the above"
+      "A": "मसनवी और ग़ज़ल",
+      "B": "दोहा और पद",
+      "C": "आरंभिक संस्कृत श्लोक",
+      "D": "अर्थशास्त्र पर निबंध"
     },
-    "answer": ["D"],
-    "explanation": "Article 32 सुप्रीम कोर्ट को मौलिक अधिकारों का संरक्षण करने हेतु writs जारी करने का अधिकार देता है — जैसे Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto। / Article 32 empowers SC to issue writs (Habeas Corpus, Mandamus, Certiorari, etc.) for enforcement of fundamental rights."
+    "answer": ["A"],
+    "explanation": "अमीर ख़ुसरो ने मसनवी और ग़ज़ल दोनों प्रकार की कविताएँ और गीत लिखे।"
   },
   {
     "id": 26,
-    "question": "निम्न में से कौन-से संविधान के संघीय स्वरूप को दर्शाते हैं? / Which of the following reflect the federal nature of the Constitution?",
+    "question": "ज़ियाउद्दीन बरनी ने किस सुलतान को मुख्य रूप से अपना इतिहास लिखा?",
     "options": {
-      "A": "Dual polity with division of powers",
-      "B": "Single citizenship",
-      "C": "Independent judiciary with Supreme Court",
-      "D": "Strong unitary bias in emergencies"
+      "A": "अलाउद्दीन खिलजी",
+      "B": "कुतुबुद्दीन ऐबक",
+      "C": "फ़िरोज़ शाह तुगलक",
+      "D": "मुहम्मद बिन तुगलक"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "संविधान में संघ और राज्य के बीच विभाजन (dual polity) और स्वतंत्र न्यायपालिका संघीयता को दर्शाते हैं; पर कई प्रावधान (राष्ट्रीय आपतकालीन शक्तियाँ, residuary powers केंद्र को) में यूनिटरी झुकाव भी देखा जा सकता है। Single citizenship यूनिटरी पहलू को दर्शाता है पर यह संघीयता का विरोधाभासी पहलू है। / Division of powers & independent judiciary indicate federalism; emergency provisions and residuary powers show unitary bias too."
+    "answer": ["D", "C"],
+    "explanation": "बरनी ने मुख्य रूप से मुहम्मद बिन तुगलक और फ़िरोज़ शाह तुगलक के लिए इतिहास लिखा।"
   },
   {
     "id": 27,
-    "question": "न्यायपालिका की स्वतंत्रता सुनिश्चित करने के लिए किस प्रावधान ने न्यायाधीशों की नियुक्ति में बदलाव किया? / Which provision altered judges' appointment process to affect judicial independence?",
+    "question": "अब्दुल मलिक इसामी का जन्मस्थान कौन सा था?",
     "options": {
-      "A": "Collegium system (judicial appointments through judges' collegium)",
-      "B": "Executive-only appointments (President on aid & advice)",
-      "C": "Appointment by Parliament",
-      "D": "Direct election of judges"
+      "A": "देवगिरि",
+      "B": "बिल्हर",
+      "C": "दिल्ली",
+      "D": "बहमनी"
     },
-    "answer": ["A"],
-    "explanation": "Collegium system ने उच्च न्यायालय/सुप्रीम कोर्ट की नियुक्तियों में न्यायपालिका की भूमिकाएँ सशक्त कीं — हालाँकि यह विधि-विवादित और न्यायिक प्रक्रिया के माध्यम से विकसित हुई है। / The collegium system emphasises judiciary's role in appointments, affecting judicial independence (though controversial & evolved via judgments)."
+    "answer": ["B"],
+    "explanation": "अब्दुल मलिक इसामी का जन्मस्थान बिल्हर था।"
   },
   {
     "id": 28,
-    "question": "निम्न में से कौन-सा Constitutional Body नहीं है? / Which of the following is NOT a Constitutional body?",
+    "question": "अमीर ख़ुसरो ने किस धार्मिक और सांस्कृतिक मिश्रण को अपने गीतों में पेश किया?",
     "options": {
-      "A": "NITI Aayog",
-      "B": "Election Commission of India",
-      "C": "Comptroller and Auditor General",
-      "D": "Union Public Service Commission"
+      "A": "हिंदू और मुस्लिम",
+      "B": "बौद्ध और जैन",
+      "C": "सिख और जैन",
+      "D": "ख्रिश्चन और मुस्लिम"
     },
     "answer": ["A"],
-    "explanation": "NITI Aayog एक statutory/administrative body है, यह Constitution में स्थापित नहीं है; ECI, CAG, UPSC संवैधानिक संस्थाएँ हैं। / NITI Aayog is not a constitutional body; ECI, CAG and UPSC are."
+    "explanation": "अमीर ख़ुसरो के गीत हिंदू और मुस्लिम संस्कृति का मिश्रण दर्शाते हैं।"
   },
   {
     "id": 29,
-    "question": "Emergency provisions में 'Financial Emergency' किस Article के तहत आती है? / Under which Article is 'Financial Emergency' provided?",
+    "question": "हसन निज़ामी ने किस शैली में 'ताजुल-मआसिर' लिखी?",
     "options": {
-      "A": "Article 360",
-      "B": "Article 352",
-      "C": "Article 356",
-      "D": "Article 368"
+      "A": "ग़ज़ल शैली",
+      "B": "सौंदर्य कविता",
+      "C": "आधिकारिक इतिहास",
+      "D": "फिलॉसॉफिकल निबंध"
     },
-    "answer": ["A"],
-    "explanation": "Financial Emergency का प्रावधान Article 360 में है; Article 352 राष्ट्रीय आपातकाल, Article 356 राज्य में राष्ट्रपति शासन से संबंध रखता है। / Financial Emergency is under Article 360; Article 352 is National Emergency and Article 356 is President's Rule."
+    "answer": ["C"],
+    "explanation": "'ताजुल-मआसिर' दिल्ली सल्तनत का आधिकारिक इतिहास है।"
   },
   {
     "id": 30,
-    "question": "न्यायिक समीक्षा (Judicial Review) से जुड़े landmark निर्णय में से किसने basic structure doctrine स्थापित किया? / Which landmark case established the basic structure doctrine?",
+    "question": "ज़ियाउद्दीन बरनी के इतिहास में किस विषय पर विशेष जोर है?",
     "options": {
-      "A": "Kesavananda Bharati v. State of Kerala",
-      "B": "Golaknath v. State of Punjab",
-      "C": "Minerva Mills v. Union of India",
-      "D": "S.R. Bommai v. Union of India"
+      "A": "सामाजिक सुधार",
+      "B": "सुलतान के शासन और न्याय",
+      "C": "सांस्कृतिक गतिविधियाँ",
+      "D": "विज्ञान और तकनीक"
     },
-    "answer": ["A"],
-    "explanation": "Kesavananda Bharati (1973) का निर्णय basic-structure doctrine के लिये प्रसिद्ध है; किन्तु बाद के मामलों (Minerva Mills आदि) ने इसे सुदृढ़ किया। / Kesavananda Bharati is the seminal case that articulated the basic-structure doctrine (later reinforced by cases like Minerva Mills)."
+    "answer": ["B"],
+    "explanation": "बरनी के इतिहास में सुलतान के शासन और न्याय पर विशेष जोर है।"
   },
   {
     "id": 31,
-    "question": "Article 32 और Article 226 में क्या अंतर है? / What is the difference between Article 32 and Article 226?",
+    "question": "अबुल फजल की प्रसिद्ध कृति 'आइन-ए-अकबरी' किस विषय पर आधारित है?",
     "options": {
-      "A": "Article 32 — Remedy before Supreme Court; Article 226 — Writ jurisdiction of High Courts",
-      "B": "Article 32 — High Courts का अधिकार; Article 226 — Supreme Court का अधिकार",
-      "C": "दोनों एक ही हैं, कोई भेद नहीं",
-      "D": "Article 32 केवल राज्यों के लिये है"
+      "A": "अकबर के शासनकाल की प्रशासनिक व्यवस्था",
+      "B": "सैन्य अभियान",
+      "C": "भूगोल और वन्यजीवन",
+      "D": "साहित्यिक रचनाएँ"
     },
-    "answer": ["A"],
-    "explanation": "Article 32 सुप्रीम कोर्ट के समक्ष मौलिक अधिकारों की रक्षा हेतु प्रत्यक्ष राहत देता है; Article 226 उच्च न्यायालयों को भी writ जारी करने की व्यापक शक्ति देता है। / Article 32 provides remedy in SC; Article 226 empowers High Courts to issue writs."
+    "answer": ["A", "C"],
+    "explanation": "'आइन-ए-अकबरी' में अकबर के शासनकाल की प्रशासनिक व्यवस्था, समाज, अर्थव्यवस्था और भूगोल का विस्तृत विवरण है।"
   },
   {
     "id": 32,
-    "question": "Reservation in public employment for SC/ST का constitutional आधार किसमें है? / What is the constitutional basis for reservation for SC/ST in public employment?",
+    "question": "अबुल फजल ने 'अकबरनामा' किसके शासनकाल का इतिहास लिखा?",
     "options": {
-      "A": "Article 16(4)",
-      "B": "Article 15(1)",
-      "C": "Article 370",
-      "D": "Article 352"
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
-    "answer": ["A"],
-    "explanation": "Article 16(4) संसद/राज्य को अनुमति देता है कि वे किसी वर्ग के पिछड़ेपन के निवारण हेतु प्रावधान कर सकें — यही सार्वजनिक सेवा में आरक्षण का आधार है; Article 15(4) भी शिक्षा में आरक्षण से जुड़ा प्रावधान देता है। / Article 16(4) allows state to make reservation in public employment for backward classes including SC/ST."
+    "answer": ["B"],
+    "explanation": "'अकबरनामा' मुगल सम्राट अकबर के शासनकाल का संपूर्ण इतिहास है।"
   },
   {
     "id": 33,
-    "question": "निम्न में से कौन-सा संवैधानिक लेखा-परीक्षक (Auditor) है जो केंद्र/राज्य के_accounts_ की रिपोर्ट करता है? / Which constitutional auditor reports on Union/State accounts?",
+    "question": "मुगल काल के लेखक फ़ैज़ी को किसके दरबार में मुख्य रूप से जाना जाता था?",
     "options": {
-      "A": "Comptroller and Auditor General (CAG)",
-      "B": "Controller of Accounts",
-      "C": "Finance Secretary",
-      "D": "State Audit Bureau"
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
-    "answer": ["A"],
-    "explanation": "CAG संवैधानिक ऑडिटर है जो संघ और राज्यों के खातों का लेखा-परीक्षण करता है और संसद/विधानसभाओं के समक्ष रिपोर्ट प्रस्तुत करता है। / The CAG audits Union and State accounts and submits reports to the legislatures."
+    "answer": ["A", "C"],
+    "explanation": "फ़ैज़ी मुख्य रूप से जहाँगीर और शाहजहाँ के दरबार में प्रसिद्ध थे।"
   },
   {
     "id": 34,
-    "question": "नीचे दिए गए में से किन संस्थाओं की नियुक्ति में President की भूमिका संवैधानिक रूप से निहित है? / President constitutionally plays a role in appointment of which of the following?",
+    "question": "मुगल लेखक मिर्ज़ा रसूल ने किस प्रकार की रचनाएँ लिखीं?",
     "options": {
-      "A": "Chief Justice of India (CJI)",
-      "B": "Comptroller and Auditor General (CAG)",
-      "C": "Chief Election Commissioner (CEC)",
-      "D": "All of the above"
+      "A": "नज़्म और ग़ज़ल",
+      "B": "इतिहास और शासन विवरण",
+      "C": "धार्मिक व्याख्याएँ",
+      "D": "भूगोल संबंधी रचनाएँ"
     },
-    "answer": ["D"],
-    "explanation": "राष्ट्रपति संवैधानिक पदों—CJI (formal appointment), CAG, CEC आदि की नियुक्ति करता है; वास्तविक चयन प्रक्रिया में परामर्श और अन्य नियम संलग्न होते हैं। / The President appoints CJI, CAG, CEC etc., though consultations and conventions guide the actual selections."
+    "answer": ["A", "B"],
+    "explanation": "मिर्ज़ा रसूल ने नज़्म और ग़ज़ल के साथ-साथ इतिहास और शासन पर भी लेख लिखे।"
   },
   {
     "id": 35,
-    "question": "निम्न में से कौन-से संस्थाएँ संविधान के अंतर्गत स्वतंत्र लोक सेवाएँ नियुक्त करती हैं (समिति/संस्थानों) — UPSC के अलावा? / Besides UPSC, which bodies are statutorily/constitutionally involved in public service recruitments?",
+    "question": "मुगल लेखक सैयद इब्राहिम खाँ ने किसके दरबार में महत्वपूर्ण योगदान दिया?",
     "options": {
-      "A": "State Public Service Commissions (SPSC/PSC)",
-      "B": "High Court-backed recruitment commissions",
-      "C": "Municipal Corporations directly",
-      "D": "All India Judicial Service (not yet instituted)"
+      "A": "अकबर",
+      "B": "जहाँगीर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
-    "answer": ["A"],
-    "explanation": "राज्य लोक सेवा आयोग (State PSC) संविधान (Article 315 onward) द्वारा मान्यता प्राप्त हैं; All India Judicial Service प्रस्तावित/विवादित है पर अभी लागू नहीं। Municipal corporations की नियुक्तियाँ आमतौर पर स्थानीय व्यवस्थाओं के तहत होती हैं। / State PSCs are constitutional bodies; All-India Judicial Service is not yet established as a constitutional reality."
+    "answer": ["B"],
+    "explanation": "सैयद इब्राहिम खाँ जहाँगीर के दरबार में इतिहास और प्रशासन संबंधी योगदान के लिए प्रसिद्ध थे।"
   },
   {
     "id": 36,
-    "question": "निम्न में से कौन-सा 'विधायी कार्य' (Legislative procedure) का भाग नहीं है? / Which of the following is NOT part of legislative procedure?",
+    "question": "अबुल फजल की रचनाओं में कौन-सा विशेष दृष्टिकोण दिखाई देता है?",
     "options": {
-      "A": "Bill का पारित होना (Passage of Bill in both Houses, where applicable)",
-      "B": "President का assent देना (President's assent)",
-      "C": "Supreme Court का स्वत: संसद द्वारा विधेयक का ड्राफ्ट तैयार करना (SC drafts bills automatically)",
-      "D": "वितीय बिल (Money Bill) के लिए विशेष प्रक्रिया"
+      "A": "राजनीतिक और प्रशासनिक",
+      "B": "धार्मिक कट्टरता",
+      "C": "सांस्कृतिक आलोचना",
+      "D": "भूगोल और विज्ञान"
     },
-    "answer": ["C"],
-    "explanation": "Supreme Court संसद का स्वचालित ड्राफ्ट नहीं तैयार करता; संसद में विधेयक पेश, पारित और राष्ट्रपति की स्वीकृति के बाद अधिनियम बनते हैं; Money Bill का अपना विशेष प्रक्रिया है। / The SC does not draft bills; legislation requires passage and Presidential assent; Money Bills follow a special route via Lok Sabha."
+    "answer": ["A", "D"],
+    "explanation": "अबुल फजल की रचनाओं में राजनीतिक प्रशासन और भूगोल, वन्यजीवन आदि का समन्वित विवरण मिलता है।"
   },
   {
     "id": 37,
-    "question": "निम्न में से कौन-सा कथन संवैधानिक आपातकाल (Article 352) के बारे में सही है? / Which statement about National Emergency (Article 352) is correct?",
+    "question": "मुगल लेखक नज़ीर अकबराबादी किस क्षेत्र में जाने जाते थे?",
     "options": {
-      "A": "President केवल युद्ध/बाहरी आक्रमण/आर्म्ड रिबेलियन पर राष्ट्रीय आपातकाल घोषित कर सकता है",
-      "B": "National Emergency में मौलिक अधिकारों का कुछ हिस्से निलम्बरित हो सकते हैं",
-      "C": "Article 352 के तहत राज्य सरकार स्वतः प्रभावशाली बन जाती है",
-      "D": "National Emergency हमेशा अनिश्चित अवधि के लिये लागू रहता है"
+      "A": "ग़ज़ल और नज़्म",
+      "B": "इतिहास और शासन",
+      "C": "धार्मिक ग्रंथ",
+      "D": "सैन्य रणनीति"
     },
-    "answer": ["A", "B"],
-    "explanation": "Article 352 के अनुसार राष्ट्रपति युद्ध, बाहरी आक्रमण या आर्म्ड रिबेलियन के कारण राष्ट्रीय आपातकाल की घोषणा कर सकता है; कुछ मौलिक अधिकार (जैसे Article 19) suspend किए जा सकते हैं; पर यह स्वत: अनिश्चित अवधि का नहीं है और राज्य सरकारें शिथिल/निश्चित व्यवस्थाओं के अधीन आती हैं, पर स्वत: नहीं। / President can proclaim National Emergency on war/external aggression/armed rebellion; certain fundamental rights may be suspended."
+    "answer": ["A"],
+    "explanation": "नज़ीर अकबराबादी मुख्य रूप से ग़ज़ल और नज़्म के लिए प्रसिद्ध हैं।"
   },
   {
     "id": 38,
-    "question": "निम्नलिखित में से कौन-सा Constitutional Amendment पारित करने का आवश्यक मत (majority) है जब सामान्य मामला हो (not requiring state ratification)? / Which majority is required for passing a constitutional amendment (not requiring state ratification)?",
+    "question": "मुगल काल के लेखक फ़ैज़ी ने मुख्य रूप से किस भाषा में रचनाएँ लिखीं?",
     "options": {
-      "A": "Simple majority of members present and voting",
-      "B": "Absolute majority of total membership of each House + two-thirds of members present and voting",
-      "C": "Unanimous approval of both Houses",
-      "D": "Majority of state legislatures"
+      "A": "हिंदी",
+      "B": "उर्दू और फारसी",
+      "C": "संस्कृत",
+      "D": "अरबी"
     },
     "answer": ["B"],
-    "explanation": "आम तौर पर संविधान संशोधन के लिये आवश्यक है — House की कुल सदस्य संख्या की साधारण बहुमत (absolute majority) और उपस्थित सदस्यों के दो-तिहाई (2/3) का समर्थन। कुछ विशेष मामलों में राज्य विधानसभाओं की रैटीफिकेशन भी माँगी जाती है। / Amendment normally needs an absolute majority of total membership plus two-thirds of members present and voting in each House."
+    "explanation": "फ़ैज़ी ने मुख्य रूप से फारसी और उर्दू में साहित्य और इतिहास लिखा।"
   },
   {
     "id": 39,
-    "question": "निम्न में से किसे संविधान का 'मौलिक उद्देश्य' (basic objective) माना जाता है? / Which of the following can be called a basic objective of the Constitution?",
+    "question": "अबुल फज़ल और फ़ैज़ी का योगदान किस प्रकार से मुगल इतिहास के लिए महत्वपूर्ण है?",
     "options": {
-      "A": "Establishment of Social Justice",
-      "B": "Protection of individual liberty and rule of law",
-      "C": "Centralisation of all powers in the executive without checks",
-      "D": "Promotion of welfare state and democratic governance"
+      "A": "सुलतान की प्रशासनिक नीतियों का रिकॉर्ड",
+      "B": "सांस्कृतिक और धार्मिक जीवन का विवरण",
+      "C": "सैन्य अभियान और विजय का दस्तावेज़",
+      "D": "भूगोल और प्राकृतिक संसाधनों का विवरण"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "संविधान का मूल उद्देश्य सामाजिक-न्याय, व्यक्तिगत स्वतंत्रता तथा लोकतांत्रिक व कल्याणकारी शासन की स्थापना है; पुरी तरह से Executive का एकतरफा केंद्रीकरण इसका उद्देश्य नहीं है। / The Constitution aims at social justice, individual liberty, democratic & welfare governance — not unchecked executive centralisation."
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "अबुल फज़ल और फ़ैज़ी ने मुगल प्रशासन, सांस्कृतिक, धार्मिक, सैन्य और भूगोल संबंधी जानकारी दर्ज की।"
   },
   {
     "id": 40,
-    "question": "निम्नलिखित में से कौन-सा 'Schedules' की संख्या के बारे में सही है? / Which of the following about number of Schedules in the Constitution is correct?",
+    "question": "मुगल लेखक सैयद इब्राहिम खाँ की कृतियाँ किस दृष्टिकोण से लिखी गईं?",
     "options": {
-      "A": "आज संविधान में 8 Schedules हैं",
-      "B": "आज संविधान में 12 Schedules हैं",
-      "C": "Schedules की संख्या समय के साथ बदली नहीं है",
-      "D": "Schedules केवल Part I का हिस्सा हैं"
+      "A": "इतिहास और प्रशासन",
+      "B": "साहित्य और कविता",
+      "C": "धार्मिक प्रवचन",
+      "D": "सैन्य रणनीति"
     },
-    "answer": ["B"],
-    "explanation": "आज (current Constitution) में कुल 12 Schedules हैं — संविधान के प्रारम्भिक संस्करण में 8 थीं; समय के साथ संशोधनों द्वारा Schedules की संख्या बदली है। / Currently there are 12 Schedules in the Constitution (originally 8, increased by later amendments)."
+    "answer": ["A"],
+    "explanation": "सैयद इब्राहिम खाँ की रचनाएँ मुख्य रूप से इतिहास और प्रशासन के दृष्टिकोण से लिखी गई थीं।"
   },
   {
     "id": 41,
-    "question": "भारत में संविधान सभा की कार्यवाही किस भाषा में संचालित होती थी? / In which language were the proceedings of the Constituent Assembly of India conducted?",
+    "question": "मुगल लेखक अबुल फजल की रचनाओं में अकबर के किस धर्म नीति का उल्लेख मिलता है?",
     "options": {
-      "A": "अंग्रेज़ी (English)",
-      "B": "हिन्दी (Hindi)",
-      "C": "उर्दू (Urdu)",
-      "D": "संस्कृत (Sanskrit)"
+      "A": "दीन-ए-इलाही",
+      "B": "सुलह-ए-कुल",
+      "C": "हिंदू धर्म पालन",
+      "D": "इस्लामिक कट्टरता"
     },
     "answer": ["A", "B"],
-    "explanation": "संविधान सभा की कार्यवाही मुख्यतः अंग्रेज़ी और हिंदी दोनों भाषाओं में होती थी। संविधान के अंतिम रूप को अंग्रेज़ी और हिंदी दोनों में प्रमाणित किया गया।"
+    "explanation": "अबुल फजल ने अकबर की दीन-ए-इलाही और सुलह-ए-कुल नीतियों का विवरण किया।"
   },
   {
     "id": 42,
-    "question": "भारत के संविधान की प्रस्तावना में प्रयुक्त 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द कब जोड़े गए थे? / The words 'Socialist' and 'Secular' in the Preamble of the Indian Constitution were added by which amendment?",
+    "question": "फ़ैज़ी ने मुगल काल के किस सम्राट के दरबार में अपनी रचनाएँ प्रस्तुत कीं?",
     "options": {
-      "A": "42वां संशोधन (42nd Amendment)",
-      "B": "44वां संशोधन (44th Amendment)",
-      "C": "24वां संशोधन (24th Amendment)",
-      "D": "61वां संशोधन (61st Amendment)"
+      "A": "अकबर",
+      "B": "जहाँगीर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
-    "answer": ["A"],
-    "explanation": "1976 में 42वें संशोधन द्वारा प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द जोड़े गए।"
+    "answer": ["B"],
+    "explanation": "फ़ैज़ी मुख्य रूप से जहाँगीर के दरबार में प्रसिद्ध हुए।"
   },
   {
     "id": 43,
-    "question": "निम्न में से कौन सा अधिकार आपातकाल के दौरान भी निलंबित नहीं किया जा सकता? / Which of the following rights cannot be suspended even during Emergency?",
+    "question": "अबुल फज़ल का मुख्य उद्देश्य क्या था?",
     "options": {
-      "A": "अनुच्छेद 20 (Article 20)",
-      "B": "अनुच्छेद 21 (Article 21)",
-      "C": "अनुच्छेद 19 (Article 19)",
-      "D": "अनुच्छेद 22 (Article 22)"
+      "A": "साहित्यिक मान्यता प्राप्त करना",
+      "B": "अकबर के शासन का दस्तावेज़ तैयार करना",
+      "C": "धार्मिक प्रवचन देना",
+      "D": "सैन्य रणनीति विकसित करना"
     },
-    "answer": ["A", "B"],
-    "explanation": "अनुच्छेद 20 (दंडाधिकार से संरक्षण) और अनुच्छेद 21 (जीवन और व्यक्तिगत स्वतंत्रता का अधिकार) आपातकाल में भी निलंबित नहीं किए जा सकते।"
+    "answer": ["B"],
+    "explanation": "अबुल फज़ल का मुख्य उद्देश्य अकबर के शासनकाल का विस्तृत और सटीक दस्तावेज़ तैयार करना था।"
   },
   {
     "id": 44,
-    "question": "भारतीय संविधान की संघीय विशेषताओं में कौन-कौन सी शामिल हैं? / Which of the following are included in the federal features of the Indian Constitution?",
+    "question": "मुगल लेखक मिर्ज़ा रसूल की रचनाएँ किस प्रकार की थीं?",
     "options": {
-      "A": "दोहरी सरकार (Dual Government)",
-      "B": "संविधान की सर्वोच्चता (Supremacy of Constitution)",
-      "C": "संविधान की कठोरता (Rigidity of Constitution)",
-      "D": "एकल नागरिकता (Single Citizenship)"
+      "A": "कविता और नज़्म",
+      "B": "इतिहास और शासन",
+      "C": "धार्मिक व्याख्यान",
+      "D": "भूगोल और विज्ञान"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "भारतीय संविधान में संघीय विशेषताएँ जैसे - दोहरी सरकार, संविधान की सर्वोच्चता, और आंशिक कठोरता शामिल हैं। लेकिन एकल नागरिकता एकात्मक विशेषता है।"
+    "answer": ["A", "B"],
+    "explanation": "मिर्ज़ा रसूल ने कविता और नज़्म के साथ-साथ इतिहास पर भी लेख लिखे।"
   },
   {
     "id": 45,
-    "question": "भारत में राष्ट्रपति पद हेतु न्यूनतम आयु क्या है? / What is the minimum age to be eligible for the post of President of India?",
+    "question": "अबुल फज़ल ने अपने ग्रंथों में किसकी सामाजिक और आर्थिक स्थितियों का वर्णन किया?",
     "options": {
-      "A": "25 वर्ष (25 years)",
-      "B": "30 वर्ष (30 years)",
-      "C": "35 वर्ष (35 years)",
-      "D": "40 वर्ष (40 years)"
+      "A": "राजा और सुलतान",
+      "B": "सामान्य जनता",
+      "C": "विद्वान और कवि",
+      "D": "सैनिक"
     },
-    "answer": ["C"],
-    "explanation": "भारत का राष्ट्रपति बनने के लिए उम्मीदवार की न्यूनतम आयु 35 वर्ष निर्धारित है।"
+    "answer": ["B", "D"],
+    "explanation": "अबुल फज़ल ने सामान्य जनता और सैनिकों की सामाजिक एवं आर्थिक स्थिति का विस्तृत विवरण किया।"
   },
   {
     "id": 46,
-    "question": "भारत में मौलिक कर्तव्यों को किस अनुच्छेद में सम्मिलित किया गया है? / Fundamental Duties are incorporated under which Article of the Indian Constitution?",
+    "question": "फ़ैज़ी का रचनात्मक योगदान किस प्रकार से मुगल साहित्य में महत्वपूर्ण है?",
     "options": {
-      "A": "अनुच्छेद 32 (Article 32)",
-      "B": "अनुच्छेद 51A (Article 51A)",
-      "C": "अनुच्छेद 21 (Article 21)",
-      "D": "अनुच्छेद 14 (Article 14)"
+      "A": "कविता और संगीत",
+      "B": "इतिहास और प्रशासन",
+      "C": "भूगोल और वन्यजीवन",
+      "D": "धार्मिक सुधार"
     },
-    "answer": ["B"],
-    "explanation": "42वें संशोधन (1976) द्वारा मौलिक कर्तव्यों को संविधान में अनुच्छेद 51A के तहत जोड़ा गया।"
+    "answer": ["A", "B"],
+    "explanation": "फ़ैज़ी ने कविता, संगीत के साथ-साथ इतिहास और प्रशासन संबंधी महत्वपूर्ण योगदान दिया।"
   },
   {
     "id": 47,
-    "question": "संविधान सभा की प्रारंभिक बैठक कब हुई थी? / When did the first meeting of the Constituent Assembly take place?",
+    "question": "अबुल फज़ल ने किस शासन नीति का पालन करके मुगल इतिहास लिखा?",
     "options": {
-      "A": "6 दिसम्बर 1946",
-      "B": "9 दिसम्बर 1946",
-      "C": "26 जनवरी 1947",
-      "D": "15 अगस्त 1947"
+      "A": "निष्पक्ष और तथ्यात्मक",
+      "B": "धार्मिक पक्षपाती",
+      "C": "सामाजिक आलोचनात्मक",
+      "D": "सांस्कृतिक पक्षपाती"
     },
-    "answer": ["B"],
-    "explanation": "संविधान सभा की प्रथम बैठक 9 दिसम्बर 1946 को हुई थी।"
+    "answer": ["A"],
+    "explanation": "अबुल फज़ल ने निष्पक्ष और तथ्यात्मक दृष्टिकोण से इतिहास लिखा।"
   },
   {
     "id": 48,
-    "question": "भारत का संविधान कब लागू हुआ? / When did the Constitution of India come into effect?",
+    "question": "मुगल लेखक सैयद इब्राहिम खाँ के योगदान का मुख्य क्षेत्र क्या था?",
     "options": {
-      "A": "26 जनवरी 1949",
-      "B": "26 नवम्बर 1949",
-      "C": "26 जनवरी 1950",
-      "D": "15 अगस्त 1947"
+      "A": "इतिहास और प्रशासन",
+      "B": "कविता और नज़्म",
+      "C": "धार्मिक व्याख्यान",
+      "D": "सैन्य योजना"
     },
-    "answer": ["C"],
-    "explanation": "संविधान 26 जनवरी 1950 को लागू हुआ। इसे 26 नवम्बर 1949 को अंगीकृत किया गया था।"
+    "answer": ["A"],
+    "explanation": "सैयद इब्राहिम खाँ मुख्य रूप से इतिहास और प्रशासन में योगदान के लिए जाने जाते हैं।"
   },
   {
     "id": 49,
-    "question": "भारतीय संविधान की प्रस्तावना किस न्यायालय के निर्णय द्वारा संविधान का अभिन्न हिस्सा मानी गई? / The Preamble of the Indian Constitution was considered as an integral part of the Constitution by which judgement?",
+    "question": "अबुल फज़ल की रचनाएँ मुगल काल की कौन-सी विशेषता को उजागर करती हैं?",
     "options": {
-      "A": "बेरूबारी केस (1960)",
-      "B": "केशवानंद भारती केस (1973)",
-      "C": "मिनर्वा मिल्स केस (1980)",
-      "D": "गोलकनाथ केस (1967)"
+      "A": "सुलतान की नीति और प्रशासन",
+      "B": "सामाजिक और आर्थिक जीवन",
+      "C": "सांस्कृतिक गतिविधियाँ",
+      "D": "धार्मिक सहिष्णुता"
     },
-    "answer": ["B"],
-    "explanation": "केशवानंद भारती केस (1973) में सर्वोच्च न्यायालय ने प्रस्तावना को संविधान का अभिन्न अंग माना।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "अबुल फज़ल की रचनाएँ प्रशासन, सामाजिक-आर्थिक जीवन, सांस्कृतिक गतिविधियों और धार्मिक सहिष्णुता को उजागर करती हैं।"
   },
   {
     "id": 50,
-    "question": "भारत में वित्त आयोग की स्थापना किस अनुच्छेद के तहत की गई है? / Under which Article of the Constitution is the Finance Commission of India established?",
+    "question": "मुगल लेखक फ़ैज़ी ने अपनी रचनाओं में किस शैली का प्रयोग किया?",
     "options": {
-      "A": "अनुच्छेद 148 (Article 148)",
-      "B": "अनुच्छेद 280 (Article 280)",
-      "C": "अनुच्छेद 324 (Article 324)",
-      "D": "अनुच्छेद 368 (Article 368)"
+      "A": "ग़ज़ल और नज़्म",
+      "B": "आधिकारिक इतिहास",
+      "C": "धार्मिक प्रवचन",
+      "D": "सैन्य विवरण"
     },
-    "answer": ["B"],
-    "explanation": "भारत का वित्त आयोग अनुच्छेद 280 के तहत स्थापित किया गया है।"
+    "answer": ["A", "B"],
+    "explanation": "फ़ैज़ी ने ग़ज़ल, नज़्म और आधिकारिक इतिहास में अपनी रचनाओं का योगदान दिया।"
   },
   {
     "id": 51,
-    "question": "भारतीय संविधान के किस अनुच्छेद में समानता का अधिकार दिया गया है? / Right to Equality is guaranteed under which Article of the Indian Constitution?",
+    "question": "अबुल फज़ल ने किस सम्राट की धर्म नीति का विवरण अपने ग्रंथों में दिया?",
     "options": {
-      "A": "अनुच्छेद 14 से 18",
-      "B": "अनुच्छेद 19 से 22",
-      "C": "अनुच्छेद 23 से 24",
-      "D": "अनुच्छेद 32 से 35"
+      "A": "अकबर",
+      "B": "जहाँगीर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
     "answer": ["A"],
-    "explanation": "अनुच्छेद 14 से 18 तक समानता का अधिकार सुनिश्चित किया गया है।"
+    "explanation": "अबुल फज़ल ने अकबर की धर्म नीति जैसे दीन-ए-इलाही और सुलह-ए-कुल का विवरण किया।"
   },
   {
     "id": 52,
-    "question": "भारत में सर्वोच्च न्यायालय के न्यायाधीश की नियुक्ति किसके द्वारा की जाती है? / Who appoints the Judges of the Supreme Court of India?",
+    "question": "मुगल लेखक फ़ैज़ी की प्रमुख भाषा कौन सी थी?",
     "options": {
-      "A": "प्रधानमंत्री (Prime Minister)",
-      "B": "लोकसभा अध्यक्ष (Speaker of Lok Sabha)",
-      "C": "राष्ट्रपति (President)",
-      "D": "राज्यसभा (Rajya Sabha)"
+      "A": "फारसी",
+      "B": "उर्दू",
+      "C": "हिंदी",
+      "D": "अरबी"
     },
-    "answer": ["C"],
-    "explanation": "भारत के सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+    "answer": ["A", "B"],
+    "explanation": "फ़ैज़ी मुख्य रूप से फारसी और उर्दू में लेखन करते थे।"
   },
   {
     "id": 53,
-    "question": "भारत में राज्यसभा को किस प्रकार का सदन कहा गया है? / Rajya Sabha in India is referred to as which type of House?",
+    "question": "मुगल लेखक मिर्ज़ा रसूल ने किस शैली में लेखन किया?",
     "options": {
-      "A": "स्थायी सदन (Permanent House)",
-      "B": "विघटित होने वाला सदन (Dissolvable House)",
-      "C": "जन प्रतिनिधि सदन (House of People)",
-      "D": "वित्तीय सदन (Money House)"
+      "A": "कविता और नज़्म",
+      "B": "इतिहास",
+      "C": "धार्मिक ग्रंथ",
+      "D": "भूगोल"
     },
-    "answer": ["A"],
-    "explanation": "राज्यसभा एक स्थायी सदन है, जिसे भंग नहीं किया जा सकता।"
+    "answer": ["A", "B"],
+    "explanation": "मिर्ज़ा रसूल ने कविता, नज़्म और इतिहास पर लेख लिखे।"
   },
   {
     "id": 54,
-    "question": "भारतीय संविधान की किस अनुसूची में राज्यों और केंद्रशासित प्रदेशों की सूची दी गई है? / Which Schedule of the Indian Constitution contains the list of States and Union Territories?",
+    "question": "अबुल फज़ल की रचनाओं में अकबर के प्रशासन का कौन-सा पहलू दिखता है?",
     "options": {
-      "A": "पहली अनुसूची (First Schedule)",
-      "B": "दूसरी अनुसूची (Second Schedule)",
-      "C": "चौथी अनुसूची (Fourth Schedule)",
-      "D": "सातवीं अनुसूची (Seventh Schedule)"
+      "A": "सामाजिक और न्यायिक व्यवस्था",
+      "B": "धार्मिक कट्टरता",
+      "C": "सैन्य रणनीति",
+      "D": "सांस्कृतिक आलोचना"
     },
-    "answer": ["A"],
-    "explanation": "संविधान की पहली अनुसूची में राज्यों और केंद्रशासित प्रदेशों की सूची दी गई है।"
+    "answer": ["A", "C"],
+    "explanation": "अबुल फज़ल ने प्रशासन के सामाजिक, न्यायिक और सैन्य पहलुओं का विस्तृत विवरण किया।"
   },
   {
     "id": 55,
-    "question": "भारतीय संविधान में संशोधन की प्रक्रिया किस अनुच्छेद में दी गई है? / The procedure for amendment of the Indian Constitution is mentioned in which Article?",
+    "question": "फ़ैज़ी ने किस सम्राट के दरबार में साहित्यिक और प्रशासनिक योगदान दिया?",
     "options": {
-      "A": "अनुच्छेद 356",
-      "B": "अनुच्छेद 368",
-      "C": "अनुच्छेद 352",
-      "D": "अनुच्छेद 370"
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "औरंगजेब"
     },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 368 में भारतीय संविधान के संशोधन की प्रक्रिया का वर्णन है।"
+    "answer": ["A"],
+    "explanation": "फ़ैज़ी जहाँगीर के दरबार में साहित्य और प्रशासनिक योगदान के लिए प्रसिद्ध थे।"
   },
   {
     "id": 56,
-    "question": "भारतीय संविधान की कौन-सी सूची में 'कृषि' आता है? / Agriculture falls under which List of the Indian Constitution?",
+    "question": "अबुल फज़ल ने अपने ग्रंथों में किसकी आर्थिक स्थिति का वर्णन किया?",
     "options": {
-      "A": "केंद्रीय सूची (Union List)",
-      "B": "राज्य सूची (State List)",
-      "C": "समवर्ती सूची (Concurrent List)",
-      "D": "अनुसूचीबद्ध सूची (Scheduled List)"
+      "A": "सैनिक और जनता",
+      "B": "राजा और सुलतान",
+      "C": "विद्वान और कवि",
+      "D": "धार्मिक नेताओं"
     },
-    "answer": ["B"],
-    "explanation": "भारतीय संविधान की राज्य सूची में 'कृषि' का विषय शामिल है।"
+    "answer": ["A"],
+    "explanation": "अबुल फज़ल ने सैनिकों और सामान्य जनता की आर्थिक स्थिति का विवरण किया।"
   },
   {
     "id": 57,
-    "question": "भारतीय संविधान में मौलिक अधिकार किस भाग में वर्णित हैं? / Fundamental Rights are described in which Part of the Indian Constitution?",
+    "question": "मुगल लेखक सैयद इब्राहिम खाँ का मुख्य योगदान किस क्षेत्र में था?",
     "options": {
-      "A": "भाग III (Part III)",
-      "B": "भाग IV (Part IV)",
-      "C": "भाग V (Part V)",
-      "D": "भाग II (Part II)"
+      "A": "इतिहास और प्रशासन",
+      "B": "कविता",
+      "C": "धार्मिक व्याख्यान",
+      "D": "सैन्य योजना"
     },
     "answer": ["A"],
-    "explanation": "भारतीय संविधान के भाग III में मौलिक अधिकारों का वर्णन है।"
+    "explanation": "सैयद इब्राहिम खाँ मुख्य रूप से इतिहास और प्रशासन में योगदान के लिए जाने जाते हैं।"
   },
   {
     "id": 58,
-    "question": "संविधान सभा की प्रारंभिक स्थायी अध्यक्षता किसने की? / Who was the permanent Chairman of the Constituent Assembly?",
+    "question": "अबुल फज़ल ने किस दृष्टिकोण से मुगल इतिहास लिखा?",
     "options": {
-      "A": "सचिदानंद सिन्हा",
-      "B": "राजेंद्र प्रसाद",
-      "C": "बी. एन. राव",
-      "D": "जवाहरलाल नेहरू"
+      "A": "तथ्यात्मक और निष्पक्ष",
+      "B": "धार्मिक पक्षपाती",
+      "C": "सांस्कृतिक आलोचनात्मक",
+      "D": "सैन्य आलोचना"
     },
-    "answer": ["B"],
-    "explanation": "डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष चुने गए थे।"
+    "answer": ["A"],
+    "explanation": "अबुल फज़ल ने निष्पक्ष और तथ्यात्मक दृष्टिकोण से इतिहास लिखा।"
   },
   {
     "id": 59,
-    "question": "भारतीय संविधान की सातवीं अनुसूची किससे संबंधित है? / The Seventh Schedule of the Indian Constitution relates to which subject?",
+    "question": "मुगल लेखक फ़ैज़ी ने किस विषय पर विशेष ध्यान दिया?",
     "options": {
-      "A": "राज्यों और केंद्रशासित प्रदेशों की सूची",
-      "B": "वित्तीय प्रावधान",
-      "C": "विषय-सूची (Union, State, Concurrent Lists)",
-      "D": "संशोधन की प्रक्रिया"
+      "A": "साहित्य और कविता",
+      "B": "इतिहास और प्रशासन",
+      "C": "धार्मिक प्रवचन",
+      "D": "सैन्य रणनीति"
     },
-    "answer": ["C"],
-    "explanation": "भारतीय संविधान की सातवीं अनुसूची में केंद्र, राज्य और समवर्ती सूची दी गई है।"
+    "answer": ["A", "B"],
+    "explanation": "फ़ैज़ी ने साहित्य, कविता के साथ-साथ इतिहास और प्रशासन पर ध्यान केंद्रित किया।"
   },
   {
     "id": 60,
-    "question": "भारतीय संविधान की प्रस्तावना में 'न्याय' शब्द का तात्पर्य किन-किन से है? / The term 'Justice' in the Preamble of the Constitution refers to which of the following?",
+    "question": "अबुल फज़ल की रचनाएँ मुगल इतिहास के किस पहलू को उजागर करती हैं?",
     "options": {
-      "A": "सामाजिक न्याय (Social Justice)",
-      "B": "आर्थिक न्याय (Economic Justice)",
-      "C": "राजनीतिक न्याय (Political Justice)",
-      "D": "धार्मिक न्याय (Religious Justice)"
+      "A": "सुलतान की नीति और शासन",
+      "B": "सामाजिक और आर्थिक जीवन",
+      "C": "सांस्कृतिक गतिविधियाँ",
+      "D": "धार्मिक सहिष्णुता"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "संविधान की प्रस्तावना में 'न्याय' शब्द सामाजिक, आर्थिक और राजनीतिक न्याय को संदर्भित करता है।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "अबुल फज़ल की रचनाएँ प्रशासन, सामाजिक-आर्थिक जीवन, सांस्कृतिक गतिविधियों और धार्मिक सहिष्णुता को उजागर करती हैं।"
   },
   {
     "id": 61,
-    "question": "भारतीय संविधान में वित्त आयोग (Finance Commission) का प्रावधान किस अनुच्छेद में है? / In which Article is the provision for the Finance Commission given in the Indian Constitution?",
+    "question": "अबुल फ़ज़ल की कृति 'अकबरनामा' किसके शासनकाल का इतिहास है?",
     "options": {
-      "A": "अनुच्छेद 275",
-      "B": "अनुच्छेद 280",
-      "C": "अनुच्छेद 324",
-      "D": "अनुच्छेद 300"
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "बाबर"
     },
     "answer": ["B"],
-    "explanation": "भारतीय संविधान का अनुच्छेद 280 वित्त आयोग (Finance Commission) की स्थापना का प्रावधान करता है, जो 5 वर्षों में एक बार राष्ट्रपति द्वारा गठित किया जाता है।"
+    "explanation": "'अकबरनामा' मुगल सम्राट अकबर के शासनकाल का विस्तृत इतिहास प्रस्तुत करती है।"
   },
   {
     "id": 62,
-    "question": "किस संविधान संशोधन द्वारा पंचायत राज संस्थाओं को संवैधानिक दर्जा दिया गया? / By which Constitutional Amendment were Panchayati Raj institutions given constitutional status?",
+    "question": "फ़तेहपुरी या फ़तेह मुबारक़ को किसने लिखा?",
     "options": {
-      "A": "42वां संविधान संशोधन",
-      "B": "44वां संविधान संशोधन",
-      "C": "73वां संविधान संशोधन",
-      "D": "74वां संविधान संशोधन"
+      "A": "अबुल फ़ज़ल",
+      "B": "मीर तकी मीर",
+      "C": "बाबर",
+      "D": "जियाउद्दीन"
     },
     "answer": ["C"],
-    "explanation": "1992 में 73वें संविधान संशोधन द्वारा पंचायत राज संस्थाओं को संवैधानिक दर्जा दिया गया और भाग IX में शामिल किया गया।"
+    "explanation": "फ़तेहपुरी या फ़तेह मुबारक़ बाबर द्वारा रचित है और यह उनके विजय अभियानों का विवरण है।"
   },
   {
     "id": 63,
-    "question": "भारत में 'लोकसभा' और 'राज्यसभा' के बीच संयुक्त बैठक किस अनुच्छेद के अंतर्गत होती है? / The joint sitting of Lok Sabha and Rajya Sabha is provided under which Article?",
+    "question": "मीर बाकी कौन सी मुगल कालीन कृति के लिए प्रसिद्ध हैं?",
     "options": {
-      "A": "अनुच्छेद 102",
-      "B": "अनुच्छेद 108",
-      "C": "अनुच्छेद 110",
-      "D": "अनुच्छेद 118"
+      "A": "मीरात-उल-उमर",
+      "B": "राजतरंगिणी",
+      "C": "मिर्ज़ा",
+      "D": "इक़बाल नाम"
     },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 108 लोकसभा और राज्यसभा के बीच संयुक्त बैठक की व्यवस्था करता है जब किसी साधारण विधेयक पर गतिरोध उत्पन्न हो।"
+    "answer": ["A"],
+    "explanation": "मीर बाकी अपनी कृति 'मीरात-उल-उमर' के लिए प्रसिद्ध हैं।"
   },
   {
     "id": 64,
-    "question": "भारत के राष्ट्रपति द्वारा वित्तीय आपातकाल (Financial Emergency) किस अनुच्छेद के अंतर्गत घोषित किया जा सकता है? / Financial Emergency can be proclaimed under which Article of the Indian Constitution?",
+    "question": "शाहजहाँ के शासनकाल में 'शाहजहाँनामा' किसने लिखा?",
     "options": {
-      "A": "अनुच्छेद 352",
-      "B": "अनुच्छेद 356",
-      "C": "अनुच्छेद 360",
-      "D": "अनुच्छेद 368"
+      "A": "मिर्ज़ा रफी बेग",
+      "B": "अबुल फ़ज़ल",
+      "C": "मोहम्मद काज़ी",
+      "D": "अलीखान"
     },
-    "answer": ["C"],
-    "explanation": "वित्तीय आपातकाल की घोषणा अनुच्छेद 360 के अंतर्गत की जा सकती है। भारत में अब तक कभी वित्तीय आपातकाल लागू नहीं किया गया।"
+    "answer": ["A"],
+    "explanation": "'शाहजहाँनामा' मिर्ज़ा रफी बेग द्वारा लिखा गया और इसमें शाहजहाँ के शासनकाल का वर्णन है।"
   },
   {
     "id": 65,
-    "question": "भारतीय संविधान में कितनी बार 'राष्ट्रीय आपातकाल' (National Emergency) लागू किया गया है? / How many times has National Emergency been imposed in India?",
+    "question": "मुगल काल के कौन से लेखक को 'तारीख़-ए-हिंदुस्तान' लिखा गया?",
     "options": {
-      "A": "2 बार",
-      "B": "3 बार",
-      "C": "4 बार",
-      "D": "5 बार"
+      "A": "मीर अबुल क़ासिम",
+      "B": "ख़ालिक़ अहमद",
+      "C": "मोहम्मद काज़ी",
+      "D": "मिर्ज़ा रफी बेग"
     },
     "answer": ["B"],
-    "explanation": "भारत में राष्ट्रीय आपातकाल कुल 3 बार लागू किया गया: 1962 (चीन युद्ध), 1971 (पाकिस्तान युद्ध), 1975 (आंतरिक अशांति)।"
+    "explanation": "'तारीख़-ए-हिंदुस्तान' मुगल इतिहासकार ख़ालिक़ अहमद द्वारा लिखा गया।"
   },
   {
     "id": 66,
-    "question": "भारतीय संविधान की 'संघ सूची' (Union List) में मूल रूप से कितने विषय थे? / How many subjects were originally in the Union List of the Indian Constitution?",
+    "question": "बाबर की आत्मकथा 'बाबरनामा' किस भाषा में लिखी गई थी?",
     "options": {
-      "A": "66",
-      "B": "97",
-      "C": "99",
-      "D": "122"
+      "A": "पर्शियन",
+      "B": "हिंदी",
+      "C": "उर्दू",
+      "D": "अंग्रेज़ी"
     },
-    "answer": ["B"],
-    "explanation": "संविधान की मूल संघ सूची (Union List) में 97 विषय शामिल थे, लेकिन बाद के संशोधनों के बाद वर्तमान में 100 विषय हैं।"
+    "answer": ["A"],
+    "explanation": "'बाबरनामा' मूल रूप से पर्शियन भाषा में लिखी गई थी।"
   },
   {
     "id": 67,
-    "question": "लोकसभा की अधिकतम शक्ति (Maximum strength) भारतीय संविधान में कितनी निर्धारित है? / What is the maximum strength of the Lok Sabha as per the Indian Constitution?",
+    "question": "अबुल फ़ज़ल ने अकबर के प्रशासनिक सुधारों का वर्णन किस कृति में किया?",
     "options": {
-      "A": "530",
-      "B": "545",
-      "C": "552",
-      "D": "560"
+      "A": "अकबरनामा",
+      "B": "अइने-अकबरी",
+      "C": "फतेहपुरी",
+      "D": "शाहजहाँनामा"
     },
-    "answer": ["C"],
-    "explanation": "अनुच्छेद 81 के अनुसार लोकसभा की अधिकतम शक्ति 552 है (530 राज्यों से, 20 केंद्र शासित प्रदेशों से, और 2 राष्ट्रपति द्वारा नामित)।"
+    "answer": ["B"],
+    "explanation": "'अइने-अकबरी' में अबुल फ़ज़ल ने अकबर के प्रशासनिक और सामाजिक सुधारों का विवरण दिया।"
   },
   {
     "id": 68,
-    "question": "किस अनुच्छेद के अंतर्गत भारत का चुनाव आयोग (Election Commission) स्थापित किया गया है? / Under which Article is the Election Commission of India established?",
+    "question": "ज़फ़र निज़ामी किस मुगल शासक के समय के लेखक हैं?",
     "options": {
-      "A": "अनुच्छेद 280",
-      "B": "अनुच्छेद 324",
-      "C": "अनुच्छेद 326",
-      "D": "अनुच्छेद 356"
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "औरंगज़ेब"
     },
-    "answer": ["B"],
-    "explanation": "भारत का चुनाव आयोग अनुच्छेद 324 के अंतर्गत स्थापित है। यह लोकसभा, राज्यसभा, राष्ट्रपति और उपराष्ट्रपति के चुनाव का संचालन करता है।"
+    "answer": ["D"],
+    "explanation": "ज़फ़र निज़ामी औरंगज़ेब के शासनकाल में प्रसिद्ध लेखक थे।"
   },
   {
     "id": 69,
-    "question": "संसद का बजट सत्र (Budget Session) आमतौर पर किस महीने से शुरू होता है? / In which month does the Budget Session of the Indian Parliament generally begin?",
+    "question": "मीर अबुल क़ासिम की कृति का विषय क्या है?",
     "options": {
-      "A": "जनवरी",
-      "B": "फरवरी",
-      "C": "मार्च",
-      "D": "अप्रैल"
+      "A": "सुल्तानों के जीवन का वर्णन",
+      "B": "भारत के भूगोल का अध्ययन",
+      "C": "साहित्यिक आलोचना",
+      "D": "धार्मिक उपदेश"
     },
-    "answer": ["B"],
-    "explanation": "भारत में संसद का बजट सत्र सामान्यतः फरवरी महीने से शुरू होता है जब वित्त मंत्री केंद्रीय बजट प्रस्तुत करते हैं।"
+    "answer": ["A"],
+    "explanation": "मीर अबुल क़ासिम की कृतियाँ मुख्यतः मुगल शासकों और उनके जीवन का वर्णन करती हैं।"
   },
   {
     "id": 70,
-    "question": "भारत में मौलिक कर्तव्य (Fundamental Duties) किस समिति की सिफारिश पर संविधान में जोड़े गए? / Fundamental Duties were added to the Indian Constitution on the recommendation of which committee?",
+    "question": "मोहम्मद काज़ी ने किस मुगल शासक के समय प्रमुख कृतियाँ लिखीं?",
     "options": {
-      "A": "सर्कारिया समिति",
-      "B": "स्वर्ण सिंह समिति",
-      "C": "बलवंतराय मेहता समिति",
-      "D": "राजमन्नार समिति"
+      "A": "शाहजहाँ",
+      "B": "अकबर",
+      "C": "जहाँगीर",
+      "D": "औरंगज़ेब"
     },
-    "answer": ["B"],
-    "explanation": "मौलिक कर्तव्यों को संविधान में 42वें संशोधन (1976) द्वारा स्वर्ण सिंह समिति की सिफारिश पर शामिल किया गया।"
+    "answer": ["C"],
+    "explanation": "मोहम्मद काज़ी ने जहाँगीर के शासनकाल में प्रमुख कृतियाँ लिखीं।"
   },
   {
     "id": 71,
-    "question": "भारत का संविधान कितने दिनों में तैयार हुआ था? / In how many days was the Constitution of India prepared?",
+    "question": "अकबरनामा और अइने-अकबरी दोनों किस लेखक की रचनाएँ हैं?",
     "options": {
-      "A": "2 वर्ष 11 माह 18 दिन",
-      "B": "3 वर्ष 10 माह 20 दिन",
-      "C": "2 वर्ष 8 माह 12 दिन",
-      "D": "1 वर्ष 11 माह 15 दिन"
+      "A": "अबुल फ़ज़ल",
+      "B": "बाबर",
+      "C": "मीर बाकी",
+      "D": "शाम्स ताबरी"
     },
     "answer": ["A"],
-    "explanation": "संविधान सभा ने भारतीय संविधान को 2 वर्ष 11 माह 18 दिन में तैयार किया (9 दिसंबर 1946 – 26 नवंबर 1949)।"
+    "explanation": "अबुल फ़ज़ल ने अकबरनामा और अइने-अकबरी दोनों रचनाएँ लिखी हैं।"
   },
   {
     "id": 72,
-    "question": "भारत के राष्ट्रपति के चुनाव में मूल्यांकित मतों (Value of Votes) का निर्धारण किसके आधार पर होता है? / The value of votes in the election of the President of India is determined on the basis of?",
+    "question": "'शाहजहाँनामा' किस शैली की कृति है?",
     "options": {
-      "A": "राज्यों की जनसंख्या और निर्वाचित विधायकों की संख्या",
-      "B": "सांसदों की संख्या",
-      "C": "राज्यसभा सदस्यों की संख्या",
-      "D": "जनसंख्या का अनुपात"
+      "A": "इतिहास",
+      "B": "काव्य",
+      "C": "धार्मिक उपदेश",
+      "D": "फिलॉसॉफिकल"
     },
     "answer": ["A"],
-    "explanation": "राष्ट्रपति चुनाव में राज्यों के निर्वाचित विधायकों के मतों का मूल्य उनकी जनसंख्या और विधायकों की संख्या पर आधारित होता है।"
+    "explanation": "'शाहजहाँनामा' एक ऐतिहासिक कृति है, जिसमें शाहजहाँ के शासनकाल का विवरण है।"
   },
   {
     "id": 73,
-    "question": "भारत में 'समान नागरिक संहिता' (Uniform Civil Code) का उल्लेख किस अनुच्छेद में है? / Uniform Civil Code is mentioned under which Article of the Indian Constitution?",
+    "question": "बाबरनामा का अनुवाद उर्दू में किसने किया?",
     "options": {
-      "A": "अनुच्छेद 44",
-      "B": "अनुच्छेद 32",
-      "C": "अनुच्छेद 51",
-      "D": "अनुच्छेद 21"
+      "A": "अबुल फ़ज़ल",
+      "B": "ए. सैफुल्ला",
+      "C": "मीर तकी मीर",
+      "D": "जियाउद्दीन बरनी"
     },
-    "answer": ["A"],
-    "explanation": "समान नागरिक संहिता का उल्लेख राज्य नीति के निदेशक तत्वों में अनुच्छेद 44 में है।"
+    "answer": ["B"],
+    "explanation": "बाबरनामा का उर्दू में अनुवाद ए. सैफुल्ला ने किया।"
   },
   {
     "id": 74,
-    "question": "भारत में 'केंद्रीय सतर्कता आयोग' (CVC) कब और किसकी सिफारिश पर स्थापित हुआ? / When and on whose recommendation was the Central Vigilance Commission (CVC) established in India?",
+    "question": "मुगल लेखक अबुल फ़ज़ल ने किस शासक की सेना और युद्धों का विवरण दिया?",
     "options": {
-      "A": "1964, संथानम समिति",
-      "B": "1976, स्वर्ण सिंह समिति",
-      "C": "1989, ठक्कर आयोग",
-      "D": "1992, वेंकटचलैया आयोग"
+      "A": "अकबर",
+      "B": "जहाँगीर",
+      "C": "शाहजहाँ",
+      "D": "औरंगज़ेब"
     },
     "answer": ["A"],
-    "explanation": "केंद्रीय सतर्कता आयोग (CVC) 1964 में भ्रष्टाचार पर नियंत्रण हेतु संथानम समिति की सिफारिश पर स्थापित किया गया।"
+    "explanation": "अबुल फ़ज़ल ने अकबर की सेना और युद्धों का विस्तार से विवरण अकबरनामा में दिया।"
   },
   {
     "id": 75,
-    "question": "राज्यसभा में मनोनीत सदस्यों की संख्या कितनी होती है? / How many members are nominated in the Rajya Sabha?",
+    "question": "मुगल कालीन काव्य और इतिहास लेखन में किसने अकबरनामा और अइने-अकबरी लिखी?",
     "options": {
-      "A": "10",
-      "B": "12",
-      "C": "14",
-      "D": "15"
+      "A": "अबुल फ़ज़ल",
+      "B": "बाबर",
+      "C": "मीर बाकी",
+      "D": "मीर तकी मीर"
     },
-    "answer": ["B"],
-    "explanation": "भारत के राष्ट्रपति साहित्य, विज्ञान, कला और समाज सेवा में विशेष योगदान देने वाले 12 सदस्यों को राज्यसभा में नामित करते हैं।"
+    "answer": ["A"],
+    "explanation": "अबुल फ़ज़ल मुगल काल के प्रमुख लेखक थे और उन्होंने अकबरनामा तथा अइने-अकबरी लिखी।"
+  },
+  {
+    "id": 76,
+    "question": "शाहजहाँनामा में किस प्रकार का विवरण मिलता है?",
+    "options": {
+      "A": "शाहजहाँ के शासन, निर्माण और विजय",
+      "B": "सिर्फ धार्मिक गतिविधियाँ",
+      "C": "काव्यात्मक रचनाएँ",
+      "D": "भूगोल और भू-राजनीति"
+    },
+    "answer": ["A"],
+    "explanation": "'शाहजहाँनामा' में शाहजहाँ के शासन, निर्माणों और विजय का विवरण मिलता है।"
+  },
+  {
+    "id": 77,
+    "question": "मुगल लेखक मीर बाकी किस प्रकार की रचनाएँ करते थे?",
+    "options": {
+      "A": "इतिहास और साहित्य",
+      "B": "विज्ञान और गणित",
+      "C": "धार्मिक उपदेश",
+      "D": "काव्य और संगीत"
+    },
+    "answer": ["A"],
+    "explanation": "मीर बाकी इतिहास और साहित्य दोनों में निपुण थे।"
+  },
+  {
+    "id": 78,
+    "question": "ज़फ़र निज़ामी की रचनाएँ मुख्य रूप से किस शासक के शासनकाल की घटनाओं पर आधारित हैं?",
+    "options": {
+      "A": "औरंगज़ेब",
+      "B": "अकबर",
+      "C": "जहाँगीर",
+      "D": "शाहजहाँ"
+    },
+    "answer": ["A"],
+    "explanation": "ज़फ़र निज़ामी की रचनाएँ औरंगज़ेब के शासनकाल की घटनाओं पर आधारित हैं।"
+  },
+  {
+    "id": 79,
+    "question": "मोहम्मद काज़ी की रचनाएँ किस शासक के समय प्रसिद्ध हुईं?",
+    "options": {
+      "A": "जहाँगीर",
+      "B": "अकबर",
+      "C": "शाहजहाँ",
+      "D": "औरंगज़ेब"
+    },
+    "answer": ["A"],
+    "explanation": "मोहम्मद काज़ी की रचनाएँ जहाँगीर के शासनकाल में प्रसिद्ध हुईं।"
+  },
+  {
+    "id": 80,
+    "question": "अबुल फ़ज़ल की कृतियाँ किस प्रकार की जानकारी देती हैं?",
+    "options": {
+      "A": "इतिहास, प्रशासन और सामाजिक जीवन",
+      "B": "सिर्फ काव्य",
+      "C": "धार्मिक उपदेश",
+      "D": "भूगोल और विज्ञान"
+    },
+    "answer": ["A"],
+    "explanation": "अबुल फ़ज़ल की कृतियाँ इतिहास, प्रशासन और सामाजिक जीवन का विवरण देती हैं।"
   }
-]  
+]
 
- 
   
-
+ 
