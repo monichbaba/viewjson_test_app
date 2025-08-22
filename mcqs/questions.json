@@ -1,482 +1,906 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-से GDP के व्यय (expenditure) दृष्टिकोण के घटक हैं? / Which of the following are components of GDP under the expenditure approach?",
+    "question": "संविधान की प्रस्तावना (Preamble) में कौन-से शब्द बाद में जोड़े गए थे? / Which words were added later to the Preamble of the Constitution?",
     "options": {
-      "A": "व्यक्तिगत अंतिम उपभोग व्यय - Personal Final Consumption Expenditure (PFCE)",
-      "B": "सरकारी अंतिम खपत व्यय - Government Final Consumption Expenditure (GFCE)",
-      "C": " नेट निर्यात (Exports - Imports) - Net Exports (X - M)",
-      "D": "सरकारी हस्तांतरण भुगतान (transfer payments) - Government transfer payments"
+      "A": "Sovereign (सार्वभौम)",
+      "B": "Socialist (समाजवादी)",
+      "C": "Secular (धर्मनिरपेक्ष)",
+      "D": "Republic (गणराज्य)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "सरकारी हस्तांतरण भुगतान सीधे GDP व्यय गणना में शामिल नहीं होते क्योंकि वे लेन-देन नहीं बल्कि पुनर्वितरण हैं; PFCE, GFCE और नेट-निर्यात खर्च-पक्ष के प्रमुख तत्व हैं। / Transfer payments are redistributive and not counted as final demand; PFCE, GFCE and net-exports are the main expenditure components of GDP."
+    "answer": ["B", "C"],
+    "explanation": "‘Socialist’ और ‘Secular’ शब्द 42वीं संविधान संशोधन (1976) के द्वारा प्रस्तावना में जोड़े गए थे; Sovereign और Republic मौलिक शब्द हैं। / The words 'Socialist' and 'Secular' were inserted by the 42nd Amendment (1976). 'Sovereign' and 'Republic' were original."
   },
   {
     "id": 2,
-    "question": "GNP और GDP में मुख्य अंतर क्या है? / What is the primary difference between GNP and GDP?",
+    "question": "नीचे दिए गए में से कौन-सा 'संविधान की मौलिक संरचना' (basic structure) के तत्व माने गए हैं? / Which of the following are considered elements of the Constitution's 'basic structure' doctrine?",
     "options": {
-      "A": "GDP किसी देश के सीमाभित्र उत्पादित वस्तुओं/सेवाओं का आंकड़ा है - GDP measures output within domestic borders",
-      "B": "GNP में देश के नागरिकों की कुल आय शामिल होती है, चाहे वे विदेश में हों - GNP includes income of residents abroad",
-      "C": "GDP और GNP हमेशा बराबर होते हैं - GDP and GNP are always equal",
-      "D": "GNP केवल कृषि उत्पादन को मापता है - GNP measures only agricultural output"
+      "A": "संवैधानिक शासन का लोकतान्त्रिक स्वरूप (Democratic form of government)",
+      "B": "न्यायिक समीक्षा का अधिकार (Judicial review)",
+      "C": "नियमित संविधान संशोधन का पूर्ण प्रतिबंध (Total bar on amendments)",
+      "D": "मौलिक अधिकारों का संरक्षण (Protection of fundamental rights)"
     },
-    "answer": ["A", "B"],
-    "explanation": "GDP ठोस भौगोलिक क्षेत्र (domestic territory) पर केन्द्रित है; GNP में निवासियों द्वारा विदेशों में अर्जित नेट-आय जोड़ी/घटाई जाती है। विकल्प C और D गलत हैं। / GDP is location-based; GNP adjusts GDP by adding net income from abroad (residents' foreign income minus non-residents' domestic income). Options C and D are incorrect."
+    "answer": ["A", "B", "D"],
+    "explanation": "केस-न्याय (Kesavananda Bharati) के निर्णय में basic-structure में लोकतंत्र, न्यायिक समीक्षा, मौलिक स्वरूप जैसे तत्व शामिल बताए गए; पर संविधान में संशोधन का पूर्ण प्रतिबंध basic-structure की परिभाषा नहीं है। / Kesavananda recognized democracy, judicial review and protection of fundamental rights among basic-structure elements; it did not treat a total bar on amendments as a basic-structure component."
   },
   {
     "id": 3,
-    "question": "नॉट-इन-ऑर्डर: निम्न में से कौनसी प्रविष्टियाँ 'नॉमिनल GDP' और 'रियल GDP' के बीच के भेद को प्रभावित करती हैं? / Which of the following affect the difference between nominal GDP and real GDP?",
+    "question": "Fundamental Rights (Part III) भारत के संविधान में किस Article सीमा के अंतर्गत आते हैं? / Fundamental Rights in Part III come under which Articles?",
     "options": {
-      "A": "मूल्यस्तर (Price level) में बदलाव - Changes in price level",
-      "B": "उत्पादन की वास्तविक मात्रा (Physical output) में बदलाव - Changes in real output",
-      "C": "मुद्रा विनिमय दरें (Exchange rates) केवल तभी जब आय-आयात गिनती में हों - Exchange rates when trade valued in foreign currency",
-      "D": "दोनों A और B (Both A and B)"
+      "A": "Articles 12–35",
+      "B": "Articles 1–11",
+      "C": "Articles 36–51",
+      "D": "Articles 51A–51H"
     },
-    "answer": ["D"],
-    "explanation": "नॉमिनल GDP मूल्य × मात्रा से बनता है; रियल GDP मात्राओं को स्थिर मूल्य पर मापता है। इसलिए मूल्यस्तर (A) और वास्तविक उत्पादन (B) दोनों ही फर्क बनाते हैं। / Nominal GDP reflects current prices × quantities; real GDP holds prices constant — so both price level and real output changes determine the gap."
+    "answer": ["A"],
+    "explanation": "मौलिक अधिकार संविधान के भाग III में हैं और सामान्यतः Articles 12 से 35 तक दर्ज हैं; DPSP अलग Part IV (36–51) है। / Fundamental Rights occupy Articles 12–35 (Part III). Directive Principles are in Part IV (36–51)."
   },
   {
     "id": 4,
-    "question": "GVA (Gross Value Added) किसे दर्शाता है? / What does GVA (Gross Value Added) represent?",
+    "question": "निम्न में से कौन-से मूल अधिकार justiciable (अदालत में प्रवर्तन योग्य) हैं? / Which of the following Fundamental Rights are justiciable?",
     "options": {
-      "A": "उद्योग द्वारा उत्पादित कुल मूल्य में जोड़ा गया मूल्य (value added by production units)",
-      "B": "GDP में से नेट-करों (net taxes) को घटाने पर प्राप्त राशि - GDP minus net taxes",
-      "C": "उत्पादन की लागत (Total production cost) केवल - Total production cost only",
-      "D": "किसी अर्थव्यवस्था की कुल आय में सरकारी सब्सिडी का हिस्सा - Subsidies component only"
+      "A": "Right to Equality (Article 14–18)",
+      "B": "Directive Principles of State Policy",
+      "C": "Right to Constitutional Remedies (Article 32)",
+      "D": "Fundamental Duties (Article 51A)"
     },
-    "answer": ["A", "B"],
-    "explanation": "GVA मूलतः उत्पादन द्वारा जोड़े गए मूल्य का माप है; गणितीय रूप में GVA = GDP - Net Taxes on Products (या GDP @ market prices से adjustment)। विकल्प C और D आंशिक/गलत व्याख्या हैं। / GVA measures value added by producers; algebraically GVA = GDP at market prices - net taxes on products. Options C and D are incorrect or incomplete."
+    "answer": ["A", "C"],
+    "explanation": "मौलिक अधिकार (जैसे Article 14 से 18) और Article 32 द्वारा प्रदत्त अधिकार-उपाय अदालती हैं; DPSP (Part IV) सामान्यतः non-justiciable हैं; Fundamental Duties संविधान में नैतिक/नैरेटिव कर्तव्य के रूप में हैं, पर वे सामान्यतः enforceable rights नहीं हैं। / Rights under Part III (e.g., equality) and the remedy under Article 32 are justiciable. DPSPs are non-justiciable; Fundamental Duties are moral/constitutional duties."
   },
   {
     "id": 5,
-    "question": "निम्न में से कौन-से 'सरकारी पूँजी प्राप्तियाँ' (capital receipts) मानी जाती हैं? / Which of the following are considered government 'capital receipts'?",
+    "question": "दिशानिर्देश सिद्धान्त (DPSP) किस Articles के भीतर आते हैं? / Directive Principles of State Policy are contained in which Articles?",
     "options": {
-      "A": "बैंक से लिया गया ऋण (Borrowing from banks)",
-      "B": "सरकारी संपत्तियों की बिक्री (Disinvestment proceeds)",
-      "C": "कर राजस्व (Tax revenue)",
-      "D": "राशि प्राप्तियाँ जो देयताओं को कम करें (loan recoveries / repayment of loans)"
+      "A": "Articles 12–35",
+      "B": "Articles 36–51",
+      "C": "Articles 51A–51F",
+      "D": "Articles 300–305"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Capital receipts में उधार (internal/external borrowings), disinvestment और सरकार को मिले LOAN-repayments शामिल होते हैं; कर राजस्व 'revenue receipts' में आता है। / Capital receipts include borrowings, disinvestment proceeds and recoveries of loans; tax revenue is a revenue receipt, not capital."
+    "answer": ["B"],
+    "explanation": "DPSP संविधान के Part IV में Articles 36 से 51 के बीच दिये गए हैं। ये नीति-निर्देश हैं और सामान्यतः अदालतों द्वारा enforceable नहीं होते। / DPSPs are in Articles 36–51 (Part IV) and are guiding principles for the State."
   },
   {
     "id": 6,
-    "question": "Primary deficit किससे मापन होता है? / Primary deficit is measured as which of the following?",
+    "question": "Fundamental Duties कितने हैं और किस Article में दिए गए हैं? / How many Fundamental Duties are there and under which Article?",
     "options": {
-      "A": "Fiscal deficit minus ब्याज भुगतान (interest payments)",
-      "B": "Revenue deficit plus capital expenditure",
-      "C": "सिर्फ़ Interest payments - Only interest payments",
-      "D": "सरकारी कुल खर्च - सरकारी कुल राजस्व (Total government expenditure minus total revenue)"
+      "A": "11 duties, Article 51A",
+      "B": "8 duties, Article 35",
+      "C": "15 duties, Article 370",
+      "D": "5 duties, Article 19"
     },
     "answer": ["A"],
-    "explanation": "Primary deficit = Fiscal deficit - Interest payments, यानी सरकार की ब्याज लागत को हटाकर जो समायोजित घाटा बचता है। अन्य विकल्प परिभाषा के अनुरूप नहीं हैं। / Primary deficit = fiscal deficit minus interest payments; it measures the net new borrowing requirement excluding interest burden."
+    "explanation": "Fundamental Duties 11 संख्या में Article 51A में दिए गए हैं — इन्हें 42वीं संशोधन (1976) के बाद जोड़ा गया था। / There are 11 Fundamental Duties listed under Article 51A (inserted by the 42nd Amendment)."
   },
   {
     "id": 7,
-    "question": "निम्न में से कौन-से 'प्रत्यक्ष कर' (direct taxes) के उदाहरण हैं? / Which of the following are examples of direct taxes?",
+    "question": "संविधान संशोधन की शक्ति किस Article में निहित है? / Which Article vests Parliament with the power to amend the Constitution?",
     "options": {
-      "A": "आयकर (Income Tax)",
-      "B": "GST (Goods and Services Tax)",
-      "C": "कॉर्पोरेट कर (Corporate Tax)",
-      "D": "विरासत कर (Estate/inheritance tax) — जहां लागू हो (if applicable)"
+      "A": "Article 368",
+      "B": "Article 352",
+      "C": "Article 370",
+      "D": "Article 32"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "प्रत्यक्ष कर वह होता है जिसे करदाता सीधे सरकार को देता है: आयकर, कॉर्पोरेट कर और जहाँ लागू हो विरासत/inheritance tax। GST एक अप्रत्यक्ष कर है। / Direct taxes are paid directly by the taxpayer to the government (income tax, corporate tax; inheritance/estate tax where applicable). GST is an indirect tax."
+    "answer": ["A"],
+    "explanation": "Article 368 संसद को संविधान संशोधन का अधिकार देता है और संशोधन की प्रक्रिया का निर्धारण करता है; किन परिस्थितियों में राज्य विधानसभाओं की सहमति आवश्यक है, उसका उल्लेख भी है। / Article 368 prescribes Parliament's power & procedure for amendment; certain amendments require ratification by state legislatures."
   },
   {
     "id": 8,
-    "question": "वर्तमान में भारत में सामान्यतः इस्तेमाल होने वाले GST स्लैब कौन-कौन से हैं? / Which GST rate slabs are commonly used in India (current structure)?",
+    "question": "नीचे दिए गए में से कौन-से ऐसे संशोधन हैं जिनके लिए राज्य विधानसभाओं की स्वीकृति जरूरी है? / Which of the following amendments require ratification by state legislatures?",
     "options": {
-      "A": "5%",
-      "B": "12%",
-      "C": "18%",
-      "D": "28%"
+      "A": "Provision for election of President",
+      "B": "Distribution of powers between Union and States",
+      "C": "Any provision concerning the Supreme Court jurisdiction",
+      "D": "All money-bill related procedures"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "भारत में आमतौर पर 5%, 12%, 18% और 28% स्लैब उपयोग में हैं; इसके अलावा '0%' और कुछ विशिष्ट वस्तुओं की अलग दरें या cess भी होते हैं। / India commonly uses 5%, 12%, 18% and 28% GST slabs; there are also 0% items and specific cesses for certain goods."
+    "answer": ["A", "B", "C"],
+    "explanation": "Article 368 के भीतर कुछ संशोधनों के लिये राज्य विधानसभाओं की रैटीफिकेशन आवश्यक है — जैसे राष्ट्रपति चुनाव सम्बन्धी प्रावधानों में परिवर्तन, संघ/राज्य शक्तियों के विभाजन में बदलाव, या उच्च न्यायालय/संघीय न्यायपालिका के संबंध में परिवर्तन। धन-बिल (money bill) प्रक्रियात्मक बदलाव सर्वथा संसद-स्तर पर होते हैं और राज्य-रैटीफिकेशन सामान्यतः आवश्यक नहीं। / Certain amendments changing President's election, Union-State power distribution, or judiciary provisions need state ratification; money-bill rules generally do not."
   },
   {
     "id": 9,
-    "question": "मॉनेटरी पॉलिसी के कौन-से औज़ार सीधे RBI के हाथ में हैं? / Which of the following monetary policy instruments are directly operated by the RBI?",
+    "question": "संघ और राज्य के बीच residuary powers किसके पास हैं? / Who holds the residuary powers between Union and States?",
     "options": {
-      "A": "Repo rate (लेंडिंग रेट)",
-      "B": "Open Market Operations (OMOs)",
-      "C": "GST दरें (GST rates)",
-      "D": "Cash Reserve Ratio (CRR) / Statutory Liquidity Ratio (SLR)"
+      "A": "Union (Parliament)",
+      "B": "State Legislatures",
+      "C": "Supreme Court",
+      "D": "President"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "RBI मौद्रिक नीति के रूप में repo, reverse-repo, OMOs, CRR, SLR आदि का प्रयोग करती है। GST कर नीति वित्त मंत्रालय/GST काउन्सिल का विषय है, न कि RBI का। / RBI controls policy rates (repo), OMOs and reserve requirements (CRR/SLR). GST is fiscal/tax policy, handled outside RBI."
+    "answer": ["A"],
+    "explanation": "भारतीय संविधान में residuary subjects (जो concurrent/state/union सूची में स्पष्ट न हों) संसद के पास आते हैं (Union list का विस्तार)। यह संघीय ढाँचे का एक महत्वपूर्ण पहलू है। / Residuary powers rest with the Parliament (Union) under the Indian constitutional scheme."
   },
   {
     "id": 10,
-    "question": "Monetary Policy Committee (MPC) के बारे में कौन-सी बातें सही हैं? / Which of the following statements about the Monetary Policy Committee (MPC) are correct?",
+    "question": "निम्नलिखित में से कौन-सा Union List का विषय है? / Which of the following is a subject in the Union List?",
     "options": {
-      "A": "गवर्नर RBI के ex-officio chairperson होते हैं - Governor is ex-officio chair",
-      "B": "MPC में कुल 6 सदस्य होते हैं - MPC has six members",
-      "C": "निर्णय केवल सर्वसम्मति (unanimity) से ही लिए जाते हैं - Decisions only by unanimity",
-      "D": "बहुमत से निर्णय होते हैं; टाई की स्थिति में गवर्नर का casting vote होता है - Decisions by majority; Governor has casting vote in ties"
+      "A": "Defense (रक्षा)",
+      "B": "Police (पुलिस)",
+      "C": "Public Health (सार्वजनिक स्वास्थ्य)",
+      "D": "Agriculture (कृषि)"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "MPC में 6 सदस्य हैं (3 RBI के अधिकारी और 3 सरकार द्वारा नामित बाहरी सदस्य); निर्णय बहुमत से लिये जाते हैं और गवर्नर के पास टाई में casting vote होता है। विकल्प C गलत है। / MPC has six members (3 RBI, 3 external), the Governor chairs ex-officio; decisions are by majority and Governor has casting vote in case of tie."
+    "answer": ["A"],
+    "explanation": "रक्षा (defence) Union List का विषय है; पुलिस और सार्वजनिक स्वास्थ्य आमतौर पर राज्य सूची में आते हैं, कृषि भी मुख्यतः राज्य सूची में है। / Defence is a Union subject; police, public health and agriculture are primarily State subjects."
   },
   {
     "id": 11,
-    "question": "अगस्त 2025 के RBI MPC के निर्णय के अनुसार नीति Repo rate (policy repo) लगभग कितनी पर तय था? / As per the August 2025 RBI MPC decision, roughly what was the policy repo rate?",
+    "question": "RBI, CAG, UPSC, ECI में से कौन-सा संविधान द्वारा स्थापित है (i.e., constitutional body)? / Which among RBI, CAG, UPSC, ECI is a constitutional body?",
     "options": {
-      "A": "4.00%",
-      "B": "5.50%",
-      "C": "6.75%",
-      "D": "7.50%"
+      "A": "Comptroller and Auditor General (CAG)",
+      "B": "Reserve Bank of India (RBI)",
+      "C": "Union Public Service Commission (UPSC)",
+      "D": "Election Commission of India (ECI)"
     },
-    "answer": ["B"],
-    "explanation": "अगस्त 2025 के MPC में RBI ने repo rate को 5.50% पर स्थिर रखा (हाल में 2025 में कई कटौतीें हुईं पर अगस्त में.pause)। स्रोत: RBI/MPC कवायद पर रिपोर्टिंग। / In the August 2025 MPC, the RBI kept the policy repo rate at 5.50%. (See MPC coverage for Aug 2025.) :contentReference[oaicite:1]{index=1}"
+    "answer": ["A", "C", "D"],
+    "explanation": "CAG (Article 148 onward), UPSC (Article 315 onward) और ECI (Article 324 onward) संवैधानिक संस्थाएँ हैं। RBI एक statutory body (Reserve Bank of India Act, 1934) द्वारा स्थापित है। / CAG, UPSC and ECI are constitutional bodies; RBI is statutory under its Act."
   },
   {
     "id": 12,
-    "question": "जुलाई 2025 में All-India CPI (combined) का वर्ष-दर-वर्ष (YoY) लगभग क्या रहा? / What was approximately the All-India CPI (combined) year-on-year inflation in July 2025?",
+    "question": "निम्न में से कौन-सा पद राष्ट्रपति (President) के 'अनिवार्य' कर्तव्यों में आता है? / Which of the following is a mandatory duty of the President?",
     "options": {
-      "A": "1.55%",
-      "B": "4.5%",
-      "C": "6.8%",
-      "D": "10.2%"
+      "A": "Parliament को अधिसूचित करना कि सरकार को विश्वास है (To appoint PM only if majority exists)",
+      "B": "Bills को बिना किसी परामर्श के स्थायी रूप से अस्वीकार करना (Veto all bills permanently without consultation)",
+      "C": "Parliament के किसी नियम पर स्वतः निर्णय लेना (Rule Parliament directly)",
+      "D": "None of the above"
     },
     "answer": ["A"],
-    "explanation": "MoSPI के प्राविज़नल आंकड़ों के अनुसार जुलाई 2025 के लिए All-India CPI (combined) YoY ~1.55% (Provisional)। यह एक अभूतपूर्व गिरावट दर्शाता है। / According to MoSPI provisional data, All-India CPI (combined) YoY was about 1.55% in July 2025. :contentReference[oaicite:2]{index=2}"
+    "explanation": "राष्ट्रपति का कर्तव्य है कि वह उस व्यक्ति को प्रधानमंत्री नियुक्त करे जिसका संसद में बहुमत हो या जो बहुमत दिखा सके; राष्ट्रपति के नेटिव वेटो/निषेध शक्तियों पर सीमाएँ हैं और वे मानक संवैधानिक परामर्शों पर निर्भर करते हैं। / The President must appoint as PM the person who commands majority support; veto powers are limited and function within constitutional norms."
   },
   {
     "id": 13,
-    "question": "FY 2024-25 में भारत की वास्तविक GDP वृद्धि (real GDP growth) provisional estimate के अनुसार लगभग कितनी रही? / What was India's real GDP growth for FY 2024-25 (provisional estimate)?",
+    "question": "किस Article में President की Impeachment प्रक्रिया बताई गयी है? / Under which Article is the impeachment of the President provided?",
     "options": {
-      "A": "3.2%",
-      "B": "6.5%",
-      "C": "8.9%",
-      "D": "10.3%"
+      "A": "Article 61",
+      "B": "Article 356",
+      "C": "Article 72",
+      "D": "Article 324"
     },
-    "answer": ["B"],
-    "explanation": "MoSPI की provisional estimates के अनुसार FY 2024-25 के लिए real GDP growth ~6.5% आंकी गई थी। / MoSPI provisional estimates put India's real GDP growth for FY 2024-25 at about 6.5%. :contentReference[oaicite:3]{index=3}"
+    "answer": ["A"],
+    "explanation": "Article 61 राष्ट्रपति के विरुद्ध अभियोजन/इम्पीचमेंट की व्यवस्था करता है — यह एक विशेष विधिक प्रक्रिया है। Article 356 राज्य में राष्ट्रपति शासन से संबंधित है। / Article 61 deals with impeachment of the President; Article 356 is about President's rule in states."
   },
   {
     "id": 14,
-    "question": "केंद्र सरकार का FY 2024-25 का समायोजित / provisional fiscal deficit (कुल GDP के अनुपात में) लगभग क्या रहा? / What was the central government's provisional fiscal deficit for FY 2024-25 roughly (as % of GDP)?",
+    "question": "प्रधानमंत्री (PM) का चुनावी आधार क्या है और PM किस Article के अंतर्गत नियुक्त होते हैं? / What is the basis for selection of the Prime Minister and under which Article are they appointed?",
     "options": {
-      "A": "2.5% of GDP",
-      "B": "4.8% of GDP",
-      "C": "7.2% of GDP",
-      "D": "9.0% of GDP"
+      "A": "Leader of majority party in Lok Sabha; Article 75",
+      "B": "Direct election by people; Article 56",
+      "C": "Nomination by President only; Article 74",
+      "D": "Selection by Supreme Court; Article 130"
     },
-    "answer": ["B"],
-    "explanation": "Controller General of Accounts के provisional आंकड़ों एवं मीडिया रिपोर्टों के अनुसार FY25 के लिए संघीय (central) fiscal deficit ~4.8% of GDP बताया गया। / Provisional CGA figures and press reporting indicate the central fiscal deficit for FY 2024-25 was about 4.8% of GDP. :contentReference[oaicite:4]{index=4}"
+    "answer": ["A"],
+    "explanation": "PM आमतौर पर Lok Sabha में बहुमत वाली पार्टी/गठबंधन के नेता होते हैं और उनका संवैधानिक नियुक्ति-आधार Article 75 है (Council of Ministers और PM की नियुक्ति संबंधी प्रावधान)। / The PM is normally the leader of the majority in Lok Sabha; appointment & Council of Ministers are covered under Article 75."
   },
   {
     "id": 15,
-    "question": "कारक (factors) जो 'फिस्कल मल्टीप्लायर' को प्रभावित करते हैं, उनमें से कौन-से हैं? / Which of the following factors influence the fiscal multiplier?",
+    "question": "Collective responsibility के सिद्धान्त का अर्थ क्या है? / What does the principle of collective responsibility mean?",
     "options": {
-      "A": "अर्थव्यवस्था की खुली/बंदी प्रकृति (openness of the economy)",
-      "B": "टैक्स-रीसाइकलिंग की गति (speed of tax recycling)",
-      "C": "मौद्रिक नीति की प्रतिक्रिया (monetary policy reaction)",
-      "D": "सिर्फ़ मुद्रा आपूर्ति (only money supply)"
+      "A": "Council of Ministers संसद के प्रति एक संयुक्त रूप से उत्तरदायी होते हैं",
+      "B": "हर मंत्री केवल अपने मंत्रालय के लिये व्यक्तिगत रूप से उत्तरदायी है",
+      "C": "Judiciary मंत्रिमंडल को निर्देश देती है",
+      "D": "President मंत्रिमंडल के फैसलों का निजी रूप से समर्थन करता है"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Fiscal multiplier खुलापन, आय का अंतरण (tax recycling), monetary stance आदि पर निर्भर करता है; सिर्फ़ money supply अकेला निर्धारक नहीं है। / Openness (leakages via imports), tax-recycling and monetary stance affect the fiscal multiplier; option D alone is not sufficient."
+    "answer": ["A"],
+    "explanation": "collective responsibility का अर्थ है कि Council of Ministers संसद के प्रति संयुक्त रूप से जिम्मेदार रहते हैं; यदि संसद में निरम्भ होता है तो पूरा मंत्रिमंडल इस्तीफा दे सकता है। / Collective responsibility means the Council is jointly accountable to Parliament."
   },
   {
     "id": 16,
-    "question": "Balance of Payments के current account में कौन-सी प्रविष्टियाँ शामिल होती हैं? / Which of the following are components of the current account in BoP?",
+    "question": "सुप्रीम कोर्ट द्वारा 'Judicial Review' का क्या मतलब है? / What does 'judicial review' by the Supreme Court mean?",
     "options": {
-      "A": "वस्तु और सेवाओं का व्यापार (Trade in goods and services)",
-      "B": "प्राथमिक आय (Primary income: wages, investment income)",
-      "C": "पूँजी आय (Capital transfers)",
-      "D": "विविध चालू स्थानान्तरण (Current transfers like remittances, gifts)"
+      "A": "कानूनों और सरकारी कृत्यों की संवैधानिकता की समीक्षा करने का अधिकार",
+      "B": "Parliament द्वारा पारित सभी कानून अपने आप वैध हैं",
+      "C": "Supreme Court ही संविधान को लिखता है",
+      "D": "Supreme Court सरकार के निर्णयों का अनुपालन सुनिश्चित नहीं कर सकता"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Current account में merchandise trade, services, primary income और current transfers (remittances, grants) आते हैं; capital transfers capital account का हिस्सा होते हैं। / The current account covers goods & services, primary income and current transfers; capital transfers belong to the capital account."
+    "answer": ["A"],
+    "explanation": "Judicial review का आशय है कि सर्वोच्च/उच्च न्यायालय यह जाँच सकते हैं कि क्या कोई विधान या सरकारी कार्य संविधान के अनुरूप है; यदि नहीं तो उसे रद्द किया जा सकता है। / Judicial review permits courts to test laws and executive acts for constitutionality and strike down unconstitutional ones."
   },
   {
     "id": 17,
-    "question": "Phillips curve किस संबंध को दर्शाती है? / The Phillips curve illustrates which relationship?",
+    "question": "भारतीय संविधान में 'Single Citizenship' का प्रावधान किस प्रकार है? / What is the provision for 'Single Citizenship' in the Indian Constitution?",
     "options": {
-      "A": "मुद्रास्फीति और बेरोजगारी का उल्टा सम्बन्ध (inverse relation between inflation and unemployment)",
-      "B": "मुद्रास्फीति और आर्थिक वृद्धि का सकारात्मक सम्बन्ध (positive relation between inflation and growth)",
-      "C": "ब्याज दर और निवेश का सम्बन्ध (interest rate - investment relationship)",
-      "D": "मुद्रा आपूर्ति और रोजगार का सीधा सम्बन्ध (money supply - employment direct relation)"
+      "A": "All citizens have single citizenship of India (No dual state-citizenship)",
+      "B": "Citizenship varies state-wise like USA",
+      "C": "Dual citizenship with states allowed",
+      "D": "Separate citizenship for Union Territories"
     },
     "answer": ["A"],
-    "explanation": "क्लासिकल Phillips curve शॉर्ट-रन में मुद्रास्फीति और बेरोजगारी के उल्टे सम्बन्ध को दर्शाता है; दीर्घकाल में यह स्थिर नहीं रहता (expectations-adjusted view)। / The original Phillips curve shows a short-run inverse relationship between inflation and unemployment; in the long run expectations adjust and the tradeoff disappears."
+    "explanation": "भारतीय संविधान एकल नागरिकता व्यवस्था अपनाता है — सभी नागरिक भारत के ही नागरिक माने जाते हैं; राज्य-स्तरीय दोहरी नागरिकता व्यवस्था नहीं है। / India follows single citizenship: an individual is a citizen of India, not of a state separately."
   },
   {
     "id": 18,
-    "question": "मनी सप्लाई के मापन में M1, M2, M3 आदि को परिभाषित करते समय किन प्रविष्टियों को शामिल किया जाता है? (भारत के संदर्भ में) / Regarding money supply measures (India), which items are included in broader aggregates like M3?",
+    "question": "राज्यपाल (Governor) के पास किस तरह का शासनादेश (discretionary power) हो सकता है? / Governor may exercise which type of discretionary power?",
     "options": {
-      "A": "Currency with the public",
-      "B": "Demand deposits with banks",
-      "C": "Time deposits (term deposits) with banks",
-      "D": "केवल सरकारी मुद्रा प्रिंटिंग (only government money printing)"
+      "A": "जब किसी पार्टी को स्पष्ट बहुमत न हो तब CM नियुक्त करना",
+      "B": "सर्वदा राज्य की किसी नीति को बदल देना",
+      "C": "Supreme Court की जगह निर्णय देना",
+      "D": "कानून बनाना बिना विधानसभा के सहमति के"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "M3 (broad money) में currency with public + demand deposits + time deposits शामिल होते हैं (स्थानीक परिभाषाओं के अनुरूप)। विकल्प D व्यर्थ/गलत है। / In India, M3 includes currency with public, demand deposits and time/term deposits — it is the broad money aggregate."
+    "answer": ["A"],
+    "explanation": "Governor के पास विवश परिस्थितियों में discretionary power होती है — जैसे जब कोई पार्टी स्पष्ट बहुमत न दिखाती हो तो CM नियुक्ति का निर्णय; पर सामान्य कानून-निर्माण/न्यायिक भूमिकाएँ उनके अधिकार क्षेत्र में नहीं। / The Governor has limited discretionary powers e.g., in appointing a CM when no clear majority exists."
   },
   {
     "id": 19,
-    "question": "निम्न में से कौन-से 'सुनिश्चित-निर्यात (export promotion)' नीतियों के उदाहरण हैं? / Which of the following are examples of export promotion policies?",
+    "question": "Article 356 (President's Rule) लागू करने का मूल आधार क्या है? / What is the basic ground for imposing Article 356 (President's Rule)?",
     "options": {
-      "A": "निर्यात सब्सिडी (export subsidies)",
-      "B": "कर में छूट (tax incentives)",
-      "C": "उच्च आयात टैरिफ सतह (raising import tariffs substantially)",
-      "D": "निर्यात-प्रोत्साहन वाली बुनियादी ढाँचा निवेश योजनाएँ (infrastructure investment for exports)"
+      "A": "Failure of constitutional machinery in a state",
+      "B": "Financial emergency only",
+      "C": "High inflation",
+      "D": "Supreme Court के निर्देश"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Export promotion में subsidies, tax incentives और बुनियादी ढाँचा निवेश प्रमुख हैं; सिर्फ़ टैरिफ बढ़ाना protectionist नीति है, सीधे export promotion नहीं। / Export promotion includes export subsidies, tax incentives and infrastructure investment; raising import tariffs is protectionist rather than a direct export support."
+    "answer": ["A"],
+    "explanation": "Article 356 का उपयोग उस स्थिति में किया जा सकता है जहाँ राज्य में संवैधानिक मशीनरी विफल हो (failure of constitutional machinery) — यह राष्ट्रपति के निर्णय पर प्रदेश के लिये लागू किया जाता है, पर इसे न्यायिक समीक्षा के दायरे में भी रखा जा चुका है। / Article 356 is invoked on the ground of failure of constitutional machinery in a State."
   },
   {
     "id": 20,
-    "question": "Unemployment के प्रकारों में से कौन-से सामान्यतः स्वीकार्य श्रेणियाँ हैं? / Which of the following are commonly accepted types of unemployment?",
+    "question": "निम्न में से कौन-से भारत में संविधान द्वारा स्वतंत्र चुनाव सुनिश्चित करने वाले हैं? / Which of the following ensure free elections in India under the Constitution?",
     "options": {
-      "A": "फ्रिक्शनल बेरोजगारी (Frictional unemployment)",
-      "B": "स्ट्रक्चरल बेरोजगारी (Structural unemployment)",
-      "C": "चक्रीय बेरोजगारी (Cyclical unemployment)",
-      "D": "मौसमी बेरोजगारी (Seasonal unemployment)"
+      "A": "Election Commission of India (ECI)",
+      "B": "Delimitation Commission",
+      "C": "State Police under direct political control",
+      "D": "Model Code of Conduct (statutory)"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "Frictional, structural, cyclical और seasonal — ये सभी unemployment के मान्य प्रकार हैं और नीति निर्माण में अलग-अलग अर्थ रखते हैं। / All four — frictional, structural, cyclical and seasonal unemployment — are standard categories used in labour economics."
+    "answer": ["A", "B"],
+    "explanation": "ECI (Article 324) स्वतंत्र चुनाव कराने का संवैधानिक प्राधिकरण है; Delimitation Commission निर्वाचन क्षेत्रों के विनिर्धारण में भूमिका निभाता है। राज्य पुलिस का राजनीतिक नियंत्रण या Model Code का statutory दर्जा संविधानिक सुरक्षा के रूप में मानक नहीं हैं। / ECI and Delimitation Commission are constitutional/statutory mechanisms to preserve fair elections."
   },
   {
     "id": 21,
-    "question": "Fixed exchange rate, floating exchange rate और managed float में से भारत का वर्तमान (operational) विनिमय दर व्यवस्था को किस श्रेणी में रखा जा सकता है? / India’s exchange rate regime is best described as which of the following?",
+    "question": "नियमितीय लोकसभा की अधिकतम सदस्य संख्या कितनी निर्धारित है? / What is the maximum number of elected members of the Lok Sabha?",
     "options": {
-      "A": "पूर्ण रूप से fixed/pegged (fully fixed/pegged)",
-      "B": "पूरी तरह से free float (completely free float)",
-      "C": "managed float (managed floating exchange rate)",
-      "D": "currency board system"
+      "A": "543 elected seats",
+      "B": "552 elected seats",
+      "C": "500 elected seats",
+      "D": "600 elected seats"
     },
-    "answer": ["C"],
-    "explanation": "भारत का रिज़र्व बैंक बहुधा 'managed/dirty float' का उपयोग करता है — बाजार-आधारित, पर RBI हस्तक्षेप कर सकता है जब आवश्यक हो। / India operates a managed (dirty) float: market-determined exchange rate with occasional central bank intervention."
+    "answer": ["A"],
+    "explanation": "लोकसभा में सामान्यतः 543 निर्वाचित सदस्य होते हैं; कुछ अतिरिक्त nominated seats पहले Anglo-Indian के लिये थीं पर वे हट चुकी हैं; समग्र रूप से लोकसभा की निर्वाचित संख्या 543 पर आधारित है। / Lok Sabha has 543 elected seats (Anglo-Indian nominated seats earlier existed but have been abolished)."
   },
   {
     "id": 22,
-    "question": "Market Stabilisation Scheme (MSS) का उद्देश्य क्या है? / What is the purpose of the Market Stabilisation Scheme (MSS)?",
+    "question": "Rajya Sabha की अधिकतम सीटों की संख्या क्या है (maximum strength)? / What is the maximum strength (membership) of the Rajya Sabha?",
     "options": {
-      "A": "सरकार के राजस्व बढ़ाने के लिए नए कर लगाना - impose new taxes to increase revenue",
-      "B": "RBI की तरलता अवशोषण हेतु विशेष सिक्योरिटीज़ जारी करना - RBI issues special securities to absorb liquidity",
-      "C": "मुद्रा स्फीति को सीधे नियंत्रित करने के लिए मूल्य नियंत्रण - price controls to curb inflation",
-      "D": "बैंकिंग नियमों को सख्त करना - tighten banking regulations"
+      "A": "245 (233 elected + 12 nominated)",
+      "B": "250 (238 elected + 12 nominated)",
+      "C": "200",
+      "D": "300"
     },
-    "answer": ["B"],
-    "explanation": "MSS के तहत RBI/गवर्नमेंट विशेष सिक्योरिटीज़ जारी कर शॉर्ट-टर्म तरलता को स्टेरिलाइज़ कर सकते हैं; यह फिस्कल-मैनेजमेंट का उपकरण नहीं बल्कि liquidity management का है। / MSS issues special government securities to sterilise excess liquidity; it’s a liquidity-management tool, not a direct tax or price control."
+    "answer": ["A"],
+    "explanation": "Rajya Sabha की वर्तमान अधिकतम सदस्य संख्या 245 है — 233 राज्य/केंद्रशासित प्रदेशों द्वारा निर्वाचित और 12 राष्ट्रपति द्वारा नामांकित। / Rajya Sabha's maximum membership is 245 (233 elected + 12 nominated)."
   },
   {
     "id": 23,
-    "question": "Index of Industrial Production (IIP) सामान्यतः किस बात का संकेत देता है? / What does the Index of Industrial Production (IIP) generally indicate?",
+    "question": "निम्नलिखित में से कौन-सा local self-government के संवैधानिक अधिकारों को सुदृढ़ करने वाला संशोधन था? / Which amendment strengthened constitutional status of local self-government?",
     "options": {
-      "A": "किसी अर्थव्यवस्था के औद्योगिक उत्पादन की मात्रा में परिवर्तन - Change in industrial production volume",
-      "B": "उपभोक्ता मूल्य स्तर (CPI) में परिवर्तन - Change in consumer price level",
-      "C": "कृषि उत्पादन का प्रत्यक्ष माप - Direct measure of agricultural output",
-      "D": "वित्तीय घाटे का प्रतिशत - Percentage fiscal deficit"
+      "A": "73rd Amendment",
+      "B": "74th Amendment",
+      "C": "42nd Amendment",
+      "D": "44th Amendment"
     },
-    "answer": ["A"],
-    "explanation": "IIP औद्योगिक गतिविधि (manufacturing, mining, electricity) में परिवर्तन का संकेत देता है; यह कीमतों का संकेतक नहीं है और न ही कृषि-विशिष्ट है। / IIP tracks changes in industrial production (manufacturing, mining, electricity) — it’s not a CPI or an agricultural measure."
+    "answer": ["A", "B"],
+    "explanation": "73वीं और 74वीं संविधान संशोधनों ने क्रमशः पंचायत राज और नगरीय local bodies को संवैधानिक दर्जा दिया और उन्हें विशिष्ट अधिकार व अनिवार्य संस्थागत संरचना प्रदान की। / The 73rd (Panchayats) and 74th (Municipalities) Amendments constitutionalised local self-government."
   },
   {
     "id": 24,
-    "question": "किसी अर्थव्यवस्था में 'current account deficit' का अर्थ क्या है? / What does a current account deficit imply for an economy?",
+    "question": "CAG (Comptroller and Auditor General) की नियुक्ति किस Article के तहत होती है और उसकी कार्यकाल/स्वतंत्रता का आश्रय किसमें है? / Under which Article is CAG appointed and what ensures his independence?",
     "options": {
-      "A": "देश आयातों के लिए निर्यातों से कम कमाई करता है और अंतर को पूँजी/ऋण से पूरा करता है - The country earns less from exports than it pays for imports and finances the gap by capital/borrowing",
-      "B": "सरकार का बजट अधिशेष (budget surplus) है - Government has a budget surplus",
-      "C": "रिज़र्व बैंक के पास विदेशी विनिमय भंडार हमेशा घटते रहते हैं - RBI forex reserves always decline",
-      "D": "वही देश अंतरराष्ट्रीय निवेश के लिए शुद्ध उधार लेने वाला (net borrower) बन सकता है - the country may be a net borrower internationally"
+      "A": "Article 148; secure tenure and service conditions",
+      "B": "Article 324; judicial appointment",
+      "C": "Article 310; direct control by PM",
+      "D": "Article 51A; fundamental duty"
     },
-    "answer": ["A", "D"],
-    "explanation": "Current account deficit का अर्थ है कि देश के nett imports exceed exports; यह अंतर पूंजी खाता/ऋण के जरिये फाइनेंस होता है और देश को शुद्ध उधारकर्ता बना सकता है। यह जरूरी नहीं कि forex reserves हमेशा घटें या कि सरकार का बजट surplus हो। / CAD means net payments to rest of world exceed receipts from trade & income; the gap is financed by capital inflows, making the country a net borrower — not necessarily implying reserves always fall or budget surplus."
+    "answer": ["A"],
+    "explanation": "CAG का प्रावधान Article 148 में है; उसकी नियुक्ति और सेवा-नियम स्वतंत्रता प्रदान करने के लिये संवैधानिक रूप से संरचित हैं ताकि वह सरकारी खातों का स्वतंत्र लेखापरीक्षण कर सके। / CAG is provided under Article 148; constitutional provisions secure his tenure and service conditions to ensure independence."
   },
   {
     "id": 25,
-    "question": "Fiscal rules जैसे FRBM Act का मूल उद्देश्य क्या रहा है? / What has been a primary objective of fiscal rules like the FRBM Act?",
+    "question": "निम्नलिखित में से कौन-सा constitutional remedy प्रदान करता है (Article 32 के अंर्तगत)? / Which of the following is provided as a constitutional remedy under Article 32?",
     "options": {
-      "A": "सरकारी कर्ज-GDP अनुपात को नियंत्रित/कम करना - Contain/reduce government debt-to-GDP",
-      "B": "कर दरों को हर साल बढ़ाना - Increase tax rates every year",
-      "C": "ट्रेज़री प्रबंधन और वित्तीय अनुशासन सुनिश्चित करना - Ensure treasury management and fiscal discipline",
-      "D": "मुद्रा प्रकाशन को नियंत्रित करना - Control money printing"
+      "A": "Writ of Habeas Corpus",
+      "B": "Writ of Mandamus",
+      "C": "Writ of Certiorari",
+      "D": "All of the above"
     },
-    "answer": ["A", "C"],
-    "explanation": "FRBM और समान नियमों का उद्देश्य सार्वजनिक वित्त में अनुशासन लाना, घाटे और कर्ज को नियंत्रित करना और दीर्घकालिक स्थिरता सुनिश्चित करना है; कर दर प्रति-वर्ष बढ़ाना उद्देश्य नहीं है। / FRBM aims at fiscal discipline — controlling deficits and public debt, and ensuring prudent treasury management; it does not mandate automatic tax hikes or direct monetary controls."
+    "answer": ["D"],
+    "explanation": "Article 32 सुप्रीम कोर्ट को मौलिक अधिकारों का संरक्षण करने हेतु writs जारी करने का अधिकार देता है — जैसे Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto। / Article 32 empowers SC to issue writs (Habeas Corpus, Mandamus, Certiorari, etc.) for enforcement of fundamental rights."
   },
   {
     "id": 26,
-    "question": "Government के non-tax revenue में क्या-क्या आते हैं? / Which of the following are examples of government non-tax revenue?",
+    "question": "निम्न में से कौन-से संविधान के संघीय स्वरूप को दर्शाते हैं? / Which of the following reflect the federal nature of the Constitution?",
     "options": {
-      "A": "डिविडेंड और लाभांश (Dividends and profits from public enterprises)",
-      "B": "सर्विस चार्ज/फ़ीस (fees and service charges)",
-      "C": "मोनेटरी कर (monetary tax) — जैसे income tax - Monetary taxes like income tax",
-      "D": "इंटरेस्ट प्राप्तियाँ (interest receipts)"
+      "A": "Dual polity with division of powers",
+      "B": "Single citizenship",
+      "C": "Independent judiciary with Supreme Court",
+      "D": "Strong unitary bias in emergencies"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Non-tax revenue में dividends, fees, interest receipts, penalties आदि आते हैं; income tax/other direct taxes tax-revenue श्रेणी में आते हैं। / Non-tax receipts include dividends, service fees and interest income; income tax is a tax (revenue) receipt, not non-tax revenue."
+    "answer": ["A", "C", "D"],
+    "explanation": "संविधान में संघ और राज्य के बीच विभाजन (dual polity) और स्वतंत्र न्यायपालिका संघीयता को दर्शाते हैं; पर कई प्रावधान (राष्ट्रीय आपतकालीन शक्तियाँ, residuary powers केंद्र को) में यूनिटरी झुकाव भी देखा जा सकता है। Single citizenship यूनिटरी पहलू को दर्शाता है पर यह संघीयता का विरोधाभासी पहलू है। / Division of powers & independent judiciary indicate federalism; emergency provisions and residuary powers show unitary bias too."
   },
   {
     "id": 27,
-    "question": "सामान्य आर्थिक नीति (macro policy) में 'फिस्कल स्टिमुलस' देने के कौन-से तरीके हैं? / Which of the following are ways to provide fiscal stimulus?",
+    "question": "न्यायपालिका की स्वतंत्रता सुनिश्चित करने के लिए किस प्रावधान ने न्यायाधीशों की नियुक्ति में बदलाव किया? / Which provision altered judges' appointment process to affect judicial independence?",
     "options": {
-      "A": "सरकारी खर्च में वृद्धि (increase government expenditure)",
-      "B": "टैक्स दरों में कटौती (reduce tax rates)",
-      "C": "ब्याज दरें कम करना (cut interest rates)",
-      "D": "परिवहन/लॉजिस्टिक्स में पूँजीगत निवेश बढ़ाना (raise public capital investment like transport/logistics)"
+      "A": "Collegium system (judicial appointments through judges' collegium)",
+      "B": "Executive-only appointments (President on aid & advice)",
+      "C": "Appointment by Parliament",
+      "D": "Direct election of judges"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Fiscal stimulus सरकारी खर्चीली कार्रवाई या कर-कटौती से आता है; ब्याज दरें मौद्रिक नीति का उपकरण हैं (RBI द्वारा नियंत्रित)। / Fiscal stimulus involves higher public spending, tax cuts or capital investments; lowering interest rates is monetary policy, not fiscal."
+    "answer": ["A"],
+    "explanation": "Collegium system ने उच्च न्यायालय/सुप्रीम कोर्ट की नियुक्तियों में न्यायपालिका की भूमिकाएँ सशक्त कीं — हालाँकि यह विधि-विवादित और न्यायिक प्रक्रिया के माध्यम से विकसित हुई है। / The collegium system emphasises judiciary's role in appointments, affecting judicial independence (though controversial & evolved via judgments)."
   },
   {
     "id": 28,
-    "question": "विकास के चरणों में 'structural transformation' का अर्थ क्या है? / What does 'structural transformation' in development typically refer to?",
+    "question": "निम्न में से कौन-सा Constitutional Body नहीं है? / Which of the following is NOT a Constitutional body?",
     "options": {
-      "A": "कृषि से औद्योगिक/सेवा क्षेत्रों में श्रम का हस्तांतरण - Shift of labour from agriculture to industry/services",
-      "B": "मुद्रास्फीति का अचानक बढ़ना - Sudden spike in inflation",
-      "C": "टेक्नोलॉजी द्वारा उत्पादकता में वृद्धि - Productivity gains through technology",
-      "D": "वार्षिक बजट-घाटे का स्वतः सुधार - Automatic correction of annual budget deficit"
+      "A": "NITI Aayog",
+      "B": "Election Commission of India",
+      "C": "Comptroller and Auditor General",
+      "D": "Union Public Service Commission"
     },
-    "answer": ["A", "C"],
-    "explanation": "Structural transformation में अक्सर कृषि से manufacturing/services में संसाधनों का शिफ्ट और productivity提升 आती है; inflation spike या automatic fiscal correction इसका पर्याय नहीं हैं। / Structural transformation typically means reallocation of labour from agriculture to industry/services along with productivity improvements via technology."
+    "answer": ["A"],
+    "explanation": "NITI Aayog एक statutory/administrative body है, यह Constitution में स्थापित नहीं है; ECI, CAG, UPSC संवैधानिक संस्थाएँ हैं। / NITI Aayog is not a constitutional body; ECI, CAG and UPSC are."
   },
   {
     "id": 29,
-    "question": "निम्न में से कौन-से 'विकासात्मक संकेतक' (development indicators) माने जाते हैं? / Which of the following are commonly used development indicators?",
+    "question": "Emergency provisions में 'Financial Emergency' किस Article के तहत आती है? / Under which Article is 'Financial Emergency' provided?",
     "options": {
-      "A": "Per capita income",
-      "B": "Human Development Index (HDI)",
-      "C": "Life expectancy at birth",
-      "D": "Number of stock exchanges"
+      "A": "Article 360",
+      "B": "Article 352",
+      "C": "Article 356",
+      "D": "Article 368"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Per capita income, HDI और life expectancy प्रमुख विकास संकेतक हैं; stock exchanges की संख्या विकास का सीधा सूचक नहीं मानी जाती। / Per capita income, HDI and life expectancy are standard development indicators; number of stock exchanges is not a standard development metric."
+    "answer": ["A"],
+    "explanation": "Financial Emergency का प्रावधान Article 360 में है; Article 352 राष्ट्रीय आपातकाल, Article 356 राज्य में राष्ट्रपति शासन से संबंध रखता है। / Financial Emergency is under Article 360; Article 352 is National Emergency and Article 356 is President's Rule."
   },
   {
     "id": 30,
-    "question": "Trade liberalisation के संभावित प्रभावों में कौन-से शामिल हो सकते हैं? / Which of the following may be potential effects of trade liberalisation?",
+    "question": "न्यायिक समीक्षा (Judicial Review) से जुड़े landmark निर्णय में से किसने basic structure doctrine स्थापित किया? / Which landmark case established the basic structure doctrine?",
     "options": {
-      "A": "उत्पादन की क्षमता में वृद्धि (increase in productive efficiency)",
-      "B": "कुछ घरेलू उद्योगों में अल्पकालिक नौकरी हानि (short-term job losses in some domestic sectors)",
-      "C": "पूरी तरह से असमानता का स्थायी समाप्ति (permanent elimination of inequality)",
-      "D": "उत्पादों की कीमतों में कमी संभावित (possible reduction in prices of imported competing goods)"
+      "A": "Kesavananda Bharati v. State of Kerala",
+      "B": "Golaknath v. State of Punjab",
+      "C": "Minerva Mills v. Union of India",
+      "D": "S.R. Bommai v. Union of India"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Trade liberalisation से efficiency और प्रतिस्पर्धा बढ़ सकती है, कीमतें घट सकती हैं पर साथ ही अल्पकालिक संरचनात्मक नौकरियों में कमी हो सकती है; असमानता का स्वतः समाप्त होना यथार्थवादी अपेक्षा नहीं है। / Liberalisation can boost efficiency, reduce prices and cause short-term job displacement in uncompetitive sectors; it does not guarantee permanent elimination of inequality."
+    "answer": ["A"],
+    "explanation": "Kesavananda Bharati (1973) का निर्णय basic-structure doctrine के लिये प्रसिद्ध है; किन्तु बाद के मामलों (Minerva Mills आदि) ने इसे सुदृढ़ किया। / Kesavananda Bharati is the seminal case that articulated the basic-structure doctrine (later reinforced by cases like Minerva Mills)."
   },
   {
     "id": 31,
-    "question": "Monetary transmission mechanism में कौन-से चैनल सामान्यतः शामिल माने जाते हैं? / Which of the following are commonly considered channels of monetary transmission?",
+    "question": "Article 32 और Article 226 में क्या अंतर है? / What is the difference between Article 32 and Article 226?",
     "options": {
-      "A": "बेनिफिट-कर्ज/बैंक-लेंडिंग दरों के माध्यम से (interest rate channel via bank lending rates)",
-      "B": "आस्तियों/शेयर-प्राइस चैनल (asset price / equity channel)",
-      "C": "विनिमय-दर चैनल (exchange rate channel)",
-      "D": "सरकारी नियमों के माध्यम से direct tax changes (direct tax changes via government rules)"
+      "A": "Article 32 — Remedy before Supreme Court; Article 226 — Writ jurisdiction of High Courts",
+      "B": "Article 32 — High Courts का अधिकार; Article 226 — Supreme Court का अधिकार",
+      "C": "दोनों एक ही हैं, कोई भेद नहीं",
+      "D": "Article 32 केवल राज्यों के लिये है"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Monetary transmission में interest rate channel, asset prices, exchange rate तथा credit channels प्रमुख हैं। Direct tax changes fiscal action हैं, monetary transmission का हिस्सा नहीं। / Transmission works via interest rates, asset prices, exchange rates and credit; tax policy is fiscal, not a monetary transmission channel."
+    "answer": ["A"],
+    "explanation": "Article 32 सुप्रीम कोर्ट के समक्ष मौलिक अधिकारों की रक्षा हेतु प्रत्यक्ष राहत देता है; Article 226 उच्च न्यायालयों को भी writ जारी करने की व्यापक शक्ति देता है। / Article 32 provides remedy in SC; Article 226 empowers High Courts to issue writs."
   },
   {
     "id": 32,
-    "question": "निम्न में से कौन-से वस्तु/से GST के दायरे से बाहर आते हैं (India context)? / Which of the following are typically outside the scope of GST in India?",
+    "question": "Reservation in public employment for SC/ST का constitutional आधार किसमें है? / What is the constitutional basis for reservation for SC/ST in public employment?",
     "options": {
-      "A": "मानव उपयोग के लिए शराब (alcohol for human consumption)",
-      "B": "इलेक्ट्रिसिटी (electricity)",
-      "C": "कच्चे खाद्यान्न (certain agricultural produce at farm-gate)",
-      "D": "इन्फोटेनमेंट सेवाएँ (infotainment services)"
+      "A": "Article 16(4)",
+      "B": "Article 15(1)",
+      "C": "Article 370",
+      "D": "Article 352"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "भारत में शराब (human consumption) और बिजली आमतौर पर GST के बाहर रखे गए हैं; कुछ प्राथमिक कृषि वस्तुएँ भी GST से बाहर हो सकती हैं। infotainment/services सामान्यतः GST के अंतर्गत आते हैं। / Alcohol for human consumption and electricity are typically outside GST in India; many raw agricultural produce at farm-gate are also outside GST, while services fall under GST."
+    "answer": ["A"],
+    "explanation": "Article 16(4) संसद/राज्य को अनुमति देता है कि वे किसी वर्ग के पिछड़ेपन के निवारण हेतु प्रावधान कर सकें — यही सार्वजनिक सेवा में आरक्षण का आधार है; Article 15(4) भी शिक्षा में आरक्षण से जुड़ा प्रावधान देता है। / Article 16(4) allows state to make reservation in public employment for backward classes including SC/ST."
   },
   {
     "id": 33,
-    "question": "Price index के रूप में 'GDP deflator' को कैसे परिभाषित किया जाता है? / How is the GDP deflator defined as a price index?",
+    "question": "निम्न में से कौन-सा संवैधानिक लेखा-परीक्षक (Auditor) है जो केंद्र/राज्य के_accounts_ की रिपोर्ट करता है? / Which constitutional auditor reports on Union/State accounts?",
     "options": {
-      "A": "Nominal GDP ÷ Real GDP × 100",
-      "B": "CPI ÷ WPI × 100",
-      "C": "Exports ÷ Imports × 100",
-      "D": "Money supply ÷ GDP × 100"
+      "A": "Comptroller and Auditor General (CAG)",
+      "B": "Controller of Accounts",
+      "C": "Finance Secretary",
+      "D": "State Audit Bureau"
     },
     "answer": ["A"],
-    "explanation": "GDP deflator = (Nominal GDP / Real GDP) × 100; यह अर्थव्यवस्था-व्यापी price level का एक सूचक है। अन्य विकल्प परिभाषात्मक गलत हैं। / The GDP deflator is (Nominal GDP / Real GDP) × 100 — a broad measure of price level for the whole economy."
+    "explanation": "CAG संवैधानिक ऑडिटर है जो संघ और राज्यों के खातों का लेखा-परीक्षण करता है और संसद/विधानसभाओं के समक्ष रिपोर्ट प्रस्तुत करता है। / The CAG audits Union and State accounts and submits reports to the legislatures."
   },
   {
     "id": 34,
-    "question": "Which of the following are characteristics of a 'liquidity trap'? / 'Liquidity trap' की कौन-सी विशेषताएँ हैं?",
+    "question": "नीचे दिए गए में से किन संस्थाओं की नियुक्ति में President की भूमिका संवैधानिक रूप से निहित है? / President constitutionally plays a role in appointment of which of the following?",
     "options": {
-      "A": "ब्याज दर बहुत कम होती है और monetary policy प्रभावहीन हो जाती है - Very low interest rates making monetary policy ineffective",
-      "B": "लोग नकद धारण करना पसंद करते हैं, bond yields गिरती हैं - Preference for cash, bond yields low",
-      "C": "फिस्कल नीति का असर कम होता है - Fiscal policy becomes ineffective",
-      "D": "मुद्रास्फीति तीव्रता से बढ़ती है (runaway inflation)"
+      "A": "Chief Justice of India (CJI)",
+      "B": "Comptroller and Auditor General (CAG)",
+      "C": "Chief Election Commissioner (CEC)",
+      "D": "All of the above"
     },
-    "answer": ["A", "B"],
-    "explanation": "Liquidity trap वह स्थिति है जहाँ nominal rates नज़दीक-शून्य हों और लोग नकद रखने को तरजीह दें; इस अवस्था में monetary easing कम प्रभावी होती है। runaway inflation इसका симптом नहीं है। / In a liquidity trap, interest rates are very low and monetary policy may lose traction as agents prefer cash; runaway inflation is not characteristic of a liquidity trap."
+    "answer": ["D"],
+    "explanation": "राष्ट्रपति संवैधानिक पदों—CJI (formal appointment), CAG, CEC आदि की नियुक्ति करता है; वास्तविक चयन प्रक्रिया में परामर्श और अन्य नियम संलग्न होते हैं। / The President appoints CJI, CAG, CEC etc., though consultations and conventions guide the actual selections."
   },
   {
     "id": 35,
-    "question": "Supply-side policies में से कौन-से उदहारण हैं? / Which of the following are examples of supply-side policies?",
+    "question": "निम्न में से कौन-से संस्थाएँ संविधान के अंतर्गत स्वतंत्र लोक सेवाएँ नियुक्त करती हैं (समिति/संस्थानों) — UPSC के अलावा? / Besides UPSC, which bodies are statutorily/constitutionally involved in public service recruitments?",
     "options": {
-      "A": "Tax incentives for investment",
-      "B": "Labour market reforms to increase flexibility",
-      "C": "Direct cash transfers to boost short-term demand",
-      "D": "Investment in transport and power infrastructure"
+      "A": "State Public Service Commissions (SPSC/PSC)",
+      "B": "High Court-backed recruitment commissions",
+      "C": "Municipal Corporations directly",
+      "D": "All India Judicial Service (not yet instituted)"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Supply-side policies aim at उत्पादन क्षमता बढ़ाने: tax incentives, labour reforms, infrastructure investment आदि। Direct cash transfers demand-side उपाय हैं। / Supply-side actions include tax incentives, labour reforms and capital infrastructure spending; direct cash transfers are demand management."
+    "answer": ["A"],
+    "explanation": "राज्य लोक सेवा आयोग (State PSC) संविधान (Article 315 onward) द्वारा मान्यता प्राप्त हैं; All India Judicial Service प्रस्तावित/विवादित है पर अभी लागू नहीं। Municipal corporations की नियुक्तियाँ आमतौर पर स्थानीय व्यवस्थाओं के तहत होती हैं। / State PSCs are constitutional bodies; All-India Judicial Service is not yet established as a constitutional reality."
   },
   {
     "id": 36,
-    "question": "निम्न में से कौन-से सार्वजनिक आर्थिक संकेतक (public finance indicators) हैं? / Which of the following are public finance indicators?",
+    "question": "निम्न में से कौन-सा 'विधायी कार्य' (Legislative procedure) का भाग नहीं है? / Which of the following is NOT part of legislative procedure?",
     "options": {
-      "A": "Revenue deficit",
-      "B": "Primary surplus/deficit",
-      "C": "Current account balance of the country",
-      "D": "Debt-to-GDP ratio of government"
+      "A": "Bill का पारित होना (Passage of Bill in both Houses, where applicable)",
+      "B": "President का assent देना (President's assent)",
+      "C": "Supreme Court का स्वत: संसद द्वारा विधेयक का ड्राफ्ट तैयार करना (SC drafts bills automatically)",
+      "D": "वितीय बिल (Money Bill) के लिए विशेष प्रक्रिया"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Revenue deficit, primary balance and debt-to-GDP ratio सरकार के सार्वजनिक वित्त के संकेतक हैं; current account balance एक बाह्य-मकैनिक संकेतक है (external sector)। / Revenue deficit, primary balance and government debt/GDP are fiscal indicators; current account is an external sector indicator."
+    "answer": ["C"],
+    "explanation": "Supreme Court संसद का स्वचालित ड्राफ्ट नहीं तैयार करता; संसद में विधेयक पेश, पारित और राष्ट्रपति की स्वीकृति के बाद अधिनियम बनते हैं; Money Bill का अपना विशेष प्रक्रिया है। / The SC does not draft bills; legislation requires passage and Presidential assent; Money Bills follow a special route via Lok Sabha."
   },
   {
     "id": 37,
-    "question": "Which of the following are examples of capital formation? / निम्न में से कौन-से पूँजी निर्माण (capital formation) के उदाहरण हैं?",
+    "question": "निम्न में से कौन-सा कथन संवैधानिक आपातकाल (Article 352) के बारे में सही है? / Which statement about National Emergency (Article 352) is correct?",
     "options": {
-      "A": "नई मशीनरी में निवेश (investment in new machinery)",
-      "B": "सड़क/पुल जैसे सार्वजनिक अवसंरचना निर्माण (public infrastructure construction)",
-      "C": "सरकारी सामाजिक सुरक्षा के लिए चल रही भुगतान (current social security payments)",
-      "D": "नैसर्गिक पूँजी (natural capital) में स्थायी नुकसान (permanent depletion of natural capital)"
+      "A": "President केवल युद्ध/बाहरी आक्रमण/आर्म्ड रिबेलियन पर राष्ट्रीय आपातकाल घोषित कर सकता है",
+      "B": "National Emergency में मौलिक अधिकारों का कुछ हिस्से निलम्बरित हो सकते हैं",
+      "C": "Article 352 के तहत राज्य सरकार स्वतः प्रभावशाली बन जाती है",
+      "D": "National Emergency हमेशा अनिश्चित अवधि के लिये लागू रहता है"
     },
     "answer": ["A", "B"],
-    "explanation": "Gross fixed capital formation में नए निवेश (machines, infrastructure) शामिल होते हैं; current transfers और natural capital depletion capital formation नहीं माने जाते। / New investment in machinery and public infrastructure are capital formation; current transfers and depletion of natural capital are not."
+    "explanation": "Article 352 के अनुसार राष्ट्रपति युद्ध, बाहरी आक्रमण या आर्म्ड रिबेलियन के कारण राष्ट्रीय आपातकाल की घोषणा कर सकता है; कुछ मौलिक अधिकार (जैसे Article 19) suspend किए जा सकते हैं; पर यह स्वत: अनिश्चित अवधि का नहीं है और राज्य सरकारें शिथिल/निश्चित व्यवस्थाओं के अधीन आती हैं, पर स्वत: नहीं। / President can proclaim National Emergency on war/external aggression/armed rebellion; certain fundamental rights may be suspended."
   },
   {
     "id": 38,
-    "question": "Which of the following are typical objectives of a central bank like RBI? / निम्न में से किसे केंद्रीय बैंक (जैसे RBI) का उद्देश्य माना जाता है?",
+    "question": "निम्नलिखित में से कौन-सा Constitutional Amendment पारित करने का आवश्यक मत (majority) है जब सामान्य मामला हो (not requiring state ratification)? / Which majority is required for passing a constitutional amendment (not requiring state ratification)?",
     "options": {
-      "A": "मूल्य-स्थिरता (price stability / control inflation)",
-      "B": "पूर्ण-रोज़गार-सुनिश्चित करना (ensure full employment at all times)",
-      "C": "मौद्रिक नीति के माध्यम से आर्थिक विकास का समर्थन (support economic growth via monetary policy)",
-      "D": "बैंकों का नियमन और वित्तीय स्थिरता (bank regulation & financial stability)"
+      "A": "Simple majority of members present and voting",
+      "B": "Absolute majority of total membership of each House + two-thirds of members present and voting",
+      "C": "Unanimous approval of both Houses",
+      "D": "Majority of state legislatures"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "Central bank के उद्देश्य मूल्य-स्थिरता, आर्थिक वृद्धि का समर्थन और बैंकिंग/वित्तीय स्थिरता को सुनिश्चित करना होते हैं। सुनिश्चित पूर्ण-रोज़गार सरकार की व्यापक आर्थिक नीति का लक्ष्य हो सकता है पर यह केंद्रीय बैंक का अकेला उद्देश्य नहीं होता। / RBI aims for price stability, to support growth via monetary policy and ensure financial stability/regulation. Full employment is a broader macro objective, not solely the central bank's."
+    "answer": ["B"],
+    "explanation": "आम तौर पर संविधान संशोधन के लिये आवश्यक है — House की कुल सदस्य संख्या की साधारण बहुमत (absolute majority) और उपस्थित सदस्यों के दो-तिहाई (2/3) का समर्थन। कुछ विशेष मामलों में राज्य विधानसभाओं की रैटीफिकेशन भी माँगी जाती है। / Amendment normally needs an absolute majority of total membership plus two-thirds of members present and voting in each House."
   },
   {
     "id": 39,
-    "question": "Agricultural support में 'direct income support' के कौन-से उदाहरण आते हैं? / Which of the following are examples of direct income support for agriculture?",
+    "question": "निम्न में से किसे संविधान का 'मौलिक उद्देश्य' (basic objective) माना जाता है? / Which of the following can be called a basic objective of the Constitution?",
     "options": {
-      "A": "PM-KISAN scheme (direct payments to farmers)",
-      "B": "फर्टिलाइज़र सब्सिडी (fertilizer subsidy paid at source to manufacturers)",
-      "C": "किसान क्रेडिट कार्ड पर ऋण (loans via KCC)",
-      "D": "Minimum Support Price (MSP) procurement payments"
+      "A": "Establishment of Social Justice",
+      "B": "Protection of individual liberty and rule of law",
+      "C": "Centralisation of all powers in the executive without checks",
+      "D": "Promotion of welfare state and democratic governance"
     },
-    "answer": ["A", "D"],
-    "explanation": "PM-KISAN जैसे schemes और MSP-based procurement farmers को सीधे आय समर्थन दे सकते हैं; fertilizer subsidy अक्सर input subsidy है और loan KCC credit instrument है, direct income transfer नहीं। / PM-KISAN and MSP procurement provide direct income support; input subsidies and credit facilities are different policy instruments."
+    "answer": ["A", "B", "D"],
+    "explanation": "संविधान का मूल उद्देश्य सामाजिक-न्याय, व्यक्तिगत स्वतंत्रता तथा लोकतांत्रिक व कल्याणकारी शासन की स्थापना है; पुरी तरह से Executive का एकतरफा केंद्रीकरण इसका उद्देश्य नहीं है। / The Constitution aims at social justice, individual liberty, democratic & welfare governance — not unchecked executive centralisation."
   },
   {
     "id": 40,
-    "question": "Employment elasticity of growth किसे मापता है? / What does employment elasticity of growth measure?",
+    "question": "निम्नलिखित में से कौन-सा 'Schedules' की संख्या के बारे में सही है? / Which of the following about number of Schedules in the Constitution is correct?",
     "options": {
-      "A": "किसी अर्थव्यवस्था में प्रति-वर्ष रोजगार परिवर्तन का प्रतिशत / GDP वृद्धि के प्रतिशत के साथ अनुपात - % change in employment relative to % change in output (GDP)",
-      "B": "सरकार के कर-संग्रह की लचीलापनता - Elasticity of government tax revenue",
-      "C": "मुद्रा आपूर्ति के प्रति बेरोजगारी की संवेदनशीलता - Sensitivity of unemployment to money supply",
-      "D": "श्रमिकों की औसत आय में परिवर्तन की दर - Rate of change of average wages"
+      "A": "आज संविधान में 8 Schedules हैं",
+      "B": "आज संविधान में 12 Schedules हैं",
+      "C": "Schedules की संख्या समय के साथ बदली नहीं है",
+      "D": "Schedules केवल Part I का हिस्सा हैं"
+    },
+    "answer": ["B"],
+    "explanation": "आज (current Constitution) में कुल 12 Schedules हैं — संविधान के प्रारम्भिक संस्करण में 8 थीं; समय के साथ संशोधनों द्वारा Schedules की संख्या बदली है। / Currently there are 12 Schedules in the Constitution (originally 8, increased by later amendments)."
+  },
+  {
+    "id": 41,
+    "question": "भारत में संविधान सभा की कार्यवाही किस भाषा में संचालित होती थी? / In which language were the proceedings of the Constituent Assembly of India conducted?",
+    "options": {
+      "A": "अंग्रेज़ी (English)",
+      "B": "हिन्दी (Hindi)",
+      "C": "उर्दू (Urdu)",
+      "D": "संस्कृत (Sanskrit)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "संविधान सभा की कार्यवाही मुख्यतः अंग्रेज़ी और हिंदी दोनों भाषाओं में होती थी। संविधान के अंतिम रूप को अंग्रेज़ी और हिंदी दोनों में प्रमाणित किया गया।"
+  },
+  {
+    "id": 42,
+    "question": "भारत के संविधान की प्रस्तावना में प्रयुक्त 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द कब जोड़े गए थे? / The words 'Socialist' and 'Secular' in the Preamble of the Indian Constitution were added by which amendment?",
+    "options": {
+      "A": "42वां संशोधन (42nd Amendment)",
+      "B": "44वां संशोधन (44th Amendment)",
+      "C": "24वां संशोधन (24th Amendment)",
+      "D": "61वां संशोधन (61st Amendment)"
     },
     "answer": ["A"],
-    "explanation": "Employment elasticity = (% change in employment) / (% change in output) — यह बताता है कि एक इकाई GDP वृद्धि कितनी नई नौकरियाँ पैदा कर रही है। अन्य विकल्प अर्थगत परिभाषा से अलग हैं। / Employment elasticity = percentage change in employment divided by percentage change in output (GDP), indicating job-creating intensity of growth."
+    "explanation": "1976 में 42वें संशोधन द्वारा प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द जोड़े गए।"
+  },
+  {
+    "id": 43,
+    "question": "निम्न में से कौन सा अधिकार आपातकाल के दौरान भी निलंबित नहीं किया जा सकता? / Which of the following rights cannot be suspended even during Emergency?",
+    "options": {
+      "A": "अनुच्छेद 20 (Article 20)",
+      "B": "अनुच्छेद 21 (Article 21)",
+      "C": "अनुच्छेद 19 (Article 19)",
+      "D": "अनुच्छेद 22 (Article 22)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अनुच्छेद 20 (दंडाधिकार से संरक्षण) और अनुच्छेद 21 (जीवन और व्यक्तिगत स्वतंत्रता का अधिकार) आपातकाल में भी निलंबित नहीं किए जा सकते।"
+  },
+  {
+    "id": 44,
+    "question": "भारतीय संविधान की संघीय विशेषताओं में कौन-कौन सी शामिल हैं? / Which of the following are included in the federal features of the Indian Constitution?",
+    "options": {
+      "A": "दोहरी सरकार (Dual Government)",
+      "B": "संविधान की सर्वोच्चता (Supremacy of Constitution)",
+      "C": "संविधान की कठोरता (Rigidity of Constitution)",
+      "D": "एकल नागरिकता (Single Citizenship)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "भारतीय संविधान में संघीय विशेषताएँ जैसे - दोहरी सरकार, संविधान की सर्वोच्चता, और आंशिक कठोरता शामिल हैं। लेकिन एकल नागरिकता एकात्मक विशेषता है।"
+  },
+  {
+    "id": 45,
+    "question": "भारत में राष्ट्रपति पद हेतु न्यूनतम आयु क्या है? / What is the minimum age to be eligible for the post of President of India?",
+    "options": {
+      "A": "25 वर्ष (25 years)",
+      "B": "30 वर्ष (30 years)",
+      "C": "35 वर्ष (35 years)",
+      "D": "40 वर्ष (40 years)"
+    },
+    "answer": ["C"],
+    "explanation": "भारत का राष्ट्रपति बनने के लिए उम्मीदवार की न्यूनतम आयु 35 वर्ष निर्धारित है।"
+  },
+  {
+    "id": 46,
+    "question": "भारत में मौलिक कर्तव्यों को किस अनुच्छेद में सम्मिलित किया गया है? / Fundamental Duties are incorporated under which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 32 (Article 32)",
+      "B": "अनुच्छेद 51A (Article 51A)",
+      "C": "अनुच्छेद 21 (Article 21)",
+      "D": "अनुच्छेद 14 (Article 14)"
+    },
+    "answer": ["B"],
+    "explanation": "42वें संशोधन (1976) द्वारा मौलिक कर्तव्यों को संविधान में अनुच्छेद 51A के तहत जोड़ा गया।"
+  },
+  {
+    "id": 47,
+    "question": "संविधान सभा की प्रारंभिक बैठक कब हुई थी? / When did the first meeting of the Constituent Assembly take place?",
+    "options": {
+      "A": "6 दिसम्बर 1946",
+      "B": "9 दिसम्बर 1946",
+      "C": "26 जनवरी 1947",
+      "D": "15 अगस्त 1947"
+    },
+    "answer": ["B"],
+    "explanation": "संविधान सभा की प्रथम बैठक 9 दिसम्बर 1946 को हुई थी।"
+  },
+  {
+    "id": 48,
+    "question": "भारत का संविधान कब लागू हुआ? / When did the Constitution of India come into effect?",
+    "options": {
+      "A": "26 जनवरी 1949",
+      "B": "26 नवम्बर 1949",
+      "C": "26 जनवरी 1950",
+      "D": "15 अगस्त 1947"
+    },
+    "answer": ["C"],
+    "explanation": "संविधान 26 जनवरी 1950 को लागू हुआ। इसे 26 नवम्बर 1949 को अंगीकृत किया गया था।"
+  },
+  {
+    "id": 49,
+    "question": "भारतीय संविधान की प्रस्तावना किस न्यायालय के निर्णय द्वारा संविधान का अभिन्न हिस्सा मानी गई? / The Preamble of the Indian Constitution was considered as an integral part of the Constitution by which judgement?",
+    "options": {
+      "A": "बेरूबारी केस (1960)",
+      "B": "केशवानंद भारती केस (1973)",
+      "C": "मिनर्वा मिल्स केस (1980)",
+      "D": "गोलकनाथ केस (1967)"
+    },
+    "answer": ["B"],
+    "explanation": "केशवानंद भारती केस (1973) में सर्वोच्च न्यायालय ने प्रस्तावना को संविधान का अभिन्न अंग माना।"
+  },
+  {
+    "id": 50,
+    "question": "भारत में वित्त आयोग की स्थापना किस अनुच्छेद के तहत की गई है? / Under which Article of the Constitution is the Finance Commission of India established?",
+    "options": {
+      "A": "अनुच्छेद 148 (Article 148)",
+      "B": "अनुच्छेद 280 (Article 280)",
+      "C": "अनुच्छेद 324 (Article 324)",
+      "D": "अनुच्छेद 368 (Article 368)"
+    },
+    "answer": ["B"],
+    "explanation": "भारत का वित्त आयोग अनुच्छेद 280 के तहत स्थापित किया गया है।"
+  },
+  {
+    "id": 51,
+    "question": "भारतीय संविधान के किस अनुच्छेद में समानता का अधिकार दिया गया है? / Right to Equality is guaranteed under which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 14 से 18",
+      "B": "अनुच्छेद 19 से 22",
+      "C": "अनुच्छेद 23 से 24",
+      "D": "अनुच्छेद 32 से 35"
+    },
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 14 से 18 तक समानता का अधिकार सुनिश्चित किया गया है।"
+  },
+  {
+    "id": 52,
+    "question": "भारत में सर्वोच्च न्यायालय के न्यायाधीश की नियुक्ति किसके द्वारा की जाती है? / Who appoints the Judges of the Supreme Court of India?",
+    "options": {
+      "A": "प्रधानमंत्री (Prime Minister)",
+      "B": "लोकसभा अध्यक्ष (Speaker of Lok Sabha)",
+      "C": "राष्ट्रपति (President)",
+      "D": "राज्यसभा (Rajya Sabha)"
+    },
+    "answer": ["C"],
+    "explanation": "भारत के सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+  },
+  {
+    "id": 53,
+    "question": "भारत में राज्यसभा को किस प्रकार का सदन कहा गया है? / Rajya Sabha in India is referred to as which type of House?",
+    "options": {
+      "A": "स्थायी सदन (Permanent House)",
+      "B": "विघटित होने वाला सदन (Dissolvable House)",
+      "C": "जन प्रतिनिधि सदन (House of People)",
+      "D": "वित्तीय सदन (Money House)"
+    },
+    "answer": ["A"],
+    "explanation": "राज्यसभा एक स्थायी सदन है, जिसे भंग नहीं किया जा सकता।"
+  },
+  {
+    "id": 54,
+    "question": "भारतीय संविधान की किस अनुसूची में राज्यों और केंद्रशासित प्रदेशों की सूची दी गई है? / Which Schedule of the Indian Constitution contains the list of States and Union Territories?",
+    "options": {
+      "A": "पहली अनुसूची (First Schedule)",
+      "B": "दूसरी अनुसूची (Second Schedule)",
+      "C": "चौथी अनुसूची (Fourth Schedule)",
+      "D": "सातवीं अनुसूची (Seventh Schedule)"
+    },
+    "answer": ["A"],
+    "explanation": "संविधान की पहली अनुसूची में राज्यों और केंद्रशासित प्रदेशों की सूची दी गई है।"
+  },
+  {
+    "id": 55,
+    "question": "भारतीय संविधान में संशोधन की प्रक्रिया किस अनुच्छेद में दी गई है? / The procedure for amendment of the Indian Constitution is mentioned in which Article?",
+    "options": {
+      "A": "अनुच्छेद 356",
+      "B": "अनुच्छेद 368",
+      "C": "अनुच्छेद 352",
+      "D": "अनुच्छेद 370"
+    },
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 368 में भारतीय संविधान के संशोधन की प्रक्रिया का वर्णन है।"
+  },
+  {
+    "id": 56,
+    "question": "भारतीय संविधान की कौन-सी सूची में 'कृषि' आता है? / Agriculture falls under which List of the Indian Constitution?",
+    "options": {
+      "A": "केंद्रीय सूची (Union List)",
+      "B": "राज्य सूची (State List)",
+      "C": "समवर्ती सूची (Concurrent List)",
+      "D": "अनुसूचीबद्ध सूची (Scheduled List)"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान की राज्य सूची में 'कृषि' का विषय शामिल है।"
+  },
+  {
+    "id": 57,
+    "question": "भारतीय संविधान में मौलिक अधिकार किस भाग में वर्णित हैं? / Fundamental Rights are described in which Part of the Indian Constitution?",
+    "options": {
+      "A": "भाग III (Part III)",
+      "B": "भाग IV (Part IV)",
+      "C": "भाग V (Part V)",
+      "D": "भाग II (Part II)"
+    },
+    "answer": ["A"],
+    "explanation": "भारतीय संविधान के भाग III में मौलिक अधिकारों का वर्णन है।"
+  },
+  {
+    "id": 58,
+    "question": "संविधान सभा की प्रारंभिक स्थायी अध्यक्षता किसने की? / Who was the permanent Chairman of the Constituent Assembly?",
+    "options": {
+      "A": "सचिदानंद सिन्हा",
+      "B": "राजेंद्र प्रसाद",
+      "C": "बी. एन. राव",
+      "D": "जवाहरलाल नेहरू"
+    },
+    "answer": ["B"],
+    "explanation": "डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष चुने गए थे।"
+  },
+  {
+    "id": 59,
+    "question": "भारतीय संविधान की सातवीं अनुसूची किससे संबंधित है? / The Seventh Schedule of the Indian Constitution relates to which subject?",
+    "options": {
+      "A": "राज्यों और केंद्रशासित प्रदेशों की सूची",
+      "B": "वित्तीय प्रावधान",
+      "C": "विषय-सूची (Union, State, Concurrent Lists)",
+      "D": "संशोधन की प्रक्रिया"
+    },
+    "answer": ["C"],
+    "explanation": "भारतीय संविधान की सातवीं अनुसूची में केंद्र, राज्य और समवर्ती सूची दी गई है।"
+  },
+  {
+    "id": 60,
+    "question": "भारतीय संविधान की प्रस्तावना में 'न्याय' शब्द का तात्पर्य किन-किन से है? / The term 'Justice' in the Preamble of the Constitution refers to which of the following?",
+    "options": {
+      "A": "सामाजिक न्याय (Social Justice)",
+      "B": "आर्थिक न्याय (Economic Justice)",
+      "C": "राजनीतिक न्याय (Political Justice)",
+      "D": "धार्मिक न्याय (Religious Justice)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "संविधान की प्रस्तावना में 'न्याय' शब्द सामाजिक, आर्थिक और राजनीतिक न्याय को संदर्भित करता है।"
+  },
+  {
+    "id": 61,
+    "question": "भारतीय संविधान में वित्त आयोग (Finance Commission) का प्रावधान किस अनुच्छेद में है? / In which Article is the provision for the Finance Commission given in the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 275",
+      "B": "अनुच्छेद 280",
+      "C": "अनुच्छेद 324",
+      "D": "अनुच्छेद 300"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान का अनुच्छेद 280 वित्त आयोग (Finance Commission) की स्थापना का प्रावधान करता है, जो 5 वर्षों में एक बार राष्ट्रपति द्वारा गठित किया जाता है।"
+  },
+  {
+    "id": 62,
+    "question": "किस संविधान संशोधन द्वारा पंचायत राज संस्थाओं को संवैधानिक दर्जा दिया गया? / By which Constitutional Amendment were Panchayati Raj institutions given constitutional status?",
+    "options": {
+      "A": "42वां संविधान संशोधन",
+      "B": "44वां संविधान संशोधन",
+      "C": "73वां संविधान संशोधन",
+      "D": "74वां संविधान संशोधन"
+    },
+    "answer": ["C"],
+    "explanation": "1992 में 73वें संविधान संशोधन द्वारा पंचायत राज संस्थाओं को संवैधानिक दर्जा दिया गया और भाग IX में शामिल किया गया।"
+  },
+  {
+    "id": 63,
+    "question": "भारत में 'लोकसभा' और 'राज्यसभा' के बीच संयुक्त बैठक किस अनुच्छेद के अंतर्गत होती है? / The joint sitting of Lok Sabha and Rajya Sabha is provided under which Article?",
+    "options": {
+      "A": "अनुच्छेद 102",
+      "B": "अनुच्छेद 108",
+      "C": "अनुच्छेद 110",
+      "D": "अनुच्छेद 118"
+    },
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 108 लोकसभा और राज्यसभा के बीच संयुक्त बैठक की व्यवस्था करता है जब किसी साधारण विधेयक पर गतिरोध उत्पन्न हो।"
+  },
+  {
+    "id": 64,
+    "question": "भारत के राष्ट्रपति द्वारा वित्तीय आपातकाल (Financial Emergency) किस अनुच्छेद के अंतर्गत घोषित किया जा सकता है? / Financial Emergency can be proclaimed under which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 352",
+      "B": "अनुच्छेद 356",
+      "C": "अनुच्छेद 360",
+      "D": "अनुच्छेद 368"
+    },
+    "answer": ["C"],
+    "explanation": "वित्तीय आपातकाल की घोषणा अनुच्छेद 360 के अंतर्गत की जा सकती है। भारत में अब तक कभी वित्तीय आपातकाल लागू नहीं किया गया।"
+  },
+  {
+    "id": 65,
+    "question": "भारतीय संविधान में कितनी बार 'राष्ट्रीय आपातकाल' (National Emergency) लागू किया गया है? / How many times has National Emergency been imposed in India?",
+    "options": {
+      "A": "2 बार",
+      "B": "3 बार",
+      "C": "4 बार",
+      "D": "5 बार"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में राष्ट्रीय आपातकाल कुल 3 बार लागू किया गया: 1962 (चीन युद्ध), 1971 (पाकिस्तान युद्ध), 1975 (आंतरिक अशांति)।"
+  },
+  {
+    "id": 66,
+    "question": "भारतीय संविधान की 'संघ सूची' (Union List) में मूल रूप से कितने विषय थे? / How many subjects were originally in the Union List of the Indian Constitution?",
+    "options": {
+      "A": "66",
+      "B": "97",
+      "C": "99",
+      "D": "122"
+    },
+    "answer": ["B"],
+    "explanation": "संविधान की मूल संघ सूची (Union List) में 97 विषय शामिल थे, लेकिन बाद के संशोधनों के बाद वर्तमान में 100 विषय हैं।"
+  },
+  {
+    "id": 67,
+    "question": "लोकसभा की अधिकतम शक्ति (Maximum strength) भारतीय संविधान में कितनी निर्धारित है? / What is the maximum strength of the Lok Sabha as per the Indian Constitution?",
+    "options": {
+      "A": "530",
+      "B": "545",
+      "C": "552",
+      "D": "560"
+    },
+    "answer": ["C"],
+    "explanation": "अनुच्छेद 81 के अनुसार लोकसभा की अधिकतम शक्ति 552 है (530 राज्यों से, 20 केंद्र शासित प्रदेशों से, और 2 राष्ट्रपति द्वारा नामित)।"
+  },
+  {
+    "id": 68,
+    "question": "किस अनुच्छेद के अंतर्गत भारत का चुनाव आयोग (Election Commission) स्थापित किया गया है? / Under which Article is the Election Commission of India established?",
+    "options": {
+      "A": "अनुच्छेद 280",
+      "B": "अनुच्छेद 324",
+      "C": "अनुच्छेद 326",
+      "D": "अनुच्छेद 356"
+    },
+    "answer": ["B"],
+    "explanation": "भारत का चुनाव आयोग अनुच्छेद 324 के अंतर्गत स्थापित है। यह लोकसभा, राज्यसभा, राष्ट्रपति और उपराष्ट्रपति के चुनाव का संचालन करता है।"
+  },
+  {
+    "id": 69,
+    "question": "संसद का बजट सत्र (Budget Session) आमतौर पर किस महीने से शुरू होता है? / In which month does the Budget Session of the Indian Parliament generally begin?",
+    "options": {
+      "A": "जनवरी",
+      "B": "फरवरी",
+      "C": "मार्च",
+      "D": "अप्रैल"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में संसद का बजट सत्र सामान्यतः फरवरी महीने से शुरू होता है जब वित्त मंत्री केंद्रीय बजट प्रस्तुत करते हैं।"
+  },
+  {
+    "id": 70,
+    "question": "भारत में मौलिक कर्तव्य (Fundamental Duties) किस समिति की सिफारिश पर संविधान में जोड़े गए? / Fundamental Duties were added to the Indian Constitution on the recommendation of which committee?",
+    "options": {
+      "A": "सर्कारिया समिति",
+      "B": "स्वर्ण सिंह समिति",
+      "C": "बलवंतराय मेहता समिति",
+      "D": "राजमन्नार समिति"
+    },
+    "answer": ["B"],
+    "explanation": "मौलिक कर्तव्यों को संविधान में 42वें संशोधन (1976) द्वारा स्वर्ण सिंह समिति की सिफारिश पर शामिल किया गया।"
+  },
+  {
+    "id": 71,
+    "question": "भारत का संविधान कितने दिनों में तैयार हुआ था? / In how many days was the Constitution of India prepared?",
+    "options": {
+      "A": "2 वर्ष 11 माह 18 दिन",
+      "B": "3 वर्ष 10 माह 20 दिन",
+      "C": "2 वर्ष 8 माह 12 दिन",
+      "D": "1 वर्ष 11 माह 15 दिन"
+    },
+    "answer": ["A"],
+    "explanation": "संविधान सभा ने भारतीय संविधान को 2 वर्ष 11 माह 18 दिन में तैयार किया (9 दिसंबर 1946 – 26 नवंबर 1949)।"
+  },
+  {
+    "id": 72,
+    "question": "भारत के राष्ट्रपति के चुनाव में मूल्यांकित मतों (Value of Votes) का निर्धारण किसके आधार पर होता है? / The value of votes in the election of the President of India is determined on the basis of?",
+    "options": {
+      "A": "राज्यों की जनसंख्या और निर्वाचित विधायकों की संख्या",
+      "B": "सांसदों की संख्या",
+      "C": "राज्यसभा सदस्यों की संख्या",
+      "D": "जनसंख्या का अनुपात"
+    },
+    "answer": ["A"],
+    "explanation": "राष्ट्रपति चुनाव में राज्यों के निर्वाचित विधायकों के मतों का मूल्य उनकी जनसंख्या और विधायकों की संख्या पर आधारित होता है।"
+  },
+  {
+    "id": 73,
+    "question": "भारत में 'समान नागरिक संहिता' (Uniform Civil Code) का उल्लेख किस अनुच्छेद में है? / Uniform Civil Code is mentioned under which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 44",
+      "B": "अनुच्छेद 32",
+      "C": "अनुच्छेद 51",
+      "D": "अनुच्छेद 21"
+    },
+    "answer": ["A"],
+    "explanation": "समान नागरिक संहिता का उल्लेख राज्य नीति के निदेशक तत्वों में अनुच्छेद 44 में है।"
+  },
+  {
+    "id": 74,
+    "question": "भारत में 'केंद्रीय सतर्कता आयोग' (CVC) कब और किसकी सिफारिश पर स्थापित हुआ? / When and on whose recommendation was the Central Vigilance Commission (CVC) established in India?",
+    "options": {
+      "A": "1964, संथानम समिति",
+      "B": "1976, स्वर्ण सिंह समिति",
+      "C": "1989, ठक्कर आयोग",
+      "D": "1992, वेंकटचलैया आयोग"
+    },
+    "answer": ["A"],
+    "explanation": "केंद्रीय सतर्कता आयोग (CVC) 1964 में भ्रष्टाचार पर नियंत्रण हेतु संथानम समिति की सिफारिश पर स्थापित किया गया।"
+  },
+  {
+    "id": 75,
+    "question": "राज्यसभा में मनोनीत सदस्यों की संख्या कितनी होती है? / How many members are nominated in the Rajya Sabha?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": ["B"],
+    "explanation": "भारत के राष्ट्रपति साहित्य, विज्ञान, कला और समाज सेवा में विशेष योगदान देने वाले 12 सदस्यों को राज्यसभा में नामित करते हैं।"
   }
-]
+]  
+
+ 
+  
+
