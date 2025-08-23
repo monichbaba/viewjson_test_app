@@ -1,725 +1,366 @@
 [
   {
     "id": 1,
-    "question": "संयुक्त राष्ट्र महासभा (UNGA) की बैठक कितनी बार आयोजित होती है? / How often is the United Nations General Assembly (UNGA) session held?",
+    "question": "Which missile system did DRDO successfully test in February 2024 to counter aerial threats at very short ranges?",
     "options": {
-      "A": "हर 3 साल में / Every 3 years",
-      "B": "हर साल / Annually",
-      "C": "हर 5 साल में / Every 5 years",
-      "D": "आवश्यकतानुसार / As required"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B", "D"],
-    "explanation": "UNGA की नियमित बैठक हर साल सितम्बर में होती है, लेकिन विशेष/आपात बैठकें आवश्यकतानुसार बुलाई जा सकती हैं।"
+    "answer": ["B"],
+    "explanation": "DRDO conducted two successful flight tests of the Very Short-Range Air Defence System (VSHORADS) in February 2024, designed to intercept and destroy hostile aircraft, drones, and helicopters at very short ranges."
   },
   {
     "id": 2,
-    "question": "अंतर्राष्ट्रीय मुद्रा कोष (IMF) की स्थापना कब हुई थी? / When was the International Monetary Fund (IMF) established?",
+    "question": "What is the primary purpose of India's Project Kusha?",
     "options": {
-      "A": "1944 (ब्रेटन वुड्स सम्मेलन) / 1944 (Bretton Woods Conference)",
-      "B": "1945",
-      "C": "1950",
-      "D": "1965"
+      "A": "Developing a long-range air defence system",
+      "B": "Enhancing drone capabilities",
+      "C": "Upgrading naval warfare technology",
+      "D": "Improving satellite communication"
     },
-    "answer": ["A", "B"],
-    "explanation": "IMF की स्थापना 1944 में ब्रेटन वुड्स सम्मेलन में हुई और यह 1945 में औपचारिक रूप से अस्तित्व में आया।"
+    "answer": ["A"],
+    "explanation": "Project Kusha aims to develop a mobile long-range surface-to-air missile system, consisting of three variants (M1, M2, M3) with ranges of 150 km, 250 km, and 400 km, respectively."
   },
   {
     "id": 3,
-    "question": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of WHO located?",
+    "question": "Which missile system did India successfully test at an altitude of over 15,000 feet in Ladakh in July 2025?",
     "options": {
-      "A": "न्यूयॉर्क / New York",
-      "B": "जिनेवा / Geneva",
-      "C": "पेरिस / Paris",
-      "D": "रोम / Rome"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "WHO का मुख्यालय जिनेवा (स्विट्जरलैंड) में है।"
+    "answer": ["A"],
+    "explanation": "The Indian Army successfully tested the Akash Prime air defence missile system in Ladakh at an altitude exceeding 15,000 feet on July 16, 2025, demonstrating its effectiveness in high-altitude environments."
   },
   {
     "id": 4,
-    "question": "विश्व व्यापार संगठन (WTO) किस संगठन का उत्तराधिकारी है? / WTO is the successor of which organization?",
+    "question": "Which missile system did DRDO successfully test on July 24, 2024, as part of Phase-II Ballistic Missile Defence?",
     "options": {
-      "A": "GATT",
-      "B": "ILO",
-      "C": "IMF",
-      "D": "UNCTAD"
+      "A": "Akash Prime",
+      "B": "Pralay",
+      "C": "Ballistic Missile Interceptor",
+      "D": "VLSRSAM"
     },
-    "answer": ["A"],
-    "explanation": "WTO, GATT (General Agreement on Tariffs and Trade) का उत्तराधिकारी है।"
+    "answer": ["C"],
+    "explanation": "DRDO successfully flight-tested the Phase-II Ballistic Missile Defence System on July 24, 2024, involving a target missile launched from Launch Complex IV at Dhamra, which was detected and intercepted by the AD Interceptor system."
   },
   {
     "id": 5,
-    "question": "BRICS में कौन-कौन से देश शामिल हैं? / Which countries are part of BRICS?",
+    "question": "What is the range of the M1 variant of DRDO's Project Kusha missile system?",
     "options": {
-      "A": "Brazil, Russia, India, China, South Africa",
-      "B": "Bangladesh, Russia, Indonesia, China, Spain",
-      "C": "Brazil, Romania, India, Canada, South Africa",
-      "D": "Bulgaria, Russia, Iran, Cuba, Sudan"
+      "A": "150 km",
+      "B": "250 km",
+      "C": "350 km",
+      "D": "400 km"
     },
     "answer": ["A"],
-    "explanation": "BRICS में Brazil, Russia, India, China और South Africa सदस्य हैं।"
+    "explanation": "The M1 variant of DRDO's Project Kusha missile system has a range of 150 km and is expected to undergo testing in early 2025."
   },
   {
     "id": 6,
-    "question": "NITI Aayog किसकी जगह स्थापित हुआ? / NITI Aayog replaced which institution?",
+    "question": "Which missile system did DRDO successfully test on October 3 and 4, 2024, at Pokhran Field Firing Ranges?",
     "options": {
-      "A": "वित्त आयोग / Finance Commission",
-      "B": "योजना आयोग / Planning Commission",
-      "C": "CAG",
-      "D": "ECI"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["B"],
-    "explanation": "2015 में योजना आयोग को समाप्त कर NITI Aayog बनाया गया।"
+    "explanation": "DRDO successfully conducted three flight tests of the 4th Generation Very Short Range Air Defence System (VSHORADS) at Pokhran Field Firing Ranges on October 3 and 4, 2024, demonstrating critical parameters of maximum range and altitude interception."
   },
   {
     "id": 7,
-    "question": "SAARC का मुख्यालय कहाँ है? / Where is the headquarters of SAARC?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, off the Odisha coast?",
     "options": {
-      "A": "नई दिल्ली / New Delhi",
-      "B": "काठमांडू / Kathmandu",
-      "C": "ढाका / Dhaka",
-      "D": "इस्लामाबाद / Islamabad"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "SAARC का मुख्यालय काठमांडू (नेपाल) में स्थित है।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 8,
-    "question": "G20 की अध्यक्षता भारत ने किस वर्ष की? / India hosted the G20 Presidency in which year?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, off the Odisha coast?",
     "options": {
-      "A": "2018",
-      "B": "2020",
-      "C": "2023",
-      "D": "2025"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
-    "answer": ["C"],
-    "explanation": "भारत ने 2023 में पहली बार G20 की अध्यक्षता की।"
+    "answer": ["A"],
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 9,
-    "question": "भारतीय रिज़र्व बैंक (RBI) की स्थापना कब हुई थी? / When was the Reserve Bank of India established?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island?",
     "options": {
-      "A": "1935",
-      "B": "1947",
-      "C": "1950",
-      "D": "1969"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "RBI की स्थापना 1 अप्रैल 1935 को हुई।"
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high precision and radar-evading capabilities."
   },
   {
     "id": 10,
-    "question": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) किस अनुच्छेद के तहत नियुक्त होते हैं? / CAG of India is appointed under which Article?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, enhancing the Indian Navy's air defence capabilities?",
     "options": {
-      "A": "अनुच्छेद 76 / Article 76",
-      "B": "अनुच्छेद 148 / Article 148",
-      "C": "अनुच्छेद 280 / Article 280",
-      "D": "अनुच्छेद 324 / Article 324"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "CAG का प्रावधान भारतीय संविधान के अनुच्छेद 148 में है।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 11,
-    "question": "UNESCO किस क्षेत्र से जुड़ा है? / UNESCO is related to which field?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, capable of carrying various payloads for ranges greater than 1,500 km?",
     "options": {
-      "A": "शिक्षा, विज्ञान और संस्कृति / Education, Science and Culture",
-      "B": "श्रम / Labour",
-      "C": "व्यापार / Trade",
-      "D": "स्वास्थ्य / Health"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
     "answer": ["A"],
-    "explanation": "UNESCO का पूरा नाम United Nations Educational, Scientific and Cultural Organization है।"
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 12,
-    "question": "अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय कहाँ है? / Where is the ICJ located?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island, demonstrating high precision and radar-evading capabilities?",
     "options": {
-      "A": "लंदन / London",
-      "B": "हेग / The Hague",
-      "C": "जिनेवा / Geneva",
-      "D": "न्यूयॉर्क / New York"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "ICJ का मुख्यालय नीदरलैंड्स के हेग शहर में है।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high precision and radar-evading capabilities."
   },
   {
     "id": 13,
-    "question": "विश्व बैंक समूह के घटक कौन से हैं? / Which are the components of World Bank Group?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, enhancing the Indian Navy's air defence capabilities?",
     "options": {
-      "A": "IBRD, IDA",
-      "B": "IFC, MIGA, ICSID",
-      "C": "IMF, WTO",
-      "D": "UNICEF, UNDP"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["A", "B"],
-    "explanation": "World Bank Group में IBRD, IDA, IFC, MIGA और ICSID शामिल हैं।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 14,
-    "question": "भारत का निर्वाचन आयोग (ECI) किस अनुच्छेद से संबंधित है? / ECI is related to which Article?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, capable of carrying various payloads for ranges greater than 1,500 km?",
     "options": {
-      "A": "अनुच्छेद 280 / Article 280",
-      "B": "अनुच्छेद 324 / Article 324",
-      "C": "अनुच्छेद 148 / Article 148",
-      "D": "अनुच्छेद 110 / Article 110"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
-    "answer": ["B"],
-    "explanation": "भारत का निर्वाचन आयोग संविधान के अनुच्छेद 324 में वर्णित है।"
+    "answer": ["A"],
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 15,
-    "question": "FAO (Food and Agriculture Organization) का मुख्यालय कहाँ है? / Where is the headquarters of FAO?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island, demonstrating high precision and radar-evading capabilities?",
     "options": {
-      "A": "रोम / Rome",
-      "B": "पेरिस / Paris",
-      "C": "वाशिंगटन DC / Washington DC",
-      "D": "जिनेवा / Geneva"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "FAO का मुख्यालय रोम (Italy) में है।"
-  },
-  {
-    "id": 16,
-    "question": "OECD का सदस्य भारत है या नहीं? / Is India a member of OECD?",
-    "options": {
-      "A": "हाँ / Yes",
-      "B": "नहीं / No",
-      "C": "पर्यवेक्षक / Observer",
-      "D": "अस्थायी सदस्य / Temporary member"
-    },
-    "answer": ["B"],
-    "explanation": "भारत OECD का सदस्य नहीं है, लेकिन इसके साथ सहयोग करता है।"
-  },
-  {
-    "id": 17,
-    "question": "INTERPOL का मुख्यालय कहाँ है? / Where is INTERPOL headquarters?",
-    "options": {
-      "A": "लियोन (फ्रांस) / Lyon, France",
-      "B": "न्यूयॉर्क / New York",
-      "C": "लंदन / London",
-      "D": "जिनेवा / Geneva"
-    },
-    "answer": ["A"],
-    "explanation": "INTERPOL का मुख्यालय लियोन, फ्रांस में स्थित है।"
-  },
-  {
-    "id": 18,
-    "question": "विश्व पर्यावरण कार्यक्रम (UNEP) का मुख्यालय कहाँ है? / Where is UNEP headquarters?",
-    "options": {
-      "A": "रोम / Rome",
-      "B": "नैरोबी / Nairobi",
-      "C": "जिनेवा / Geneva",
-      "D": "न्यूयॉर्क / New York"
-    },
-    "answer": ["B"],
-    "explanation": "UNEP का मुख्यालय नैरोबी, केन्या में है।"
-  },
-  {
-    "id": 19,
-    "question": "NATO की स्थापना कब हुई थी? / When was NATO established?",
-    "options": {
-      "A": "1945",
-      "B": "1947",
-      "C": "1949",
-      "D": "1951"
-    },
-    "answer": ["C"],
-    "explanation": "NATO (North Atlantic Treaty Organization) की स्थापना 1949 में हुई थी।"
-  },
-  {
-    "id": 20,
-    "question": "शंघाई सहयोग संगठन (SCO) की सदस्यता भारत को कब मिली? / When did India become a member of SCO?",
-    "options": {
-      "A": "2001",
-      "B": "2006",
-      "C": "2015",
-      "D": "2017"
-    },
-    "answer": ["D"],
-    "explanation": "भारत 2017 में SCO का पूर्ण सदस्य बना।"
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high."
   },
   {
     "id": 21,
-    "question": "ऑपरेशन मेघदूत (Operation Meghdoot) किस वर्ष शुरू किया गया था? / In which year was Operation Meghdoot launched?",
+    "question": "Which missile system did DRDO successfully test in February 2024 to counter aerial threats at very short ranges?",
     "options": {
-      "A": "1980",
-      "B": "1984",
-      "C": "1990",
-      "D": "1975"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["B"],
-    "explanation": "ऑपरेशन मेघदूत 1984 में भारत ने सियाचिन ग्लेशियर पर नियंत्रण के लिए चलाया था। यह एक रणनीतिक सैन्य अभियान था।"
+    "explanation": "DRDO conducted two successful flight tests of the Very Short-Range Air Defence System (VSHORADS) in February 2024, designed to intercept and destroy hostile aircraft, drones, and helicopters at very short ranges."
   },
   {
     "id": 22,
-    "question": "ऑपरेशन राहत (Operation Rahat) किस आपदा से जुड़ा था? / Operation Rahat was related to which disaster?",
+    "question": "What is the primary purpose of India's Project Kusha?",
     "options": {
-      "A": "2001 गुजरात भूकंप",
-      "B": "2013 उत्तराखंड बाढ़",
-      "C": "2004 सुनामी",
-      "D": "2005 कश्मीर भूकंप"
+      "A": "Developing a long-range air defence system",
+      "B": "Enhancing drone capabilities",
+      "C": "Upgrading naval warfare technology",
+      "D": "Improving satellite communication"
     },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन राहत 2013 में उत्तराखंड में आई भयंकर बाढ़ से प्रभावित लोगों को बचाने के लिए भारतीय वायुसेना द्वारा चलाया गया था।"
+    "answer": ["A"],
+    "explanation": "Project Kusha aims to develop a mobile long-range surface-to-air missile system, consisting of three variants (M1, M2, M3) with ranges of 150 km, 250 km, and 400 km, respectively."
   },
   {
     "id": 23,
-    "question": "ऑपरेशन ब्लू स्टार (Operation Blue Star) किस स्थान पर हुआ था? / Operation Blue Star took place at which place?",
+    "question": "Which missile system did India successfully test at an altitude of over 15,000 feet in Ladakh in July 2025?",
     "options": {
-      "A": "स्वर्ण मंदिर, अमृतसर",
-      "B": "लाल किला, दिल्ली",
-      "C": "चारमीनार, हैदराबाद",
-      "D": "सांची स्तूप, मध्यप्रदेश"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन ब्लू स्टार 1984 में अमृतसर स्थित स्वर्ण मंदिर में छिपे आतंकवादियों को हटाने के लिए चलाया गया था।"
+    "explanation": "The Indian Army successfully tested the Akash Prime air defence missile system in Ladakh at an altitude exceeding 15,000 feet on July 16, 2025, demonstrating its effectiveness in high-altitude environments."
   },
   {
     "id": 24,
-    "question": "ऑपरेशन विजय (Operation Vijay) 1999 किस युद्ध से संबंधित था? / Operation Vijay (1999) is related to which war?",
+    "question": "Which missile system did DRDO successfully test on July 24, 2024, as part of Phase-II Ballistic Missile Defence?",
     "options": {
-      "A": "1965 का युद्ध",
-      "B": "1971 का युद्ध",
-      "C": "कारगिल युद्ध",
-      "D": "सियाचिन संघर्ष"
+      "A": "Akash Prime",
+      "B": "Pralay",
+      "C": "Ballistic Missile Interceptor",
+      "D": "VLSRSAM"
     },
     "answer": ["C"],
-    "explanation": "ऑपरेशन विजय 1999 कारगिल युद्ध से संबंधित था जिसमें भारतीय सेना ने घुसपैठियों को बाहर निकाला।"
+    "explanation": "DRDO successfully flight-tested the Phase-II Ballistic Missile Defence System on July 24, 2024, involving a target missile launched from Launch Complex IV at Dhamra, which was detected and intercepted by the AD Interceptor system."
   },
   {
     "id": 25,
-    "question": "ऑपरेशन कैक्टस (Operation Cactus) भारत ने किस देश में चलाया? / Operation Cactus was launched by India in which country?",
+    "question": "What is the range of the M1 variant of DRDO's Project Kusha missile system?",
     "options": {
-      "A": "नेपाल",
-      "B": "श्रीलंका",
-      "C": "मालदीव",
-      "D": "भूटान"
+      "A": "150 km",
+      "B": "250 km",
+      "C": "350 km",
+      "D": "400 km"
     },
-    "answer": ["C"],
-    "explanation": "ऑपरेशन कैक्टस 1988 में भारत ने मालदीव में एक तख्तापलट के प्रयास को रोकने के लिए चलाया था।"
+    "answer": ["A"],
+    "explanation": "The M1 variant of DRDO's Project Kusha missile system has a range of 150 km and is expected to undergo testing in early 2025."
   },
   {
     "id": 26,
-    "question": "ऑपरेशन राहत (Yemen 2015) किसके लिए किया गया था? / Operation Rahat (Yemen 2015) was conducted for?",
+    "question": "Which missile system did DRDO successfully test on October 3 and 4, 2024, at Pokhran Field Firing Ranges?",
     "options": {
-      "A": "विदेशी छात्रों की मदद",
-      "B": "भारतीयों और विदेशियों की निकासी",
-      "C": "युद्ध सामग्री की आपूर्ति",
-      "D": "संयुक्त राष्ट्र मिशन"
+      "A": "Akash Prime",
+      "B": "VSHORADS",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["B"],
-    "explanation": "2015 में यमन संकट के दौरान ऑपरेशन राहत चलाकर भारत ने हजारों भारतीयों और अन्य देशों के नागरिकों को सुरक्षित निकाला।"
+    "explanation": "DRDO successfully conducted three flight tests of the 4th Generation Very Short Range Air Defence System (VSHORADS) at Pokhran Field Firing Ranges on October 3 and 4, 2024, demonstrating critical parameters of maximum range and altitude interception."
   },
   {
     "id": 27,
-    "question": "ऑपरेशन ध्रुव (Operation Dhruv) किस क्षेत्र से संबंधित है? / Operation Dhruv is related to which area?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, off the Odisha coast?",
     "options": {
-      "A": "कश्मीर आतंकवाद विरोधी अभियान",
-      "B": "पूर्वोत्तर विद्रोह दमन",
-      "C": "सियाचिन लॉजिस्टिक समर्थन",
-      "D": "समुद्री सुरक्षा"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
-    "answer": ["C"],
-    "explanation": "ऑपरेशन ध्रुव सियाचिन ग्लेशियर पर भारतीय सैनिकों को लॉजिस्टिक और हवाई समर्थन देने से संबंधित था।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 28,
-    "question": "ऑपरेशन राहत (Operation Rahat 2004) किस घटना से जुड़ा है? / Operation Rahat (2004) was related to which event?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, off the Odisha coast?",
     "options": {
-      "A": "सुनामी",
-      "B": "भूकंप",
-      "C": "बाढ़",
-      "D": "भुखमरी"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
     "answer": ["A"],
-    "explanation": "2004 की सुनामी आपदा में भारतीय नौसेना ने ऑपरेशन राहत चलाकर प्रभावित लोगों की सहायता की।"
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 29,
-    "question": "ऑपरेशन सिंधु दर्शन (Operation Sindhu Darshan) किस नदी पर केंद्रित था? / Operation Sindhu Darshan was focused on which river?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island?",
     "options": {
-      "A": "गंगा",
-      "B": "सिंधु",
-      "C": "ब्रह्मपुत्र",
-      "D": "गोदावरी"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन सिंधु दर्शन सांस्कृतिक व सामरिक दृष्टि से सिंधु नदी क्षेत्र पर केंद्रित था।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high precision and radar-evading capabilities."
   },
   {
     "id": 30,
-    "question": "ऑपरेशन खोज (Operation Khoj) किससे संबंधित है? / Operation Khoj is related to?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, enhancing the Indian Navy's air defence capabilities?",
     "options": {
-      "A": "लापता लोगों की तलाश",
-      "B": "आतंकी सफाया",
-      "C": "सीमा पार व्यापार",
-      "D": "राजनीतिक अभियान"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन खोज लापता लोगों की तलाश और बचाव अभियानों से जुड़ा था।"
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 31,
-    "question": "ऑपरेशन पवन (Operation Pawan) भारत ने कहाँ चलाया? / Where did India conduct Operation Pawan?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, capable of carrying various payloads for ranges greater than 1,500 km?",
     "options": {
-      "A": "श्रीलंका",
-      "B": "नेपाल",
-      "C": "भूटान",
-      "D": "बांग्लादेश"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन पवन भारतीय शांति सेना (IPKF) द्वारा 1987 में श्रीलंका में LTTE के खिलाफ चलाया गया था।"
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 32,
-    "question": "ऑपरेशन गंगा (Operation Ganga) किस संकट में चलाया गया? / Operation Ganga was launched during which crisis?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island, demonstrating high precision and radar-evading capabilities?",
     "options": {
-      "A": "यमन संकट",
-      "B": "यूक्रेन युद्ध 2022",
-      "C": "सीरिया संघर्ष",
-      "D": "नेपाल भूकंप"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन गंगा 2022 में यूक्रेन-रूस युद्ध के दौरान फँसे भारतीय छात्रों को निकालने के लिए चलाया गया।"
+    "answer": ["A"],
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high precision and radar-evading capabilities."
   },
   {
     "id": 33,
-    "question": "ऑपरेशन कच्छ (Operation Kachchh) किस उद्देश्य से किया गया? / Operation Kachchh was launched for?",
+    "question": "Which missile system did DRDO successfully test on March 26, 2025, enhancing the Indian Navy's air defence capabilities?",
     "options": {
-      "A": "कच्छ भूकंप राहत",
-      "B": "सीमा विवाद",
-      "C": "समुद्री सुरक्षा",
-      "D": "पुल निर्माण"
+      "A": "VLSRSAM",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन कच्छ 2001 गुजरात भूकंप के बाद राहत और बचाव कार्यों के लिए चलाया गया।"
+    "explanation": "DRDO successfully flight-tested the Vertically-Launched Short-Range Surface-to-Air Missile (VLSRSAM) on March 26, 2025, off the Odisha coast, enhancing the Indian Navy's air defence capabilities."
   },
   {
     "id": 34,
-    "question": "ऑपरेशन शत्रुंजीत (Operation Shatrujeet) किस प्रकार का अभियान है? / Operation Shatrujeet is what kind of exercise?",
+    "question": "Which missile system did DRDO successfully test on November 16, 2024, capable of carrying various payloads for ranges greater than 1,500 km?",
     "options": {
-      "A": "सैन्य अभ्यास",
-      "B": "आतंकी सफाया",
-      "C": "चुनावी अभियान",
-      "D": "मानवाधिकार मिशन"
+      "A": "Hypersonic Missile",
+      "B": "Akash Prime",
+      "C": "Pralay",
+      "D": "VLSRSAM"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन शत्रुंजीत भारतीय सेना का सामरिक युद्धाभ्यास है।"
+    "explanation": "DRDO conducted a successful flight trial of India's first long-range hypersonic missile on November 16, 2024, off the Odisha coast, capable of carrying various payloads for ranges greater than 1,500 km."
   },
   {
     "id": 35,
-    "question": "ऑपरेशन मैत्री (Operation Maitri) भारत ने किस देश में चलाया? / Operation Maitri was conducted in which country?",
+    "question": "Which missile system did DRDO successfully test on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island, demonstrating high precision and radar-evading capabilities?",
     "options": {
-      "A": "भूटान",
-      "B": "नेपाल",
-      "C": "मालदीव",
-      "D": "श्रीलंका"
-    },
-    "answer": ["B"],
-    "explanation": "2015 नेपाल भूकंप के बाद भारत ने ऑपरेशन मैत्री चलाकर राहत और बचाव कार्य किए।"
-  },
-  {
-    "id": 36,
-    "question": "ऑपरेशन सद्भावना (Operation Sadbhavana) किस राज्य से संबंधित है? / Operation Sadbhavana is related to which state?",
-    "options": {
-      "A": "जम्मू-कश्मीर",
-      "B": "मणिपुर",
-      "C": "छत्तीसगढ़",
-      "D": "नागालैंड"
+      "A": "Pralay",
+      "B": "Akash Prime",
+      "C": "VSHORADS",
+      "D": "ULPGM-V3"
     },
     "answer": ["A"],
-    "explanation": "ऑपरेशन सद्भावना जम्मू-कश्मीर में भारतीय सेना का सामाजिक और शैक्षणिक विकास अभियान है।"
-  },
-  {
-    "id": 37,
-    "question": "ऑपरेशन फ्लड (Operation Flood) का मुख्य उद्देश्य क्या था? / What was the main aim of Operation Flood?",
-    "options": {
-      "A": "खाद्य सुरक्षा",
-      "B": "दूध उत्पादन बढ़ाना",
-      "C": "कृषि सिंचाई",
-      "D": "गरीबी उन्मूलन"
-    },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन फ्लड 1970 में शुरू हुआ था जिसका उद्देश्य भारत में श्वेत क्रांति लाना और दूध उत्पादन बढ़ाना था।"
-  },
-  {
-    "id": 38,
-    "question": "ऑपरेशन पॉवर (Operation Power) किस क्षेत्र से संबंधित है? / Operation Power is related to which sector?",
-    "options": {
-      "A": "ऊर्जा उत्पादन",
-      "B": "सैन्य",
-      "C": "सड़क निर्माण",
-      "D": "जल प्रबंधन"
-    },
-    "answer": ["A"],
-    "explanation": "ऑपरेशन पॉवर ऊर्जा उत्पादन और आपूर्ति से जुड़ा एक राष्ट्रीय कार्यक्रम था।"
-  },
-  {
-    "id": 39,
-    "question": "ऑपरेशन मुस्कान (Operation Muskaan) किस उद्देश्य से शुरू किया गया? / What was the objective of Operation Muskaan?",
-    "options": {
-      "A": "बच्चों की शिक्षा",
-      "B": "लापता बच्चों की खोज",
-      "C": "आतंकी सफाया",
-      "D": "गरीबों को भोजन"
-    },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन मुस्कान पुलिस द्वारा लापता और खोए हुए बच्चों को ढूँढने और परिवार से मिलाने के लिए शुरू किया गया।"
-  },
-  {
-    "id": 40,
-    "question": "ऑपरेशन सिंधूर (Operation Sindhur) किससे संबंधित है? / Operation Sindhur is related to?",
-    "options": {
-      "A": "रेल सुरक्षा",
-      "B": "खनन सुरक्षा",
-      "C": "समुद्री अभियान",
-      "D": "चुनावी सुधार"
-    },
-    "answer": ["C"],
-    "explanation": "ऑपरेशन सिंधूर भारतीय नौसेना का एक समुद्री अभियान था।"
-  },
-  {
-    "id": 41,
-    "question": "ऑपरेशन अजयरक्षा (Operation Ajay Raksha) किस देश ने 2024 में अपनी नागरिक सुरक्षा हेतु लॉन्च किया? / Which country launched Operation Ajay Raksha in 2024 for protection of its citizens?",
-    "options": {
-      "A": "भारत (India)",
-      "B": "इज़रायल (Israel)",
-      "C": "फ्रांस (France)",
-      "D": "रूस (Russia)"
-    },
-    "answer": ["A"],
-    "explanation": "भारत ने 2024 में मध्य पूर्व संघर्ष के दौरान अपने नागरिकों की सुरक्षित वापसी के लिए 'ऑपरेशन अजयरक्षा' शुरू किया।"
-  },
-  {
-    "id": 42,
-    "question": "ऑपरेशन गार्जियन ऑफ द गैलिली (Operation Guardian of the Galilee) किस देश का सैन्य अभियान है? / Which country is conducting Operation Guardian of the Galilee?",
-    "options": {
-      "A": "इज़रायल (Israel)",
-      "B": "ईरान (Iran)",
-      "C": "सऊदी अरब (Saudi Arabia)",
-      "D": "अमेरिका (USA)"
-    },
-    "answer": ["A"],
-    "explanation": "इज़रायल ने उत्तरी सीमा की सुरक्षा के लिए 2024 में 'गार्जियन ऑफ द गैलिली' नामक ऑपरेशन शुरू किया।"
-  },
-  {
-    "id": 43,
-    "question": "ऑपरेशन प्रोस्पेरिटी गार्जियन (Operation Prosperity Guardian) 2024 किस अंतर्राष्ट्रीय क्षेत्र में चलाया गया? / In which international region was Operation Prosperity Guardian 2024 conducted?",
-    "options": {
-      "A": "हिंद महासागर (Indian Ocean)",
-      "B": "लाल सागर (Red Sea)",
-      "C": "भूमध्य सागर (Mediterranean Sea)",
-      "D": "दक्षिण चीन सागर (South China Sea)"
-    },
-    "answer": ["B"],
-    "explanation": "अमेरिका व सहयोगी देशों ने 2024 में यमन के हूती हमलों से जहाजों की सुरक्षा हेतु लाल सागर में यह ऑपरेशन चलाया।"
-  },
-  {
-    "id": 44,
-    "question": "ऑपरेशन अजयरक्षा के तहत भारत ने किन नागरिकों को निकाला? / Under Operation Ajay Raksha, India evacuated which group?",
-    "options": {
-      "A": "यूक्रेन युद्धग्रस्त नागरिक",
-      "B": "गाज़ा-इज़रायल संघर्ष से प्रभावित भारतीय नागरिक",
-      "C": "सूडान संघर्ष से फंसे भारतीय",
-      "D": "श्रीलंका के आर्थिक संकट में फंसे लोग"
-    },
-    "answer": ["B"],
-    "explanation": "भारत ने गाज़ा-इज़रायल संघर्ष में फंसे भारतीय नागरिकों को सुरक्षित वापस लाने के लिए ऑपरेशन अजयरक्षा चलाया।"
-  },
-  {
-    "id": 45,
-    "question": "ऑपरेशन प्रॉस्पेरिटी गार्जियन में कौन-सा संगठन प्रमुख भूमिका में था? / Which organization played the leading role in Operation Prosperity Guardian?",
-    "options": {
-      "A": "नाटो (NATO)",
-      "B": "ASEAN",
-      "C": "यूएन (UN)",
-      "D": "अमेरिकी रक्षा विभाग (US Department of Defense)"
-    },
-    "answer": ["D"],
-    "explanation": "ऑपरेशन प्रॉस्पेरिटी गार्जियन में अमेरिका के रक्षा विभाग ने नेतृत्व किया, जबकि सहयोगी देशों ने समर्थन दिया।"
-  },
-  {
-    "id": 46,
-    "question": "ऑपरेशन काइरो शील्ड (Operation Cairo Shield) 2025 में किसने शुरू किया? / Which country launched Operation Cairo Shield in 2025?",
-    "options": {
-      "A": "मिस्र (Egypt)",
-      "B": "सऊदी अरब (Saudi Arabia)",
-      "C": "तुर्की (Turkey)",
-      "D": "रूस (Russia)"
-    },
-    "answer": ["A"],
-    "explanation": "मिस्र ने 2025 में आतंकवाद विरोधी अभियान के रूप में 'ऑपरेशन काइरो शील्ड' शुरू किया।"
-  },
-  {
-    "id": 47,
-    "question": "ऑपरेशन स्टॉर्म शील्ड (Operation Storm Shield) किस देश का साइबर सुरक्षा अभियान है? / Which country launched Operation Storm Shield as a cyber security mission?",
-    "options": {
-      "A": "अमेरिका (USA)",
-      "B": "चीन (China)",
-      "C": "भारत (India)",
-      "D": "जापान (Japan)"
-    },
-    "answer": ["A"],
-    "explanation": "अमेरिका ने 2025 में बढ़ते साइबर खतरों से निपटने के लिए 'ऑपरेशन स्टॉर्म शील्ड' शुरू किया।"
-  },
-  {
-    "id": 48,
-    "question": "ऑपरेशन पोलर गार्जियन (Operation Polar Guardian) 2025 किस क्षेत्र में चलाया गया? / In which region was Operation Polar Guardian 2025 conducted?",
-    "options": {
-      "A": "हिमालय (Himalayas)",
-      "B": "आर्कटिक (Arctic)",
-      "C": "अंटार्कटिका (Antarctica)",
-      "D": "साइबेरिया (Siberia)"
-    },
-    "answer": ["B"],
-    "explanation": "कनाडा व सहयोगी देशों ने आर्कटिक में सुरक्षा हेतु 'ऑपरेशन पोलर गार्जियन' 2025 में शुरू किया।"
-  },
-  {
-    "id": 49,
-    "question": "ऑपरेशन ब्लू वेव (Operation Blue Wave) 2024 किस देश ने समुद्री सुरक्षा के लिए चलाया? / Which country launched Operation Blue Wave 2024 for maritime security?",
-    "options": {
-      "A": "जापान (Japan)",
-      "B": "भारत (India)",
-      "C": "फ्रांस (France)",
-      "D": "ऑस्ट्रेलिया (Australia)"
-    },
-    "answer": ["D"],
-    "explanation": "ऑस्ट्रेलिया ने हिंद-प्रशांत क्षेत्र में समुद्री सुरक्षा के लिए 'ऑपरेशन ब्लू वेव' चलाया।"
-  },
-  {
-    "id": 50,
-    "question": "ऑपरेशन आयरन वेज (Operation Iron Wedge) किस देश का सैन्य अभ्यास है? / Which country launched Operation Iron Wedge as a military exercise?",
-    "options": {
-      "A": "जर्मनी (Germany)",
-      "B": "इज़रायल (Israel)",
-      "C": "यूके (UK)",
-      "D": "रूस (Russia)"
-    },
-    "answer": ["B"],
-    "explanation": "इज़रायल ने 2025 में रक्षा सुदृढ़ीकरण हेतु 'ऑपरेशन आयरन वेज' चलाया।"
-  },
-  {
-    "id": 51,
-    "question": "ऑपरेशन अजयरक्षा का नेतृत्व किस मंत्रालय ने किया? / Which ministry led Operation Ajay Raksha?",
-    "options": {
-      "A": "गृह मंत्रालय (Home Ministry)",
-      "B": "रक्षा मंत्रालय (Defense Ministry)",
-      "C": "विदेश मंत्रालय (MEA)",
-      "D": "गृह सुरक्षा परिषद (National Security Council)"
-    },
-    "answer": ["C"],
-    "explanation": "भारत के विदेश मंत्रालय ने ऑपरेशन अजयरक्षा का नेतृत्व किया।"
-  },
-  {
-    "id": 52,
-    "question": "ऑपरेशन मोज़ेक (Operation Mosaic) किस देश ने 2025 में पर्यावरणीय आपदा से निपटने हेतु चलाया? / Which country launched Operation Mosaic in 2025 for environmental disaster response?",
-    "options": {
-      "A": "ऑस्ट्रेलिया (Australia)",
-      "B": "ब्राज़ील (Brazil)",
-      "C": "भारत (India)",
-      "D": "इंडोनेशिया (Indonesia)"
-    },
-    "answer": ["B"],
-    "explanation": "ब्राज़ील ने अमेज़न जंगल में लगी आग से निपटने के लिए 'ऑपरेशन मोज़ेक' शुरू किया।"
-  },
-  {
-    "id": 53,
-    "question": "ऑपरेशन सी शील्ड (Operation Sea Shield) किस संगठन द्वारा चलाया जाता है? / Which organization conducts Operation Sea Shield?",
-    "options": {
-      "A": "नाटो (NATO)",
-      "B": "सऊदी गठबंधन (Saudi Coalition)",
-      "C": "ASEAN",
-      "D": "EU"
-    },
-    "answer": ["A"],
-    "explanation": "नाटो हर वर्ष ब्लैक सी में 'ऑपरेशन सी शील्ड' सैन्य अभ्यास करता है।"
-  },
-  {
-    "id": 54,
-    "question": "ऑपरेशन हरिकेन रिलीफ (Operation Hurricane Relief) 2025 किस क्षेत्र में चलाया गया? / In which region was Operation Hurricane Relief 2025 conducted?",
-    "options": {
-      "A": "कैरेबियन (Caribbean)",
-      "B": "दक्षिण अमेरिका (South America)",
-      "C": "दक्षिण-पूर्व एशिया (Southeast Asia)",
-      "D": "अफ्रीका (Africa)"
-    },
-    "answer": ["A"],
-    "explanation": "अमेरिका ने कैरेबियन में आए तूफान के बाद 'ऑपरेशन हरिकेन रिलीफ' चलाया।"
-  },
-  {
-    "id": 55,
-    "question": "ऑपरेशन ओशन शील्ड (Operation Ocean Shield) किस क्षेत्र से जुड़ा है? / Operation Ocean Shield is related to which region?",
-    "options": {
-      "A": "हॉर्न ऑफ अफ्रीका (Horn of Africa)",
-      "B": "दक्षिण चीन सागर (South China Sea)",
-      "C": "हिंद महासागर (Indian Ocean)",
-      "D": "लाल सागर (Red Sea)"
-    },
-    "answer": ["A"],
-    "explanation": "नाटो ने हॉर्न ऑफ अफ्रीका में समुद्री डकैती से निपटने हेतु 'ऑपरेशन ओशन शील्ड' चलाया।"
-  },
-  {
-    "id": 56,
-    "question": "ऑपरेशन डेजर्ट फाल्कन (Operation Desert Falcon) किस देश ने 2025 में शुरू किया? / Which country launched Operation Desert Falcon in 2025?",
-    "options": {
-      "A": "यूएई (UAE)",
-      "B": "सऊदी अरब (Saudi Arabia)",
-      "C": "कतर (Qatar)",
-      "D": "ओमान (Oman)"
-    },
-    "answer": ["A"],
-    "explanation": "यूएई ने रेगिस्तानी सुरक्षा और सीमा नियंत्रण हेतु 'ऑपरेशन डेजर्ट फाल्कन' शुरू किया।"
-  },
-  {
-    "id": 57,
-    "question": "ऑपरेशन सिल्वर लाइन (Operation Silver Line) किस प्रकार का अभियान था? / What type of operation was Operation Silver Line?",
-    "options": {
-      "A": "सैन्य (Military)",
-      "B": "मानवीय (Humanitarian)",
-      "C": "साइबर (Cyber)",
-      "D": "अंतरिक्ष (Space)"
-    },
-    "answer": ["B"],
-    "explanation": "ऑपरेशन सिल्वर लाइन मानवीय राहत अभियान था, जिसे 2025 में प्राकृतिक आपदा के समय चलाया गया।"
-  },
-  {
-    "id": 58,
-    "question": "ऑपरेशन ट्राइडेंट शील्ड (Operation Trident Shield) किस देश ने चलाया? / Which country launched Operation Trident Shield?",
-    "options": {
-      "A": "भारत (India)",
-      "B": "अमेरिका (USA)",
-      "C": "ऑस्ट्रेलिया (Australia)",
-      "D": "जापान (Japan)"
-    },
-    "answer": ["C"],
-    "explanation": "ऑस्ट्रेलिया ने इंडो-पैसिफिक क्षेत्र में सुरक्षा हेतु 'ऑपरेशन ट्राइडेंट शील्ड' चलाया।"
-  },
-  {
-    "id": 59,
-    "question": "ऑपरेशन गोल्डन ब्रिज (Operation Golden Bridge) 2025 किस उद्देश्य से शुरू हुआ? / What was the objective of Operation Golden Bridge 2025?",
-    "options": {
-      "A": "मानवीय सहायता (Humanitarian Aid)",
-      "B": "सैन्य अभ्यास (Military Exercise)",
-      "C": "साइबर सुरक्षा (Cyber Security)",
-      "D": "परमाणु निरस्त्रीकरण (Nuclear Disarmament)"
-    },
-    "answer": ["A"],
-    "explanation": "ऑपरेशन गोल्डन ब्रिज का उद्देश्य शरणार्थियों को मानवीय सहायता प्रदान करना था।"
-  },
-  {
-    "id": 60,
-    "question": "ऑपरेशन नाइट शील्ड (Operation Night Shield) किस देश का विशेष सुरक्षा अभियान है? / Operation Night Shield is a special security mission of which country?",
-    "options": {
-      "A": "ब्रिटेन (UK)",
-      "B": "फ्रांस (France)",
-      "C": "जर्मनी (Germany)",
-      "D": "रूस (Russia)"
-    },
-    "answer": ["D"],
-    "explanation": "रूस ने 2025 में अपनी आंतरिक सुरक्षा सुदृढ़ करने हेतु 'ऑपरेशन नाइट शील्ड' शुरू किया।"
+    "explanation": "DRDO successfully conducted two consecutive flight tests of the Pralay missile on July 28 and 29, 2025, from Dr. APJ Abdul Kalam Island off the coast of Odisha, demonstrating high precision and radar-evading capabilities."
   }
 ]
+  
+ 
 
-
-
+ 
